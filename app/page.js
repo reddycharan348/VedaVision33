@@ -407,20 +407,38 @@ export default function Home() {
                                     onDragLeave={() => setIsDragging(false)}
                                     onDrop={(e) => { e.preventDefault(); setIsDragging(false); if (e.dataTransfer.files?.[0]) processFile(e.dataTransfer.files[0]); }}
                                     onClick={() => !preview && fileInputRef.current?.click()}
+                                    style={{
+                                        position: 'relative',
+                                        border: preview ? 'none' : '2px dashed rgba(212,168,83,0.3)',
+                                        borderRadius: '20px',
+                                        background: preview ? 'transparent' : 'rgba(10,15,10,0.6)',
+                                        backdropFilter: 'blur(10px)',
+                                        overflow: 'hidden',
+                                        transition: 'all 0.4s cubic-bezier(0.16, 1, 0.3, 1)',
+                                        boxShadow: isDragging ? 'inset 0 0 40px rgba(212,168,83,0.2)' : 'none'
+                                    }}
                                 >
                                     <input type="file" ref={fileInputRef} onChange={(e) => e.target.files?.[0] && processFile(e.target.files[0])} accept="image/*" style={{ display: "none" }} />
 
                                     {preview ? (
-                                        <img src={preview} alt="Preview" className="preview-img" />
+                                        <div style={{ position: 'relative', width: '100%', height: '100%', borderRadius: '20px', overflow: 'hidden' }}>
+                                            <img src={preview} alt="Preview" className="preview-img" style={{ width: '100%', height: '100%', objectFit: 'cover', transform: 'scale(1.02)' }} />
+                                            <div style={{ position: 'absolute', inset: 0, boxShadow: 'inset 0 0 30px rgba(0,0,0,0.5)', pointerEvents: 'none' }} />
+                                        </div>
                                     ) : (
-                                        <div className="empty-state">
-                                            <Upload size={32} className="text-gold mb-4 mx-auto" />
-                                            <h3 className="empty-title">{t("uploadSpecimen")}</h3>
-                                            <p className="empty-subtitle mb-4">{t("clickOrDrag")}</p>
-                                            <div style={{ position: 'relative', zIndex: 10 }}>
+                                        <div className="empty-state" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100%', padding: '2rem' }}>
+                                            <div style={{ width: '64px', height: '64px', borderRadius: '50%', background: 'rgba(212,168,83,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 1.5rem auto', border: '1px solid rgba(212,168,83,0.2)' }}>
+                                                <Upload size={28} className="text-gold" />
+                                            </div>
+                                            <h3 className="empty-title" style={{ fontSize: '1.2rem', fontWeight: '600', marginBottom: '8px', color: '#fff' }}>{t("uploadSpecimen")}</h3>
+                                            <p className="empty-subtitle mb-6" style={{ color: 'rgba(255,255,255,0.5)', fontSize: '0.9rem' }}>{t("clickOrDrag")}</p>
+                                            
+                                            <div style={{ position: 'relative', zIndex: 10, width: '100%', display: 'flex', justifyContent: 'center', marginTop: 'auto' }}>
                                                 <button
                                                     onClick={(e) => { e.stopPropagation(); startCamera(); }}
-                                                    className="btn-camera"
+                                                    style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '12px 24px', borderRadius: '30px', background: 'linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.02))', border: '1px solid rgba(255,255,255,0.15)', color: '#fff', fontSize: '0.95rem', fontWeight: '500', boxShadow: '0 8px 24px rgba(0,0,0,0.3)', backdropFilter: 'blur(10px)', transition: 'all 0.3s', cursor: 'pointer' }}
+                                                    onMouseEnter={(e) => { e.currentTarget.style.background = 'linear-gradient(135deg, rgba(212,168,83,0.2), rgba(212,168,83,0.05))'; e.currentTarget.style.borderColor = 'rgba(212,168,83,0.4)'; e.currentTarget.style.transform = 'translateY(-2px)'; }}
+                                                    onMouseLeave={(e) => { e.currentTarget.style.background = 'linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.02))'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.15)'; e.currentTarget.style.transform = 'translateY(0)'; }}
                                                 >
                                                     <Camera size={16} /> {t("openCamera")}
                                                 </button>
