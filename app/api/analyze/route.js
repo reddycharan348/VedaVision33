@@ -52,27 +52,47 @@ export async function POST(req) {
 
         // Step 1: If an image is provided, use Gemini Vision to identify the plant name ONLY
         if (image) {
-            const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-            const prompt = `Identify the name of this medicinal plant in the image. STRICTLY return ONLY the common name or scientific name as plain text. Do not return any other text, markdown, or explanation.`;
+            const apiKeys = [
+                process.env.GEMINI_API_KEY,
+                process.env.GEMINI_API_KEY_2,
+                process.env.GEMINI_API_KEY_3,
+                process.env.GEMINI_API_KEY_4,
+                process.env.GEMINI_API_KEY_5,
+                process.env.GEMINI_API_KEY_6
+            ].filter(Boolean); // Only use keys that are actually present
 
-            const response = await ai.models.generateContent({
-                model: 'gemini-3-flash-preview',
-                contents: [
-                    {
-                        role: 'user',
-                        parts: [
-                            { text: prompt },
-                            {
-                                inlineData: {
-                                    data: image.split(',')[1],
-                                    mimeType: image.split(';')[0].split(':')[1] || "image/jpeg"
-                                }
-                            }
+            const prompt = `Identify the name of this medicinal plant in the image. STRICTLY return ONLY the common name or scientific name as plain text. Do not return any other text, markdown, or explanation.`;
+            const imagePart = { inlineData: { data: image.split(',')[1], mimeType: image.split(';')[0].split(':')[1] || "image/jpeg" } };
+
+            let success = false;
+            let lastError = null;
+
+            // Try each API key in sequence until one works
+            for (let i = 0; i < apiKeys.length; i++) {
+                try {
+                    const ai = new GoogleGenAI({ apiKey: apiKeys[i] });
+                    const response = await ai.models.generateContent({
+                        model: 'gemini-2.5-flash',
+                        contents: [
+                            prompt,
+                            { inlineData: { data: image.split(',')[1], mimeType: image.split(';')[0].split(':')[1] || "image/jpeg" } }
                         ]
-                    }
-                ]
-            });
-            plantIdentifier = response.text.trim();
+                    });
+                    
+                    plantIdentifier = response.text.trim();
+                    success = true;
+                    console.log(`Successfully used API Key index ${i}`);
+                    break;
+                } catch (e) {
+                    console.warn(`API Key index ${i} failed:`, e.message);
+                    lastError = e;
+                }
+            }
+
+            if (!success) {
+                console.error("All Gemini API keys failed:", lastError?.message);
+                return new Response(JSON.stringify({ error: "API Quota exceeded for all keys. Please try searching by text instead or add new keys." }), { status: 429 });
+            }
         }
 
         if (!plantIdentifier) {
