@@ -1,0 +1,49 @@
+{
+  "name": "Arjuna",
+  "scientificName": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn.",
+  "botanicalFamily": "Combretaceae",
+  "usesInAyurveda": [
+    "Rasa (Taste): Kashaya (Astringent), primarily.",
+    "Guna (Qualities): Laghu (Light), Ruksha (Dry).",
+    "Virya (Potency): Shita (Cooling).",
+    "Vipaka (Post-digestive effect): Katu (Pungent).",
+    "Dosha Karma (Action on Doshas): Kaphapittahara (Pacifies Kapha and Pitta doshas), also supports Vata balance through its nourishing and strengthening properties.",
+    "Specific Ayurvedic Actions (Karma): Hridya (Cardiac tonic), Rakta Stambhaka (Hemostatic, arrests bleeding), Vrana Ropana (Wound healing), Asthi Sandhanakara (Promotes bone union), Medohara (Reduces fat/obesity), Mutrala (Diuretic), Pramehaghna (Antidiabetic).",
+    "API Adherence: The bark (Arjuna Tvak) is the primary part used as per the Ayurvedic Pharmacopoeia of India (API), specified for its cardiac and hemostatic properties."
+  ],
+  "usageForm": "Churna (powder), Kwatha (decoction), Ksheerapaka (milk decoction), Ghrita (medicated ghee), Arishta (fermented preparation), Vati (tablets/pills).",
+  "mainMedicinalUses": [
+    "Cardiovascular Health: Uniquely recognized as a potent cardiac tonic (Hridya) for conditions like angina pectoris, congestive heart failure, myocardial infarction, and dyslipidemia. WHO research acknowledges its traditional use and emerging scientific evidence for cardioprotective effects, including improving left ventricular ejection fraction and reducing ischemic damage.",
+    "Hypertension Management: Contributes to blood pressure regulation, particularly in essential hypertension, by improving endothelial function and reducing arterial stiffness.",
+    "Hemostatic Agent: Effective in managing various bleeding disorders such as epistaxis (nosebleeds), menorrhagia (heavy menstrual bleeding), and internal hemorrhages due to its Rakta Stambhaka property.",
+    "Bone Health: Promotes faster healing of fractures (Asthi Sandhanakara) and strengthens bone tissue, often used in conjunction with other bone-supporting herbs.",
+    "Wound Healing: Applied topically or taken internally to accelerate the healing of wounds, ulcers, and skin conditions due to its astringent and anti-inflammatory properties.",
+    "Diuretic Properties: Acts as a mild diuretic (Mutrala), aiding in the reduction of edema and fluid retention, particularly in cases associated with cardiac dysfunction.",
+    "Antidiabetic Support: Helps in the management of blood sugar levels (Pramehaghna) and may improve insulin sensitivity, as indicated by traditional use and some modern studies.",
+    "Antioxidant and Anti-inflammatory: Rich in flavonoids and triterpenoids, it exhibits significant antioxidant and anti-inflammatory activities, protecting cells from oxidative stress and reducing systemic inflammation."
+  ],
+  "plantProfile": [
+    "Unique History: Arjuna has been revered in Ayurvedic medicine for millennia, prominently mentioned in ancient texts like Charaka Samhita, Sushruta Samhita, and Ashtanga Hrudayam as the foremost cardiac tonic. Its name 'Arjuna' is associated with purity and strength, reflecting its profound medicinal value.",
+    "Physical Characteristics: A large, deciduous tree growing up to 20-25 meters tall. Its most distinctive feature is its smooth, greyish-white bark, which peels off in thin, large flakes, revealing a reddish inner surface. The leaves are oblong or elliptic, sub-opposite, 10-15 cm long, often with two glands at the base. Flowers are small, white to pale yellow, arranged in short axillary spikes or terminal panicles. The fruit is woody, obovate or oblong, 2.5-5 cm long, with 5-7 hard, winged angles.",
+    "Specific Chemical Compounds: The bark is rich in triterpenoids (e.g., arjunolic acid, arjunic acid, arjunetin, arjunoglucosides), flavonoids (e.g., baicalein, quercetin, kaempferol), tannins (hydrolysable and condensed), phytosterols, and oligomeric proanthocyanidins (OPCs). These compounds are responsible for its diverse pharmacological actions, particularly its cardioprotective effects.",
+    "Strict Standardizations: As per API guidelines, the bark powder must meet specific standards for identification, purity, and strength. This includes macroscopic and microscopic characteristics, foreign matter content, total ash, acid-insoluble ash, alcohol-soluble extractive, water-soluble extractive, and moisture content. Standardization often involves quantifying key marker compounds like arjunolic acid to ensure therapeutic efficacy and consistency."
+  ],
+  "preparationMethods": [
+    "Bark Powder (Arjuna Churna): The dried inner bark is meticulously cleaned, dried, and then finely pulverized to obtain a powder. This is the most common form of administration.",
+    "Decoction (Arjuna Kwatha): 1 part coarse bark powder is boiled with 8 or 16 parts of water until the volume is reduced to 1/4th. This concentrated liquid is then filtered and consumed.",
+    "Milk Decoction (Arjuna Ksheerapaka): A traditional method where Arjuna bark powder (e.g., 1 part) is boiled with milk (e.g., 8 parts) and water (e.g., 32 parts) until the water evaporates and only the medicated milk remains. This preparation is considered highly nourishing and potent for cardiac conditions.",
+    "Arjunarishta: A classical Ayurvedic fermented preparation (Arishta) where Arjuna bark is the primary ingredient, along with other herbs and jaggery, fermented over several weeks. It is particularly used for chronic cardiac ailments.",
+    "Medicated Ghee (Arjuna Ghrita): Arjuna bark paste or decoction is processed with ghee, allowing the fat-soluble active compounds to infuse into the ghee, enhancing bioavailability and specific therapeutic actions."
+  ],
+  "dosages": {
+    "Children": "1-3 grams of bark powder per day, or 5-15 ml of Arjunarishta, divided into 1-2 doses, strictly under the guidance of a qualified Ayurvedic physician, adjusting for age and weight.",
+    "Adults": "3-6 grams of bark powder per day, typically divided into 2-3 doses, often taken with milk or water. For decoction, 50-100 ml per day. For Arjunarishta, 15-30 ml, twice daily after meals with an equal amount of water.",
+    "Elderly": "Similar to adult dosage, but it is advisable to start with lower doses (e.g., 2-4 grams of powder) and gradually increase while monitoring for individual tolerance and potential interactions, especially if on multiple medications."
+  },
+  "safetyProfile": [
+    "Contraindications: Pregnancy and lactation due to insufficient safety data; use only under strict medical supervision. Individuals with known hypersensitivity to any components of Terminalia arjuna. Caution in severe liver or kidney dysfunction.",
+    "Side Effects: Generally well-tolerated when taken within recommended dosages. Mild gastrointestinal upset, constipation, or headache have been reported in some sensitive individuals. Excessive doses may lead to gastric irritation.",
+    "Herb-Drug Interactions: May potentiate the effects of anticoagulant and antiplatelet medications (e.g., Warfarin, Aspirin) due to its mild antiplatelet activity, increasing the risk of bleeding. May enhance the effects of antihypertensive drugs, potentially leading to excessive blood pressure reduction; monitor blood pressure closely. May lower blood glucose levels, requiring dose adjustment of antidiabetic medications. Potential interaction with cardiac glycosides (e.g., Digoxin) due to its effects on cardiac function; close monitoring by a physician is essential.",
+    "GRAS Status: While not formally designated as GRAS (Generally Recognized As Safe) by regulatory bodies like the FDA for all uses, Terminalia arjuna has a long history of safe traditional use in India within prescribed dosages. The Ayurvedic Pharmacopoeia of India and WHO monographs acknowledge its traditional use and safety profile when used appropriately under expert guidance."
+  ]
+}

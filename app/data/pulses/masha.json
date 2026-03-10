@@ -1,0 +1,47 @@
+{
+    "name": "Masha",
+    "scientificName": "Vigna mungo (L.) Hepper (Syn. Phaseolus mungo)",
+    "botanicalFamily": "Fabaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful Vata Hara (pacifies Vata dosha). Due to its Madhura (sweet) Rasa, Ushna (heating) Virya, and Madhura Vipaka, it is the most prestigious pulse for 'Vajikarana' (aphrodisiac) and 'Brimhaniya' (nourishing) therapies. It clears the dry and rough qualities of Vata while being 'Guru' (heavy) for digestion, making it a Kapha-increasing grain.",
+        "Rasa (Taste): Madhura (sweet).",
+        "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily), Snigdha (smooth).",
+        "Virya (Potency): Ushna (hot).",
+        "Vipaka (Post-digestive taste): Madhura (sweet).",
+        "Karma (Actions): Vatahara (Vata-pacifying), Brimhaniya (nourishing), Balya (strength-promoter), Vrishya (aphrodisiac), Stanyajanana (lactation-promoter), and Mutravirechaniya (diuretic).",
+        "API/AFI Adherence: Known as 'Masha' in the Ayurvedic Pharmacopoeia of India (API). It is the base for several iconic 'Hridya' (heart-tonic) and 'Vajikarana' (aphrodisiac) formulations like Mashadipaka and Mashaboladi-vati.",
+        "Specific Indications: Used in Vata-vyadhi (neuromuscular disorders), Klaibya (impotence), Karshya (emaciation), and during post-operative recovery."
+    ],
+    "usageForm": "Dehusked pulse cooked (Vatika), Whole pulse cooked (Odana), Fermented crepes (Dosa/Idli), Medicated oil (Mashadi Taila).",
+    "mainMedicinalUses": [
+        "Expert Muscle-Building and Strength Specialist: Masha is the premier Ayurvedic cereal for physical strength and 'Brimhana' (nourishing) therapies. Its 'Ushna' (heating) and 'Snigdha' (oily) nature provided by high protein and essential fats helps in providing systemic stabilization of the 'Mamsa-dhatu' (muscle tissue). WHO research into pulses confirms its high nutritional density and systemic antioxidant profile.",
+        "Reproductive Vitality and Aphrodisiac (Vrishya): Traditionally used to improve sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya) action.",
+        "Neurological and Nerve support: Known as 'Vatahara'. It effectively reduces the intensity and frequency of joint stiffness, nerve pain, and chronic Vata-related nerve disorders by providing systemic relief from 'Vata-avarana' (Vata-obstruction) in the pelvic region. It is a key herb for muscular dystrophy.",
+        "Lactation support: Traditionally used to improve breast milk production (Stanya-janana) in lactating mothers by providing systemic nourishment and hormonal balancing through its 'Madhura' (sweet) and 'Ushna' (heating) properties.",
+        "Gastrointestinal and Colon Care: As a high-fiber, unctuous pulse, it helps in clearing chronic constipation (Udavarta) and managing piles by lubricating the large intestine and promoting smooth 'Anulomana' (downward motion).",
+        "Phytochemical Profile: Rich in Proteins (24-25%), Carbohydrates, Flavonoids, Polyphenols, and Essential Minerals (Phosphorus, Iron). The seed coat contains potent antioxidant pigments (Anthocyanins)."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in the Rig Veda and Charaka Samhita as the most potent among Vata-pacifying 'Shami Dhanyas' (legumes). Historically used as a primary protein source for athletes and scholars due to its 'Ojas' (vital-essence) enhancing quality. Historically regarded as the 'King of Strength-giving pulses'.",
+        "Physical Characteristics: A small, erect-to-prostrate annual herb reaching up to 0.5-1.0 meters in height, with quadrangular stems and opposite, trifoliate (leaflets) leaves with long hairy pods containing small, oval, black seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Isovitexin, Vitexin, and diversos Protease inhibitors. The black pigment (seed coat) provides potent systemic antioxidant effects.",
+        "Strict Standardizations: The seed is standardized in API based on its black color and characteristic sweet-mucilaginous taste. Physicochemical benchmarks: moisture content (<10%), protein content (>24%)."
+    ],
+    "preparationMethods": [
+        "Masha-Odana (Urad Rice): 1 part dehusked urad dal to 2 parts water, cooked until soft. Take with cow's ghee for Vata-balancing strength.",
+        "Mashadi Taila: Medicated oil preparation used for local application on the pelvic region for muscular dystrophy and joint pain.",
+        "Vatika (Fermented Idli/Dosa): Traditionally fermented with rice to increase its 'Laghu' (light) quality, providing pre-digested nutrients for superior absorption.",
+        "Saktu (Roasted powder): Roasted black gram seeds ground into fine powder; taken with honey once daily for systemic strength."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked pulse mixed with ghee once twice for muscle development in childhood.",
+        "Adults": "Daily staple food (50-200g of cooked pulse per meal).",
+        "Elderly": "Ideal for age-related Vata issues and maintaining muscle mass. Dosage: 50g of cooked pulse daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Kapha (severe obesity, chronic congestion) and very weak digestion (Agnimandya) should use it in moderation as it is 'Guru' (heavy). Avoid during active extreme constipation due to its 'Guru' (heavy) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
+        "Adverse Effects: Overconsumption in sensitive individuals can cause bloating if not cooked with digestive spices like ginger and hing."
+    ]
+}

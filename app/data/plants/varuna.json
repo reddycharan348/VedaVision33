@@ -1,0 +1,30 @@
+{
+  "id": "varuna",
+  "name": "Varuna",
+  "scientificName": "Crateva nurvala Buch. Ham.",
+  "botanicalFamily": "Capparaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha.",
+    "Rasa: Tikta (Bitter), Kashaya (Astringent).",
+    "Virya: Ushna (Hot).",
+    "Karma: Ashmarighna (Stone-breaker), Mutral (Diuretic)."
+  ],
+  "usageForm": "Bark decoction.",
+  "mainMedicinalUses": [
+    "Premier herb for kidney and bladder stones.",
+    "Assists in enlarged prostate management.",
+    "Used in chronic urinary tract infections."
+  ],
+  "plantProfile": [
+    "Medium sized tree common in tropical India."
+  ],
+  "preparationMethods": [
+    "Strong bark decoction."
+  ],
+  "dosages": {
+    "Adults": "30-50ml of decoction"
+  },
+  "safetyProfile": [
+    "Generally safe."
+  ]
+}

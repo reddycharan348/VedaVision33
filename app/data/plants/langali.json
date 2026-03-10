@@ -1,0 +1,48 @@
+{
+  "name": "Langali",
+  "scientificName": "Gloriosa superba L.",
+  "botanicalFamily": "Colchicaceae (formerly Liliaceae)",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Shulaprashamana' (pain-relieving) and 'Vatavyadhi' (neurological disorders) therapies using its 'Vyavayi' (swift) and 'Tikshna' (sharp) potency. It may significantly aggravate Pitta if used in excess. It is an Upavisha (semi-poison).",
+    "Rasa (Taste): Katu (pungent), Tikta (bitter).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Garbhashaya-shodhaka (uterine-cleaner), Krimighna (anthelminthic), Shothahara (anti-swelling), Vishaghna (anti-toxic), and Vranaropana (wound-healing).",
+    "API/AFI Adherence: The dried tuberous root (rhizome) is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in iconic classical formulations like Kasisadi Taila, Langalyadi Lauha, and various labor-assisting tonics.",
+    "Specific Indications: Used in Rajorodha (Amenorrhea), Mudha-garbha (Malpresentation of fetus/delayed labor), Arsha (Hemorrhoids), Kushtha (Skin diseases), and Sandhigata-vata (Osteoarthritis)."
+  ],
+  "usageForm": "Purified rhizome powder (Shuddha Churna), Medicated oil (Taila), Root paste (Lepa).",
+  "mainMedicinalUses": [
+    "Expert Female Labor and Uterine Specialist: Langali is the premier Ayurvedic remedy for all conditions of delayed labor (Mudha-garbha). Its 'Tikshna' (sharp) and 'Ushna' (heating) nature provided by colchicine alkaloids helps in stimulating uterine contractions and providing systemic stabilization of the 'Vata' channels (Srotas). WHO-aligned research recognizes its potent uterine stimulant and anti-inflammatory action when purified.",
+    "Skin Disease and Itch Relief (Kandughna): Its cooling and antimicrobial properties help in treating chronic skin conditions like acne, psoriasis, and eczema. The rhizome paste applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Vranaropana' (wound-healing) effects.",
+    "Worm and Internal Parasite Care: Its extremely bitter-pungent nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment. It helps in cleared stagnant toxins from the gut.",
+    "Inflammation and Joint care: Its systemic anti-inflammatory (Shothahara) properties help in reducing localized pain and stiffness in conditions like rheumatoid arthritis (Amavata). It promotes the excretion of metabolic waste and reducing joint inflammation.",
+    "Cancer and Immune support: Traditionally used as 'Rasayana' (rejuvenative) for its anti-tumor and immune-modulating properties. It helps in protecting the body's 'Ojas' (vital essence) and promoting healthy cell regeneration by cleared metabolic toxins.",
+    "Phytochemical Profile: Rich in Indole Alkaloids (Colchicine, Gloriosine), Tannins, Flavonoids, and diversos Triterpenes. Colchicine and Gloriosine are the primary bioactives responsible for its potent anti-inflammatory, anti-carcinogenic, and uterine-stimulant action on the heart and skin cells."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Upavisha' (semi-toxic) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Langali' literally translates to 'one with a plough-like root' (referring to its rhizome shape). Historically used as a bio-enhancer for various labor-assisting tonics. Mentioned in classical Sanskrit literature as the 'Flame Lily'.",
+    "Physical Characteristics: A perennial, climbing herb with many nodes and tuberous rhizomes. The leaves are opposite, lanceolate, and glossy green. The flowers are attractive, solitary, and bright red-to-orange-yellow, arranged in terminal or axillary dense whorls. Found throughout India and tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India.",
+    "Specific Chemical Compounds: Contains Colchicine, Gloriosine, and Superbine. The presence of colchicine (approx. 0.5-1.0% in rhizomes) is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells.",
+    "Strict Standardizations: The rhizome is standardized in API based on its greyish-white color and characteristic extremely bitter-pungent-biting taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%).",
+    "Purification Process (Shodhana): The raw rhizomes are traditionally soaked in 'Gomutra' (cow's urine) or 'Dugdha' (milk) for seven days followed by washing with hot water to remove excessive toxic alkaloids before medicinal use."
+  ],
+  "preparationMethods": [
+    "Purified Rhizome Powder (Shuddha): 125 mg to 250 mg (extremely low dose) of purified powder taken once daily with honey or warm water (for labor health) or warm milk (for general vitality).",
+    "Kasisadi Taila: Medicated oil preparation used primarily for local application on the pelvic region for labor health and joint pain.",
+    "Root Decoction (Kwatha): 20g of dried root boiled in 160ml water reduced to 40ml for chronic Vata issues. Take twice daily before meals.",
+    "External Paste (Lepa): Ground fresh rhizome or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the soles and palms for stimulating labor."
+  ],
+  "dosages": {
+    "Children": "Strictly NOT recommended for children under any circumstances due to high toxicity.",
+    "Adults": "Powder (Purified): 125-250 mg; Decoction: 20-50 ml; Taila: External Application, divided throughout the day before meals.",
+    "Elderly": "Very low doses (30-60mg) are advisable initially, monitoring for any increase in dizziness or intestinal cramping."
+  },
+  "safetyProfile": [
+    "Contraindications: Strictly contraindicated in pregnancy (except for labor induction under expert care as it is abortifacient), during lactation, and in individuals with extreme high Pitta. Toxicity is extreme; non-purified use or overdose is lethal.",
+    "GRAS Status: NOT classified as GRAS. It is a potent semi-poison (Upavisha) and must only be used by qualified Ayurvedic physicians.",
+    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants.",
+    "Adverse Effects: Overdose or non-purified use results in muscle spasms, projectile vomiting, respiratory failure, and death. Discontinue if extreme purgation results in nausea."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "musta_root",
+  "name": "Musta Root",
+  "scientificName": "Cyperus rotundus Root",
+  "botanicalFamily": "Cyperaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pitta-Kapha Hara."
+  ],
+  "usageForm": "Tuber powder.",
+  "mainMedicinalUses": [
+    "Menstrual health",
+    "Diarrhea",
+    "Gastritis."
+  ],
+  "plantProfile": [
+    "Most common medicinal weed."
+  ],
+  "preparationMethods": [
+    "Powder with honey."
+  ],
+  "dosages": {
+    "Adults": "2g"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

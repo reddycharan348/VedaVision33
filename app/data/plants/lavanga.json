@@ -1,0 +1,30 @@
+{
+  "id": "lavanga",
+  "name": "Lavanga (Clove)",
+  "scientificName": "Syzygium aromaticum L.",
+  "botanicalFamily": "Myrtaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
+    "Rasa: Tikta (Bitter), Katu (Pungent).",
+    "Virya: Sheeta (Cooling) - Note: Cloves are uniquely cooling despite being pungent.",
+    "Karma: Shulaghna (Pain reliever), Dipana (Appetizer)."
+  ],
+  "usageForm": "Flower bud powder, Oil.",
+  "mainMedicinalUses": [
+    "Instant relief for toothaches.",
+    "Assists in clearing lung congestion.",
+    "Prevents indigestion and bloating."
+  ],
+  "plantProfile": [
+    "Dried flower buds of an aromatic tree."
+  ],
+  "preparationMethods": [
+    "Clove tea or direct application of oil to gums."
+  ],
+  "dosages": {
+    "Adults": "500mg of powder"
+  },
+  "safetyProfile": [
+    "Clove oil is very strong; dilute before skin contact."
+  ]
+}

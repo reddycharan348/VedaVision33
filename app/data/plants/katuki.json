@@ -1,0 +1,40 @@
+{
+    "id": "katuki",
+    "name": "Katuki",
+    "scientificName": "Picrorhiza kurroa Royle",
+    "botanicalFamily": "Plantaginaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Primarily pacifies Kapha and Pitta; strongest liver purgative.",
+        "Rasa (Taste): Tikta (bitter).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Bhedana (purgative), Yakrit-uttejaka (liver stimulant).",
+        "API/AFI Adherence: Rhizomes used; core of Arogyavardhini Vati.",
+        "Specific Indications: Hepatitis, Jaundice, Fever, Obesity."
+    ],
+    "usageForm": "Rhizome powder, Tablets.",
+    "mainMedicinalUses": [
+        "Liver Health: Best herb for viral hepatitis and bile stimulation.",
+        "Digestive Regulation: Scrapes toxins (Ama) from the digestive tract.",
+        "Skin Conditions: Purifies blood for psoriasis and eczema.",
+        "Fever Management: Effective antipyretic for chronic fevers."
+    ],
+    "plantProfile": [
+        "History: High-altitude Himalayan herb used for centuries for liver care.",
+        "Chemistry: Contains Picroside I & II (Kutkin).",
+        "Environment: Found at 3000-5000m in the Himalayas."
+    ],
+    "preparationMethods": [
+        "Powder: 500mg - 1g with honey.",
+        "Extract: Standardized Kutkin capsules."
+    ],
+    "dosages": {
+        "Children": "100-250mg.",
+        "Adults": "1-2g.",
+        "Elderly": "500-1000mg."
+    },
+    "safetyProfile": [
+        "Contraindications: Severe diarrhea, Vata dryness."
+    ]
+}

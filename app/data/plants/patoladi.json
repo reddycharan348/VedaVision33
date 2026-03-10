@@ -1,0 +1,27 @@
+{
+  "id": "patoladi",
+  "name": "Patoladi",
+  "scientificName": "Traditional Grouping",
+  "botanicalFamily": "Mixed",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pitta-Kapha Hara."
+  ],
+  "usageForm": "Powder/Decoction.",
+  "mainMedicinalUses": [
+    "Skin diseases",
+    "Fever",
+    "Liver cleansing."
+  ],
+  "plantProfile": [
+    "Based on Pointed Gourd."
+  ],
+  "preparationMethods": [
+    "Decoction."
+  ],
+  "dosages": {
+    "Adults": "30ml"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

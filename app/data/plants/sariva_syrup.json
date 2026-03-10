@@ -1,0 +1,27 @@
+{
+  "id": "sariva_syrup",
+  "name": "Sariva Syrup",
+  "scientificName": "Hemidesmus root extract",
+  "botanicalFamily": "Apocynaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Tridoshahara."
+  ],
+  "usageForm": "Syrup/Juice.",
+  "mainMedicinalUses": [
+    "Blood purifier",
+    "Acne",
+    "Cooling."
+  ],
+  "plantProfile": [
+    "Concentrated essence."
+  ],
+  "preparationMethods": [
+    "Dilute with water."
+  ],
+  "dosages": {
+    "Adults": "20ml"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

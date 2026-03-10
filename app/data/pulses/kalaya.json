@@ -1,0 +1,47 @@
+{
+    "name": "Kalaya",
+    "scientificName": "Pisum sativum L. (Field Pea/Common Pea)",
+    "botanicalFamily": "Fabaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is a premier choice for 'Samshodhana' (purification) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry), making it a Vata-increasing grain (Vatala) if not cooked with digestive spices.",
+        "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Grahi (absorbent), Deepana (appetizer), Medahara (fat-relieving), Varnya (complexion-improving), and Vishaghna (anti-toxic).",
+        "API/AFI Adherence: Known as 'Kalaya' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Vatavyadhi' (Vata-balancing) and 'Medohara' (weight-loss) formulations and daily soups.",
+        "Specific Indications: Used in Medo-roga (Obesity), Madhumeha (Diabetes mellitus), Raktapitta (Bleeding disorders), Daha (Internal burning), and Prameha (Urinary disorders)."
+    ],
+    "usageForm": "Whole pulse cooked (Odana), Split pulse soup (Yusha), Seed powder (Churna), Roasted seeds (Bhrista).",
+    "mainMedicinalUses": [
+        "Expert Weight Management and Fat-Scraping Specialist (Medahara): Kalaya is the premier Ayurvedic pulse for managing obesity and clearing abdominal fat. Its 'Ruksha' (dry) and 'Laghu' (light) nature provided by high fiber and complex proteins helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO-aligned research confirms its potent cholesterol-lowering and heart-soothing properties.",
+        "Digestive Catalyst and Metabolism: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Ajirna' (indigestion) and 'Anaha' (bloating) through its systemic carminative action.",
+        "Internal Hemorrhage and Bleeding (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
+        "Skin Health and Complexion Enhancement (Varnya): Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The roasted seed drink provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
+        "Urinary and Kidney Support: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the Pitta in the bladder and kidneys.",
+        "Phytochemical Profile: Rich in Proteins (20-22%), Carbohydrates, Flavonoids, Saponins, and Essential Minerals (Iron, Calcium, Magnesium). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vatala' pulses (ones that increase Vata). Historically used as a primary protein source for scholars and high-performance individuals. Regarded as 'Mother of Stability'.",
+        "Physical Characteristics: A small, erect, annual herb reaching up to 0.5-1.0 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of small follicles (pods) containing numerous flat, brownish-black-to-red seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Biochanin A, Cajanin, and diversos Protease inhibitors. The presence of biochanin A (approx. 0.5-1.0% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+        "Strict Standardizations: The seed is standardized in API based on its yellowish-brown-to-red color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    ],
+    "preparationMethods": [
+        "Dal (Split Soup): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
+        "Kalaya-Yusha (Medicated Soup): 1 part seeds boiled with 14 parts water, seasoned with ginger and cumin. Take as a primary meal for managing diarrhea and weakness.",
+        "Seed Powder (Churna): 3-6g of fine powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
+        "Roasted seeds (Bhrista): 30g of roasted seeds taken daily for Managing weight-gain and strength."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked pulse mixed with ghee once twice for muscle development in childhood.",
+        "Adults": "Daily staple food (50-100g of cooked pulse per meal).",
+        "Elderly": "Highly recommended to prevent age-related Pitta issues and maintain skin radiance. Dosage: 50g of cooked pulse daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with digestive spices like ginger and hing. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    ]
+}

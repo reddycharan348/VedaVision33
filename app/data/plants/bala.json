@@ -1,0 +1,49 @@
+{
+  "name": "Bala",
+  "scientificName": "Sida cordifolia L.",
+  "botanicalFamily": "Malvaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Primarily pacifies Vata and Pitta doshas. Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Brimhana' (nourishing) and 'Balya' (strengthening) therapies, balancing the dry and rough qualities of Vata. It may increase Kapha if used in excess.",
+    "Rasa (Taste): Madhura (sweet).",
+    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily), Picchila (slimy).",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Madhura (sweet).",
+    "Karma (Actions): Balya (strength-promoting), Brinhaniya (nourishing), Vata-hara (Vata-pacifying), Pitta-hara (Pitta-pacifying), Rasayana (rejuvenative), Ojovardhaka (vitality-increasing), and Prajasthapana (conception-promoting).",
+    "API/AFI Adherence: The whole plant, specifically the root, is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is the primary ingredient in iconic classical formulations like Dhanwantharam Taila, Balashwagandhadi Taila, and Balarishta.",
+    "Specific Indications: Used in Vata Vyadhi (neurological disorders), Mamsa-shosha (muscle wasting), Pakshagata (paralysis), Sandhighata-Vata (osteoarthritis), and Shukra-kshaya (diminished reproductive tissue)."
+  ],
+  "usageForm": "Root powder (Churna), Root decoction (Kwatha), Medicated oil (Taila), Medicated ghee (Ghrita).",
+  "mainMedicinalUses": [
+    "Neurological and Nerve Recovery: Bala is the premier choice for all Vata-originated neurological conditions. It provides deep nourishment to the nerves and helps in recovering from paralysis, sciatica, and nerve-related tremors. WHO-aligned research recognizes its neuroprotective potential.",
+    "Muscle and Bone Strength: Acts as a potent 'Mamsabalyakara' (muscle-strengthening) agent. It is extensively used to prevent and treat musculoskeletal degeneration and to promote bone density in conditions like osteoporosis.",
+    "Vitality and Immunity: Enhances the 'Ojas' (vital life force) within the body, making it a supreme Rasayana (rejuvenative) for thin, weak, and chronically ill individuals. It boosts the natural immune response through its nutritive action.",
+    "Respiratory Health: Its mucilaginous seeds and roots help in soothing dry coughs and clearing respiratory passages. It is traditionally combined with milk to treat chronic bronchitis and asthma-related debility.",
+    "Urinary and Kidney Care: As a mild diuretic (Mutra-janana), it helps in relieving burning sensations during urination and promotes kidney health by pacifying Pitta in the urinary tract.",
+    "Female Reproductive Support: In Ayurveda, Bala is used to strengthen the uterus and promote healthy conception. It helps in managing hormonal imbalances and provides strength to the pelvic muscles.",
+    "Phytochemical Profile: Contains ephedrine (small, balanced amounts), pseudo-ephedrine, alkaloids (vasicine, vasicinol, vasicinone), phytosterols, and various essential fatty acids that contribute to its rejuvenating and anti-inflammatory properties."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Balya' and 'Brimhaniya' mahakashayas (great groups) of Charaka Samhita. The name 'Bala' literally translates to 'Strength,' signifying its unparalleled status as a builder of physical and vital power.",
+    "Physical Characteristics: A perennial, small, woody undershrub growing up to 1 meter in height. It features heart-shaped (cordate), velvety leaves with serrated margins. The flowers are small, yellow, and solitary. The fruit consists of 8-10 mericarps. It is found throughout the tropical and sub-tropical regions of India as a common roadside weed.",
+    "Specific Chemical Compounds: Primarily contains Ephedrine and Pseudo-ephedrine (alkaloids), phytosterols, resins, and mucilage. The presence of ephedrine in the root at controlled therapeutic levels provides its unique property of simultaneously being a mild stimulant and a deep tonifier.",
+    "Strict Standardizations: The root is standardized in API based on macroscopic features (tough, woody, with greyish-brown bark). Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>6%), and water-soluble extractive (>12%). Identification via HPTLC is used to monitor alkaloid content."
+  ],
+  "preparationMethods": [
+    "Medicated Milk (Ksheerapaka): 5-10g of root powder boiled in 200ml milk and 200ml water until reduced to 200ml. This is the gold standard for muscle and nerve strength.",
+    "Root Powder (Churna): 3-6g of fine powder taken twice daily with warm milk or honey for general vitality.",
+    "Decoction (Kwatha): 20g root boiled in 160ml water reduced to 40ml for chronic Vata pain and urinary issues.",
+    "Medicated Oil (Taila): Root processed in sesame oil; used for daily 'Abhyanga' (Ayurvedic massage) to strengthen limbs and nerves.",
+    "Suppository/Basti: Traditionally used in medicated enemas (Matra Basti) to treat severe neurological and joint disorders."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 1-2 grams of powder mixed with milk for enhancing growth and immunity. 5-10 ml of Ksheerapaka for weak children.",
+    "Adults": "Powder: 3-6 grams; Decoction: 50-100 ml; Ksheerapaka: 100-200 ml, once or twice daily.",
+    "Elderly": "Ideal for geriatric care to manage age-related muscle wasting and bone loss. Dosage: 3g with milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Kapha (obesity, excess mucus) or very low metabolic fire should use it in moderation as it is heavy (Guru) and sweet (Madhura).",
+    "GRAS Status: Classified as a safe herbal medicine with an ancient history of use. However, standardized extracts with concentrated ephedrine must be used only under expert supervision to avoid sleep disruption.",
+    "Herb-Drug Interactions: Use caution when taking alongside other stimulants or blood pressure medications due to its mild ephedrine content. No major adverse interactions at traditional therapeutic doses.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Overdose of supplements may rarely cause mild restlessness or insomnia."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Kalmegh",
+  "scientificName": "Andrographis paniculata (Burm. f.) Nees",
+  "botanicalFamily": "Acanthaceae",
+  "usesInAyurveda": [
+    "Predominantly Kaphapitta shamaka (pacifies Kapha and Pitta doshas) due to its Tikta (bitter) Rasa.",
+    "Rasa (Taste): Tikta (Bitter).",
+    "Guna (Qualities): Laghu (Light), Ruksha (Dry), Tikshna (Sharp).",
+    "Virya (Potency): Ushna (Hot), though its Pitta-pacifying action can sometimes be perceived as cooling.",
+    "Vipaka (Post-digestive taste): Katu (Pungent).",
+    "Karma (Actions): Jwaraghna (antipyretic), Krimighna (anthelmintic), Yakriduttejaka (liver stimulant), Raktashodhaka (blood purifier), Deepana (appetizer), Pachana (digestive), Rechana (mild laxative), Kaphaghna (expectorant), Pittashamaka (pitta pacifier).",
+    "Adherence to API: Listed in the Ayurvedic Pharmacopoeia of India (API) Part I, Monograph for 'Kalmegh', specifying the use of the whole plant or aerial parts."
+  ],
+  "usageForm": "Powder (Churna), Decoction (Kwatha), Infusion (Phanta), Standardized extracts (Tablets/Capsules), Fresh juice (Swarasa - less common due to extreme bitterness).",
+  "mainMedicinalUses": [
+    "Fever (Jwara): Highly effective in various types of fevers, including viral fevers, malaria, and chronic fevers, owing to its potent antipyretic and anti-inflammatory properties, as supported by WHO research on its antiviral activity.",
+    "Liver Disorders (Yakrit Roga): Acts as a significant hepatoprotective and choleretic agent, used in conditions like jaundice, hepatitis, and liver enlargement, with WHO acknowledging its traditional use for liver support.",
+    "Respiratory Tract Infections: Utilized for common cold, influenza, sinusitis, bronchitis, and pharyngitis due to its established antiviral, antibacterial, and expectorant actions.",
+    "Digestive Issues: Addresses indigestion (Agnimandya), loss of appetite (Aruchi), intestinal worms (Krimi), dysentery (Atisara), and flatulence (Adhmana) by stimulating digestion and acting as an anthelmintic.",
+    "Skin Diseases (Kushta): Employed as a blood purifier (Raktashodhaka) to manage various skin ailments such as eczema, boils, acne, and pruritus.",
+    "Immunomodulation: Enhances both specific and non-specific immune responses, making it valuable in boosting overall immunity against infections, a key area of WHO-supported research.",
+    "Anti-inflammatory: Reduces systemic inflammation, beneficial in conditions characterized by inflammatory processes.",
+    "Anthelmintic: Effectively expels intestinal parasites and worms."
+  ],
+  "plantProfile": [
+    "Unique History: Known as the 'King of Bitters' (Kalmegh in Sanskrit, meaning 'dark cloud' due to its bitter taste), it has a long history of use in Ayurveda, Siddha, Unani, and Traditional Chinese Medicine (TCM). Native to India and Sri Lanka, it is now widely cultivated across Southeast Asia.",
+    "Physical Characteristics: An erect, annual herbaceous plant growing 30-110 cm tall. The stem is dark green, quadrangular with longitudinal furrows and distinct wings on the angles, and extensively branched. Leaves are simple, opposite, lanceolate, 2-8 cm long and 1-2.5 cm wide, glabrous, with an acute apex and cuneate base. Flowers are small, solitary or arranged in lax racemes, typically pale purple or white with purple markings. Fruits are linear-oblong capsules, 1.5-2 cm long and 0.3 cm wide, acute at both ends, containing sub-quadrate, yellowish-brown seeds. The entire plant, especially the leaves, possesses an intensely bitter taste.",
+    "Specific Chemical Compounds: The primary active constituents are diterpenoid lactones, notably Andrographolide, which is responsible for much of its pharmacological activity. Other important lactones include neoandrographolide, deoxyandrographolide, and 14-deoxy-11,12-didehydroandrographolide. Flavonoids such as andrograpanin, apigenin, and onysilin are also present, along with saponins, tannins, and resins.",
+    "Strict Standardizations: WHO monographs and the API specify the use of the aerial parts or the whole plant. Standardization is typically based on the content of andrographolide, with extracts often standardized to contain 5-10% of this compound. Macroscopic and microscopic identification parameters, as well as physico-chemical parameters (e.g., foreign matter, total ash, acid-insoluble ash, alcohol-soluble extractive, water-soluble extractive, moisture content), are strictly detailed in API. Chromatographic fingerprinting (e.g., HPTLC) is employed for precise identification and quantification of marker compounds."
+  ],
+  "preparationMethods": [
+    "Churna (Powder): Dried aerial parts of Kalmegh are thoroughly cleaned, dried, and then pulverized into a fine powder, typically passing through an 80-100 mesh sieve. This powder is stored in airtight containers away from moisture and light.",
+    "Kwatha (Decoction): Coarse powder of Kalmegh (1 part) is boiled with 8 or 16 parts of water until the volume is reduced to 1/4th or 1/8th of the original. The mixture is then filtered and consumed warm.",
+    "Phanta (Hot Infusion): Coarse powder of Kalmegh (1 part) is steeped in 4 parts of hot water for a specific duration (e.g., 15-30 minutes). After steeping, the infusion is filtered and consumed.",
+    "Swarasa (Fresh Juice): Fresh leaves are crushed and pressed to extract the juice. This method is less common due to the extreme bitterness and the difficulty in consuming it directly.",
+    "Standardized Extracts: For pharmaceutical preparations, hydroalcoholic solvents are commonly used to extract and concentrate the active diterpenoid lactones, particularly andrographolide. These extracts are then formulated into capsules or tablets, often standardized to a specific percentage of andrographolide.",
+    "Micronization: To enhance bioavailability and absorption, the dried powder can be micronized to reduce particle size, increasing its surface area."
+  ],
+  "dosages": {
+    "Children": "Generally not recommended for very young children without expert medical supervision due to its extreme bitterness and potency. For older children (6-12 years), a reduced dosage of 125-250 mg of powder or 5-10 ml of decoction, once or twice daily, under strict guidance of an Ayurvedic physician.",
+    "Adults": "Powder (Churna): 1-3 grams, twice daily, typically with water or honey. Decoction (Kwatha): 20-50 ml, twice daily. Standardized extract (e.g., 10% Andrographolide): 200-400 mg, 2-3 times daily, or as prescribed by a qualified physician.",
+    "Elderly": "Similar to adult dosages, but it is advisable to start with lower doses and monitor for any sensitivities or interactions, especially if the individual is on multiple medications. Consultation with an Ayurvedic physician is highly recommended."
+  },
+  "safetyProfile": [
+    "Contraindications: Traditionally contraindicated during pregnancy due to potential abortifacient effects (though human data is limited, animal studies suggest caution). Not recommended during lactation due to insufficient safety data. Caution is advised in individuals with bleeding disorders or those on anticoagulant/antiplatelet therapy due to its potential to inhibit platelet aggregation. Use with caution in autoimmune diseases due to its immunomodulatory effects. May lower blood pressure, thus caution in hypotensive individuals. Some studies suggest potential, reversible effects on male fertility (spermatogenesis), hence caution during fertility treatments. High doses or prolonged use may cause gastric irritation, nausea, vomiting, or diarrhea due to its intense bitterness.",
+    "GRAS Status: Andrographis paniculata is not generally recognized as safe (GRAS) by the FDA for food use. However, it is widely accepted and utilized as a traditional medicine, with WHO monographs providing guidelines for its medicinal use and safety.",
+    "Herb-Drug Interactions: May potentiate the effects of anticoagulant and antiplatelet drugs (e.g., Warfarin, Aspirin), increasing the risk of bleeding. Can interfere with immunosuppressants (e.g., Cyclosporine) due to its immunomodulatory properties. May enhance the effects of antihypertensive medications, leading to excessive blood pressure reduction. Could potentially lower blood glucose levels, requiring dose adjustments for antidiabetic drugs. Andrographis may inhibit or induce certain cytochrome P450 (CYP) enzymes (e.g., CYP3A4, CYP2C9), potentially altering the metabolism and efficacy of other co-administered drugs. Concurrent use with antacids or proton pump inhibitors (PPIs) may reduce its absorption or efficacy."
+  ]
+}

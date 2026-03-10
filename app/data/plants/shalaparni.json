@@ -1,0 +1,47 @@
+{
+  "name": "Shalaparni",
+  "scientificName": "Desmodium gangeticum (L.) DC.",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful pacifier of all three doshas (Tridoshahara), with a specific affinity for Vata and Pitta. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Balya' (strength-promoting) and 'Angamarda-prashamana' (body-pain-relieving) therapies. While it is warming, its 'Madhura' Vipaka (sweet post-digestive taste) makes it uniquely nourishing and rejuvenating.",
+    "Rasa (Taste): Madhura (sweet), Tikta (bitter).",
+    "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Madhura (sweet).",
+    "Karma (Actions): Angamarda-prashamana (body-ache reliever), Balya (strength-promoting), Hridya (heart-tonic), Saravardhaka (essence-increasing), and Deepana (appetizer).",
+    "API/AFI Adherence: The dried whole plant (specifically the root) is official as per the Ayurvedic Pharmacopoeia of India (API). It is one of the ten roots in the iconic 'Dashamoola' group.",
+    "Specific Indications: Used in Shwasa (Asthma), Kasa (Cough), Jwara (Chronic and malarial fevers), Atisara (Diarrhea), Chardi (Vomiting), and Prameha (Diabetes)."
+  ],
+  "usageForm": "Whole plant powder (Churna), Root decoction (Kwatha).",
+  "mainMedicinalUses": [
+    "World-Famous Heart and Vitality Specialist (Hridya): Shalaparni is the premier Ayurvedic remedy for all conditions of heart weakness and systemic exhaustion. Its 'Angamarda-prashamana' (body-pain-relieving) nature provided by alkaloids helps in reducing inflammatory heart load and providing systemic stabilization of the 'Madhura' (essence) in the blood. WHO-aligned research supports its role in managing inflammatory heart and lung load.",
+    "Respiratory and Asthma Management: Historically known as 'Shwasahara' (antiasthmatic). It effectively reduces the intensity and frequency of asthma attacks by clearing 'Kapha-avarana' (mucus-obstruction) in the respiratory channels and providing systemic nourishment (Brimhana).",
+    "Digestive and Metabolism Specialist: Its Tikta (bitter) and Madhura (sweet) properties help in igniting the Jatharagni (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Chardi' (vomiting) and 'Atisara' (diarrhea) through its systemic 'Grahi' (absorbent) action.",
+    "Anti-Aging and Rejuvenation: Acts as a powerful 'Rasayana' (rejuvenative). It helps in delaying age-related physical and mental decline and protecting the cells from oxidative stress through its potent antioxidant and immunity-enhancing profile.",
+    "Skeletal and Bone Health: Its unctuous (Snigdha) and heavy (Guru) qualities help in nourishing the 'Asthi-dhatu' (bone tissue) and providing systemic relief from osteoporosis and age-related bone weakness.",
+    "Phytochemical Profile: Rich in Flavonoids, Alkaloids (Hordenine, Candicine), and Triterpenes. Hordenine and Candicine are the primary bioactives responsible for its potent cardio-protective and anti-inflammatory action."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Dashamoola' (ten roots) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Shalaparni' refers to its distinctive leaves (leaflets). It is spiritually associated with 'Sattva' (purity). Mentioned in classical Sanskrit literature as the 'Salpan'.",
+    "Physical Characteristics: A small, erect, poorly branched perennial herb with stems reaching up to 1 meter. The leaves are distinctive, simple-to-trifoliolate with heart-shaped (cordate) or ovate leaflets showing a white/silver variegated patch in some regions. The flowers are attractive, purple or white, in terminal racemes. Found throughout India, particularly in the sub-Himalayan tract and Northeast forests.",
+    "Specific Chemical Compounds: Contains Gangetin, Gangetinin, and Desmodin. The presence of gangetin is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells.",
+    "Strict Standardizations: The root is standardized in API based on its yellowish-brown color and characteristic sweet-mucilaginous taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
+  ],
+  "preparationMethods": [
+    "Whole Plant Powder (Churna): 3-6g of fine powder taken twice daily with honey or warm milk for enhancing memory and vitality.",
+    "Root Decoction (Kwatha): 20g of dried root boiled in 160ml water reduced to 40ml for chronic asthma and fever. Take twice daily before meals.",
+    "Dashamoolarishta: Part of the 10-root blend used for systemic Vata-balancing decoctions.",
+    "External Paste: Ground fresh root applied over fracture sites or painful joints to assist healing."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml.",
+    "Elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with extreme high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). No major contraindications documented.",
+    "GRAS Status: Classified as a safe medicinal herb with a long history of use in the Dashamoola group across global traditional systems.",
+    "Herb-Drug Interactions: None documented at traditional therapeutic levels.",
+    "Adverse Effects: None documented. Excellent tolerability profile."
+  ]
+}

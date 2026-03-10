@@ -1,0 +1,27 @@
+{
+  "id": "shathi",
+  "name": "Shathi",
+  "scientificName": "Hedychium spicatum (Honed)",
+  "botanicalFamily": "Zingiberaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Vata-Kapha Hara."
+  ],
+  "usageForm": "Powder.",
+  "mainMedicinalUses": [
+    "Fragrant respiratory cleansing",
+    "Cough",
+    "Asthma."
+  ],
+  "plantProfile": [
+    "Spiked Ginger Lily."
+  ],
+  "preparationMethods": [
+    "Inhalation or powder."
+  ],
+  "dosages": {
+    "Adults": "1g"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

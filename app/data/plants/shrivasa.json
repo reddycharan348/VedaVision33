@@ -1,0 +1,27 @@
+{
+  "id": "shrivasa",
+  "name": "Shrivasa",
+  "scientificName": "Pinus roxburghii Sarg.",
+  "botanicalFamily": "Pinaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha."
+  ],
+  "usageForm": "Resin (Turpentine source).",
+  "mainMedicinalUses": [
+    "Used for rheumatism and chronic joint conditions.",
+    "Effective for respiratory issues like bronchitis.",
+    "Used as a base for many Ayurvedic ointments."
+  ],
+  "plantProfile": [
+    "Himalayan Pine tree providing medicinal resin."
+  ],
+  "preparationMethods": [
+    "Resin extract or ointments."
+  ],
+  "dosages": {
+    "Adults": "1-2g"
+  },
+  "safetyProfile": [
+    "May cause skin irritation if applied directly."
+  ]
+}

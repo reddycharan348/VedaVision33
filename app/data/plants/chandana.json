@@ -1,0 +1,49 @@
+{
+  "name": "Chandana",
+  "scientificName": "Santalum album L.",
+  "botanicalFamily": "Santalaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Pitta and Vata doshas. Due to its Tikta (bitter) and Madhura (sweet) Rasa and Atyanta-Sheeta (extremely cooling) Virya, it is the most prestigious herb for 'Daha-prashamana' (burning-relieving) and 'Raktaprasadana' (blood-soothing) therapies, clearing the fiery and agitated qualities of Pitta. It does not aggravate Vata when used appropriately.",
+    "Rasa (Taste): Tikta (bitter), Madhura (sweet).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry).",
+    "Virya (Potency): Sheeta (extremely cooling).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Daha-prashamana (burning reliever), Raktaprasadana (blood-soothing), Hridya (heart-tonic), Vishaghna (anti-toxic), Kandughna (anti-itch), and Medhya (mind-cooling).",
+    "API/AFI Adherence: The heartwood and essential oil are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the primary ingredient in iconic classical formulations like Chandanasava, Chandanadi Vati, and Chandanadi Taila.",
+    "Specific Indications: Used in Daha (burning sensation), Jwara (malarial/inflammatory fever), Mutra-kricchra (burning urination), Rakta-pitta (bleeding disorders), and various inflammatory skin conditions (Kustha)."
+  ],
+  "usageForm": "Heartwood powder (Churna), Essential oil (Taila), Distilled water (Arka), Heartwood paste (Kalka).",
+  "mainMedicinalUses": [
+    "Expert Cooling Agent: Chandana is the premier Ayurvedic remedy for all conditions of excessive body heat (Daha). Its extreme cooling potency provides instant relief from internal burning sensations, sunstrokes, and inflammatory fevers. WHO-aligned research supports its antipyretic and anti-inflammatory properties.",
+    "Urinary and Kidney Care: Acts as a powerful agent for managing urinary tract infections (UTI). It helps in reducing burning sensation during micturition and promotes the excretion of toxins by cooling the Pitta in the bladder and kidneys.",
+    "Dermatological Excellence: Widely used for its ability to soothe and heal chronic skin conditions. It is traditionally used to treat acne, sun-burns, and eczema by reducing localized heat and providing a systemic blood-purifying effect. It enhances skin radiance and complexion.",
+    "Heart and Emotional Health: Acts as a mild Hridya (heart-tonic). Its aromatic presence and cooling nature help in regulating heart rate and providing mental calm, managing stress, anxiety, and anger related to Pitta aggravation.",
+    "Antiviral and Antimicrobial: The essential oil (Santalol) possesses significant inhibitory action on various pathogens. It is traditionally used in vaginal infections and chronic wounds to prevent sepsis and promote aseptic healing.",
+    "Nervous System Support: Its 'Medhya' (mind-cooling) property help in managing mental agitation and sleeplessness (Anidra) caused by excess body heat and mental stress.",
+    "Phytochemical Profile: Rich in Alpha-Santalol and Beta-Santalol (up to 90% of essential oil), Santalene, Santalic acid, and various sesquiterpene alcohols that provide its multifaceted medicinal benefits, particularly its potent anti-septic and anti-inflammatory properties."
+  ],
+  "plantProfile": [
+    "Unique History: One of the most sacred and oldest documented trees in human history. Mentioned in the Vedas and ancient Ayurvedic texts for its unmatched 'Sattva' (purity) providing properties. It is culturally used in all major religious rituals and for producing the world's most valued essential oil.",
+    "Physical Characteristics: A small to medium evergreen tree growing up to 10-15 meters in height, with a majestic crown and dark-grey, rough bark. It features narrow, lanceolate leaves and tiny, yellowish flowers that turn red. It is a hemi-parasite, drawing nutrients from the roots of host plants. It is found primarily in the deciduous forests of South India (Karnataka and Tamil Nadu).",
+    "Specific Chemical Compounds: Primarily contains Alpha-Santalol (60%) and Beta-Santalol (20%), Santalene, and P-methoxy cinnamic aldehyde. The presence of Santalols is crucial for its cooling, anti-septic, and neuro-relaxant action.",
+    "Strict Standardizations: The heartwood is standardized in API based on macroscopic features (fragrant, yellowish core). Physicochemical benchmarks: total ash (<1%), alcohol-soluble extractive (>8%), and water-soluble extractive (>2%). Essential oil is standardized via GC-MS for Santalol content."
+  ],
+  "preparationMethods": [
+    "Heartwood Paste (Kalka): Ground heartwood with rose water/plain water into a fine paste; applied directly to the forehead for fever and headache or to skin for acne.",
+    "Heartwood Powder (Churna): 1-3g of fine powder taken twice daily with milk or honey (for burning sensation) or a specific cooling decoction.",
+    "Medicated Oil (Taila): The heartwood essence is cooked in a coconut/sesame oil base; used for Pitta-pacifying massage and skin care.",
+    "Chandanasava: 15-30ml of fermented extract taken twice daily after meals for managing urinary issues and general weakness.",
+    "Distilled Water (Arka): The heartwood is distilled to obtain aromatic water; used for cooling the eyes and as a Pitta-pacifying internal drink."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 1-2 ml of Arka or 125-250 mg of powder mixed with honey twice daily for cooling during infections.",
+    "Adults": "Powder: 1-3 grams; Arka (Water): 20-50 ml; Oil: 1-2 drops (internal, with precautions), divided throughout the day before meals.",
+    "Elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 1g of powder daily with milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid excessive internal use of pure essential oil as it can irritate the stomach.",
+    "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diuretic or sedative medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

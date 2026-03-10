@@ -1,0 +1,46 @@
+{
+  "name": "Pashanabheda",
+  "scientificName": "Bergenia ligulata (Wall.) Engl.",
+  "botanicalFamily": "Saxifragaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful pacifier of Vata and Kapha doshas. Due to its Kashaya (astringent) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Ashmari-hara' (stone-breaking) and 'Mutra-virechaniya' (diuretic) therapies. It clears the localized Kapha while balancing the dry Vata.",
+    "Rasa (Taste): Kashaya (astringent), Tikta (bitter).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Ashmari-hara (stone-breaker), Mutra-virechaniya (diuretic), Bhedana (breaching), Raktastambhana (hemostatic), and Shothahara (anti-swelling).",
+    "API/AFI Adherence: The dried rhizome and root are official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in iconic classical formulations like 'Pashanabheda-asava' and various urinary tonics.",
+    "Specific Indications: Used in Mutrashmari (urinary calculi), Mutrakricchra (dysuria), Ashmari-shula (stone-pain), and Raktapitta (bleeding disorders)."
+  ],
+  "usageForm": "Rhizome powder (Churna), Root decoction (Kwatha), Cold infusion (Hima), Fermented extract (Asava/Arishta).",
+  "mainMedicinalUses": [
+    "World-Class Stone and Kidney Specialist (Ashmari-hara): Pashanabheda is the premier Ayurvedic remedy for urinary and kidney stones. Its name literally translates to 'stone-breaker'. Its 'Bhedana' (breaching) and 'Tikshna' (sharp) nature provided by bergenin helps in breaking down the stones and providing systemic stabilization of the urinary tract. WHO-aligned research confirms its potent anti-urolithiatic and diuretic effects.",
+    "Urinary and Kidney Care: As a mild diuretic, it helps in relieving urinary tract infections, burning urination (Mutra-kricchra), and localized edema (Shotha) by clearing Kapha-related obstructions in the bladder and kidneys.",
+    "Anti-inflammatory and Pain Relief: Systemically used for conditions like chronic inflammatory conditions and joint pain by clearing blocked Vata pathways and reducing local swelling through its cooling property. It effectively manages 'Ashmari-shula' (renal colic).",
+    "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The rhizome paste applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Vranaropana' (wound-healing) effects.",
+    "Phytochemical Profile: Rich in Iridoid Glycosides (Bergenin, Nyctanthin), Flavonoids (Astragalin, Nicotiflorin), and Tannins. Bergenin is the primary bioactive responsible for its potent anti-inflammatory and diuretic action on the heart and kidneys."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Ashmari-hara' (stone-breaking) and 'Mutra-virechaniya' (diuretic) groups in ancient treatises like Charaka Samhita. Historically used to symbolise the 'shattering of blocks'. Found throughout India and Southeast Asia and cultivated for medicine.",
+    "Physical Characteristics: A perennial, small herb growing in the sub-alpine and alpine regions of the Himalayas (altitude 2500m to 4000m). It features broad, heart-shaped (cordate) lower leaves and narrow, amplexicaul upper leaves. Found in rock crevices and sandy soils throughout India and tropical South Asia.",
+    "Specific Chemical Compounds: Contains Bergenin, D-mannitol, and Benzoic acid. The presence of bergenin is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart.",
+    "Strict Standardizations: The rhizome is standardized in API based on its greyish-brown color and characteristic extremely bitter-pungent-biting-astringent taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%). HPLC monitors bergenin levels."
+  ],
+  "preparationMethods": [
+    "Rhizome Powder: 3-6g of fine powder taken with milk or honey (for kidney health) or warm water.",
+    "Root Decoction: 20g of dried root boiled in 160ml water reduced to 40ml for chronic asthma and bronchial congestion. Take twice daily before meals.",
+    "Cold Infusion: 10g of crushed rhizome soaked in 60ml water overnight; filtered and taken for managing thirst and acidity.",
+    "Pashanabheda-asava: 15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and general weakness."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "Elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Kapha should use it in moderation as it is Sheeta (cooling). Avoid during pregnancy in very large therapeutic doses except under professional guidance.",
+    "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-hypertensive or anticoagulant medications as it may potentiate their effects.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

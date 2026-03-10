@@ -1,0 +1,46 @@
+{
+    "name": "Gavedhuka",
+    "scientificName": "Coix lacryma-jobi L.",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful pacifier of Kapha and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious cereal for 'Karshaniya' (emanciating/weight-loss) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry) and 'Laghu' (light), making it a Vata-increasing grain (Vatala) if over-consumed.",
+        "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Karshaniya (emaciating), Medahara (fat-relieving), Mutravirechaniya (diuretic), Vishaghna (anti-toxic), and Medhya (intellect-promoting).",
+        "API/AFI Adherence: Known as 'Gavedhuka' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Karshaniya' (weight-loss) and 'Medohara' (fat-reducing) formulations like Gavedhukadi-Churna and various weight-loss soups.",
+        "Specific Indications: Used in Atisthula (Extreme Obesity), Karshya (in reverse as a therapy for heavy Kapha), Prameha (Urinary disorders), Medo-roga (Fat disorders), and Shotha (Edema)."
+    ],
+    "usageForm": "Grain flour (Churna), Dehusked grain cooked (Odana), Roasted powder (Saktu), Seed decoction (Panaka).",
+    "mainMedicinalUses": [
+        "Expert Weight Loss and Fat-Scraping Specialist (Karshaniya): Gavedhuka is the premier Ayurvedic cereal for managing extreme obesity. Its 'Karshaniya' (emaciating) and 'Ruksha' (dry) nature provided by specific coixol compounds helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO research confirms its potent cholesterol-lowering and heart-soothing properties.",
+        "Urinary and Kidney Support Specialist (Mutravirechaniya): Historically used as 'Gavedhuka-Panaka' (seed tea). Its antimicrobial and diuretic nature makes it unmatched for clearing urinary stagnations and Managing infections by cooling the Pitta in the bladder and kidneys.",
+        "Skin Health and Complexion Enhancement: Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The roasted powder drink (Saktu) provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
+        "Brain and Mental Health Specialist (Medhya): Historically known as 'Medhya' (intellect-promoting). Its aromatic presence and cooling nature helps in regulating heart rate, improving systemic circulation, and protecting the brain cells from oxidative stress. It is traditionally used in 'Gavedhukadi-Kasham'.",
+        "Phytochemical Profile: Rich in Proteins (14-16%), Dietary Fiber (8-10%), Phenolic acids, Flavonoids (Coixol), and Essential Minerals (Phosphorus, Magnesium, Calcium). Coixol is the primary bioactive responsible for its potent anti-inflammatory and cardio-protective effects."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in the Charaka Samhita as the best among 'Kapha-pacifying' wild cereals. Historically used as a primary protein source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Lightness'.",
+        "Physical Characteristics: A tall, erect, perennial grass reaching up to 1-2 meters in height, with linear leaves and terminal spikes (ears) of flowers with hard, white-to-grey, tear-shaped involucres (seeds). The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, greyish-white seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Coixol, Siringic acid, and diversos Protease inhibitors. Coixol (approx. 0.5-1.0% in seeds) is centrally active in promoting systemic 'Karshaniya' (emaciating) and providing systemic hemostatic balance.",
+        "Strict Standardizations: The grain is standardized in API based on its greyish-white-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    ],
+    "preparationMethods": [
+        "Gavedhuka-Odana (Cooked Rice): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
+        "Gavedhuka-Saktu (Roasted): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
+        "Panaka (Seed Decoction): 20g of seeds boiled in 160ml water reduced to 40ml for chronic obesity. Take twice daily before meals.",
+        "External Paste (Lepa): Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked millet twice daily for respiratory support and cooling during childhood infections.",
+        "Adults": "Daily staple food (50-200g of cooked millet per meal) for weight management.",
+        "Elderly": "Highly recommended to prevent age-related Pitta issues and maintain cardiac health. Dosage: 100g of cooked millet daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature. Strictly avoid in pregnancy except under professional guidance (as it may stimulate contractions).",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+        "Adverse Effects: Overconsumption leads to excessive weight loss and excessive gas if not appropriately toasted before cooking."
+    ]
+}

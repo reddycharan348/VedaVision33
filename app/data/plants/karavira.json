@@ -1,0 +1,27 @@
+{
+  "id": "karavira",
+  "name": "Karavira (Oleander)",
+  "scientificName": "Nerium oleander L.",
+  "botanicalFamily": "Apocynaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Kapha and Vata."
+  ],
+  "usageForm": "Root bark powder/oil (External mostly).",
+  "mainMedicinalUses": [
+    "Used topically for stubborn skin infections and leprosy.",
+    "Effective for hair loss related to scalp issues.",
+    "Assists in cardiac conditions in minute, expert doses."
+  ],
+  "plantProfile": [
+    "All parts of the plant are severely toxic."
+  ],
+  "preparationMethods": [
+    "Processed into oils for external use."
+  ],
+  "dosages": {
+    "Adults": "30-100mg (Minute doses, expert only)"
+  },
+  "safetyProfile": [
+    "EXTREMELY TOXIC. Fatal if ingested in small amounts."
+  ]
+}

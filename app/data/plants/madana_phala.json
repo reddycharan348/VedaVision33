@@ -1,0 +1,27 @@
+{
+  "id": "madana_phala",
+  "name": "Madana Phala",
+  "scientificName": "Catunaregam spinosa (Thunb.) Tirveng.",
+  "botanicalFamily": "Rubiaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Kapha and Vata."
+  ],
+  "usageForm": "Fruit powder.",
+  "mainMedicinalUses": [
+    "Primary drug for Vamana (therapeutic vomiting) therapy.",
+    "Used in chronic asthma and respiratory congestion.",
+    "Treats skin diseases and tumors."
+  ],
+  "plantProfile": [
+    "The best emetic agent in Ayurveda."
+  ],
+  "preparationMethods": [
+    "Milk or water paste for Vamana."
+  ],
+  "dosages": {
+    "Adults": "3-6g for emesis."
+  },
+  "safetyProfile": [
+    "Only use under strictly clinical Ayurvedic supervision."
+  ]
+}

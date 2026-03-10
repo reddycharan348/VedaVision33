@@ -1,0 +1,39 @@
+{
+  "id": "yashtimadhu",
+  "name": "Yashtimadhu (Licorice)",
+  "scientificName": "Glycyrrhiza glabra L.",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Pitta.",
+    "Rasa (Taste): Madhura (Sweet).",
+    "Guna (Qualities): Guru (Heavy), Snigdha (Unctuous).",
+    "Virya (Potency): Sheeta (Cooling).",
+    "Vipaka (Post-digestive taste): Madhura (Sweet).",
+    "Karma: Kanthya (Throat-soothing), Varnya (Complexion enhancer).",
+    "API: Roots and stolons used."
+  ],
+  "usageForm": "Powder, Decoction, Ghee.",
+  "mainMedicinalUses": [
+    "Soothes cough and sore throat.",
+    "Heals gastric and peptic ulcers.",
+    "Reduces inflammation and skin rashes.",
+    "Acts as a brain tonic (Medhya Rasayana)."
+  ],
+  "plantProfile": [
+    "Sweet-tasting root used globally.",
+    "Rich in Glycyrrhizin.",
+    "Standardized for high water-solubility."
+  ],
+  "preparationMethods": [
+    "Boil 5g in water to make a soothing tea.",
+    "Mix powder with honey."
+  ],
+  "dosages": {
+    "Children": "500mg",
+    "Adults": "3g",
+    "Elderly": "1g"
+  },
+  "safetyProfile": [
+    "Avoid in hypertension and pregnancy."
+  ]
+}

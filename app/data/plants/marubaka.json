@@ -1,0 +1,27 @@
+{
+  "id": "marubaka",
+  "name": "Marubaka",
+  "scientificName": "Origanum majorana (Honed)",
+  "botanicalFamily": "Lamiaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Kapha-Vata Hara."
+  ],
+  "usageForm": "Aromatic leaves.",
+  "mainMedicinalUses": [
+    "Headache",
+    "Cold",
+    "Stomach gas."
+  ],
+  "plantProfile": [
+    "Sweet Marjoram."
+  ],
+  "preparationMethods": [
+    "Leaf juice Nasal drops."
+  ],
+  "dosages": {
+    "Adults": "5ml"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

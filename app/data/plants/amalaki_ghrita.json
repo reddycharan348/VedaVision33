@@ -1,0 +1,27 @@
+{
+  "id": "amalaki_ghrita",
+  "name": "Amalaki Ghrita",
+  "scientificName": "Emblica officinalis in Ghee",
+  "botanicalFamily": "Phyllanthaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Vata-Pitta Hara."
+  ],
+  "usageForm": "Medicated Ghee.",
+  "mainMedicinalUses": [
+    "Eye health",
+    "Digestion",
+    "Brain power."
+  ],
+  "plantProfile": [
+    "Amla processed in cow ghee."
+  ],
+  "preparationMethods": [
+    "Classical Sneha Paka."
+  ],
+  "dosages": {
+    "Adults": "10g"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

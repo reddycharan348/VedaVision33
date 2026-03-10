@@ -1,0 +1,50 @@
+{
+  "name": "Dhattura",
+  "scientificName": "Datura metel L.",
+  "botanicalFamily": "Solanaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Vata and Kapha doshas. Due to its Tikta (bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Shwasahara' (asthma-relieving) and 'Vedanasthapana' (pain-relieving) therapies using its 'Madaka' (narcotic) potency. It may significantly aggravate Pitta and cause systemic drying (Ruksha).",
+    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp), Vyavayi (swiftly spreading), Vikasi (loosening joints/tissue).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Shwasahara (antiasthmatic), Vedanasthapana (analgesic/anesthetic), Madaka (narcotic), Kandughna (anti-itching), Krimighna (anthelminthic), and Jwarahara (antipyretic).",
+    "API/AFI Adherence: The dried seed and leaves are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Kanakasava, Sutrashekhara Rash, and various medicated oils for joint pain and dandruff.",
+    "Specific Indications: Used in Shwasa (asthma), Kasa (cough), Sandhivata (joint pain), Khalitya (dandruff/hair-loss), and Jwara (intermittent fever)."
+  ],
+  "usageForm": "Purified seed powder (Churna), Leaf paste (Lepa), Medicated oil (Taila), Medicated smoke (Dhumapana), Fermented liquid (Asava).",
+  "mainMedicinalUses": [
+    "Expert Antiasthmatic and Bronchodilator: Dhattura is the premier Ayurvedic remedy for acute bronchial asthma and spasmodic cough. Its 'Vyavayi' (swift) and 'Vikasi' (tissue-loosening) nature provided by tropane alkaloids induces rapid relaxation of bronchiole muscles. WHO-aligned research recognizes its potent anticholinergic and bronchodilatory effects.",
+    "Pain and Neuralgia Management: Acts as a powerful local anesthetic and analgesic 'Vedanasthapana'. Medicated oils and leaf pastes are traditionally applied to provide instant relief from sciatica, rheumatoid arthritis pain, and neuralgic headaches.",
+    "Dandruff and Scalp Care: The 'Kandughna' (anti-itch) and antimicrobial properties of the seeds are used to treat chronic dandruff, lice, and scalp infections. It is traditionally boiled in coconut oil for topical scalp massage.",
+    "Fever and Malaria Relief: Traditionally used in very small, purified doses in 'Kanakasava' to manage intermittent fevers. It helps in reducing the intensity of shivers and body aches through its systemic Vata-pacifying action.",
+    "Internal Parasites: Its 'Krimighna' (worm-destroying) property is utilized primarily in external applications to resolve localized parasitic skin infections and internally (with extreme caution) for specific intestinal parasites.",
+    "Anti-inflammatory and Antiseptic: Crushed leaves applied topically as a 'Lepa' (paste) act as a potent anti-inflammatory for boils, mumps, and localized swellings to reduce pain and expedite suppuration.",
+    "Phytochemical Profile: Rich in Tropane Alkaloids (Hyoscyamine, Scopolamine, Atropine), Withanolides, and Niacin. The presence of hyoscyamine and scopolamine is crucial for its narcotic, analgesic, and bronchodilatory action."
+  ],
+  "plantProfile": [
+    "Unique History: A plant with a mystical and dual history in India. Associated with Lord Shiva, it symbolizes 'destruction of ego' and 'transformed poison'. Classified under the 'Upavisha' (semi-toxic) group in ancient Ayurvedic treatises like Susruta Samhita. Used in 'Shodhana' (purification) processes to neutralize its toxicity.",
+    "Physical Characteristics: A perennial herb growing up to 1-2 meters in height, with a spreading crown and dark-grey, rough stems. It features broad, heart-shaped (cordate) leaves with wavy margins and large, trumpet-shaped white or purple flowers. The fruit is a globose, spiny capsule containing flattened yellowish-brown seeds. It is found as a wild weed in wastelands and near habitations throughout India.",
+    "Specific Chemical Compounds: Primarily contains Tropane Alkaloids (Scopolamine, Hyoscyamine) and Withanolides. The presence of scopolamine (hyoscine) is crucial for its neuro-relaxant, anti-motion-sickness, and anti-spasmodic effects.",
+    "Strict Standardizations: The seed and leaves are standardized in API based on macroscopic features (trumpet flowers, spiny fruit). Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor total alkaloid content calculated as hyoscyamine.",
+    "Purification Process (Shodhana): The seeds are traditionally soaked in cow's milk (Dugdha-shodhana) for several hours followed by washing with hot water to remove excessive toxic alkaloids before medicinal use."
+  ],
+  "preparationMethods": [
+    "Purified Seed Powder (Churna): 60 mg to 125 mg of fine powder (extremely low dose) taken with honey once daily for asthma.",
+    "Kanakasava: 5-10ml of fermented extract taken twice daily after meals for managing chronic cough and asthma symptoms.",
+    "Leaf Paste (Lepa): Ground fresh leaves apply directly to localized swellings, boils, and joint pain to reduce heat and pain.",
+    "Medicated Oil (Taila): Seeds are processed with coconut/sesame oil; used for local scalp massage (dandruff) and joint pain.",
+    "Medicated Smoke (Dhumapana): Dried leaf pieces are burnt, and the smoke is inhaled (with extreme caution) to relieve acute asthma spasms."
+  ],
+  "dosages": {
+    "Children": "Strictly NOT recommended for children under any circumstances due to toxicity.",
+    "Adults": "Powder (Purified): 60-125 mg; Leaf juice: 10-20 drops (external use); Kanakasava: 5-10 ml, divided throughout the day before or after meals.",
+    "Elderly": "Very low doses (30-60mg) are advisable initially, monitoring for any increase in dizziness or dry mouth."
+  },
+  "safetyProfile": [
+    "Contraindications: Strictly contraindicated in individuals with glaucoma, acute constipation, high Pitta, heart diseases, and during pregnancy. Toxicity is high; non-purified use is lethal.",
+    "GRAS Status: NOT classified as GRAS. It is a potent semi-poison (Upavisha) and must only be used by qualified Ayurvedic physicians. National and International regulations apply to its collection and sale.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anticholinergics, sedatives, or heart medications as it causes severe potentiation and toxicity. No safe levels documented without professional guidance.",
+    "Adverse Effects: Overdose results in dry mouth, dilated pupils, blurry vision, hallucinations, delirium, racing heart, and respiratory failure. Discontinue if dry mouth occurs."
+  ]
+}

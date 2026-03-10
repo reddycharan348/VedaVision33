@@ -1,0 +1,46 @@
+{
+    "name": "Parijata",
+    "scientificName": "Nyctanthes arbor-tristis L.",
+    "botanicalFamily": "Oleaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful pacifier of Vata and Kapha doshas. Due to its Katu (pungent) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is a premier herb for 'Gridhrasihara' (sciatica-relieving) and 'Sandhigatavata' (arthritis) therapies, clearing the cold and heavy qualities of Kapha through its systemic warming property.",
+        "Rasa (Taste): Tikta (bitter), Katu (pungent).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry).",
+        "Virya (Potency): Ushna (hot).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Gridhrasihara (anti-sciatica), Jwarahara (antipyretic), Krimighna (anthelminthic), and Shothahara (anti-swelling).",
+        "API/AFI Adherence: The dried leaf and bark are official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in various Vata-relieving and fever tonics.",
+        "Specific Indications: Used in Gridhrasi (Sciatica), Amavata (rheumatoid arthritis), Jirnajwara (chronic fever), and Kasa (cough)."
+    ],
+    "usageForm": "Leaf juice (Swarasa), Leaf decoction (Kwatha), Bark powder (Churna).",
+    "mainMedicinalUses": [
+        "Expert Sciatica and Nerve Pain Specialist: Parijata leaves are the premier Ayurvedic remedy for sciatica (Gridhrasi). Its 'Tikshna' (sharp) and 'Ushna' (heating) nature provided by iridoid glycosides helps in reducing nerve inflammation and providing systemic stabilization. WHO research confirms its potent anti-inflammatory and analgesic effects.",
+        "Antipyretic and Chronic Fever: Highly effective for managing 'Jirnajwara' (chronic or intermittent fever). It promotes systemic cleansing and cleared metabolic toxins (Ama) from the blood stream. It is a key herb for managing recovery from viral and malarial infections.",
+        "Arthritis and Joint Care: Its systemic anti-inflammatory (Shothahara) properties help in reducing localized pain and stiffness in conditions like rheumatoid arthritis (Amavata). It promotes the excretion of uric acid and clearing of synovial inflammation.",
+        "Respiratory and Cough support: Its Ushna (heating) potency helps in liquefying and expelling thick mucus from the lungs through its Tikshna-Katu action. It is traditionally used in 'Kasa' (cough) and 'Shwasa' (asthma).",
+        "Phytochemical Profile: Rich in Iridoid Glycosides (Arbortristoside A, B, C), Flavonoids (Astragalin, Nicotiflorin), and Alkaloids. Arbortristosides are the primary bioactives responsible for its potent anti-inflammatory and nootropic effects."
+    ],
+    "plantProfile": [
+        "Unique History: Sacredly known as 'Kalpavriksha' or 'Tree of Sorrows' (Night-flowering Jasmine). Associated with Lord Krishna and Lord Indra. Mentioned in ancient texts for its beautiful, fragrant flowers that bloom at night and shed in the morning. Historically used as a symbol of 'the sweetness of life' contrasted with 'the pain of attachment'.",
+        "Physical Characteristics: A small-to-medium-sized deciduous tree with thick, rough, greyish-brown bark. The leaves are opposite, ovate, and very rough to the touch (like sandpaper). The flowers are fragrant with a bright-orange tube and white corolla. Found throughout India and Southeast Asia in deciduous forests and cultivated for medicine.",
+        "Specific Chemical Compounds: Contains Nyctanthin, D-mannitol, and Benzoic acid. The leaf contains iridoid glycosides that are centrally active in pain pathways.",
+        "Strict Standardizations: The leaf is standardized in API based on its greyish-green color and extremely bitter-pungent taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
+    ],
+    "preparationMethods": [
+        "Leaf Juice: 10-20ml of fresh juice taken with honey or ginger juice for sciatica.",
+        "Leaf Decoction: 40ml taken twice daily for chronic fever.",
+        "Bark Powder: 1-3g taken with warm water for arthritis.",
+        "Flower Infusion: Used as a cooling wash for skin rashes."
+    ],
+    "dosages": {
+        "Children": "2.5 - 5 ml of leaf juice mixed with honey twice daily for respiratory support.",
+        "Adults": "10-20 ml juice; 1-3 g powder; 30-50 ml decoction.",
+        "Elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 10ml juice daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). No severe adverse interactions reported.",
+        "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia without documented toxicity.",
+        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-hypertensive or anti-diabetic medications.",
+        "Adverse Effects: None documented at traditional therapeutic levels. Discontinue if extreme bitterness causes nausea."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tagara",
+  "name": "Tagara",
+  "scientificName": "Valeriana wallichii DC.",
+  "botanicalFamily": "Caprifoliaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata, Kapha, and Pitta.",
+    "Karma: Nidra-janana (Sleep inducing), Manas-rogahara (Stress relief)."
+  ],
+  "usageForm": "Rhizome powder.",
+  "mainMedicinalUses": [
+    "Effective natural treatment for Insomnia and sleep apnea.",
+    "Calms nervous anxiety and panic attacks.",
+    "Reduces muscle spasms and tremors."
+  ],
+  "plantProfile": [
+    "Commonly known as Indian Valerian."
+  ],
+  "preparationMethods": [
+    "Root powder taken with warm water at bedtime."
+  ],
+  "dosages": {
+    "Adults": "1-3g"
+  },
+  "safetyProfile": [
+    "Safe for short-term; long-term use can cause mild dizziness."
+  ]
+}

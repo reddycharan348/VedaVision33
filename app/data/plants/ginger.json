@@ -1,0 +1,49 @@
+{
+  "name": "Ginger",
+  "scientificName": "Zingiber officinale Roscoe",
+  "botanicalFamily": "Zingiberaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Deepana' (appetizer) and 'Shulaghna' (pain-relieving) therapies, clearing the cold, heavy, and sticky qualities of Kapha. While fresh ginger (Ardraka) might increase Pitta, dry ginger (Sunthi) is more balanced.",
+    "Rasa (Taste): Katu (pungent). Sunthi (Dry) is Katu (pungent); Ardraka (Fresh) is Katu (pungent).",
+    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily) - Sunthi is Snigdha, Ardraka is Guru/Ruksha (relatively).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Madhura (sweet) - Sunthi is Madhura; Ardraka is Katu (pungent).",
+    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Vatahara (Vata-pacifying), Shulaghna (analgesic), Kasahara (cough-reliever), and Hridya (heart-tonic).",
+    "API/AFI Adherence: The dried rhizome (Sunthi) and fresh rhizome (Ardraka) are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in iconic classical formulations like Trikatu Churna, Sunthi Ghrita, and various digestive tonics.",
+    "Specific Indications: Used in Ajirna (Indigestion), Shoola (Abdominal colic), Amavata (Rheumatoid arthritis), Kasa (Cough), and Chardi (Vomiting/Motion sickness)."
+  ],
+  "usageForm": "Rhizome powder (Sunthi Churna), Fresh juice (Swarasa), Paste (Kalka), Decoction (Kwatha), Fermented extract (Arishta).",
+  "mainMedicinalUses": [
+    "Digestive Fire specialist (Vishwa-bheshaja): Known as 'Vishwa-bheshaja' (the world's medicine). It is the premier Ayurvedic remedy for all types of digestive issues. Its Tikshna (sharp) and Ushna (heating) nature helps in igniting the Jatharagni (digestive fire) and clearing Ama (metabolic toxins) from the gut. WHO-aligned research confirms its role in preventing nausea and stimulating digestion.",
+    "Motion Sickness and Nausea: Highly effective as a 'Chardighna' (anti-emetic). It helps in reducing the intensity and frequency of vomiting and motion sickness by calming the enteric nervous system and modulating gastric motility. It is a key herb for chemotherapy-induced nausea recovery.",
+    "Respiratory and Cough Support: Its Ushna (heating) potency helps in liquefying and expelling thick mucus from the lungs. It is traditionally used in 'Kasa' (cough) and 'Shwasa' (asthma) when there is excess Kapha accumulation. It provides instant relief from sore throat when used with honey.",
+    "Joint Pain and Anti-Arthritic: Its ability to clear 'Ama' (toxins) and balance Vata makes it a supreme choice for rheumatoid arthritis (Amavata) and osteoarthritis. It reduces joint inflammation and improves mobility through its systemic 'Shothahara' (anti-swelling) effect.",
+    "Cardiovascular Health: Acts as a mild Hridya (heart-tonic). It helps in regulating blood pressure (Hridya-rogahara) and protecting the heart muscles from oxidative stress through its potent antioxidant and cholesterol-lowering profile. It improves peripheral circulation and reduces blood clotting risk.",
+    "Metabolic Support and Obesity: Helps in reducing excessive body fat (Meda) by stimulating the 'Agni' (metabolism) and inhibiting the synthesis of fatty acids. It is often combined with black pepper and long pepper (Trikatu) for enhancing metabolic efficiency.",
+    "Phytochemical Profile: Rich in Gingerols (a group of pungent compounds), Shogaols, Zingerone, and various essential oils like zingiberene. These compounds contribute to its potent anti-inflammatory, antioxidant, and immunomodulatory properties."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Triptighna' (satisfaction-quenching) and 'Shulaprashamana' (pain-relieving) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Sunthi' literally translates to 'one that dries up'. It is spiritually associated with 'Sattva' (purity and clarity).",
+    "Physical Characteristics: A perennial herb growing up to 1 meter in height, with a thick, fleshy rhizome (underground stem) that is aromatic and pungent. The leaves are narrow, lanceolate, and green. The flowers are small, yellowish-green, in spike-like racemes. It is found throughout tropical India and Southeast Asia and is widely cultivated globally.",
+    "Specific Chemical Compounds: Primarily contains Gingerols (6-gingerol), Shogaols (6-shogaol), and various Sesquiterpenoids. The presence of gingerols is crucial for its anti-viral and anti-inflammatory action on the immune system.",
+    "Strict Standardizations: The rhizome is standardized in API based on its greyish-brown color and characteristic aromatic-pungent taste. Physicochemical benchmarks: total ash (<6%), alcohol-soluble extractive (>3%), and water-soluble extractive (>10%). HPLC is used to monitor 1% to 3% Gingerols in commercial extracts."
+  ],
+  "preparationMethods": [
+    "Sunthi Powder: 1-3g of dried rhizome powder taken twice daily with warm water or honey (for cough).",
+    "Fresh Juice (Ardraka Swarasa): 5-10ml of fresh rhizome juice taken twice daily with honey (for Kapha) or ginger water (for Vata) for maximum absorption.",
+    "Sunthi Decoction: 20g of dried rhizome boiled in 160ml water reduced to 40ml for chronic fevers and immunity support. Take twice daily before meals.",
+    "Ginger Water (Hima): 10g of crushed rhizome soaked in 60ml water overnight; filtered and taken with sugar in the morning for cooling and acidity.",
+    "External Paste: Ground fresh rhizome or paste applied directly to localized inflammations (Mumps, boils) to reduce heat and swelling."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
+    "Adults": "Powder: 1-3 grams; Swarasa (Juice): 5-10 ml; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "Elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 1g of powder daily with warm milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity, bleeding disorders) should use fresh ginger in moderation as it is Ushna (heating). Avoid during pregnancy or lactation in very large doses due to potential uterine stimulation.",
+    "GRAS Status: Classified as a safe medicinal herb and spice. It has been used for over 3000 years in Ayurveda without record of chronic toxicity at recommended doses.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

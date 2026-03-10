@@ -1,0 +1,46 @@
+{
+  "name": "Garmuti",
+  "scientificName": "Vigna trilobata (L.) Verdc. (Wild/Jungle Cowpea)",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Pitta and Kapha doshas. Due to its Madhura (sweet) and Tikta (bitter) Rasa, and Sheeta (cooling) Virya, it is a highly specialized wild legume for 'Raktaprasadana' (blood-soothing) and 'Jwarahara' (fever-reducing) therapies. It is 'Laghu' (light) and 'Ruksha' (dry), making it a mild Vata-increasing herb.",
+    "Rasa (Taste): Madhura (sweet), Tikta (bitter), Kashaya (astringent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry)",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Jwarahara (antipyretic), Raktapitta-hara (bleeding-stopper), Grahi (absorbent), and Vishaghna (anti-toxic).",
+    "API/AFI Adherence: Used regionally in tribal and deep rural Ayurvedic traditions as a potent substitute for Mudga/Mudgaparni in fever and diarrhea management.",
+    "Specific Indications: Used in Atisara (diarrhea), Raktapitta (Bleeding disorders), Jwara (chronic fever), Daha (Internal burning), and Visha (toxin accumulation)."
+  ],
+  "usageForm": "Seed decoction (Kashaya), Dehusked split pulse soup (Yusha), Leaf paste (Lepa), Seed powder (Churna).",
+  "mainMedicinalUses": [
+    "Expert Gastrointestinal and Diarrhea Care Specialist (Grahi): Garmuti is the premier wild pulse for managing burning diarrhea and dysentery in arid regions. Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions help in strengthening the gut lining.",
+    "Fever and Heat Management (Jwarahara): Provides instant relief from internal burning sensations (Daha), sunstrokes, and inflammatory fevers through its high 'Sheeta' (cooling) and 'Tikta' (bitter) properties.",
+    "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling.",
+    "Hepatoprotective and Anti-toxic: Historically known as 'Vishaghna' (anti-toxic). It effectively reduces hepatic heat, clears jaundice markers, and removes metabolic toxins from the blood.",
+    "Phytochemical Profile: Rich in Proteins (18-20%), Dietary Fiber, Phenolic acids (Gallic acid, Ferulic acid), Flavonoids (Quercetin, Kaempferol). The flavonoids act as intense hepato-protective and anti-diarrheal agents."
+  ],
+  "plantProfile": [
+    "Unique History: A tremendously hardy, drought-resistant wild bean recognized by ancient pastoralists as a life-saving 'fever-breaking' food during extreme heat and drought.",
+    "Physical Characteristics: A trailing or twining, deeply rooted annual or perennial herb with deeply three-lobed ('trilobata') leaves. Flowers are small and yellow. The pods are slender, cylindrical, containing tiny, black or mottled brown seeds. Found wild in arid, rocky soils and pastures of India.",
+    "Specific Chemical Compounds: Contains Quercetin, Kaempferol, and diverse Saponins. These form its anti-oxidative, cooling, and liver-protecting base.",
+    "Strict Standardizations: Standardized based on its deeply three-lobed leaves and tiny, hard seeds. "
+  ],
+  "preparationMethods": [
+    "Garmuti-Yusha (Medicated Soup): 1 part seeds boiled with 14 parts water, seasoned with ginger and cumin. Take as a primary meal for managing diarrhea and liver heat.",
+    "Kashaya (Decoction): Whole plant or seeds boiled and reduced. Taken for severe fever and jaundice.",
+    "Leaf Paste (Lepa): Fresh leaves crushed and applied to snake-bites, insect stings, or inflammatory swellings.",
+    "Seed Powder (Churna): 3-6g of fine powder taken with buttermilk."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 1-2 grams of powder mixed with honey once twice for diarrhea.",
+    "Adults": "10-20g of pulse cooked as soup, or 3-6g of powder per day.",
+    "Elderly": "Highly recommended for Pitta-dominant diarrhea and weakness."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with digestive spices like ginger and hing.",
+    "GRAS Status: Classified as a safe medicinal wild food.",
+    "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
+    "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+  ]
+}

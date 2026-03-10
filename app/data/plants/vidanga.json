@@ -1,0 +1,30 @@
+{
+  "id": "vidanga",
+  "name": "Vidanga",
+  "scientificName": "Embelia ribes Burm. f.",
+  "botanicalFamily": "Primulaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha.",
+    "Rasa: Katu (Pungent), Tikta (Bitter).",
+    "Virya: Ushna (Hot).",
+    "Karma: Krimighna (Anti-parasitic), Dipana (Digestive)."
+  ],
+  "usageForm": "Fruit powder.",
+  "mainMedicinalUses": [
+    "Premier Ayurvedic herb for intestinal worms.",
+    "Assists in weight loss by scraping fat.",
+    "Improves appetite and skin health."
+  ],
+  "plantProfile": [
+    "Climbing shrub native to hilly regions of India."
+  ],
+  "preparationMethods": [
+    "Powder mixed with castor oil or honey for worms."
+  ],
+  "dosages": {
+    "Adults": "1-2g"
+  },
+  "safetyProfile": [
+    "Contraindicated in pregnancy."
+  ]
+}

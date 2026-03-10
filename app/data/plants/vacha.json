@@ -1,0 +1,28 @@
+{
+  "id": "vacha",
+  "name": "Vacha",
+  "scientificName": "Acorus calamus L.",
+  "botanicalFamily": "Acoraceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha.",
+    "Karma: Medhya (Brain tonic), Vamana (Emetic)."
+  ],
+  "usageForm": "Rhizome powder.",
+  "mainMedicinalUses": [
+    "Improves speech and vocal clarity.",
+    "Treats amnesia and mental cloudiness.",
+    "Used for gastrointestinal pain."
+  ],
+  "plantProfile": [
+    "Commonly known as Sweet Flag; known for speech enhancement."
+  ],
+  "preparationMethods": [
+    "Small pinch of powder with honey."
+  ],
+  "dosages": {
+    "Adults": "125-250mg - VERY SMALL DOSES."
+  },
+  "safetyProfile": [
+    "High doses can cause nausea and vomiting."
+  ]
+}

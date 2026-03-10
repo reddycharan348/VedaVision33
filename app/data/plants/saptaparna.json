@@ -1,0 +1,28 @@
+{
+  "id": "saptaparna",
+  "name": "Saptaparna",
+  "scientificName": "Alstonia scholaris (L.) R. Br.",
+  "botanicalFamily": "Apocynaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
+    "Karma: Jwarahara (Antipyretic), Kushtaghna (Skin healer)."
+  ],
+  "usageForm": "Bark decoction.",
+  "mainMedicinalUses": [
+    "Specific for malarial fevers and skin ulcers.",
+    "Reduces high blood pressure and cholesterol.",
+    "Used to treat chronic diarrhea and dysentery."
+  ],
+  "plantProfile": [
+    "Name means 'seven leaves', found in clusters."
+  ],
+  "preparationMethods": [
+    "Decoction of bark."
+  ],
+  "dosages": {
+    "Adults": "20-30ml decoction"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

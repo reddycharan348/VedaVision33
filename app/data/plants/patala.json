@@ -1,0 +1,46 @@
+{
+  "name": "Patala",
+  "scientificName": "Stereospermum chelonoides (L.f.) DC. (Syn. Stereospermum suaveolens)",
+  "botanicalFamily": "Bignoniaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Vata and Kapha doshas. Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Shothahara' (anti-inflammatory) and 'Jwarahara' (antipyretic) therapies. It clears the cold and heavy qualities of Kapha through its systemic warming property.",
+    "Rasa (Taste): Tikta (bitter), Kashaya (astringent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Shothahara (anti-swelling), Jwarahara (antipyretic), Krimighna (anthelminthic), and Raktashodhaka (blood-purifier).",
+    "API/AFI Adherence: The dried stem bark and root are official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in Dashamoolarishta and various Vata-relieving and fever tonics.",
+    "Specific Indications: Used in Shotha (inflammation), Jwara (chronic fever), Kasa (cough), and Shwasa (asthma)."
+  ],
+  "usageForm": "Stem bark powder (Churna), Root decoction (Kwatha), Medicated ghee (Ghrita), Medicated oil (Taila).",
+  "mainMedicinalUses": [
+    "Expert Respiratory and Cough Specialist: Patala is the premier Ayurvedic remedy for all conditions of bronchial asthma and chronic cough. Its 'Tikshna' (sharp) and 'Ushna' (heating) nature provided by steroid saponins helps in providing systemic stabilization. WHO research confirms its potent bronchodilatory and anti-tussive effects.",
+    "Antipyretic and Chronic Fever: Highly effective for managing 'Jirnajwara' (chronic or intermittent fever). It promotes systemic cleansing and cleared metabolic toxins (Ama) from the blood stream. It is a key herb for managing recovery from viral and malarial infections.",
+    "Inflammation and Joint care: Its systemic anti-inflammatory (Shothahara) properties help in reducing localized pain and stiffness in conditions like rheumatoid arthritis (Amavata). It promotes the excretion of metabolic waste and reducing joint inflammation.",
+    "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The root paste applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Vranaropana' (wound-healing) effects.",
+    "Phytochemical Profile: Rich in Steroidal Glycosides, Alkaloids, and Flavonoids. The presence of lapachol is crucial for its anti-viral and anti-carcinogenic action on the immune system."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Dashamoola' (ten roots) group in ancient Ayurvedic treatises like Charaka Samhita. Historically used to symbolise the 'shattering of blocks'. Found throughout India and Southeast Asia and cultivated for medicine.",
+    "Physical Characteristics: A medium-to-large perennial deciduous tree reaching up to 15-20 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are opposite, pinnate (serrated), and green. The flowers are attractive, trumpet-shaped, and usually white-to-pale pink. Found throughout deciduous forests and wastelands of the sub-Himalayan tract and South India.",
+    "Specific Chemical Compounds: Contains Lapachol, Nyctanthin, D-mannitol, and Benzoic acid. The presence of lapachol is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action.",
+    "Strict Standardizations: The stem bark and root are standardized in API based on its greyish-brown color and characteristic extremely bitter-pungent-biting-astringent taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
+  ],
+  "preparationMethods": [
+    "Stem Bark Powder: 1 gram to 3 grams of fine powder taken twice daily with honey or warm water (for cough) or warm milk (for vitality).",
+    "Root Decoction: 20g of dried root boiled in 160ml water reduced to 40ml for chronic asthma and bronchial congestion. Take twice daily before meals.",
+    "Medicated Ghee: 5ml - 10ml taken twice daily for managing mental stress and physical weakness through its 'Rasayana' quality.",
+    "External Paste: Ground fresh root or paste applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "Adults": "Powder: 1-3 grams; Decoction: 20-50 ml; Ghee: 5-10 g.",
+    "Elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 1g of powder daily with honey at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). Avoid during pregnancy or lactation in very large therapeutic doses except under professional guidance.",
+    "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-hypertensive or anticoagulant medications.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vishala",
+  "name": "Vishala",
+  "scientificName": "Citrullus colocynthis (Honed)",
+  "botanicalFamily": "Cucurbitaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Kapha-Pitta Hara."
+  ],
+  "usageForm": "Decoction.",
+  "mainMedicinalUses": [
+    "Liver detox",
+    "Worms",
+    "Jaundice."
+  ],
+  "plantProfile": [
+    "Bitter melon variant."
+  ],
+  "preparationMethods": [
+    "Warm infusion."
+  ],
+  "dosages": {
+    "Adults": "10ml"
+  },
+  "safetyProfile": [
+    "Bitter."
+  ]
+}

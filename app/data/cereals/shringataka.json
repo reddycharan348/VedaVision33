@@ -1,0 +1,46 @@
+{
+  "name": "Shringataka",
+  "scientificName": "Trapa natans L. var. bispinosa (Water Chestnut)",
+  "botanicalFamily": "Lythraceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Pitta and Vata doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious aquatic starch for 'Garbhasthapana' (pregnancy-sustaining) and 'Brimhaniya' (nourishing) therapies. While it is cooling, it is 'Guru' (heavy), making it a Kapha-increasing food if over-consumed.",
+    "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
+    "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily)",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Madhura (sweet).",
+    "Karma (Actions): Brimhaniya (nourishing), Garbhasthapana (pregnancy-sustaining), Vrishya (aphrodisiac), Raktaprasadana (blood-soothing), and Balya (strength-promoter).",
+    "API/AFI Adherence: Known as 'Shringataka' in the Ayurvedic Pharmacopoeia of India (API). It is the base for several 'Pitta-hara' (cooling) formulations and fasting dietary preparations.",
+    "Specific Indications: Used in Garbhasrava (Miscarriage risk), Raktapitta (Bleeding disorders), Daurbalya (General weakness), Daha (Internal burning), and Vata-Pitta related nervous exhaustion."
+  ],
+  "usageForm": "Dry seed powder (Churna/Atta), Cooked starch (Odana), Fresh fruits (Phala), Medicated milk (Kshira-paka).",
+  "mainMedicinalUses": [
+    "Expert Pregnancy and Fetal Nourishment Specialist (Garbhasthapana): Shringataka is the premier Ayurvedic starch for managing a healthy pregnancy. Its 'Guru' (heavy) and 'Sheeta' (cooling) nature helps in providing systemic stabilization of the 'Rasa' and 'Shukra' tissues. WHO research confirms its high starch and mineral density, supporting fetal development.",
+    "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Historically known as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the uterus, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
+    "Reproductive Health and Aphrodisiac (Vrishya): Associated with 'Vajikarana' (aphrodisiac). It improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya) action.",
+    "Fasting Diet Support (Phalahara): Used widely as a non-cereal grain (Singhara Atta) during religious fasts to provide sustained energy, prevent acidity, and keep the body cool.",
+    "Phytochemical Profile: Rich in Carbohydrates (Starch), Proteins (limited but essential), Phenolic acids, Flavonoids, and Essential Minerals (Iodine, Potassium, Zinc). The presence of iodine and potassium is crucial for its thyroid-regulating, anti-tumor, and anti-inflam-matory action on the cardiovascular system."
+  ],
+  "plantProfile": [
+    "Unique History: Mentioned in the Charaka Samhita as the best among 'Phalavarga' (aquatic fruits used as grain). Historically used as a primary cooling starch for scholars and pregnant women due to its 'Ojas' enhancing quality. Regarded as 'Mother of the Waters'.",
+    "Physical Characteristics: A floating annual aquatic plant with submerged and floating leaves. The fruit is a distinctive, hard somewhat woody nut containing a single large, white, starchy seed, characteristically bearing two sharp spines. Found in ponds and lakes throughout India.",
+    "Specific Chemical Compounds: Contains Trapain, Gallic acid, and diversos Tannins. The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+    "Strict Standardizations: The dried kernel is standardized in API based on its greyish-white color and characteristic sweet-starchy taste. Physicochemical benchmarks: total ash (<8%), starch content (>70%)."
+  ],
+  "preparationMethods": [
+    "Shringataka-Atta (Singhara Flour): Dried kernels ground into flour and used to make flatbreads or porridge for daily nourishment.",
+    "Shringataka-Kshira-Paka: 10g of powder boiled in milk and seasoned with cardamom. Take for pregnancy support and weakness.",
+    "Fresh Fruit Consumption: Boiled or roasted fresh fruits eaten as a cooling snack during autumn.",
+    "External Paste (Lepa): Ground powder mixed with rose water applied directly to localized inflammations or painful joints to reduce heat."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 10 - 20 grams of cooked starch mixed with milk once twice for development.",
+    "Adults": "Daily staple food alternative (50-100g of flour per meal).",
+    "Elderly": "Highly recommended to prevent age-related weight loss and maintain physical stability. Dosage: 50g of flour daily."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with extreme high Kapha (severe obesity, chronic congestion) should use it in moderation as it is Guru (heavy) and difficult to digest if not cooked well.",
+    "GRAS Status: Classified as a safe medicinal food source.",
+    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+    "Adverse Effects: Overconsumption leads to excessive cooling and heavy digestion (constipation) if not appropriately cooked with cumin."
+  ]
+}

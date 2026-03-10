@@ -1,0 +1,49 @@
+{
+  "name": "Agnimantha",
+  "scientificName": "Premna integrifolia L.",
+  "botanicalFamily": "Lamiaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Primarily pacifies Vata and Kapha doshas due to its Ushna Virya (hot potency) and Laghu (light), Ruksha (dry) Gunas. It may increase Pitta dosha in excess or in Pitta-dominant individuals.",
+    "Rasa (Taste): Katu (pungent), Tikta (bitter), Kashaya (astringent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Vatahara (Vata pacifying), Kapha-hara (Kapha pacifying), Shothahara (anti-inflammatory), Vedanasthapana (analgesic), Jwarahara (antipyretic), Rasayana (rejuvenative, especially for Vata disorders).",
+    "API/AFI Adherence: The root and root bark are the primary parts used, as specified in the Ayurvedic Pharmacopoeia of India (API). It is a key ingredient in the classical formulation Dashamoola (the ten roots) and Agnimantha Arishta, adhering to API standards for raw drug identification and quality.",
+    "Specific Indications: Used in Vata Vyadhi (neurological disorders), Amavata (rheumatoid arthritis), Shotha (inflammation), Jwara (fever), Shwasa (asthma), Kasa (cough), and various painful conditions."
+  ],
+  "usageForm": "Root bark powder (Churna), Root decoction (Kwatha), Fermented preparation (Arishta), Medicated oils (Taila), Ghee (Ghrita).",
+  "mainMedicinalUses": [
+    "Anti-inflammatory and Analgesic: Highly effective in treating inflammatory conditions (Shotha) and pain (Shoola), particularly those associated with Vata imbalance, such as rheumatoid arthritis (Amavata) and osteoarthritis. WHO research acknowledges its traditional use in musculoskeletal pain.",
+    "Neurological Disorders: A vital component in managing Vata Vyadhi, including paralysis, sciatica, and tremors, by pacifying aggravated Vata dosha. Its neuroprotective potential is an area of ongoing botanical interest.",
+    "Respiratory Ailments: Utilized in conditions like asthma (Shwasa), cough (Kasa), and bronchitis due to its Kapha-pacifying and bronchodilatory properties, helping to clear respiratory passages.",
+    "Fever Management: Acts as an antipyretic (Jwarahara) and diaphoretic, aiding in the reduction of fever and promoting perspiration, as per traditional Ayurvedic texts and supported by some preliminary pharmacological studies.",
+    "Digestive Stimulant: Enhances digestive fire (Deepana) and aids in the digestion of Ama (toxins) (Pachana), making it beneficial for sluggish digestion and metabolic disorders.",
+    "Hepatoprotective Activity: Emerging WHO-aligned research indicates potential hepatoprotective effects, suggesting its role in supporting liver function, possibly due to its antioxidant compounds.",
+    "Chemical Constituents: Contains significant bioactive compounds including flavonoids (e.g., luteolin, apigenin), iridoid glycosides (e.g., premnine, premnol), lignans, alkaloids, triterpenes, and steroids, which contribute to its diverse pharmacological actions."
+  ],
+  "plantProfile": [
+    "Unique History: Agnimantha is one of the 'Dashamoola' (ten roots), a revered group of roots in Ayurveda known for their profound Vata-pacifying and anti-inflammatory properties. Its mention dates back to ancient Ayurvedic treatises like Charaka Samhita, Sushruta Samhita, and Ashtanga Hrudayam.",
+    "Physical Characteristics: A large shrub or small tree, typically growing up to 9 meters in height. It features simple, opposite, ovate to elliptic leaves, often entire or irregularly toothed. The flowers are small, greenish-white, arranged in terminal panicles. The fruit is a small, globose, blackish-purple drupe, approximately 5-8 mm in diameter. It is commonly found in coastal regions, deciduous forests, and plains throughout India.",
+    "Specific Chemical Compounds: Key constituents include premnine, premnol, ganiarine, iridoid glycosides (e.g., premnoside, premnanthoside), flavonoids (e.g., scutellarein, hispidulin, apigenin, luteolin), lignans (e.g., (+)-syringaresinol), and various triterpenes and steroids. These compounds are responsible for its anti-inflammatory, analgesic, antioxidant, and immunomodulatory activities.",
+    "Strict Standardizations: As per API, the root and root bark are standardized based on macroscopic and microscopic characteristics for identification. Physicochemical parameters include total ash, acid-insoluble ash, alcohol-soluble extractive, and water-soluble extractive values. Chromatographic techniques (e.g., HPTLC) are increasingly used for fingerprinting and quantification of marker compounds to ensure authenticity and prevent adulteration, aligning with WHO quality control guidelines for herbal materials."
+  ],
+  "preparationMethods": [
+    "Decoction (Kwatha): Take 1 part of dried Agnimantha root bark (e.g., 10g) and boil it in 8 or 16 parts of water (e.g., 80ml or 160ml) until the volume reduces to 1/4th (e.g., 20ml or 40ml). Filter and consume warm. This is a common method for acute conditions and Vata disorders.",
+    "Powder (Churna): The dried root bark is micronized into a fine powder. This powder can be consumed with warm water, honey, or ghee. Ensure the powder is sieved to a uniform particle size (e.g., 80 mesh) for optimal absorption and consistency.",
+    "Arishta (Fermented Preparation): Agnimantha is a primary ingredient in Agnimantha Arishta. The root bark is soaked in water with jaggery/sugar and specific fermenting agents, then allowed to ferment for several weeks. This process extracts active compounds and enhances bioavailability.",
+    "Medicated Oil (Taila): The root bark paste or decoction is cooked with a base oil (e.g., sesame oil) and other herbs until all water content evaporates, leaving behind a medicated oil. This is used for external application in pain and inflammation.",
+    "Paste (Kalka): Fresh or dried root bark can be ground into a paste with water, which can be applied topically for localized pain and swelling."
+  ],
+  "dosages": {
+    "Children": "Not generally recommended for children without strict medical supervision by a qualified Ayurvedic practitioner. If prescribed, doses are significantly lower, typically 1/4 to 1/2 of the adult dose, depending on age and weight, and usually in milder forms like diluted decoctions.",
+    "Adults": "Powder (Churna): 3-6 grams per day, in divided doses (e.g., 1.5-3g twice daily). Decoction (Kwatha): 50-100 ml per day, in divided doses (e.g., 25-50ml twice daily). Arishta: 15-30 ml twice daily, diluted with an equal amount of water, after meals.",
+    "Elderly": "Similar to adult dosages, but with caution. It is advisable to start with lower doses (e.g., 2-4g of powder or 30-60ml of decoction per day) and gradually increase if well-tolerated, especially in individuals with multiple comorbidities or on polypharmacy."
+  },
+  "safetyProfile": [
+    "Contraindications: Due to its Ushna Virya (hot potency) and Katu Vipaka, it is generally contraindicated in individuals with severe Pitta aggravation, hyperacidity, gastric ulcers, or inflammatory bowel conditions. Pregnant and lactating women should avoid its use due to insufficient safety data and potential abortifacient effects in high doses, as well as the hot potency.",
+    "GRAS Status: While not formally designated as 'Generally Recognized As Safe' (GRAS) by regulatory bodies like the FDA, Agnimantha has a long history of safe use in traditional Ayurvedic medicine when administered appropriately and within recommended dosages. WHO monographs emphasize safety based on traditional use and available toxicological data, which for Premna integrifolia, indicates a good safety profile at therapeutic doses.",
+    "Herb-Drug Interactions: Caution is advised when co-administering with anticoagulant or antiplatelet medications due to potential synergistic effects, although specific strong interactions are not extensively documented for P. integrifolia. It may also interact with antidiabetic drugs due to its potential to influence blood glucose levels. Individuals on medications for hypertension or those with cardiovascular conditions should consult a physician due to its potential effects on circulation and metabolism.",
+    "Adverse Effects: In sensitive individuals or with excessive doses, it may cause gastric irritation, increased body heat, or exacerbate Pitta-related symptoms like heartburn or skin rashes. Discontinue use if adverse reactions occur."
+  ]
+}

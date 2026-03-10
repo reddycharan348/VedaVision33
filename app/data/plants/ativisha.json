@@ -1,0 +1,49 @@
+{
+  "name": "Ativisha",
+  "scientificName": "Aconitum heterophyllum Wall. ex Royle",
+  "botanicalFamily": "Ranunculaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful Tridoshahara (pacifies all three doshas), specifically excels in balancing Kapha and Pitta. Due to its Ushna (heating) Virya and Tikta (bitter) Rasa, it clears deep-seated Ama (toxins) and is considered one of the 'Vishaghna' (anti-toxic) herbs. It does not aggravate Vata when used in therapeutic doses.",
+    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Sangrahi (absorbent), Jwarahara (antipyretic), Krimighna (anthelminthic), and Balya (especially for children - 'Bala-Ativisha').",
+    "API/AFI Adherence: The dried tuberous root is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a key ingredient in prestigious classical formulations like Balachaturbhadra Churna, Mahasudarshana Churna, and Chandraprabha Vati.",
+    "Specific Indications: Primary herb for Atisara (diarrhea) especially in children, Jwara (fever), Ama-dosha (metabolic toxins), obesity, and intestinal worms (Krimi)."
+  ],
+  "usageForm": "Purified tuber powder (Churna), Root decoction (Kwatha), Medicated ghee (Ghrita).",
+  "mainMedicinalUses": [
+    "Pediatric Digestive Health: Famously known as the 'friend of children.' It is the premier choice for infantile diarrhea, vomiting, and low appetite. It improves the absorption of nutrients and clears intestinal congestion.",
+    "Malaria and Fevers: Highly effective as a Jwarahara (antipyretic), particularly in Vishama Jwara (intermittent/malarial fevers). WHO-aligned research recognizes its ability to reduce fever by clearing the systemic 'Ama' (metabolic waste) responsible for the infection.",
+    "Gastrointestinal Support: Its Sangrahi (absorbent) and Deepana (appetizer) actions make it incomparable for chronic diarrhea, dysentery, and irritable bowel symptoms where there is high Ama (undigested food) content.",
+    "Metabolism and Weight Loss: Helps in reducing excessive Kapha and Meda (fat) tissue by stimulating the Jatharagni (digestive fire) and improving metabolic rates. It aids in managing high cholesterol and blood sugar levels.",
+    "Anthelminthic Activity: Traditionally used as a Krimighna (de-worming) agent, effective against various intestinal parasites and worms without the toxic side effects of other Aconite varieties.",
+    "Anti-inflammatory and Analgesic: The bitter alkaloids in the root exert a systemic anti-inflammatory effect, helping in conditions like rheumatoid arthritis (Amavata) and localized neuralgic pain by clearing blocked Vata pathways.",
+    "Phytochemical Profile: Rich in non-toxic diterpene alkaloids like atisine, heterophylline, atidine, and htisone. Importantly, it lacks the toxic alkaloid Aconitine, making it safe for medicinal use in children and adults."
+  ],
+  "plantProfile": [
+    "Unique History: A highly sacred and valued herb of the Himalayas. Ancient Ayurvedic texts (Charaka Samhita) categorize it under the 'Krimighna' (worm-destroying) and 'Dipaniya' (appetizer) groups. It is culturally known as 'Bhavaprakasha's choice' for children's health.",
+    "Physical Characteristics: A perennial, biennial herb growing in the sub-alpine and alpine regions of the Himalayas (altitude 2500m to 4000m). It features broad, heart-shaped (cordate) lower leaves and narrow, amplexicaul upper leaves. The flowers are large, hood-shaped, and usually blue or yellowish-green. The root consists of small, paired, white or greyish tubers.",
+    "Specific Chemical Compounds: Key constituents include Diterpene Alkaloids (Atisine, Heterophylline, Atidine, Htisone), Saponins, Tannins, and Starch. Atisine is known for its non-toxic, potent antipyretic and anti-diarrheal properties.",
+    "Strict Standardizations: API standards specify macroscopic (bitter taste, no tingling/numbing sensation) and microscopic features to distinguish it from toxic Aconites (Vatsanabha). Physicochemical benchmarks: total ash (<4%), alcohol-soluble extractive (>5%), and water-soluble extractive (>20%)."
+  ],
+  "preparationMethods": [
+    "Root Powder (Churna): 1-3g for adults, 250-500mg for children (mixed with honey as an Anupana).",
+    "Decoction (Kwatha): 5g root boiled in 100ml water reduced to 25ml for fever and obesity. Take twice daily before meals.",
+    "Honey Paste (for Infants): A tiny pinch of purified powder (approx. 50-100mg) mixed with honey and ginger juice for colic and vomiting.",
+    "Chandraprabha Vati: Often administered in classical tablet form for urinary and metabolic health.",
+    "Medicated Ghee: The root is processed with cow's ghee to treat chronic fever and debility."
+  ],
+  "dosages": {
+    "Children": "250 mg to 500 mg per day for children aged 1-12. For infants (below 1), 125 mg per day under strict medical supervision.",
+    "Adults": "1 gram to 3 grams per day, typically divided into two doses (morning and evening), usually after meals.",
+    "Elderly": "1 gram per day, monitoring for digestive tolerance. Excellent for clearing age-related metabolic sluggishness."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, avoid in cases of extreme dehydration and severe constipation (due to its 'Sangrahi' nature). Avoid excessive use in high Pitta-dominant symptoms like bleeding disorders (Raktapitta).",
+    "GRAS Status: Classified as a safe medicinal herb with no record of toxicity at therapeutic levels (distinguishing it from the toxic Aconitum ferox).",
+    "Herb-Drug Interactions: No major documented interactions, but monitor if taken with synthetic antipyretics or diuretics as it may potentiate their effects.",
+    "Adverse Effects: Rare. Overdose may cause mild dryness of mouth or slight nausea in Pitta-sensitive individuals."
+  ]
+}

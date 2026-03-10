@@ -1,0 +1,27 @@
+{
+  "id": "chandana_oil",
+  "name": "Chandana Oil",
+  "scientificName": "Santalum album Essence",
+  "botanicalFamily": "Santalaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pitta Hara."
+  ],
+  "usageForm": "Essence Oil.",
+  "mainMedicinalUses": [
+    "Skin cooling",
+    "Perfumery",
+    "Mental calm."
+  ],
+  "plantProfile": [
+    "Essential oil from heartwood."
+  ],
+  "preparationMethods": [
+    "Steam distilled."
+  ],
+  "dosages": {
+    "Adults": "1 drop (external)"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Jatamansi",
+  "scientificName": "Nardostachys jatamansi (D. Don) DC.",
+  "botanicalFamily": "Caprifoliaceae (formerly Valerianaceae)",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful Tridoshahara (pacifies all three doshas). Due to its Tikta (bitter) and Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Medhya' (intellect-promoting) and 'Nidra-janana' (insomnia-relieving) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata. It is arguably the most supreme mind-balancing herb.",
+    "Rasa (Taste): Tikta (bitter), Kashaya (astringent), Madhura (sweet).",
+    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Medhya (intellect-promoting), Nidra-janana (insomnia-reliever), Hridya (heart-tonic), Jwarahara (antipyretic), Raktaprasadana (blood-soothing), and Vishaghna (anti-toxic).",
+    "API/AFI Adherence: The dried rhizome and root are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Jatamansi Ghrita, Saraswatarishta, and various mental-health tonics.",
+    "Specific Indications: Used in Unmada (insanity), Apasmara (epilepsy), Anidra (insomnia), Shoka (grief/depression), Hrid-roga (heart diseases), and Kamala (jaundice)."
+  ],
+  "usageForm": "Rhizome powder (Churna), Essential oil (Taila), Root decoction (Kwatha), Medicated ghee (Ghrita).",
+  "mainMedicinalUses": [
+    "World-Famous Mind and Insomnia Specialist: Jatamansi is the premier Ayurvedic mind tonic. It helps in enhancing cognitive function, improving memory retention, and providing systemic calming to the nervous system through its antioxidant-rich profile. It is arguably more powerful than Brahmi for managing insomnia and severe anxiety. WHO-aligned research supports its role in neuro-protection and anti-stress effects.",
+    "Epilepsy and Convulsion management: Traditionally used as 'Apasmara-hara' (anti-epileptic). It helps in stabilizing the electrical activity of the brain and reducing the frequency and severity of seizures by clearing 'Ama' (toxins) and balancing Vata-Pitta. Clinical studies confirm its anticonvulsant influence.",
+    "Heart and Emotional Wellbeing: Acts as a mild Hridya (heart-tonic). Its aromatic presence and cooling nature help in regulating heart rate and providing mental calm, managing stress, anxiety, and anger related to Pitta aggravation. It helps in reducing high blood pressure related to mental stress.",
+    "Cooling and Internal Heat: Its extreme cooling potency provides instant relief from internal burning sensations (Daha), sunstrokes, and inflammatory fevers. It helps in Reducing systemic heat and inflammatory congestion.",
+    "Vision and Eye health Support: Enhances optical health and reduces redness or burning sensations in the eyes. It is traditionally used to improve skin radiance and prevent age-related skin aging and discoloration by providing systemic blood-purifying effects.",
+    "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The paste applied topically promotes rapid healing of wounds and prevents scarring.",
+    "Phytochemical Profile: Rich in Sesquiterpenes (Jatamansone, Nardostachone), Valeranone, Actinitidine (alkaloid), and various Lignans. Jatamansone is the primary bioactive responsible for its potent anti-convulsant and anti-anxiety action."
+  ],
+  "plantProfile": [
+    "Unique History: A highly sacred and valued herb of the Himalayas, often called the 'Indian Nard' or 'Spikenard'. Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Medhya' (intellect-promoting) and 'Nidra-janana' (insomnia-relieving) properties. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in the Bible for its use as a sacred anointing oil.",
+    "Physical Characteristics: A perennial, biennial herb growing in the sub-alpine and alpine regions of the Himalayas (altitude 3000m to 5000m). It features broad, heart-shaped (cordate) lower leaves and narrow, amplexicaul upper leaves. The flowers are small, bell-shaped, and usually white or pale-pink. The rhizome consists of thick, vertical, brownish-black roots with a characteristic sweet-earthy-musky fragrance. It is an endangered species.",
+    "Specific Chemical Compounds: Primarily contains Sesquiterpenes (Jatamansone, Valeranone), Alkaloids, and Flavonoids. The presence of jatamansone is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the brain cells.",
+    "Strict Standardizations: The rhizome is standardized in API based on its brownish-black color and characteristic sweet-musky-earthy odor. Physicochemical benchmarks: total ash (<15%), alcohol-soluble extractive (>2%), and water-soluble extractive (>5%). GC-MS is used to monitor 0.5% to 1.5% volatile oil in commercial extracts."
+  ],
+  "preparationMethods": [
+    "Rhizome Powder (Churna): 1-3g of fine powder taken twice daily with honey or warm milk (as an Anupana) for enhancing memory and intellect.",
+    "Root Decoction (Kwatha): 5g of dried rhizome boiled in 100ml water reduced to 25ml for chronic insomnia and anxiety. Take twice daily before meals.",
+    "Jatamansi Ghrita: 5-10g of ghee processed with Jatamansi; taken to treat chronic mental stress and neurological disorders through its 'Rasayana' quality.",
+    "Essential Oil (Taila): The wood oil is traditionally applied topically (mixed with sesame oil) to the scalp and forehead for managing mental stress and insomnia.",
+    "External Paste: Ground fresh rhizome or paste applied directly to the forehead for fever and headache or to localized inflammations to reduce heat and swelling."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for enhancing concentration and learning in students.",
+    "Adults": "Powder: 1-3 grams; Decoction: 20-50 ml; Ghee: 5-10 g; Oil: 1-2 drops (internal, with precautions), divided throughout the day before or during meals.",
+    "Elderly": "Ideal for age-related cognitive support and preventing memory loss. Dosage: 1g of powder daily with warm milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid during pregnancy or lactation in very large therapeutic doses due to its calming nature.",
+    "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-epileptic or sedative medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

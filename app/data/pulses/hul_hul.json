@@ -1,0 +1,47 @@
+{
+  "name": "Hul-hul",
+  "scientificName": "Cleome viscosa L. (Wild Mustard/Asian Spider Flower)",
+  "botanicalFamily": "Cleomaceae (formerly Capparidaceae)",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Vata and Kapha doshas. Due to its Katu (pungent) and Tikta (bitter) Rasa, and Ushna (heating) Virya, it is a highly specialized wild seed for 'Krimighna' (anthelminthic) and 'Kusthaghna' (skin-disease-destroying) therapies. It is 'Laghu' (light) and 'Ruksha' (dry), making it strongly Pitta-increasing if used improperly.",
+    "Rasa (Taste): Katu (pungent), Tikta (bitter).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Krimighna (anthelminthic), Kusthaghna (skin-disease-destroyer), Shothahara (anti-swelling), Kandughna (anti-itching), and Deepana (appetizer).",
+    "API/AFI Adherence: Known as 'Aditya-Bhakta' or 'Hul-hul' in regional Ayurveda and folk medicine. The seeds are functionally used as a wild, extremely potent substitute for common mustard (Sarshapa).",
+    "Specific Indications: Used in Krimi (Intestinal and skin worms), Kushtha (Skin diseases, eczema), Shotha (Edema/Arthritis), Karnasrava (Ear infections), and Ajirna (Indigestion)."
+  ],
+  "usageForm": "Seed powder (Churna), Fresh leaf juice (Swarasa), Seed oil (Taila), Leaf/Seed paste (Lepa).",
+  "mainMedicinalUses": [
+    "Expert Anti-Parasitic Specialist: Hul-hul seeds are a premier indigenous remedy for clearing intestinal parasites (roundworms) and severe skin infections. Its 'Tikshna' (sharp) and 'Ushna' (heating) properties provided by Cleomin and glucosinolates pierce to the root of the infection.",
+    "Ear, Nose, and Throat Care (Karnasrava): Fresh leaf juice, slightly warmed, is famously instilled as ear drops to cure chronic earaches (Karna-shoola), pus discharge, and deafness caused by Kapha-Vata blockage.",
+    "Anti-Inflammatory and Arthritis Management (Shothahara): Extensively used as a rubefacient. The seed paste or oil induces extreme local heat, dramatically reducing the intensity of joint stiffness and chronic Vata-related rheumatic nerve disorders.",
+    "Skin Disease and Itch Relief (Kandughna): Effectively reduces the intensity and frequency of localized ringworm, severe itching, and parasitic skin issues by providing systemic 'Deepana' (digestive) action and clearing toxic Kapha from the skin layers.",
+    "Digestive Catalyst: Ignites the 'Jatharagni' (digestive fire) through its systemic carminative action, clearing stagnant, toxic food (Ama) from the gut.",
+    "Phytochemical Profile: Rich in Glucosinolates (Cleomin), Essential Oils, Coumarino-lignans, Favonoids, and specific fatty acids. Cleomin is the primary bioactive responsible for its intense rubefacient and anthelmintic effects."
+  ],
+  "plantProfile": [
+    "Unique History: A remarkably resilient, sticky 'weed' recognized by ancient healers (often called 'Aditya-bhakta' because its flowers turn to the sun) for possessing fiery medicinal properties, acting rapidly.",
+    "Physical Characteristics: An erect, highly branched, sticky, strong-smelling annual herb reaching 0.3-1 meter. The whole plant is covered in glandular hairs. Leaves are palmately compound (3-5 leaflets). Flowers are beautiful pale to bright yellow. Produces long, slender capsules containing numerous tiny dark brown-black, kidney-shaped seeds. Found wildly in waste places and fields.",
+    "Specific Chemical Compounds: Contains Cleomin, Glucocapparin, and Coumarinolignans. These compounds are intensely acrid and rubefacient.",
+    "Strict Standardizations: Standardized based on its distinctive sharp, repulsive mustard-like smell ('viscous' glands) and tiny rough seeds. Physicochemical benchmarks: High volatile oil content."
+  ],
+  "preparationMethods": [
+    "Seed Powder (Churna): 1-3g of fine seed powder taken with warm water for 3 days strictly for expelling intestinal worms.",
+    "Karna-Bindu (Ear Drops): Fresh leaf juice warmed and dropped (2 drops) into the ear for pain and infection.",
+    "Hul-hul Taila (Medicated Oil): Seeds boiled in sesame/mustard oil for intense local massage in paralysis and rheumatism.",
+    "External Paste (Lepa): Ground fresh leaves or seeds applied as a blister-inducing plaster (must be monitored closely) for deep joint pain or fresh wounds."
+  ],
+  "dosages": {
+    "Children": "0.5 - 1 gram of powder mixed with honey for worms (under strict supervision). Ear drops are safe.",
+    "Adults": "1-3g of powder internally. Widespread external application requires care.",
+    "Elderly": "Topical oil application highly recommended for stiff joints."
+  },
+  "safetyProfile": [
+    "Contraindications: STRICTLY contraindicated in high Pitta (burning, bleeding disorders, ulcers). Do not use continuously for over a week internally. Avoid in pregnancy.",
+    "GRAS Status: Classified as a potent medicinal herb, not a daily food source.",
+    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+    "Adverse Effects: Extreme heating, skin blistering (if paste left too long), severe acidity and vomiting if overdosed."
+  ]
+}

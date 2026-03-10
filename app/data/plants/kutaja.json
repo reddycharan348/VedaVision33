@@ -1,0 +1,49 @@
+{
+  "name": "Kutaja",
+  "scientificName": "Holarrhena antidysenterica Wall. ex A.DC. (Syn. Holarrhena pubescens)",
+  "botanicalFamily": "Apocynaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Sangrahi' (absorbent) and 'Arshoghna' (hemorrhoid-destroying) therapies, clearing the fiery and agitated qualities of Pitta and the heavy, cold qualities of Kapha through its systemic astringent property. It may increase Vata if used in excess.",
+    "Rasa (Taste): Tikta (bitter), Kashaya (astringent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry).",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Sangrahi (absorbent), Deepana (appetizer), Arshoghna (hemorrhoid-reliever), Kandughna (anti-itch), Vishaghna (anti-toxic), and Jwarahara (antipyretic).",
+    "API/AFI Adherence: The dried stem bark and seeds (Indrayava) are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in iconic classical formulations like Kutajaghan Vati, Kutajarishta, and various gastrointestinal tonics.",
+    "Specific Indications: Used in Atisara (Diarrhea), Pravahika (Dysentery), Arsha (Hemorrhoids), Raktapitta (Bleeding disorders), and Kushtha (Skin diseases)."
+  ],
+  "usageForm": "Stem bark powder (Churna), Seed powder (Indrayava Churna), Decoction (Kwatha), Tablet (Vati), Fermented extract (Arishta).",
+  "mainMedicinalUses": [
+    "World-Famous Dysentery and Diarrhea Specialist (Sangrahi): Kutaja is the absolute gold standard in Ayurveda for managing acute and chronic dysentery (Pravahika). Its 'Sangrahi' (absorbent) and 'Kashaya' (astringent) nature provided by conessine alkaloids helps in binding the stool, neutralizing intestinal pathogens (Amoeba), and cooling the gut lining. WHO-aligned research confirms its potent amoebicidal and anti-diarrheal properties.",
+    "Hemorrhoids and Bleeding support: Historically known as 'Arshoghna' (hemorrhoid-reliever). It effectively reduces the size of bleeding piles and controls localized inflammation by clearing 'Pitta-Avarana' (Pitta-obstruction) in the rectal region and providing systemic hemostatic balance.",
+    "Skin Health and Itch Relief: Known as 'Kandughna' (anti-itch). Its cooling and antimicrobial properties help in treating chronic skin conditions like eczema, psoriasis, and fungal infections. The bark decoction is traditionally used for bathing or localized wash to reduce itching and inflammation.",
+    "Blood Purification and Fever: Acts as a powerful 'Jwarahara' (fever-reliever), particularly in persistent and malarial fevers. It helps in reducing the intensity of fevers by clearing systemic 'Ama' (metabolic toxins) and pathogens from the blood stream.",
+    "Digestive and Appetizer: Its Tikta (bitter) and Laghu (light) nature helps in igniting the Jatharagni (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Anaha' (bloating) and severe indigestion associated with diarrhea.",
+    "Reproductive Health: The seeds (Indrayava) are traditionally used to manage bleeding disorders and regularize menstrual flow (Raktapradara) due to their cooling and astringent effects.",
+    "Phytochemical Profile: Rich in Steroidal Alkaloids (Conessine, Kurchine, Holarrhenine), Tannins, and Sterols. Conessine is the primary bioactive responsible for its potent anti-amoebic, anti-bacterial, and anti-diarrheal action."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Arshoghna' (hemorrhoid-destroying) and 'Kandughna' (itch-destroying) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kutaja' literally translates to 'one that stays in the mountains'. The seeds are called 'Indrayava' (Indra's barley). It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Tellicherry Bark'.",
+    "Physical Characteristics: A small-to-medium-sized deciduous tree reaching up to 10-15 meters in height, with a majestic crown and greyish-brown, rough bark. The leaves are opposite, ovate-elliptic, and leathery. The flowers are attractive, white, fragrant, in terminal corymbose cymes. The fruit consists of two long, slender follicles (pods) containing numerous seeds (Indrayava) with a tuft of silky hairs. It is found throughout India, particularly in the sub-Himalayan tract and deciduous forests.",
+    "Specific Chemical Compounds: Primarily contains Steroidal Alkaloids (Conessine, Isoconessine). The presence of conessine is crucial for its anti-amoebic, anti-bacterial, and anti-tubercular action on the intestinal walls.",
+    "Strict Standardizations: The stem bark is standardized in API based on its greyish-brown color and characteristic extremely bitter taste. Physicochemical benchmarks: total ash (<7%), alcohol-soluble extractive (>10%), and water-soluble extractive (>12%). HPLC is used to monitor 2% to 3% total alkaloids calculated as conessine."
+  ],
+  "preparationMethods": [
+    "Stem Bark Powder (Churna): 3-6g of fine powder taken twice daily with buttermilk (as a digestive Anupana) for chronic diarrhea.",
+    "Kutajaghan Vati: Classical tablet form (dried decoction) used for immediate relief from dysentery; taken (250-500mg) three times daily with warm water.",
+    "Kutajarishta: 15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles.",
+    "Indrayava Churna: 1-3g of seed powder taken for managing intestinal worms and bleeding disorders.",
+    "External Decoction wash: 20g of bark boiled in 1 liter of water; used as a localized wash for chronic skin itching and non-healing ulcers."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder (or Vati) mixed with honey or pomegranate juice once or twice daily for diarrhea relief.",
+    "Adults": "Powder: 3-6 grams; Vati (Tablet): 250-1000 mg; Arishta: 15-30 ml, divided throughout the day before or during meals.",
+    "Elderly": "Ideal for age-related digestive support and maintaining gut health. Dosage: 3g of powder daily with warm water or buttermilk."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with extreme high Vata (severe constipation, dryness) should use it in moderation as it is Kashaya (astringent). Avoid during pregnancy in very large therapeutic doses except under professional guidance.",
+    "GRAS Status: Classified as a safe medicinal herb and bark with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and Himachali medicine) without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diarrheal or antibiotic medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild gut dryness or constipation. Discontinue if extreme bitterness causes nausea."
+  ]
+}

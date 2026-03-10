@@ -1,0 +1,47 @@
+{
+    "name": "Yava",
+    "scientificName": "Hordeum vulgare L.",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful Kapha and Pitta Hara (pacifies Kapha and Pitta doshas). Due to its Kashaya (astringent) and Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Katu Vipaka, it is the most prestigious cereal for 'Lekhana' (scraping) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry), making it a Vata-increasing grain if not cooked with unctuous substances.",
+        "Rasa (Taste): Kashaya (astringent), Madhura (sweet).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry), Sara (flowing).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Lekhana (scraping), Medahara (fat-relieving), Mutravirechaniya (diuretic), Varnya (complexion-improving), and Sthairyakrit (stability-promoting).",
+        "API/AFI Adherence: Known as 'Yava' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Vatavyadhi' (Vata-balancing) and 'Medohara' (weight-loss) formulations like Yavadi-Kanda and various diuretic tonics.",
+        "Specific Indications: Used in Medo-roga (Obesity), Madhumeha (Diabetes mellitus), Mutra-kricchra (Dysuria), Peenasa (Sinusitis), and Kasa (Cough) with heavy Kapha."
+    ],
+    "usageForm": "Roasted grain powder (Saktu), Decoction (Yava-panaka), Cooked whole grain (Odana), Fermented beer (Yava-manda).",
+    "mainMedicinalUses": [
+        "World-Famous Fat-Scraping and Weight Loss Specialist (Lekhana): Yava is the premier Ayurvedic cereal for managing obesity and clearing abdominal fat. Its 'Ruksha' (dry) and 'Lekhana' (scraping) nature provided by Beta-glucan and insoluble fibers helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO research confirms its potent cholesterol-lowering and heart-soothing properties.",
+        "Urinary and Kidney Care Specialist (Mutravirechaniya): Historically used as 'Yava-panaka' (barley water). Its antimicrobial and diuretic nature makes it unmatched for clearing urinary track infections, burning urination, and reducing localized edema (Shotha) through its systemic cooling effects.",
+        "Blood Sugar and Diabetes Support: Recognized as 'Pramehahara' (diabetes-relieving). It helps in regulating blood glucose levels by slowing carbohydrate absorption and reducing insulin spikes through its 'Kashaya' and 'Katu' properties.",
+        "Respiratory and Sinus Management: Its drying (Ruksha) and light (Laghu) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage 'Peenasa' (sinusitis) and chronic productive coughs.",
+        "Skin Health and Radiance Enhancement: Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The roasted powder drink (Saktu) provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
+        "Phytochemical Profile: Rich in Beta-glucan (4-8%), Phenolic acids, Flavonoids, and Essential Minerals (Selenium, Phosphorus, Copper). Beta-glucan is the primary bioactive responsible for its potent cardio-protective and metabolic-balancing action."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in the Rig Veda and Charaka Samhita as the best among 'Kapha-pacifying' cereals. Historically used as a primary protein source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Historically regarded as the 'Grain of the Sages'.",
+        "Physical Characteristics: A tall, erect, annual grass reaching up to 1-1.5 meters in height, with linear leaves and terminal spikes (ears) of flowers with long awns (beards). The fruit is a small, elongated caryopsis (grain) with a characteristic sweet-nutty-bitter taste. Found throughout Northern and Central India, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Beta-glucan, Hordein, and Proanthocyanidins. The presence of these compounds is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+        "Strict Standardizations: The grain is standardized in API based on its yellowish-brown-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), dietary fiber (>15%)."
+    ],
+    "preparationMethods": [
+        "Yava-Saktu (Roasted Flour): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
+        "Yava-Panaka (Barley Water): 20g of seeds boiled in 1 liter of water reduced to half; filtered and taken for managing thirst and urinary infections.",
+        "Yava-Odana (Barley Rice): Whole seeds cooked with minimal water and seasoned with digestive spices like pepper and cumin for Kapha management.",
+        "External Paste (Lepa): Ground fresh barley or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked barley (Daliya) twice daily for respiratory support and cooling during childhood infections.",
+        "Adults": "Daily staple food (50-200g of cooked barley per meal) for weight management.",
+        "Elderly": "Highly recommended to prevent age-related Pitta issues and maintain urinary health. Dosage: 100g of cooked barley daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
+        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    ]
+}

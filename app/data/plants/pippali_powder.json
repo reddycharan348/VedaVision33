@@ -1,0 +1,27 @@
+{
+  "id": "pippali_powder",
+  "name": "Pippali Powder",
+  "scientificName": "Piper longum Fruit Powder",
+  "botanicalFamily": "Piperaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Vata-Kapha Hara."
+  ],
+  "usageForm": "Fine Powder.",
+  "mainMedicinalUses": [
+    "Respiratory cleansing",
+    "Metabolism",
+    "Immunity."
+  ],
+  "plantProfile": [
+    "Dried long pepper."
+  ],
+  "preparationMethods": [
+    "Honey mix."
+  ],
+  "dosages": {
+    "Adults": "1g"
+  },
+  "safetyProfile": [
+    "Heating; use sparingly."
+  ]
+}

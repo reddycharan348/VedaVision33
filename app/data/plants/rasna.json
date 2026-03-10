@@ -1,0 +1,29 @@
+{
+  "id": "rasna",
+  "name": "Rasna",
+  "scientificName": "Pluchea lanceolata (DC.) Oliv. & Hiern",
+  "botanicalFamily": "Asteraceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata.",
+    "Virya: Ushna (Hot).",
+    "Karma: Amavatahara (Rheumatoid arthritis reliever)."
+  ],
+  "usageForm": "Leaf decoction.",
+  "mainMedicinalUses": [
+    "Used specifically for Vata-dominant joint pain and stiffness.",
+    "Relieves cough and bronchitis symptoms.",
+    "Assists in treating diseases of the nervous system."
+  ],
+  "plantProfile": [
+    "Highly recommended in standard Ayurvedic texts for Vata diseases."
+  ],
+  "preparationMethods": [
+    "Strong decoction taken with castor oil (Eranda)."
+  ],
+  "dosages": {
+    "Adults": "10-20ml decoction"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

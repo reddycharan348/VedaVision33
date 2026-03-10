@@ -1,0 +1,47 @@
+{
+  "name": "Shalamali",
+  "scientificName": "Bombax ceiba L. (Syn. Salmalia malabarica)",
+  "botanicalFamily": "Malvaceae (formerly Bombacaceae)",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful Pitta and Vata Hara (pacifies Pitta and Vata doshas). Due to its Madhura (sweet) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Brimhaniya' (nourishing) and 'Raktastambhana' (hemostatic) therapies. It clears the fiery, hot qualities of Pitta while balancing the dry qualities of Vata through its systemic cooling and unctuous (Snigdha) property.",
+    "Rasa (Taste): Madhura (sweet), Tikta (bitter), Kashaya (astringent).",
+    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
+    "Virya (Potency): Sheeta (cooling).",
+    "Vipaka (Post-digestive taste): Madhura (sweet).",
+    "Karma (Actions): Brimhaniya (nourishing), Balya (strength-promoting), Raktastambhana (hemostatic), Jivaniya (life-promoting), Varnya (complexion-promoting), and Vrishya (aphrodisiac).",
+    "API/AFI Adherence: The dried flower (petals) and stem bark are official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in iconic classical formulations like 'Shalamali-ghrita' and various cooling heart tonics.",
+    "Specific Indications: Used in Raktapitta (bleeding disorders), Daha (burning sensations), Klaibya (impotence), Raktapradara (menorrhagia), Arsha (hemorrhoids), and Shosha (wasting)."
+  ],
+  "usageForm": "Flower petals powder (Churna), Stem bark powder (Churna), Medicated ghee (Ghrita), Medicated oil (Taila).",
+  "mainMedicinalUses": [
+    "Expert Female Reproductive and Cooling Specialist (Varnya): Shalamali is the premier Ayurvedic remedy for all conditions of excessive menstrual bleeding (Raktapradara) and burning sensations in the pelvic region. Its 'Raktastambhana' (hemostatic) and 'Kashaya' (astringent) nature helps in instantaneously clotting blood and reducing inflammatory congestion. WHO research supports its role in wound healing and systemic coagulation.",
+    "Reproductive Health and Aphrodisiac (Vrishya): Historically known as 'Vajikarana' (aphrodisiac). It effectively improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic nourishing (Brimhana) action. It is often called 'White Gold' for its reproductive benefits.",
+    "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and improving facial radiance. The petals paste applied topically promotes radiance while providing systemic 'Vranaropana' (wound-healing) effects. It is used to manage localized inflammation and sun-burns.",
+    "Urinary and Kidney Care: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the Pitta in the bladder and kidneys.",
+    "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature help in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress.",
+    "Phytochemical Profile: Rich in Glycosides (Shamalin), Tannins, Flavonoids, and diversos Pentacyclic Triterpenes. Shamalin is the primary bioactive responsible for its potent anti-inflammatory, anti-carcinogenic, and hemostatic action on the blood and skin cells."
+  ],
+  "plantProfile": [
+    "Unique History: Sacredly known as 'Simbal' or 'Silk Cotton Tree'. Associated with Lord Vishnu and mentioned in ancient texts for its flower-based dyes. Historically used to symbolize the 'spiritual fire' of the seeker. Mentioned in the Vedas and Puranas for its unmatched medicinal effects.",
+    "Physical Characteristics: A tall, deciduous tree with a straight, buttressed trunk and greyish-brown bark with thick, conical spines. The leaves are palmate, large, and glossy green. The flowers are attractive, large, and bright-red-to-orange appearing when the tree is leafless. Found throughout India and Southeast Asia and cultivated globably for fruit and medicine.",
+    "Specific Chemical Compounds: Contains Lupeol, Beta-sitosterol, and Tannins. The presence of shamalin is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+    "Strict Standardizations: The flower/fruit is standardized in API based on its greyish-green-to-black color and characteristic sweet-astringent-bitter taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
+  ],
+  "preparationMethods": [
+    "Flower Petals Powder: 3-6g of fine powder taken with honey or warm milk (for female health) or warm water (for general health).",
+    "Stem Bark Powder: 1-3g taken twice daily with buttermilk (as a digestive Anupana) for chronic diarrhea.",
+    "Shalamali-Ghrita: 5-10g of ghee processed with Shalamali; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality.",
+    "External Paste: Ground fresh petals or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Ghee: 5-10 g.",
+    "Elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid during pregnancy in very large therapeutic doses except under professional guidance.",
+    "GRAS Status: Classified as a safe medicinal herb and fruit with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

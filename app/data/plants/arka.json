@@ -1,0 +1,29 @@
+{
+  "id": "arka",
+  "name": "Arka",
+  "scientificName": "Calotropis procera (Aiton) Dryand.",
+  "botanicalFamily": "Apocynaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha.",
+    "Virya: Ushna (Hot).",
+    "Karma: Kushtha-ghna (Skin-clearing)."
+  ],
+  "usageForm": "Leaf/Root latex and flowers.",
+  "mainMedicinalUses": [
+    "Latex used for localized skin tumors and warts.",
+    "Leaves used to treat orthopedic pain.",
+    "Flowers used for chronic cough and asthma."
+  ],
+  "plantProfile": [
+    "Known as the 'Giant Milkweed', holy to Lord Shiva."
+  ],
+  "preparationMethods": [
+    "External application of latex or internal use of flowers."
+  ],
+  "dosages": {
+    "Adults": "Flowers: 125mg-250mg only."
+  },
+  "safetyProfile": [
+    "LATEX IS TOXIC TO EYES. Internal use must be very small and expert-led."
+  ]
+}

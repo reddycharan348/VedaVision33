@@ -1,0 +1,30 @@
+{
+  "id": "parpata",
+  "name": "Parpata",
+  "scientificName": "Fumaria indica (Haussk.) Pugsley",
+  "botanicalFamily": "Fumariaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Pitta and Kapha.",
+    "Rasa: Tikta (Bitter).",
+    "Virya: Sheeta (Cooling).",
+    "Karma: Jwarahara (Antipyretic), Raktashodhaka (Blood purifier)."
+  ],
+  "usageForm": "Whole plant decoction.",
+  "mainMedicinalUses": [
+    "The best herb for Pitta-dominant fevers and burning sensations.",
+    "Effectively treats skin diseases and excessive thirst.",
+    "Used as a mild laxative and liver tonic."
+  ],
+  "plantProfile": [
+    "Highly valued in Ayurveda for its cooling and blood-purifying properties."
+  ],
+  "preparationMethods": [
+    "Decoction of the whole dried plant."
+  ],
+  "dosages": {
+    "Adults": "20-50ml decoction"
+  },
+  "safetyProfile": [
+    "Safe for general use."
+  ]
+}

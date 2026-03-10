@@ -1,0 +1,47 @@
+{
+  "name": "Dronapushpi",
+  "scientificName": "Leucas aspera (Willd.) Link",
+  "botanicalFamily": "Lamiaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful Kapha and Vata Hara (pacifies Kapha and Vata doshas). Due to its Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Shiro-virechana' (sinus-cleansing) and 'Krimighna' (anthelminthic) therapies. It clears the cold, heavy qualities of Kapha through its systemic warming and penetrating (Sukshma) property. It may aggravate Pitta if used in excess.",
+    "Rasa (Taste): Katu (pungent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Shiro-virechana (nasal-cleanser), Krimighna (anthelminthic), Jwarahara (antipyretic), Deepana (appetizer), Pachana (digestive), and Vishaghna (anti-toxic).",
+    "API/AFI Adherence: The dried whole plant and fresh leaf juice are official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in iconic classical formulations like 'Dronapushpi Swarasa' (fresh juice) and various sinus-treating oils.",
+    "Specific Indications: Used in Peenasa (Sinusitis), Jwara (Chronic and malarial fevers), Kamala (Jaundice), Agnimandya (Weak digestion), and Vishavikara (poisoning/allergic reactions)."
+  ],
+  "usageForm": "Whole plant powder (Churna), Leaf juice (Swarasa), Whole plant decoction (Kwatha).",
+  "mainMedicinalUses": [
+    "Expert Sinus and Nasal Specialist (Shiro-virechana): Dronapushpi is the premier Ayurvedic remedy for all conditions of nasal congestion and sinusitis. Its 'Tikshna' (sharp) and 'Ushna' (heating) nature provided by essential oils helps in expelling deep-seated Kapha and metabolic toxins (Ama) from the sinuses. WHO research supports its role in managing inflammatory respiratory load.",
+    "Antipyretic and Chronic Fever: Highly effective for managing 'Jirnajwara' (chronic or intermittent fever). It promotes systemic cleansing and cleared metabolic toxins (Ama) from the blood stream. It is a key herb for managing recovery from viral and malarial infections.",
+    "Liver and Spleen Detox: Acts as a powerful agent for managing liver health. It is extensively used to treat jaundice and fatty liver by promoting healthy bile secretion and clearing congestion in the 'Yakṛt' (liver) system through its systemic blood-purifying action.",
+    "Worm and Internal Parasite Care: Its extremely pungent nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment. It helps in cleared stagnant toxins from the gut.",
+    "Anthelmintic and Skin Health: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The leaf juice applied topically promotes relief from itching and parasitic skin issues.",
+    "Phytochemical Profile: Rich in Essential Oil (approx. 0.5-1.0%), Alkaloids, Sterols, and diversos Flavonoids. The presence of leucasin is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and respiratory walls."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Shirovirechanopaga' (nasal-cleansing assisting) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Dronapushpi' translates to 'one with cup-shaped flowers'. Historically used as a bio-enhancer for various anti-toxic tonics. Mentioned in classical Sanskrit literature as the 'Thumba'.",
+    "Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with quadrangular stems and opposite, linear-lanceolate leaves. The flowers are attractive, small, and white, arranged in terminal or axillary dense whorls. Found throughout India and tropical Southeast Asia in gardens and wastelands of the sub-Himalayan tract and South India.",
+    "Specific Chemical Compounds: Contains Leucasperone A & B, Leucasperol, and Essential oils. The presence of leucasin is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells.",
+    "Strict Standardizations: The whole plant is standardized in API based on its yellowish-green color and characteristic estremamente pungent-biting taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
+  ],
+  "preparationMethods": [
+    "Whole Plant Powder (Churna): 1 gram to 3 grams of fine powder taken twice daily with honey or warm water (for sinus health) or warm milk (for general vitality).",
+    "Leaf Juice (Swarasa): 5-10ml of fresh juice taken twice daily on an empty stomach for maximum pain relief and detoxification.",
+    "Root Decoction (Kwatha): 20g of root boiled in 160ml water reduced to 40ml for chronic fevers. Take twice daily before meals.",
+    "External Paste (Lepa): Ground fresh leaf or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "Adults": "Powder: 1-3 grams; Swarasa (Juice): 5-10 ml; Decoction: 20-50 ml.",
+    "Elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 1g of powder daily with honey at bedtime."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). Avoid during pregnancy or lactation in very large therapeutic doses except under professional guidance.",
+    "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+  ]
+}

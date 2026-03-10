@@ -1,0 +1,47 @@
+{
+    "name": "Raktashali",
+    "scientificName": "Oryza sativa L. (Red Variety)",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: The most prestigious of all grains, it is 'Tridoshahara' (pacifies all three doshas). Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is the premier choice for 'Balya' (strength-promoting) and 'Deepana' (digestive) therapies, particularly balancing the heat of Pitta and the dryness of Vata while being easy for Kapha to digest.",
+        "Rasa (Taste): Madhura (sweet).",
+        "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily), Snigdha (smooth).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Madhura (sweet).",
+        "Karma (Actions): Tridoshahara (pacifies 3 doshas), Balya (strength-promoter), Vrishya (aphrodisiac), Chakshushya (beneficial for eyes), Jwarahara (fever-reliever), and Varnya (complexion-improving).",
+        "API/AFI Adherence: Known as 'Shali' in the Ayurvedic Pharmacopoeia of India (API). It is the base for numerous 'Rasayana' and 'Sattvic' diets. Particularly used in the 'Njavara' (Shashtika Shali) therapies of Kerala.",
+        "Specific Indications: Used in Shwasa (respiratory issues), Kasa (cough), Jwara (fever), Daha (internal burning), and general debility."
+    ],
+    "usageForm": "Cooked grain (Odana), Gruel (Peiya/Vilepi), Powdered grain (Saktu), Medicated rice (Pinda Sweda).",
+    "mainMedicinalUses": [
+        "Premier Ayurvedic Food-Medicine: Raktashali is considered the healthiest cereal in the entire Ayurvedic compendium. Its 'Laghu' (light) nature makes it exceptionally easy to digest, while its 'Sheeta' (cooling) potency calms the internal fire (Pitta) and provides systemic nourishment (Brimhana).",
+        "Vision and Eye health Support: Historically known as 'Chakshushya' (good for eyes). It provided essential nutrients that strengthen the optic nerves and reduce inflammatory heat in the eyes. WHO research into pigmented rice confirms high levels of pro-vitamin A and anthocyanins.",
+        "Convalescence and Post-Illness Recovery: Used as the first solid food after long illnesses or detox (Panchakarma). Its 'Balya' quality helps in rebuilding 'Ojas' (vital immunity) without straining the digestive fire (Agni).",
+        "Skin Health and Radiance: Its cooling and blood-purification properties help in improving skin luster and managing chronic inflammatory conditions like eczema from within. Its anthocyanin content provides potent systemic antioxidant effects.",
+        "Reproductive Vitality (Vrishya): Traditionally used to improve the quality and quantity of 'Shukra-dhatu' (reproductive tissue) and provide systemic strength to the reproductive organs.",
+        "Phytochemical Profile: Rich in Anthocyanins (Cyanidin-3-glucoside), Flavonoids, Polyphenols, and Essential Minerals (Iron, Zinc). These pigments are crucial for its potent anti-inflammatory and cardio-protective properties."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in the Charaka Samhita as the best among 'Shuka Dhanyas' (bearded grains). It was traditionally grown in the fields of ancient India and preserved for its medicinal value. Historically regarded as the 'King of Rice'.",
+        "Physical Characteristics: A variety of Oryza sativa characterized by reddish-brown bran and husk. It is an annual grass with linear leaves and terminal panicles of flowers. The grains are elongated and retain their red color even after cooking if polished minimally. Found throughout India, particularly in fertile, water-rich plains.",
+        "Specific Chemical Compounds: Contains Proanthocyanidins, Oryzanol, and diverse B-complex vitamins. The red pigment (Proanthocyanidin) is centrally active in its antioxidant profile.",
+        "Strict Standardizations: The grain is standardized based on its reddish color and characteristic sweet-mild aroma. Physicochemical benchmarks focus on broken-grain percentage (<5%) and moisture content (<12%)."
+    ],
+    "preparationMethods": [
+        "Odana (Cooked Rice): 1 part rice to 2-3 parts water, cooked until soft. Taken with cow's ghee for maximum nourishment.",
+        "Vilepi (Thick Gruel): Rice boiled with 4 parts water until it reaches a thick consistency; used for managing weak digestion and fevers.",
+        "Saktu (Roasted flour): Roasted rice ground into fine powder; taken with honey or water as an instant energy drink during travel or summer.",
+        "Njavarakizhi/Pinda Sweda: Shashtika Shali cooked in milk and herbal decoction, used for external massage in neurological disorders."
+    ],
+    "dosages": {
+        "Children": "Safe from 6 months onwards as the first weaning food. 10-30g as gruel twice daily.",
+        "Adults": "Daily staple food (50-200g of cooked rice per meal).",
+        "Elderly": "Highly recommended due to easy digestibility and strength-promoting nature."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with extremely heavy Kapha/Obesity should consume it in moderation and avoid unpolished versions if digestion is very weak.",
+        "GRAS Status: Classified as a safe staple food with thousands of years of documented safety.",
+        "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
+        "Adverse Effects: None documented at traditional dietary levels."
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Bajra",
+    "scientificName": "Pennisetum glaucum (L.) R. Br.",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Madhura (sweet) Rasa and Ushna (heating) Virya, it is the most prestigious millet for 'Balya' (strength-promoting) and 'Ushna' (heating) therapies. While it is heating, it is 'Guru' (heavy), making it a Kapha-increasing grain if over-consumed.",
+        "Rasa (Taste): Madhura (sweet).",
+        "Guna (Qualities): Guru (heavy), Ruksha (dry).",
+        "Virya (Potency): Ushna (hot).",
+        "Vipaka (Post-digestive taste): Madhura (sweet).",
+        "Karma (Actions): Balya (strength-promoter), Brimhana (nourishing), Vata-hara (Vata-pacifying), Vrishya (aphrodisiac), and Mutravirechaniya (diuretic).",
+        "API/AFI Adherence: Known as 'Priyangu' (in some contexts) but more commonly as 'Bajra' in modern Ayurvedic practice. It is a central ingredient in several iconic 'Brimhana' (nourishing) and 'Vatavyadhi' (Vata-balancing) formulations and daily strength-giving rotis.",
+        "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Vata-vyadhi (neuromuscular disorders), and during winter to maintain body heat."
+    ],
+    "usageForm": "Grain flour (Churna), Cooked flatbread (Roti), Dehusked grain cooked (Odana), Roasted powder (Saktu).",
+    "mainMedicinalUses": [
+        "Expert Nourishment and Physical Strength Specialist (Brimhana): Bajra is the premier Ayurvedic millet for physical strength and recovery. Its 'Guru' (heavy) and 'Ushna' (heating) nature provided by high protein and complex carbohydrates helps in providing systemic stabilization of the 'Mamsa-dhatu' (muscle tissue). WHO-aligned research confirms its high nutritional density and systemic antioxidant profile.",
+        "Brimhan-Vata (Strength-giving) Specialist: Historically known as 'Balya' (strength-promoter). It effectively reduces the intensity and frequency of joint stiffness (Sandhi-graha) and chronic Vata-related nerve disorders by providing systemic relief from 'Vata-avarana' (Vata-obstruction) in the pelvic region. It is a key herb for muscular dystrophy.",
+        "Respiratory and Asthma Management: Its 'Ushna' (heating) and 'Tikshna' (sharp) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage productive coughs and chronic sinusitis through its systemic 'Kapha-hara' effects.",
+        "Reproductive Health and Aphrodisiac (Vrishya): Associated with 'Vajikarana' (aphrodisiac). It improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya) action.",
+        "Urinary and Kidney Support: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the Pitta in the bladder and kidneys.",
+        "Phytochemical Profile: Rich in Proteins (11-12%), Dietary Fiber (8-10%), Phenolic acids, Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vatala' pulses (ones that increase Vata). Historically used as a primary protein source for scholars and high-performance individuals. Regarded as 'Mother of Warm Strength'.",
+        "Physical Characteristics: A tall, erect, annual grass reaching up to 1.5-3 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, greyish-white-to-brown seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Siringic acid, Ferulic acid, and diversos Protease inhibitors. The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+        "Strict Standardizations: The grain is standardized in API based on its greyish-white-to-brown color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    ],
+    "preparationMethods": [
+        "Bajra-Roti (Flatbread): Ground seeds used as a base for flatbreads for daily nourishment.",
+        "Bajra-Odana (Cooked Rice): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
+        "Roasted Powder (Saktu): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
+        "External Paste (Lepa): Ground fresh seeds applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked millet mixed with ghee once twice for muscle development in childhood.",
+        "Adults": "Daily staple food (50-200g of cooked millet per meal).",
+        "Elderly": "Highly recommended to prevent age-related muscle wasting and maintain body heat. Dosage: 100g of cooked millet daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    ]
+}

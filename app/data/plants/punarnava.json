@@ -1,0 +1,48 @@
+{
+    "name": "Punarnava",
+    "scientificName": "Boerhavia diffusa L.",
+    "botanicalFamily": "Nyctaginaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Primarily pacifies Kapha and Vata doshas. Its Tikta (bitter) Rasa and Laghu (light) Guna counteract Kapha accumulation (especially fluid retention), while its Madhura (sweet) Vipaka and Ushna Virya help pacify Vata without excessively aggravating Pitta.",
+        "Rasa (Taste): Madhura (Sweet), Tikta (Bitter), Kashaya (Astringent).",
+        "Guna (Qualities): Laghu (Light), Ruksha (Dry).",
+        "Virya (Potency): Ushna (Hot).",
+        "Vipaka (Post-digestive taste): Madhura (Sweet).",
+        "Karma (Actions): Shothaghna (anti-edema, reduces swelling), Mutral (diuretic), Rasayana (rejuvenative), Hridya (cardiotonic), Raktashodhaka (blood purifier), Panduhara (anti-anemic), Yakrituttejaka (hepatoprotective), Deepana (appetizer).",
+        "API/AFI Adherence: The whole plant, especially the root, is the primary part used, as specified in the Ayurvedic Pharmacopoeia of India (API). It is a key ingredient in classical formulations like Punarnavadi Mandoor, Punarnavadi Kwatha, and Punarnavadi Guggulu, prepared strictly as per the Ayurvedic Formulary of India (AFI).",
+        "Specific Indications: Indicated in Shotha (edema/dropsy, particularly renal and hepatic), Pandu (anemia), Hridroga (heart disease), Mutrakrichra (dysuria), Ashmari (urinary calculi), and general debility."
+    ],
+    "usageForm": "Root powder (Churna), Root decoction (Kwatha), Fresh juice of whole plant (Svarasa), Medicated preparations (Mandoor, Guggulu), Medicated ghee (Ghrita).",
+    "mainMedicinalUses": [
+        "Nephroprotective and Diuretic: Punarnava is the foremost Ayurvedic nephroprotective herb. Its potent diuretic action (Mutral Karma) helps reduce edema associated with nephrotic syndrome, congestive heart failure, and ascites, without significant potassium depletion. WHO-aligned pharmacological studies confirm its diuretic and anti-inflammatory effects on renal tissue.",
+        "Hepatoprotective: Protects the liver from toxins and supports regeneration of hepatocytes. Punarnavine, one of its key alkaloids, has demonstrated significant hepatoprotective activity in pharmacological studies, supporting its traditional use in Yakrit Vikara (liver disorders) including jaundice and hepatitis.",
+        "Anti-Edema (Shothaghna): The most celebrated action. It effectively reduces generalized and localized edema (Shotha) by promoting the excretion of excess fluid through the kidneys. This is its defining clinical characteristic in Ayurvedic practice.",
+        "Anti-Anemic (Panduhara): Punarnavadi Mandoor is one of the most widely prescribed Ayurvedic formulations for iron-deficiency anemia (Pandu Roga), combining Punarnava with calcined iron (Mandoor Bhasma).",
+        "Cardioprotective: Supports cardiac function (Hridya Karma) by reducing preload and afterload through its diuretic action, and possesses mild anti-hypertensive properties.",
+        "Chemical Constituents: Contains significant bioactive compounds including punarnavine (an alkaloid), boeravinone (a rotenoid), ursolic acid, liriodendrin, hypoxanthine-9-L-arabinofuranoside, and various flavonoids and sterols."
+    ],
+    "plantProfile": [
+        "Unique History: Punarnava literally means 'that which renews or rejuvenates the body' (Punar = again, Nava = new). This name reflects its profound Rasayana (rejuvenative) properties, especially its ability to regenerate vital organs and restore vitality. It has been extensively documented in the Charaka Samhita, Sushruta Samhita, and Ashtanga Hridayam as a supreme anti-edema and renal tonic.",
+        "Physical Characteristics: A small, creeping, perennial herb with a diffuse, spreading habit. It features thick, fleshy, ovate to oblong leaves, often with a whitish undersurface. The stems are prostrate, spreading, and ascending, becoming woody at the base. Flowers are very small, pink or purplish-red, arranged in small clusters. The root is long, stout, fusiform, and fleshy, which is the primary medicinal part. It is found throughout India, commonly growing as a weed in waste places and along roadsides.",
+        "Specific Chemical Compounds: Key bioactive compounds include the alkaloid Punarnavine, rotenoids (Boeravinone A-H), ursolic acid, liriodendrin, β-sitosterol, flavonoids, lignans, and a series of C-methylflavones. Punarnavine is primarily responsible for its diuretic and anti-inflammatory effects, while boeravinones contribute to its hepatoprotective and anti-cancer potential.",
+        "Strict Standardizations: As per API, the root of Boerhavia diffusa is standardized based on macroscopic and microscopic characteristics. Physicochemical parameters include total ash (not more than 17%), acid-insoluble ash (not more than 5%), alcohol-soluble extractive (not less than 1%), and water-soluble extractive (not less than 9%). TLC/HPTLC fingerprinting is used for identification and quality assurance, aligning with WHO quality control recommendations for herbal materials."
+    ],
+    "preparationMethods": [
+        "Decoction (Kwatha): Take 10-20g of dried Punarnava root, coarsely crush it, and boil in 320ml of water. Reduce the volume to approximately 80ml (1/4th). Strain and consume warm, twice daily. This is the standard method for edema and urinary disorders.",
+        "Powder (Churna): The dried root is finely powdered and sieved (80-100 mesh). It can be consumed with warm water, honey, or buttermilk. This form is convenient for daily rejuvenative use.",
+        "Fresh Juice (Svarasa): The entire fresh plant, including roots, stems, and leaves, is crushed and the juice is extracted. This is considered the most potent form. Dose: 10-20ml, typically consumed on an empty stomach.",
+        "Punarnavadi Mandoor: A classical Ayurvedic formulation combining Punarnava with Mandoor Bhasma (calcined iron), Triphala, Trikatu, and other herbs. It is prepared as per AFI standards and is the go-to remedy for Pandu Roga (anemia) with edema.",
+        "Punarnavadi Guggulu: Another important classical vati (tablet) preparation with Guggulu resin, used for inflammatory conditions, urinary tract disorders, and as a general detoxifying agent."
+    ],
+    "dosages": {
+        "Children": "Not generally recommended for young children without strict Ayurvedic medical supervision. If prescribed, typically 1/4 to 1/2 of the adult powder dose (e.g., 1-2g), in diluted decoction or with honey, for mild edema or debility.",
+        "Adults": "Powder (Churna): 3-6 grams per day, in divided doses. Decoction (Kwatha): 50-100 ml per day, in divided doses, before meals. Fresh Juice (Svarasa): 10-20 ml once or twice daily on an empty stomach. Punarnavadi Mandoor: 250-500 mg tablet, 1-2 tablets twice daily with buttermilk, after meals.",
+        "Elderly": "Standard adult dosages are generally applicable. Start with lower doses (e.g., 2-3g of powder) and monitor renal and electrolyte status, especially if co-administered with other diuretics or anti-hypertensives. Highly beneficial for age-related edema and renal support."
+    },
+    "safetyProfile": [
+        "Contraindications: Due to its potent diuretic effect, it should be used with caution in severe dehydration, electrolyte imbalance, or acute kidney failure. While traditionally considered safe in pregnancy, its Ushna Virya and diuretic action suggest caution; pregnant women should avoid high doses unless prescribed by an expert Ayurvedic physician.",
+        "GRAS Status: Punarnava has a millennia-long history of safe use in traditional Indian medicine when consumed within therapeutic dosages. It is listed in the API and recognized by the Ministry of AYUSH as a safe Ayurvedic drug. WHO monographs acknowledge its traditional safety profile.",
+        "Herb-Drug Interactions: May potentiate the effects of synthetic diuretics (e.g., furosemide, hydrochlorothiazide), leading to excessive fluid and electrolyte loss. Caution is advised with anti-hypertensive drugs due to potential additive blood-pressure-lowering effects. May interact with lithium by reducing its renal clearance.",
+        "Adverse Effects: Generally well-tolerated. Excessive doses may lead to increased urination, mild stomach upset, or dryness. In rare cases, aggravation of Pitta dosha symptoms (mild gastritis) may occur due to its Ushna Virya."
+    ]
+}

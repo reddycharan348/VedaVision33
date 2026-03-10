@@ -1,0 +1,47 @@
+{
+    "name": "Yavanala",
+    "scientificName": "Sorghum bicolor (L.) Moench",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious millet for 'Raktaprasadana' (blood-soothing) and 'Medo-hara' (fat-relieving) therapies. While it is cooling, it is 'Laghu' (light) and 'Ruksha' (dry), making it a Vata-increasing grain if over-consumed.",
+        "Rasa (Taste): Madhura (sweet).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Madhura (sweet).",
+        "Karma (Actions): Balya (strength-promoter), Brimhana (nourishing), Medahara (fat-relieving), Varnya (complexion-improving), and Vishaghna (anti-toxic).",
+        "API/AFI Adherence: Known as 'Yavanala' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Vatavyadhi' (Vata-balancing) and 'Medohara' (weight-loss) formulations and daily cooling flatbreads (Roti).",
+        "Specific Indications: Used in Medo-roga (Obesity), Madhumeha (Diabetes mellitus), Raktapitta (Bleeding disorders), Daha (Internal burning), and Prameha (Urinary disorders)."
+    ],
+    "usageForm": "Grain flour (Churna), Cooked flatbread (Roti), Dehusked grain cooked (Odana), Roasted powder (Saktu).",
+    "mainMedicinalUses": [
+        "Expert Weight Management and Fat-Scraping Specialist (Medahara): Yavanala is the premier Ayurvedic millet for managing obesity and clearing abdominal fat. Its 'Ruksha' (dry) and 'Laghu' (light) nature provided by high fiber and complex proteins helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO-aligned research confirms its potent cholesterol-lowering and heart-soothing properties.",
+        "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Historically known as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
+        "Skin Health and Complexion Enhancement (Varnya): Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The roasted powder drink (Saktu) provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
+        "Respiratory and Sinus Management: Its 'Sheeta' (cooling) and 'Laghu' (light) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage productive coughs and chronic sinusitis through its systemic 'Kapha-hara' effects.",
+        "Urinary and Kidney Support: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the Pitta in the bladder and kidneys.",
+        "Phytochemical Profile: Rich in Proteins (10-11%), Dietary Fiber (8-10%), Phenolic acids (Siringic, Ferulic), Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Kapha-pacifying' millets. Historically used as a primary protein source for scholars and high-performance individuals. Regarded as 'Mother of Cool Strength'.",
+        "Physical Characteristics: A tall, erect, annual grass reaching up to 2-4 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, greyish-white-to-brown seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Siringic acid, Ferulic acid, and diversos Protease inhibitors. The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+        "Strict Standardizations: The grain is standardized in API based on its greyish-white-to-brown color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    ],
+    "preparationMethods": [
+        "Yavanala-Roti (Flatbread): Ground seeds used as a base for flatbreads for daily nourishment.",
+        "Yavanala-Odana (Cooked Rice): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
+        "Roasted Powder (Saktu): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
+        "External Paste (Lepa): Ground fresh seeds applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked millet mixed with ghee once twice for muscle development in childhood.",
+        "Adults": "Daily staple food (50-200g of cooked millet per meal).",
+        "Elderly": "Highly recommended to prevent age-related Pitta issues and maintain skin radiance. Dosage: 100g of cooked millet daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    ]
+}

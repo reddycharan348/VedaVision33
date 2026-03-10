@@ -1,0 +1,28 @@
+{
+  "id": "bakuchi",
+  "name": "Bakuchi",
+  "scientificName": "Psoralea corylifolia L.",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Kapha and Vata.",
+    "Karma: Kushtaghna (Skin healer), Varnya (Complexion)."
+  ],
+  "usageForm": "Seed powder, Oil.",
+  "mainMedicinalUses": [
+    "The primary herb for Vitiligo (Leucoderma) and psoriasis.",
+    "Heals wounds and localized infections.",
+    "Used for hair growth and scalp health."
+  ],
+  "plantProfile": [
+    "Often called 'Babchi' oil in modern skincare."
+  ],
+  "preparationMethods": [
+    "Topical oil application followed by sunlight (sun exposure)."
+  ],
+  "dosages": {
+    "Adults": "1g"
+  },
+  "safetyProfile": [
+    "Can cause skin irritation; always dilute. Consult professional."
+  ]
+}

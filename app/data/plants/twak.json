@@ -1,0 +1,31 @@
+{
+  "id": "twak",
+  "name": "Twak (Cinnamon)",
+  "scientificName": "Cinnamomum zeylanicum Blume",
+  "botanicalFamily": "Lauraceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha.",
+    "Rasa: Katu (Pungent), Tikta (Bitter).",
+    "Virya: Ushna (Hot).",
+    "Karma: Deepana (Digestive), Pachana (Detox)."
+  ],
+  "usageForm": "Bark powder, Oil.",
+  "mainMedicinalUses": [
+    "Improves digestion and metabolism.",
+    "Regulates blood sugar levels.",
+    "Clears respiratory congestion."
+  ],
+  "plantProfile": [
+    "Aromatic inner bark of the evergreen tree.",
+    "Contains Cinnamaldehyde."
+  ],
+  "preparationMethods": [
+    "Add to tea or cook with honey."
+  ],
+  "dosages": {
+    "Adults": "1-3g"
+  },
+  "safetyProfile": [
+    "Possible skin irritation if applied as pure oil."
+  ]
+}

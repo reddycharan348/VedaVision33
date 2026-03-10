@@ -1,0 +1,27 @@
+{
+  "id": "mustoka",
+  "name": "Mustoka",
+  "scientificName": "Cyperus species",
+  "botanicalFamily": "Cyperaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Kapha-Pitta Hara."
+  ],
+  "usageForm": "Root decoction.",
+  "mainMedicinalUses": [
+    "Digestive health",
+    "Fever",
+    "Acidity."
+  ],
+  "plantProfile": [
+    "Wild variant of Musta."
+  ],
+  "preparationMethods": [
+    "Decoction."
+  ],
+  "dosages": {
+    "Adults": "30ml"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

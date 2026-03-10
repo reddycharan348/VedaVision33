@@ -1,0 +1,27 @@
+{
+  "id": "shyonaka_bark",
+  "name": "Shyonaka Bark",
+  "scientificName": "Oroxylum indicum Bark",
+  "botanicalFamily": "Bignoniaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Vata-Kapha Hara."
+  ],
+  "usageForm": "Decoction.",
+  "mainMedicinalUses": [
+    "Arthritis",
+    "Respiratory health",
+    "Digestive detox."
+  ],
+  "plantProfile": [
+    "Part of Dashamoola."
+  ],
+  "preparationMethods": [
+    "Kwatha (Decoction)."
+  ],
+  "dosages": {
+    "Adults": "30ml"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Ashwagandha",
+  "scientificName": "Withania somnifera",
+  "botanicalFamily": "Solanaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Primarily Vata-pacifying (Vatahara), mildly Kapha-reducing (Kaphahara), and can increase Pitta (Pittakara) if used in excess due to its Ushna Virya.",
+    "Rasa (Taste): Predominantly Tikta (Bitter), Katu (Pungent), Madhura (Sweet).",
+    "Virya (Potency): Ushna (Heating).",
+    "Vipaka (Post-digestive taste): Madhura (Sweet).",
+    "Guna (Qualities): Laghu (Light), Snigdha (Unctuous).",
+    "Prabhava (Specific Action): Rasayana (Rejuvenative), Balya (Strengthening), Vajikarana (Aphrodisiac), Nidrajanana (Sleep-inducing), Medhya (Intellect promoting).",
+    "API/AFI Adherence: Recognized in the Ayurvedic Pharmacopoeia of India (API) as 'Ashwagandha Moola' (root of Withania somnifera). It is a key ingredient in numerous API/AFI formulations for its adaptogenic and nervine tonic properties.",
+    "Specific Actions: Used for Daurbalya (general debility), Kshaya (emaciation), Vata Vyadhi (nervous disorders), Anidra (insomnia), Apasmara (epilepsy), Unmada (insanity), Shotha (inflammation), and as a general tonic for vitality and longevity."
+  ],
+  "usageForm": "Primarily root powder (churna), decoction (kwath), medicated milk (kshirapaka), medicated ghee (ghrita), oil (taila), and various compound formulations (e.g., Ashwagandharishta, Ashwagandha Lehyam, Ashwagandha Churna).",
+  "mainMedicinalUses": [
+    "Adaptogenic Properties: Recognized by WHO monographs for its ability to help the body adapt to physical, chemical, and psychological stressors, enhancing resilience and reducing stress-induced damage.",
+    "Anxiolytic and Anti-stress: Clinically proven to reduce symptoms of anxiety and chronic stress by modulating the hypothalamic-pituitary-adrenal (HPA) axis and lowering serum cortisol levels.",
+    "Neuroprotective and Cognitive Enhancement: Supports brain health, improves memory, focus, and cognitive function, and offers protection against neurodegenerative processes, as supported by traditional use and modern research.",
+    "Immunomodulatory Effects: Enhances both innate and adaptive immunity, increasing the activity of natural killer cells and improving overall immune response, aiding in recovery from illness.",
+    "Anti-inflammatory and Analgesic: Contains withanolides that exhibit significant anti-inflammatory activity, making it beneficial for conditions like arthritis, joint pain, and other inflammatory disorders.",
+    "Cardioprotective: Contributes to cardiovascular health by helping to regulate lipid profiles, reduce oxidative stress, and support healthy blood pressure levels.",
+    "Endocrine Support: Supports thyroid function, particularly in subclinical hypothyroidism, and helps balance reproductive hormones in both males and females, enhancing fertility and vitality.",
+    "Muscle Strength and Recovery: Promotes muscle mass, strength, and aids in faster recovery from physical exertion, making it popular among athletes and individuals seeking to improve physical performance.",
+    "Anticancer Potential: Emerging research indicates cytotoxic effects of withanolides on various cancer cell lines, suggesting potential as an adjunct in cancer therapy, though clinical trials are ongoing."
+  ],
+  "plantProfile": [
+    "Historical Significance: Revered in Ayurvedic medicine for over 3,000 years, often termed 'Indian Ginseng' due to its adaptogenic properties and traditional use as a rejuvenator (Rasayana).",
+    "Physical Characteristics: A small to medium-sized, evergreen shrub growing 35-75 cm tall. Leaves are dull green, elliptic-ovate, typically 10-12 cm long. Flowers are small, greenish-yellow, and inconspicuous. Fruits are small, spherical, orange-red berries, enclosed within a persistent, papery calyx, resembling a small tomato. The roots are the primary medicinal part, fleshy, whitish-brown, cylindrical, unbranched, 10-30 cm long, 1-2 cm in diameter, with a characteristic odor.",
+    "Specific Chemical Compounds: The primary active constituents are steroidal lactones known as withanolides, including Withaferin A, Withanolide A, Withanolide D, and Withanone. Other important compounds include alkaloids (e.g., somniferine, anferine, tropine), sitoindosides (glycowithanolides), and various amino acids.",
+    "Strict Standardizations: The Ayurvedic Pharmacopoeia of India (API) specifies the use of the dried root (Radix Withaniae somniferae). Quality control measures, often aligned with WHO guidelines, include identification tests (macroscopic and microscopic), purity tests (ash content, foreign matter, heavy metals, microbial contamination), and assay methods for active constituents, typically standardizing extracts to a minimum of 2.5% to 5% total withanolides."
+  ],
+  "preparationMethods": [
+    "Root Powder (Churna): Dried Ashwagandha roots are thoroughly cleaned, pulverized into a fine powder (typically 80-100 mesh). This powder is commonly consumed with warm milk, water, or ghee.",
+    "Decoction (Kwath): Coarsely powdered roots (e.g., 1 part) are boiled in 8-16 parts of water until the volume is reduced to 1/4th. The liquid is then strained and consumed.",
+    "Medicated Milk (Ksheerapaka): Ashwagandha root powder (e.g., 1-2 teaspoons) is gently boiled in a mixture of milk and water (e.g., 1 cup milk, 1 cup water) until only the milk remains. This preparation enhances absorption and mitigates the heating effect, often sweetened with jaggery or sugar.",
+    "Medicated Ghee (Ghrita): A paste of Ashwagandha root is cooked with ghee over low heat until all the water content evaporates, leaving behind the medicated ghee. This form is excellent for Vata disorders and as a rejuvenative.",
+    "Standardized Extracts: Hydroalcoholic extracts are widely available, typically standardized to contain a specific percentage of total withanolides (e.g., 2.5% to 5%), ensuring consistent potency.",
+    "Micronization: For improved bioavailability and absorption, some modern preparations utilize micronized Ashwagandha root powder."
+  ],
+  "dosages": {
+    "Children": "Generally not recommended for routine use without expert Ayurvedic or pediatric consultation. If prescribed, typically 125-500 mg of root powder once or twice daily, adjusted based on age, weight, and specific condition.",
+    "Adults": "Root powder (Churna): 3-6 grams per day, divided into 1-2 doses, preferably with warm milk or water. Standardized extract (e.g., 2.5-5% withanolides): 300-600 mg once or twice daily. Decoction: 50-100 ml once or twice daily.",
+    "Elderly": "Similar to adult dosage, but often starting at the lower end of the recommended range (e.g., 2-4 grams of root powder or 300 mg extract daily) and gradually increasing if well-tolerated, always under professional supervision."
+  },
+  "safetyProfile": [
+    "Contraindications: Pregnancy (traditionally contraindicated due to potential abortifacient properties, though evidence is mixed, caution is paramount). Lactation (insufficient data, caution advised). Autoimmune diseases (e.g., rheumatoid arthritis, lupus, Hashimoto's thyroiditis) due to its immunomodulatory effects which may exacerbate symptoms. Hyperthyroidism (may increase thyroid hormone levels). Gastric ulcers or severe hyperacidity (due to its Ushna Virya, it may exacerbate existing irritation in sensitive individuals).",
+    "GRAS Status: While not formally recognized as 'Generally Recognized As Safe' (GRAS) by the U.S. FDA, Ashwagandha has a long history of safe traditional use in India and is widely available as a dietary supplement. WHO monographs acknowledge its traditional use and safety profile within appropriate dosages.",
+    "Herb-Drug Interactions: May potentiate the effects of sedatives, anxiolytics, and hypnotics due to its calming and sleep-inducing properties. May reduce the efficacy of immunosuppressant drugs due to its immunomodulatory effects. May increase thyroid hormone levels, potentially interacting with thyroid medications. May lower blood sugar levels, requiring dose adjustment of antidiabetic medications. May lower blood pressure, potentially additive with antihypertensive medications. Consult a healthcare professional before combining with prescription medications.",
+    "Side Effects: Generally well-tolerated at recommended doses. High doses may cause gastrointestinal upset, diarrhea, vomiting, or sedation. Rare cases of liver injury have been reported, though causality is often unclear and may be linked to adulterated products or pre-existing conditions."
+  ]
+}

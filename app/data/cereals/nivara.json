@@ -1,0 +1,46 @@
+{
+    "name": "Nivara",
+    "scientificName": "Oryza sativa L. var. plena (Red Wild Rice)",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is the most prestigious wild rice for 'Jivaniya' (life-sustaining) and 'Brimhaniya' (nourishing) therapies. While it is cooling, it is 'Laghu' (light) for digestion, making it a Kapha-neutral grain.",
+        "Rasa (Taste): Madhura (sweet).",
+        "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Madhura (sweet).",
+        "Karma (Actions): Jivaniya (life-sustaining), Brimhaniya (nourishing), Balya (strength-promoter), Hridya (heart-tonic), and Vrishya (aphrodisiac).",
+        "API/AFI Adherence: Known as 'Nivara' in the Ayurvedic Pharmacopoeia of India (API). It is the sacred grain used in 'Njavara Kizhi' (Shashtika-pinda-sweda) therapy and various 'Rasayana' confections.",
+        "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Vata-vyadhi (neuromuscular disorders), and during convalescence."
+    ],
+    "usageForm": "Cooked grain (Odana), Gruel with milk (Kshira-paka), Medicated rice-pouch (Kizhi).",
+    "mainMedicinalUses": [
+        "Expert Neuromuscular Rejuvenator: Nivara is the premier Ayurvedic cereal for managing chronic conditions of Vata imbalance (dryness, tremors, nerve pain). Its 'Snigdha' (oily) and 'Sheeta' (cooling) nature provided by specific proteins and essential fats helps in providing systemic lubrication and providing systemic stabilization of the nervous system. WHO research confirms its high content of iron and essential amino acids.",
+        "Brimhan-Lactation (Breast Milk) Specialist: Historically known as 'Stanyajanana' (lactation-promoter). It effectively improves the quantity and quality of breast milk in nursing mothers by providing systemic nourishment and providing systemic hormonal balance through its 'Madhura' (sweet) and 'Sheeta' (cooling) properties.",
+        "Anti-Aging and Rejuvenation (Rasayana): Associated with 'Abhyanga' (oil massage). It helps in delaying age-related physical and mental decline and protecting the skin from oxidative stress through its potent antioxidant and immunity-enhancing profile.",
+        "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress.",
+        "Phytochemical Profile: Rich in Proteins (11-12%), Dietary Fiber (8-10%), Phenolic acids, Anthocyanins, and Essential Minerals (Iron, Calcium, Phosphorus). The presence of anthocyanins is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Trina Dhanyas' (wild grains). Historically used as a primary food source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Healing'.",
+        "Physical Characteristics: A tall, erect, perennial grass reaching up to 1-2 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, reddish-brown seeds. Found primarily in the tropical regions of India (especially Kerala and Tamil Nadu).",
+        "Specific Chemical Compounds: Contains Siringic acid, Ferulic acid, and diversos Protease inhibitors. The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
+        "Strict Standardizations: The grain is standardized in API based on its reddish-brown color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    ],
+    "preparationMethods": [
+        "Nivara-Kshira-Paka (Milk Rice): Rice cooked in 4 parts milk and 1 part water until creamy. Take with honey for weight gain and immunity.",
+        "Njavara Kizhi (External): Rice tied in muslin bags, dipped in warm medicated milk-decoction, and used for systemic massage in neurological conditions.",
+        "Odana (Cooked Rice): Cooked with minimal water and taken with green-gram soup for light dinner.",
+        "Kanjee (Thin Gruel): Watery extract of boiled rice; used as a primary rehydration fluid in fevers."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked millet malt twice daily for muscle and bone development in childhood.",
+        "Adults": "Daily staple food (50-200g of cooked millet per meal).",
+        "Elderly": "Highly recommended to prevent age-related muscle wasting and maintain physical stability. Dosage: 100g of cooked millet daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Kapha (severe obesity, chronic congestion) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+        "Adverse Effects: Overconsumption leads to excessive weight gain and digestive heaviness if not toasted before cooking."
+    ]
+}

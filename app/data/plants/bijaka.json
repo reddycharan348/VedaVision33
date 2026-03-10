@@ -1,0 +1,27 @@
+{
+  "id": "bijaka",
+  "name": "Bijaka",
+  "scientificName": "Pterocarpus marsupium (Honed)",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Kapha-Pitta Hara."
+  ],
+  "usageForm": "Wood powder.",
+  "mainMedicinalUses": [
+    "Diabetes management",
+    "Skin diseases",
+    "Lipid regulation."
+  ],
+  "plantProfile": [
+    "Heartwood is medicinal."
+  ],
+  "preparationMethods": [
+    "Cold infusion."
+  ],
+  "dosages": {
+    "Adults": "3g"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

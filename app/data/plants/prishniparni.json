@@ -1,0 +1,46 @@
+{
+  "name": "Prishniparni",
+  "scientificName": "Uraria picta (Jacq.) DC.",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Powerful pacifier of all three doshas (Tridoshahara), with a specific affinity for Vata and Pitta. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is a premier herb for 'Angamarda-prashamana' (relieving body aches) and 'Sandhaniya' (healing/union-promoting) therapies. It nourishes the 'Dhatus' (tissues) while clearing internal inflammatory heat.",
+    "Rasa (Taste): Madhura (sweet), Tikta (bitter).",
+    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Madhura (sweet).",
+    "Karma (Actions): Sandhaniya (healing/joining), Angamarda-prashamana (body-ache reliever), Vatahara (Vata-pacifying), Balya (strength-promoting), and Deepana (appetizer).",
+    "API/AFI Adherence: The dried whole plant (specifically the root) is official as per the Ayurvedic Pharmacopoeia of India (API). It is one of the ten roots in the iconic 'Dashamoola' group.",
+    "Specific Indications: Used in Sandhigata-vata (bone/joint issues), Asthibhanga (fractures), Jwara (fever), Shwasa (respiratory issues), and Atisara (diarrhea)."
+  ],
+  "usageForm": "Whole plant powder (Churna), Root decoction (Kwatha).",
+  "mainMedicinalUses": [
+    "Expert Bone Healing and Tissue Union Specialist (Sandhaniya): Prishniparni is the premier Ayurvedic remedy for promoting the healing of fractures and strengthening the skeletal system. Its 'Sandhaniya' nature provided by specific alkaloids helps in the quick union of bones and provides systemic stabilization of the 'Asthi-dhatu' (bone tissue).",
+    "Relief from Body Aches (Angamarda-prashamana): Highly effective for managing systemic body pain, heavy-limbs, and localized inflammatory stiffness. It is traditionally used in 'Dashamoola' formulations to provide quick relief from exhaustion and 'Vata' related aches.",
+    "Cardiovascular Support (Hridya): Acts as a mild heart tonic. It helps in maintaining healthy blood circulation and protecting the cardiac muscles from oxidative stress through its 'Ushna' and 'Madhura' properties.",
+    "Respiratory and Cough support: Its warming nature helps in clearing mucus-obstruction in the respiratory tract. It is traditionally used to manage productive coughs and asthmatic wheezing.",
+    "Phytochemical Profile: Rich in Flavonoids, Sterols, and diversos Alkaloids. The presence of isoflavones is crucial for its anti-inflammatory and bone-regenerative action."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Dashamoola' (ten roots) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Prishniparni' refers to its distinctive leaves (leaflets). It is spiritually associated with 'Sattva' (purity) and structural integrity.",
+    "Physical Characteristics: An erect, poorly branched perennial herb with stems reaching up to 1-2 meters. The leaves are distinctive, pinnate with linear-oblong leaflets often showing a white/silver variegated patch. The flowers are attractive, purple or pink, in terminal racemes. Found throughout India in the plains and Himalayas up to 1500m.",
+    "Specific Chemical Compounds: Contains Quercetin, Apigenin, and specific Triterpenes. It is noted for its ability to modulate the production of inflammatory cytokines.",
+    "Strict Standardizations: The root is standardized in API based on its greyish-brown color and characteristic faint-aromatic-sweet taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
+  ],
+  "preparationMethods": [
+    "Root Powder: 3-6g of fine powder taken with honey or warm water daily.",
+    "Root Decoction: 20g of dried root boiled in 160ml water reduced to 40ml for chronic body aches and weakness.",
+    "Dashamoola Churna: Part of the 10-root blend used for systemic Vata-balancing decoctions.",
+    "External Paste: Ground fresh root applied over fracture sites or painful joints to assist healing."
+  ],
+  "dosages": {
+    "Children": "Generally safe. 1 gram of powder mixed with honey once daily.",
+    "Adults": "Powder: 3-6 grams; Decoction: 30-50 ml.",
+    "Elderly": "Highly recommended for maintaining bone density and relieving joint stiffness in old age."
+  },
+  "safetyProfile": [
+    "Contraindications: Generally very safe. No major contraindications documented in clinical literature.",
+    "GRAS Status: Classified as a safe medicinal herb with a long history of use in the Dashamoola group.",
+    "Herb-Drug Interactions: None documented at traditional therapeutic levels.",
+    "Adverse Effects: None documented. Excellent tolerability profile."
+  ]
+}

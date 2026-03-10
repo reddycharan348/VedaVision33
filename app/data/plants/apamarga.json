@@ -1,0 +1,28 @@
+{
+  "id": "apamarga",
+  "name": "Apamarga",
+  "scientificName": "Achyranthes aspera L.",
+  "botanicalFamily": "Amaranthaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Kapha and Vata.",
+    "Karma: Shiro-virechana (Brain cleanser), Dipana (Digestive)."
+  ],
+  "usageForm": "Seed/Root ash (Kshara), Decoction.",
+  "mainMedicinalUses": [
+    "Dissolves hard fat and manages obesity.",
+    "Excellent tooth-cleansing stick.",
+    "Used for ear-aches and asthma."
+  ],
+  "plantProfile": [
+    "Common weed known for its seeds that stick to clothes."
+  ],
+  "preparationMethods": [
+    "Kshara (alkaline ash) for tumors and obesity."
+  ],
+  "dosages": {
+    "Adults": "1-2g"
+  },
+  "safetyProfile": [
+    "External application only during pregnancy."
+  ]
+}

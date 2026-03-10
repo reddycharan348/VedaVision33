@@ -1,0 +1,30 @@
+{
+  "id": "khadira",
+  "name": "Khadira",
+  "scientificName": "Acacia catechu (L.f.) Willd.",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Pitta and Kapha.",
+    "Rasa: Kashaya (Astringent), Tikta (Bitter).",
+    "Virya: Sheeta (Cooling).",
+    "Karma: Kusthaghna (Skin health), Raktashodhaka (Blood purifier)."
+  ],
+  "usageForm": "Bark extract (Katha), Decoction.",
+  "mainMedicinalUses": [
+    "The go-to herb for chronic skin diseases like leprosy and eczema.",
+    "Effective for mouth ulcers and gum bleeding.",
+    "Assists in weight management."
+  ],
+  "plantProfile": [
+    "Heartwood extract is common in traditional 'Paan' preparations."
+  ],
+  "preparationMethods": [
+    "Bark decoction or as a paste for skin application."
+  ],
+  "dosages": {
+    "Adults": "500mg - 1g of katha"
+  },
+  "safetyProfile": [
+    "Too much can cause severe constipation."
+  ]
+}

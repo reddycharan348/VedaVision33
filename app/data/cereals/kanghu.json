@@ -1,0 +1,46 @@
+{
+    "name": "Kanghu",
+    "scientificName": "Setaria italica (L.) P.Beauv.",
+    "botanicalFamily": "Poaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious millet for 'Sandhaniya' (healing/union) and 'Brimhaniya' (nourishing) therapies. While it is cooling, it is 'Guru' (heavy), making it a Vata-increasing grain (Vatala) if over-consumed.",
+        "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
+        "Guna (Qualities): Guru (heavy), Ruksha (dry).",
+        "Virya (Potency): Sheeta (cooling).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Sandhaniya (healing/union-promoting), Brimhaniya (nourishing), Sangrahi (absorbent), Vishaghna (anti-toxic), and Mutravirechaniya (diuretic).",
+        "API/AFI Adherence: Known as 'Kanghu' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Sandhaniya' (bone-healing) and 'Medohara' (weight-loss) formulations like Kanghulyadi-Churna and various strength-giving soups.",
+        "Specific Indications: Used in Asthibhanga (Bone fractures), Karshya (emaciation), Medo-roga (Obesity), Raktapitta (Bleeding disorders), and Daha (Internal burning)."
+    ],
+    "usageForm": "Dehusked grain cooked (Odana), Roasted powder (Saktu), Seed paste (Lepa), Fermented extract (Kanjika).",
+    "mainMedicinalUses": [
+        "Expert Bone and Fracture Healing Specialist (Sandhaniya): Kanghu is the premier Ayurvedic millet for managing physical injuries and fractures. Its 'Sandhaniya' (union-promoting) and 'Sheeta' (cooling) nature provided by high calcium and magnesium content helps in providing systemic stabilization of the 'Asthi-dhatu' (bone tissue). WHO-aligned research confirms its high protein and mineral content.",
+        "Brimhaniya (Nourishing) and Physical Strength: Historically known as 'Brimhaniya' (nourishing). It effectively reduces the intensity and frequency of joint stiffness (Sandhi-graha) and chronic Vata-related nerve disorders by providing systemic relief from 'Vata-avarana' (Vata-obstruction) in the pelvic region. It is a key herb for muscular dystrophy.",
+        "Anti-toxic and Blood-Purifying Action: Historically known as 'Vishaghna' (anti-toxic). It effectively reduces the intensity and frequency of localized inflammations and chronic skin issues by providing systemic 'Vranaropana' (wound-healing) and systemic 'Raktaprasadana' (blood-soothing) effects.",
+        "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress. It is traditionally used in 'Kanghulyadi-Kasham'.",
+        "Phytochemical Profile: Rich in Proteins (11-12%), Dietary Fiber (8-10%), Phenolic acids, Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Kudhanayas' (low-quality or wild grains) for Vata-Pitta types. Historically used as a primary food source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Bone Health'.",
+        "Physical Characteristics: A tall, erect, annual grass reaching up to 1-2 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, yellowish-white-to-brown seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains Siringic acid, Ferulic acid, and diversos Protease inhibitors. These compounds are centrally active in promoting systemic 'Deepana' (digestive) and providing systemic hemostatic balance.",
+        "Strict Standardizations: The grain is standardized in API based on its yellowish-white-to-brown color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    ],
+    "preparationMethods": [
+        "Kanghu-Odana (Cooked Rice): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
+        "Kanghu-Saktu (Roasted): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
+        "Lepa (Seed Paste): Ground seeds mixed with warm water and applied to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling.",
+        "External Paste (Lepa): Ground fresh seeds applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 10 - 20 grams of cooked millet once twice for bone development in childhood.",
+        "Adults": "Daily staple food (50-200g of cooked millet per meal).",
+        "Elderly": "Highly recommended to prevent age-related bone density loss and maintain physical stability. Dosage: 100g of cooked millet daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
+        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
+        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    ]
+}

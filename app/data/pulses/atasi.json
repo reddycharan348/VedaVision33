@@ -1,0 +1,47 @@
+{
+    "name": "Atasi",
+    "scientificName": "Linum usitatissimum L.",
+    "botanicalFamily": "Linaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful pacifier of Vata dosha. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious seed for 'Snehana' (unctuous) and 'Vatavyadhi' (neurological disorders) therapies. While it is heating, its 'Guru' (heavy) and 'Snigdha' (oily) nature makes it a Kapha-increasing grain if over-consumed.",
+        "Rasa (Taste): Madhura (sweet), Tikta (bitter).",
+        "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily), Snigdha (smooth).",
+        "Virya (Potency): Ushna (hot).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Vatahara (Vata-pacifying), Brimhana (nourishing), Balya (strength-promoter), Keshya (hair-tonic), Sangrahi (absorbent), and Vishaghna (anti-toxic).",
+        "API/AFI Adherence: Known as 'Atasi' in the Ayurvedic Pharmacopoeia of India (API). It is the base for several 'Vatavyadhi' (Vata-balancing) and 'Shothahara' (anti-inflammatory) formulations like Atasichurna and various nourishing confections.",
+        "Specific Indications: Used in Vata-vyadhi (neuromuscular disorders), Karshya (emaciation), Daurbalya (weakness), Shotha (Edema), and Kasa (Cough) with dry throat."
+    ],
+    "usageForm": "Medicated oil (Taila), Seed paste (Lepa), Whole seeds (Bija), Seed powder (Churna).",
+    "mainMedicinalUses": [
+        "Expert Internal Lubrication and Vata Specialist (Snehana): Atasi is the premier Ayurvedic seed for managing chronic dryness and nerve-related weakness. Its 'Snigdha' (oily) and 'Ushna' (heating) nature provided by high Alpha-linolenic acid (Omega-3) helps in providing systemic lubrication and providing systemic stabilization of the nervous system. WHO-aligned research confirms its high fiber content and cardio-protective effects.",
+        "Brimhan-Respiratory Specialist (Kasashara): Historically known as 'Shwasa-Kasa-hara' (respiratory-relieving). It effectively liquefies and expels thick, cold Kapha from the throat and sinuses while moisturizing the dry 'Prana' channels by providing systemic 'Ushna' (heating) action. It is traditionally used in 'Atasichurna' for dry coughs.",
+        "Skin Health and Integrity Enhancement: Its high Omega-3 and lignan content helps in maintaining skin moisture and elasticity. The seed mucilage provides systemic cooling and provides systemic 'Vranaropana' (wound-healing) effects when applied topically.",
+        "Reproductive Health and Hormonal Balance: Recognized as 'Vatala' (in some contexts) but more commonly as a hormone balancer (Phytoestrogens). It helps in regulating menstrual cycles and managing menopausal symptoms by providing systemic 'Madhura' (sweet) and systemic 'Brimhana' (nourishing) action.",
+        "Anti-toxic and Blood-Purifying Action: Historically known as 'Vishaghna' (anti-toxic). It effectively reduces the intensity and frequency of localized inflammations and clearing metabolic toxins by providing systemic 'Sangrahi' (absorbent) and systemic 'Raktaprasadana' (blood-soothing) effects.",
+        "Phytochemical Profile: Rich in Proteins (20-22%), Fats (Oats/Linseed oil 35-40%), Alpha-linolenic acid (ALA), Lignans (Secoisolariciresinol diglucoside), and Essential Minerals (Phosphorus, Magnesium, Calcium). The presence of ALA is crucial for its neuro-relaxant, anti-tumor, and anti-inflam-matory action on the heart and brain cells."
+    ],
+    "plantProfile": [
+        "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vata-pacifying' oily seeds. Historically used as a primary oil source for scholars and high-performance individuals. Regarded as 'Mother of Brain Power'.",
+        "Physical Characteristics: A small, erect, annual herb reaching up to 0.3-1.0 meters in height, with quadrangular stems and opposite, pinnate (leaflets) leaves with small, white-to-blue flowers. The fruit consists of small follicles (pods) containing numerous small, flat, brownish-black-to-yellow seeds. Found throughout India and temperate regions worldwide, cultivated extensively for its seeds.",
+        "Specific Chemical Compounds: Contains ALA, Lignans, and diversos Protease inhibitors. The presence of ALA (approx. 50-60% in oil) is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells.",
+        "Strict Standardizations: The seed is standardized in API based on its brownish-black-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), oil content (>35%)."
+    ],
+    "preparationMethods": [
+        "Atasi-Taila (Linseed Oil): Used for local massage (Abhyanga) in joint pain and to treat hair issues (Keshya).",
+        "Seed Powder (Churna): 3-6g of fine powder taken with warm water once daily for managing constipation and Vata.",
+        "Roasted seeds (Bhrista): 30g of roasted seeds powder taken daily for Managing weight-gain and strength.",
+        "External Paste (Lepa): Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
+    ],
+    "dosages": {
+        "Children": "Generally safe. 1 - 2 grams of powder mixed with honey once twice for respiratory support during childhood infections.",
+        "Adults": "3-6 grams of powder or 10-20 ml of oil divided throughout the day before meals.",
+        "Elderly": "Highly recommended to prevent age-related bone density loss and maintain physical stability. Dosage: 3g of powder daily."
+    },
+    "safetyProfile": [
+        "Contraindications: Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses except under professional guidance (as it may stimulate contractions).",
+        "GRAS Status: Classified as a safe medicinal herb and oil source with a history of documented safety for thousands of years.",
+        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants.",
+        "Adverse Effects: Overconsumption in sensitive individuals can cause Pitta aggravation and burning if not appropriately cooked."
+    ]
+}

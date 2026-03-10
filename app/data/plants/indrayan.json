@@ -1,0 +1,50 @@
+{
+  "name": "Indrayan",
+  "scientificName": "Citrullus colocynthis (L.) Schrad.",
+  "botanicalFamily": "Cucurbitaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Atyanta-Tikta (extremely bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Rechana' (strong purgation) and 'Vishaghna' (anti-toxic) therapies, clearing the heavy, cold, and sticky qualities of Kapha. It may significantly aggravate Vata if used in excess.",
+    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
+    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
+    "Virya (Potency): Ushna (hot).",
+    "Vipaka (Post-digestive taste): Katu (pungent).",
+    "Karma (Actions): Rechana (strong purgative / hydrogogue), Vishaghna (anti-toxic), Krimighna (anthelminthic), Jwarahara (antipyretic), Lekhana (scraping), and Yakrit-uttejaka (liver-stimulant).",
+    "API/AFI Adherence: The dried fruit pulp and root are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Narayana Churna, Mahavishagarbha Taila, and various purgative tonics.",
+    "Specific Indications: Used in Udara-roga (ascites/abdominal enlargement), Kamala (jaundice), Vibandha (severe constipation), Amavata (rheumatoid arthritis), and chronic skin diseases (Kustha)."
+  ],
+  "usageForm": "Fruit pulp powder (Churna), Root powder (Kalka), Medicated oil (Taila), Medicated ghee (Ghrita).",
+  "mainMedicinalUses": [
+    "Expert Hydrogogue Purgative (Rechana): Indrayan is the premier Ayurvedic remedy for acute and localized water accumulation (ascites). Its 'Rechana' (hydrogogue) action induces strong watery stools, effectively clearing systemic fluid buildup. WHO-aligned research confirms its role in reducing systemic edema and managing severe constipation.",
+    "Liver and Spleen Stimulant: Acts as a powerful agent for managing liver and spleen enlargement ('Yakrit-pleeha roga'). It stimulates the liver to secrete bile and clears lymphatic obstructions through its Tikshna (sharp) and Tikta (bitter) properties.",
+    "Worm and Internal Parasite Care: Its extremely bitter nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment.",
+    "Skin and Hair Vitality: Its anti-inflammatory and blood-purifying properties help in treating chronic skin conditions like eczema and psoriasis. The seed oil (Indrayan-taila) is traditionally used to promote hair growth and reverse premature greying by stimulating the scalp circulation.",
+    "Anti-Arthritic and Joint Support: Its systemic anti-inflammatory (Shothahara) properties help in reducing localized pain and swelling in conditions like rheumatoid arthritis (Amavata) and chronic joint stiffness. It is a key ingredient in 'Mahavishagarbha Taila' for joint pains.",
+    "Urinary and Metabolic health Support: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the urinary tract and expelling toxins (Ama) from the blood.",
+    "Phytochemical Profile: Rich in Colocynthen, Colocynthitin, Cucurbitacins (A, B, C, D, E, I, J, K, L), and diversos Glycosides. Cucurbitacin E (alpha-elaterin) is the primary bioactive responsible for its potent purgative and cytotoxic property."
+  ],
+  "plantProfile": [
+    "Unique History: Classified under the 'Virechana' (purgative) and 'Vishaghna' (anti-toxic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Indrayan' literally translates to 'one that stays in the hand of Indra'. It is spiritually associated with 'Tiksna-shodhana' (sharp-purification). It is noted as the 'Wild-Gourd' or 'Bitter Apple' in Western clinical medicine.",
+    "Physical Characteristics: A perennial, trailing herb growing along the ground with tendrils and attractive, twice-pinnate leaves. It features small, yellowish flowers and globose, smooth, green fruit (turning yellow-to-orange when ripe) with extremely bitter pulp. It is found in the arid and sandy regions of Northwest India and tropical/sub-tropical parts of Africa and Asia.",
+    "Specific Chemical Compounds: Primarily contains Cucurbitacins (Colocynthin), Flavonoids, and Steroids. The presence of colocynthin is crucial for its bio-enhancing, anti-microbial, and cytotoxic action on the immune system.",
+    "Strict Standardizations: The fruit pulp is standardized in API based on its white-to-creamy color and characteristic extremely bitter-biting taste. Physicochemical benchmarks: total ash (<15%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPLC is used to monitor 0.5% to 1.5% colocynthin in commercial extracts.",
+    "Purification Process (Shodhana): The raw fruit pulp is traditionally processed with 'Triphala-Kwatha' (decoction) or 'Dugdha' (milk) into a soft mass and filtered to remove impurities (seeds, skin) before medicinal use."
+  ],
+  "preparationMethods": [
+    "Fruit Pulp Powder (Churna): 125 mg to 500 mg (extremely low dose) of purified pulp taken twice daily with warm water or buttermilk (as an absorbent Anupana) for purgation.",
+    "Narayana Churna: Combined with other purgatives and digestives for managing abdominal enlargement and severe constipation.",
+    "Medicated Oil (Taila): Seeds or fruit pulp processed in sesame/coconut oil; used for local scalp massage (hair growth) and joint pain (Shothahara).",
+    "Root Decoction (Kwatha): 5g of purified root boiled in 100ml water reduced to 25ml for chronic liver and spleen congestion. Take twice daily before meals.",
+    "External Paste: Ground purified root or pulp applied directly to localized inflammations (Mumps, boils) to reduce heat and swelling."
+  ],
+  "dosages": {
+    "Children": "Strictly NOT recommended for children under any circumstances due to high toxicity.",
+    "Adults": "Powder (Purified): 125 mg to 500 mg; Decoction: 10-20 ml; Tablet: 125-250 mg, divided throughout the day before or during meals.",
+    "Elderly": "Very low doses (60 mg - 125 mg) are advisable initially, monitoring for any increase in dizziness or intestinal cramping."
+  },
+  "safetyProfile": [
+    "Contraindications: Strictly contraindicated in individuals with active high-Pitta (burning sensation, hyperacidity, bleeding disorders) and during pregnancy as it is a potent uterine stimulant. Avoid in extreme skin sensitivity. Toxicity is high; non-purified use is lethal.",
+    "GRAS Status: NOT classified as GRAS. It is a potent semi-poison (Upavisha) and must only be used by qualified Ayurvedic physicians. National and International regulations apply to its collection and sale.",
+    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diuretic or anticoagulant medications as it cause severe potentiation and toxicity. No severe adverse interactions reported in clinical literature with purified doses.",
+    "Adverse Effects: Overdose or non-purified use results in stomach burning, vomiting, severe diarrhea, intestinal cramping, and respiratory failure. Discontinue if cramping occurs."
+  ]
+}

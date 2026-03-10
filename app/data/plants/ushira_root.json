@@ -1,0 +1,27 @@
+{
+  "id": "ushira_root",
+  "name": "Ushira Root",
+  "scientificName": "Vetiveria zizanioides Root",
+  "botanicalFamily": "Poaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pitta-Vata Hara."
+  ],
+  "usageForm": "Aromatic Root.",
+  "mainMedicinalUses": [
+    "Extreme heat relief",
+    "Sweat management",
+    "Thirst."
+  ],
+  "plantProfile": [
+    "The root of Vetiver grass."
+  ],
+  "preparationMethods": [
+    "Infusion."
+  ],
+  "dosages": {
+    "Adults": "30ml"
+  },
+  "safetyProfile": [
+    "Safe."
+  ]
+}

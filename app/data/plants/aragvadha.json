@@ -1,0 +1,30 @@
+{
+  "id": "aragvadha",
+  "name": "Aragvadha",
+  "scientificName": "Cassia fistula L.",
+  "botanicalFamily": "Fabaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies all three doshas.",
+    "Rasa: Madhura (Sweet).",
+    "Virya: Sheeta (Cooling).",
+    "Karma: Mridu Rechana (Mild laxative)."
+  ],
+  "usageForm": "Fruit pulp.",
+  "mainMedicinalUses": [
+    "Safest laxative for children and pregnant women.",
+    "Treats skin conditions and purifies blood.",
+    "Reduces inflammation and fevers."
+  ],
+  "plantProfile": [
+    "Known as the 'Golden Shower' tree for its beautiful yellow flowers."
+  ],
+  "preparationMethods": [
+    "Fruit pulp soaked in water and strained."
+  ],
+  "dosages": {
+    "Adults": "5-10g of pulp"
+  },
+  "safetyProfile": [
+    "Safe and gentle."
+  ]
+}

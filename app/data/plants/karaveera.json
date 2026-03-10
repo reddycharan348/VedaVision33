@@ -1,0 +1,50 @@
+{
+    "name": "Karaveera",
+    "scientificName": "Nerium oleander L. (Syn. Nerium indicum Mill.)",
+    "botanicalFamily": "Apocynaceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Tikta (bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Kusthaghna' (skin-destroying) and 'Vranashodhana' (wound-cleansing) therapies using its 'Vyavayi' (swift) potency. It may significantly aggravate Pitta if used in excess.",
+        "Rasa (Taste): Tikta (bitter), Katu (pungent), Kashaya (astringent).",
+        "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
+        "Virya (Potency): Ushna (hot).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Kusthaghna (anti-skin disease), Krimighna (anthelminthic), Jwarahara (antipyretic), Vranashodhana (wound-purifier), and Vishaghna (anti-toxic).",
+        "API/AFI Adherence: The dried root and leaf are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is primarily used externally in iconic classical formulations like Karaveeradi Taila and various medicated oils for alopecia and chronic skin diseases. It is classified as an 'Upavisha' (semi-poison).",
+        "Specific Indications: Used in Kustha (Skin diseases), Khalitya (alopecia/hair loss), Pinasa (rhinitis/sinusitis), Jwara (chronic fever), and Vrana (non-healing ulcers/sores)."
+    ],
+    "usageForm": "Purified root/leaf powder (Churna), Medicated oil (Taila), Root paste (Lepa).",
+    "mainMedicinalUses": [
+        "Expert Dermatological and Skin Specialist: Karaveera is the premier Ayurvedic remedy for all conditions of chronic skin diseases (Kustha) and non-healing ulcers. Its 'Tikshna' (sharp) and 'Ushna' (heating) nature provided by cardenolides helps in clearing deep-seated pathogens and localized Kapha. WHO-aligned research recognizes its potent anti-microbial and cyto-protective action when used externally.",
+        "Alopecia and Hair Loss: Historically known as 'Khalityahara' (alopecia-reliever). Medicated oils containing Karaveera are traditionally applied to stimulate the hair follicles and reduce scalp congestion (Pitta-Kapha) by providing systemic cleansing through its sharp-penetrating property. Special 'Karaveera-Taila' is used for alopecia.",
+        "Anti-inflammatory and Wound Healing: Acts as a powerful agent for managing 'Vrana' (chronic sores/ulcers). Its purified paste helps in 'Vranashodhana' (purification of wounds) and 'Vranaropana' (healing), especially in cases of foul-smelling or necrotic tissue.",
+        "Chronic Fever and Toxins: Systemically used (in extremely small, purified doses) for conditions like intermittent fever (Jwara) by clearing systemic metabolic toxins (Ama) through its potent diaphoretic and anti-toxic properties.",
+        "Anthelminthic and Gut Support: Its 'Krimighna' (worm-destroying) property is utilized primarily in external applications to resolve localized parasitic skin infections and internally (with extreme caution) for specific intestinal parasites.",
+        "Nasal and Sinus Care: The fine powder of the roots is traditionally used as a 'Nasya' (nasal administration) for clearing stubborn sinusitis and rhinitis (Pinasa) due to its Tikshna-Katu (sharp-pungent) nature.",
+        "Phytochemical Profile: Rich in Cardiac Glycosides (Oleandrin, Neriine, Digitoxigenin), Steroids, and Flavonoids. Oleandrin is the primary bioactive responsible for its potent anti-carcinogenic, anti-inflammatory, and cardiotonic action (when purified)."
+    ],
+    "plantProfile": [
+        "Unique History: Classified under the 'Upavisha' (semi-toxic) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Karaveera' literally translates to 'one that destroys all diseases' or 'one that acts like a sword'. It is spiritually associated with Lord Shiva. It is noted as the 'Common Oleander' in Western clinical medicine.",
+        "Physical Characteristics: A perennial evergreen shrub growing up to 3-5 meters in height, with a spreading crown and smooth, greyish-green stems. It features narrow, lanceolate, leathery leaves and attractive, terminal clusters of white, pink, or red flowers. The whole plant contains a milky latex. It is found throughout India and tropical/sub-tropical regions worldwide as an ornamental and medicinal plant.",
+        "Specific Chemical Compounds: Primarily contains Cardiac Glycosides (Oleandrin, Odoroside). The presence of oleandrin is crucial for its neuro-relaxant, anti-inflammatory, and anti-tubercular effects (when appropriately diluted and purified).",
+        "Strict Standardizations: The root and leaf are standardized in API based on its greyish-brown color and characteristic extremely bitter-biting taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor 0.5% to 1.5% oleandrin content in commercial extracts.",
+        "Purification Process (Shodhana): The raw roots are traditionally soaked in 'Gomutra' (cow's urine) or 'Dugdha' (milk) for three days followed by washing with hot water to remove excessive toxic alkaloids before medicinal use."
+    ],
+    "preparationMethods": [
+        "Purified Root/Leaf Powder (Churna): 30 mg to 125 mg (extremely low dose) of purified powder taken once daily with warm water for systemic detoxification and fever support.",
+        "Karaveeradi Taila: Medicated oil preparation used primarily for local application on the scalp for alopecia (hair loss) and skin diseases.",
+        "Root Paste (Lepa): Ground purified root or paste applied directly to localized inflammations (Mumps, boils, joint pain) to reduce heat and swelling.",
+        "Nasya Churna: Extremely fine powder used (under expert care) for nasal administration to clear sinusitis and chronic rhinitis.",
+        "Medicated Decoction: 5g of purified plant boiled in 100ml water reduced to 25ml for intermittent fevers and immunity support. Take twice daily before meals."
+    ],
+    "dosages": {
+        "Children": "Strictly NOT recommended for children under any circumstances due to high toxicity.",
+        "Adults": "Powder (Purified): 30-125 mg; Decoction: 10-20 ml; Oil: External Application only (usually), divided throughout the day before meals.",
+        "Elderly": "Very low doses (15-30mg) are advisable initially, monitoring for any increase in dizziness or irregular heartbeat."
+    },
+    "safetyProfile": [
+        "Contraindications: Strictly contraindicated in individuals with heart diseases (arrhythmia), glaucoma, high Pitta, and during pregnancy. Toxicity is extreme; non-purified use or overdose is lethal.",
+        "GRAS Status: NOT classified as GRAS. It is a potent semi-poison (Upavisha) and must only be used by qualified Ayurvedic physicians. National and International regulations apply to its collection and sale.",
+        "Herb-Drug Interactions: Monitor if taken alongside synthetic cardiac glycosides (Digoxin), diuretics, or cardiovascular medications as it causes severe potentiation and cardiac-arrest risk.",
+        "Adverse Effects: Overdose or non-purified use results in vomiting, diarrhea, irregular pulse, dizziness, dilated pupils, respiratory failure, and cardiac arrest. Discontinue if palpitations occur."
+    ]
+}

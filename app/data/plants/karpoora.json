@@ -1,0 +1,50 @@
+{
+    "name": "Karpoora",
+    "scientificName": "Cinnamomum camphora (L.) J.Presl",
+    "botanicalFamily": "Lauraceae",
+    "usesInAyurveda": [
+        "Tridoshic Modulation: Powerful Tridoshahara (pacifies all three doshas). Due to its Tikta (bitter) and Madhura (sweet) Rasa and Atyanta-Sheeta (extremely cooling) Virya, it is the most prestigious herb for 'Daha-prashamana' (burning-relieving) and 'Hridya' (heart-tonic) therapies, clearing the fiery and agitated qualities of Pitta while balancing the dry and rough qualities of Vata through its systemic cooling and unctuous (Snigdha) property. It may increase Kapha in very large amounts.",
+        "Rasa (Taste): Tikta (bitter), Katu (pungent), Madhura (sweet).",
+        "Guna (Qualities): Laghu (light), Tikshna (sharp), Sukshma (micro-penetrating).",
+        "Virya (Potency): Sheeta (extremely cooling).",
+        "Vipaka (Post-digestive taste): Katu (pungent).",
+        "Karma (Actions): Daha-prashamana (burning-reliever), Hridya (heart-tonic), Vedanasthapana (analgesic), Vishaghna (anti-toxic), Kandughna (anti-itch), and Chakshushya (eye-tonic).",
+        "API/AFI Adherence: The crystalline matter (sublimate) from the wood and leaves is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Karpooradi Vati, Karpoorasava, and various medicated oils for joint pain and respiratory relief.",
+        "Specific Indications: Used in Daha (burning sensation), Hrid-roga (heart diseases), Shoola (abdominal colic), Amavata (rheumatoid arthritis), Kasa (cough), and Pinasa (sinusitis)."
+    ],
+    "usageForm": "Purified camphor crystals (Shuddha Karpoora), Medicated oil (Taila), Tablet (Vati), Fermented extract (Asava).",
+    "mainMedicinalUses": [
+        "Expert Cooling and Burning Reliever Specialist: Karpoora is the premier Ayurvedic remedy for all conditions of extreme internal heat and burning sensations. Its Atyanta-Sheeta (extremely cooling) nature provided by camphoraceous terpenoids helps in providing instant relief from sunstrokes, inflammatory fevers, and localized burning in the eyes and skin. WHO-aligned research confirms its potent analgesic and anti-inflammatory action when applied topically.",
+        "Heart and Cardiac health Support: Acts as a powerful agent for managing cardiovascular health (Hrid-roga). It helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress through its 'Hridya' (heart-tonic) quality.",
+        "Respiratory and Sinus Care: Its Tikshna (sharp) and Sukshma (micro-penetrating) nature helped by its aromatic presence makes it incomparable for managing rhinitis (Pinasa), sinusitis, and chronic cough. It acts as a powerful bronchodilator and decongestant. ",
+        "Pain and Joint Relief: Its systemic analgesic (Vedanasthapana) properties help in reducing localized pain and stiffness in conditions like rheumatoid arthritis (Amavata), sciatica, and chronic muscle pain. It is a key ingredient in many cooling medicated oils.",
+        "Anthelminthic and Gut Support: Its 'Krimighna' (worm-destroying) property is utilized primarily in external applications to resolve localized parasitic skin infections and internally (with extreme caution) for specific intestinal parasites.",
+        "Vision and Eye Tonic: Enhances optical health and reduces redness or burning sensations in the eyes. It is traditionally used in 'Chakshushya' (vision-promoting) preparations to improve eye radiance and prevent age-related inflammation.",
+        "Phytochemical Profile: Rich in Monoterpenes (Camphor), Cineole, Pinene, and varios Sesquiterpenoids. Camphor is the primary bioactive responsible for its potent anti-septic, anti-inflammatory, and neuro-relaxant action."
+    ],
+    "plantProfile": [
+        "Unique History: A highly sacred and valued plant throughout the Indian subcontinent, Traditionally used in all major religious rituals for 'Aarti' (ceremonial fire). Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Daha-prashamana' (burning-relieving) and 'Hridya' (heart-tonic) properties. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Camphor Tree'.",
+        "Physical Characteristics: A medium-to-large perennial evergreen tree growing up to 20-30 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are alternate, ovate-elliptic, and aromatic when crushed. The flowers are small, yellowish-white, in axillary panicles. The crystalline camphor is obtained by steam distillation of the wood and leaves. It is found throughout India and tropical/sub-tropical regions worldwide and is widely cultivated globally for medicinal and ornamental use.",
+        "Specific Chemical Compounds: Primarily contains Camphor (approx. 90% in wood oil), Safrole (in crude oil), and Phellandrene. The presence of purified camphor is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the heart and lungs.",
+        "Strict Standardizations: The camphor crystals are standardized in API based on its bright white color and characteristic strong-aromatic-penetrating odor. Physicochemical benchmarks: total ash (<1%), melting point (174-179°C), and specific optical rotation ([α]D). Identification via GC-MS is used to monitor 95% to 99% purity in commercial extracts.",
+        "Purification Note: Only 'Bhimseni Karpoora' (natural camphor from Cinnamomum dryobalanops) is considered supreme in Ayurveda; synthetic camphor is used only for external applications."
+    ],
+    "preparationMethods": [
+        "Purified Camphor (Shuddha): 125 mg to 250 mg (extremely low dose) of purified natural camphor taken with milk or warm water for managing heart and respiratory issues.",
+        "Karpooradi Taila: Medicated oil preparation used for local application on the chest (respiratory) and joints (pain-relief).",
+        "Tablets (Vati): 250 mg to 500 mg tablets used for managing acute burning sensations and colicky pain.",
+        "Karpooradyarishta: 15-30ml of fermented extract taken twice daily after meals for managing chronic digestive and cardiac issues.",
+        "External Paste: Ground purified camphor or oil applied directly to the forehead for fever and headache or to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    ],
+    "dosages": {
+        "Children": "Strictly NOT recommended for internal use in children under 12 due to high potency/toxicity risk. External use is generally safe.",
+        "Adults": "Crystals (Purified): 125 mg to 250 mg; Tablet: 250-500 mg; Oil: External/1-2 drops (internal, with strict precautions), divided throughout the day before meals.",
+        "Elderly": "Very low doses (60-125mg) are advisable initially, monitoring for any increase in dizziness or stomach burning."
+    },
+    "safetyProfile": [
+        "Contraindications: Strictly contraindicated in individuals with high gastric sensitivity, and during pregnancy (abortifacient risk in high doses). Avoid non-purified or synthetic camphor for internal use as it is toxic.",
+        "GRAS Status: Classified as a safe medicinal herb ONLY in recommended therapeutic dosages. Overdose or ingestion of synthetic camphor is highly toxic and can be fatal.",
+        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-hypertensive or heart medications as it causes severe potentiation. No severe adverse interactions reported in clinical literature with purified natural doses.",
+        "Adverse Effects: Overdose results in vomiting, diarrhea, irregular pulse, dizziness, hallucinations, and respiratory failure. Discontinue if palpitations occur."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sarpagandha",
+  "name": "Sarpagandha",
+  "scientificName": "Rauwolfia serpentina (L.) Benth. ex Kurz",
+  "botanicalFamily": "Apocynaceae",
+  "usesInAyurveda": [
+    "Tridoshic Modulation: Pacifies Vata and Kapha.",
+    "Rasa: Tikta (Bitter).",
+    "Virya: Ushna (Hot).",
+    "Karma: Nidrajanana (Sleep-inducing), Manasrogahara (Anti-psychotic)."
+  ],
+  "usageForm": "Root powder.",
+  "mainMedicinalUses": [
+    "World-famous for reducing high blood pressure.",
+    "Used for anxiety, insomnia, and psychiatric disorders.",
+    "Relieves hysteria and severe stress."
+  ],
+  "plantProfile": [
+    "Source of Reserpine, used globally for hypertension."
+  ],
+  "preparationMethods": [
+    "Fine root powder often given with milk at night."
+  ],
+  "dosages": {
+    "Adults": "250mg - 500mg ONLY. MUST BE EXPERT LED."
+  },
+  "safetyProfile": [
+    "Avoid in depression and cardiac weakness."
+  ]
+}
