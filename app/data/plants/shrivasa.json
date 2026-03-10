@@ -1,27 +1,50 @@
 {
-  "id": "shrivasa",
-  "name": "Shrivasa",
-  "scientificName": "Pinus roxburghii Sarg.",
-  "botanicalFamily": "Pinaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha."
-  ],
-  "usageForm": "Resin (Turpentine source).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shrivasa"
+    ],
+    "scientific_name": "Pinus roxburghii Sarg.",
+    "family": "Pinaceae",
+    "ayurveda_names": [
+      "Shrivasa"
+    ],
+    "description": "Himalayan Pine tree providing medicinal resin."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Resin extract or ointments."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-2g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Used for rheumatism and chronic joint conditions.",
     "Effective for respiratory issues like bronchitis.",
     "Used as a base for many Ayurvedic ointments."
   ],
-  "plantProfile": [
-    "Himalayan Pine tree providing medicinal resin."
-  ],
-  "preparationMethods": [
-    "Resin extract or ointments."
-  ],
-  "dosages": {
-    "Adults": "1-2g"
+  "safety_profile": {
+    "warning": "May cause skin irritation if applied directly.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "May cause skin irritation if applied directly."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

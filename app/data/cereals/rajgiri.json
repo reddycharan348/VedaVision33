@@ -1,46 +1,69 @@
 {
-  "name": "Rajgiri",
-  "scientificName": "Amaranthus caudatus L. / Amaranthus cruentus (Amaranth Seed/Ramdana)",
-  "botanicalFamily": "Amaranthaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful pacifier of Vata and Pitta doshas. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is the most prestigious pseudo-cereal for 'Balya' (strength-promoting) and 'Asthi-poshaka' (bone-nourishing) therapies. While it is cooling, its 'Laghu' (light) digestion makes it Tridoshic when cooked properly.",
-    "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry but nourishing).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Balya (strength-promoter), Brimhana (nourishing), Asthi-poshaka (bone-nourishing), Raktaprasadana (blood-soothing), and Vrishya (aphrodisiac).",
-    "API/AFI Adherence: Known as 'Rajgira' (the Royal Grain) or 'Ramdana' (God's Grain). It is a central ingredient in several iconic 'Pushti-vardhaka' (nourishment-increasing) and fasting foods (Phalahara).",
-    "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Asthibhanga (Bone fractures), Raktapitta (Bleeding disorders), and during childhood development or pregnancy."
-  ],
-  "usageForm": "Popped seeds (Laja), Seed flour (Churna), Cooked flatbread (Roti), Sweet confections (Ladoo/Chikki).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Rajgiri"
+    ],
+    "scientific_name": "Amaranthus caudatus L. / Amaranthus cruentus (Amaranth Seed/Ramdana)",
+    "family": "Amaranthaceae",
+    "ayurveda_names": [
+      "Rajgiri"
+    ],
+    "description": "Unique History: A highly sacred 'royal' grain historically used as a primary high-energy food source for warriors, pregnant women, and fasting sages. Regarded as 'Immortal Grain' (Amaranth). Physical Characteristics: A tall, erect, striking annual herb with broad leaves and massive, vibrant red, purple, or golden drooping flower tassels (inflorescences). The tiny seeds are pale white, yellow, or black. Found throughout the Himalayan and sub-Himalayan regions. Specific Chemical Compounds: Contains Squalene, Rutin, Quercetin, and Lunasin. Lunasin is a cancer-preventive peptide. Strict Standardizations: The seed is standardized based on its tiny size, pale yellow-to-white color, and characteristic nutty taste. Physicochemical benchmarks: total ash (<5%), high protein."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Kashaya (astringent)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Powerful pacifier of Vata and Pitta doshas. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is the most prestigious pseudo-cereal for 'Balya' (strength-promoting) and 'Asthi-poshaka' (bone-nourishing) therapies. While it is cooling, its 'Laghu' (light) digestion makes it Tridoshic when cooked properly."
+  },
+  "preparation_methods": {
+    "popped_rajgiri__laja_": {
+      "method": "Tiny seeds popped like popcorn; mixed with milk or jaggery for extreme lightness and high energy."
+    },
+    "rajgiri_ladoo__sweets_": {
+      "method": "Popped seeds bound with hot jaggery syrup; the ultimate winter and post-partum strength-giver."
+    },
+    "rajgiri_atta__flour_": {
+      "method": "Used as a gluten-free base for flatbreads (Paratha) during fasts."
+    },
+    "porridge__kheer_": {
+      "method": "Boiled with milk, saffron, and almonds for weakness and neuro-healing."
+    }
+  },
+  "dosage": {
+    "children": "Highly recommended from 6 months. 10 - 20 grams of popped millet malt twice daily for muscle and bone development.",
+    "adults": "Daily staple food alternative (50-100g of cooked seeds/flour).",
+    "elderly": "Highly recommended to prevent age-related bone density loss. Dosage: 50g of popped seeds daily."
+  },
+  "medicinal_uses": [
     "Expert Bone and Dental Health Specialist (Asthi-poshaka): Rajgiri is the premier Ayurvedic seed for bone density and strength. Its exceptionally high calcium, magnesium, and phosphorus content helps in providing systemic stabilization of the 'Asthi-dhatu' (bone tissue). WHO-aligned research confirms its high bioavailability of calcium.",
     "Complete Protein and Nourishment (Balya): Unlike true cereals, it contains all essential amino acids (including Lysine, usually missing in grains). It effectively improves the quantity and quality of muscle tissue ('Mamsa') in growing children, pregnant women, and convalescents.",
     "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling.",
     "Cardiovascular Support and Heart Health: Its oil profile (squalene) and high fiber content helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress.",
     "Phytochemical Profile: Rich in Complete Proteins (14-16%), Dietary Fiber, Squalene (rare in plants), Phenolic acids, Flavonoids (Rutin), and Essential Minerals (Calcium, Iron, Phosphorus, Magnesium, Zinc). Rutin and Squalene are primary bioactives for its cardio-protective and anti-aging effects."
   ],
-  "plantProfile": [
-    "Unique History: A highly sacred 'royal' grain historically used as a primary high-energy food source for warriors, pregnant women, and fasting sages. Regarded as 'Immortal Grain' (Amaranth).",
-    "Physical Characteristics: A tall, erect, striking annual herb with broad leaves and massive, vibrant red, purple, or golden drooping flower tassels (inflorescences). The tiny seeds are pale white, yellow, or black. Found throughout the Himalayan and sub-Himalayan regions.",
-    "Specific Chemical Compounds: Contains Squalene, Rutin, Quercetin, and Lunasin. Lunasin is a cancer-preventive peptide.",
-    "Strict Standardizations: The seed is standardized based on its tiny size, pale yellow-to-white color, and characteristic nutty taste. Physicochemical benchmarks: total ash (<5%), high protein."
-  ],
-  "preparationMethods": [
-    "Popped Rajgiri (Laja): Tiny seeds popped like popcorn; mixed with milk or jaggery for extreme lightness and high energy.",
-    "Rajgiri Ladoo (Sweets): Popped seeds bound with hot jaggery syrup; the ultimate winter and post-partum strength-giver.",
-    "Rajgiri Atta (Flour): Used as a gluten-free base for flatbreads (Paratha) during fasts.",
-    "Porridge (Kheer): Boiled with milk, saffron, and almonds for weakness and neuro-healing."
-  ],
-  "dosages": {
-    "Children": "Highly recommended from 6 months. 10 - 20 grams of popped millet malt twice daily for muscle and bone development.",
-    "Adults": "Daily staple food alternative (50-100g of cooked seeds/flour).",
-    "Elderly": "Highly recommended to prevent age-related bone density loss. Dosage: 50g of popped seeds daily."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple superfood.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. Very heavy to digest if eaten raw or unpopped/uncooked."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Mild heaviness if eaten without popping or thorough boiling."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as a neutral carrier for many medicines."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. Very heavy to digest if eaten raw or unpopped/uncooked.",
-    "GRAS Status: Classified as a safe staple superfood.",
-    "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
-    "Adverse Effects: Mild heaviness if eaten without popping or thorough boiling."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

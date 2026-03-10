@@ -1,46 +1,69 @@
 {
-    "name": "Kodrava",
-    "scientificName": "Paspalum scrobiculatum L.",
-    "botanicalFamily": "Poaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious millet for 'Meda-hara' (fat-relieving) and 'Lekhana' (scraping) therapies. While it is cooling, it is 'Ruksha' (dry), making it a Vata-increasing grain (Vatala) if over-consumed.",
-        "Rasa (Taste): Madhura (sweet), Tikta (bitter).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Lekhana (scraping), Medahara (fat-relieving), Vishaghna (anti-toxic), Vranaropana (wound-healing), and Sangrahi (absorbent).",
-        "API/AFI Adherence: Known as 'Kodrava' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Medo-rasayana' (fat-reducing) and 'Prameha-hara' (anti-diabetic) formulations like Kodravadi-Churna and various weight-loss soups.",
-        "Specific Indications: Used in Madhumeha (Diabetes mellitus), Medo-roga (Obesity), Raktapitta (Bleeding disorders), Shotha (Edema), and Kushtha (Skin diseases)."
+  "plant": {
+    "common_names": [
+      "Kodrava"
     ],
-    "usageForm": "Dehusked grain cooked (Odana), Roasted powder (Saktu), Fermented extract (Kanjika), Seed paste (Lepa).",
-    "mainMedicinalUses": [
-        "Expert Fat-Scraping and Weight Loss Specialist (Lekhana): Kodrava is the premier Ayurvedic millet for managing obesity and abdominal fat. Its 'Ruksha' (dry) and 'Lekhana' (scraping) nature provided by specific fiber profiles helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO-aligned research confirms its potent cholesterol-lowering and heart-soothing properties.",
-        "Blood Sugar and Diabetes Specialist: Organized as a 'Pramehahara' (diabetes-relieving) food. Its low glycemic index and high fiber content help in regulating blood glucose levels by slowing down carbohydrate absorption and reducing insulin spikes through its 'Kashaya' (astringent) and 'Tikta' (bitter) properties.",
-        "Wound Healing and Anti-Toxic Action: Historically known as 'Vishaghna' (anti-toxic). It effectively reduces the intensity and frequency of localized inflammations and chronic skin issues by providing systemic 'Vranaropana' (wound-healing) and systemic 'Raktaprasadana' (blood-soothing) effects.",
-        "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress. It is traditionally used in 'Kodravadi-Kasham'.",
-        "Phytochemical Profile: Rich in Dietary Fiber (9-10%), Phenolic acids (Siringic, Ferulic), Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells."
+    "scientific_name": "Paspalum scrobiculatum L.",
+    "family": "Poaceae",
+    "ayurveda_names": [
+      "Kodrava"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in the Charaka Samhita as the best among 'Kudhanayas' (low-quality or wild grains) for Vata-Pitta types. Historically used as a primary food source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Stability'.",
-        "Physical Characteristics: A tall, erect, annual grass reaching up to 0.6-1.5 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, brownish-black-to-yellow seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Siringic acid, Ferulic acid, and diversos Protease inhibitors. These compounds are centrally active in promoting systemic 'Deepana' (digestive) and providing systemic hemostatic balance.",
-        "Strict Standardizations: The grain is standardized in API based on its yellowish-brown-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    "description": "Unique History: Mentioned in the Charaka Samhita as the best among 'Kudhanayas' (low-quality or wild grains) for Vata-Pitta types. Historically used as a primary food source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Stability'. Physical Characteristics: A tall, erect, annual grass reaching up to 0.6-1.5 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) containing numerous small, flat, brownish-black-to-yellow seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Siringic acid, Ferulic acid, and diversos Protease inhibitors. These compounds are centrally active in promoting systemic 'Deepana' (digestive) and providing systemic hemostatic balance. Strict Standardizations: The grain is standardized in API based on its yellowish-brown-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Tikta (bitter)."
     ],
-    "preparationMethods": [
-        "Kodrava-Odana (Cooked Rice): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
-        "Kodrava-Saktu (Roasted): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
-        "Kanjika (Fermented): Dehusked grains fermented with water; used to treat chronic mental stress and physical weakness through its 'Rasayana' quality.",
-        "External Paste (Lepa): Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 10 - 20 grams of cooked millet twice daily for respiratory support and cooling during childhood infections.",
-        "Adults": "Daily staple food (50-200g of cooked millet per meal).",
-        "Elderly": "Highly recommended to prevent age-related Pitta issues and maintain cardiac health. Dosage: 100g of cooked millet daily."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious millet for 'Meda-hara' (fat-relieving) and 'Lekhana' (scraping) therapies. While it is cooling, it is 'Ruksha' (dry), making it a Vata-increasing grain (Vatala) if over-consumed."
+  },
+  "preparation_methods": {
+    "kodrava_odana__cooked_rice_": {
+      "method": "1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
-        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    "kodrava_saktu__roasted_": {
+      "method": "30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets."
+    },
+    "kanjika__fermented_": {
+      "method": "Dehusked grains fermented with water; used to treat chronic mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 10 - 20 grams of cooked millet twice daily for respiratory support and cooling during childhood infections.",
+    "adults": "Daily staple food (50-200g of cooked millet per meal).",
+    "elderly": "Highly recommended to prevent age-related Pitta issues and maintain cardiac health. Dosage: 100g of cooked millet daily."
+  },
+  "medicinal_uses": [
+    "Expert Fat-Scraping and Weight Loss Specialist (Lekhana): Kodrava is the premier Ayurvedic millet for managing obesity and abdominal fat. Its 'Ruksha' (dry) and 'Lekhana' (scraping) nature provided by specific fiber profiles helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO-aligned research confirms its potent cholesterol-lowering and heart-soothing properties.",
+    "Blood Sugar and Diabetes Specialist: Organized as a 'Pramehahara' (diabetes-relieving) food. Its low glycemic index and high fiber content help in regulating blood glucose levels by slowing down carbohydrate absorption and reducing insulin spikes through its 'Kashaya' (astringent) and 'Tikta' (bitter) properties.",
+    "Wound Healing and Anti-Toxic Action: Historically known as 'Vishaghna' (anti-toxic). It effectively reduces the intensity and frequency of localized inflammations and chronic skin issues by providing systemic 'Vranaropana' (wound-healing) and systemic 'Raktaprasadana' (blood-soothing) effects.",
+    "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress. It is traditionally used in 'Kodravadi-Kasham'.",
+    "Phytochemical Profile: Rich in Dietary Fiber (9-10%), Phenolic acids (Siringic, Ferulic), Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). The presence of phenolic acids is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with unctuous substances like ghee. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption leads to excessive gas and bloating if not appropriately toasted before cooking."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

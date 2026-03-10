@@ -1,31 +1,52 @@
 {
-  "id": "twak",
-  "name": "Twak (Cinnamon)",
-  "scientificName": "Cinnamomum zeylanicum Blume",
-  "botanicalFamily": "Lauraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Rasa: Katu (Pungent), Tikta (Bitter).",
-    "Virya: Ushna (Hot).",
-    "Karma: Deepana (Digestive), Pachana (Detox)."
-  ],
-  "usageForm": "Bark powder, Oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Twak (Cinnamon)"
+    ],
+    "scientific_name": "Cinnamomum zeylanicum Blume",
+    "family": "Lauraceae",
+    "ayurveda_names": [
+      "Twak (Cinnamon)"
+    ],
+    "description": "Aromatic inner bark of the evergreen tree. Contains Cinnamaldehyde."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (Pungent), Tikta (Bitter)."
+    ],
+    "virya_potency": "Ushna (Hot).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Add to tea or cook with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Improves digestion and metabolism.",
     "Regulates blood sugar levels.",
     "Clears respiratory congestion."
   ],
-  "plantProfile": [
-    "Aromatic inner bark of the evergreen tree.",
-    "Contains Cinnamaldehyde."
-  ],
-  "preparationMethods": [
-    "Add to tea or cook with honey."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Possible skin irritation if applied as pure oil.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Possible skin irritation if applied as pure oil."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,46 +1,69 @@
 {
-  "name": "Mudgaparni",
-  "scientificName": "Vigna radiata var. sublobata (Roxb.) Verdc. (Wild Green Gram)",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious wild legume for 'Jivaniya' (life-sustaining) and 'Shukra-janana' (sperm-promoting) therapies. While it is cooling, it is 'Laghu' (light), making it easy to digest and Tridoshic, similar to Mudga but wilder.",
-    "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
-    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily)",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Jivaniya (life-sustaining), Vrishya (aphrodisiac), Shukra-janana (sperm-producing), Raktaprasadana (blood-soothing), and Balya (strength-promoter).",
-    "API/AFI Adherence: Known as 'Mudgaparni' in the Ayurvedic Pharmacopoeia of India (API) under the 'Jivaniya Gana' (group of vitalizing herbs). Commonly used in 'Maha-Rasnadi-Kashayam' and 'Ashwagandhadi-Lehyam'.",
-    "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Raktapitta (Bleeding disorders), Daha (Internal burning), and Shukra-kshaya (Oligospermia)."
-  ],
-  "usageForm": "Whole plant decoction (Kashaya), Seed powder (Churna), Medicated ghee (Ghrita).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Mudgaparni"
+    ],
+    "scientific_name": "Vigna radiata var. sublobata (Roxb.) Verdc. (Wild Green Gram)",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Mudgaparni"
+    ],
+    "description": "Unique History: A highly sacred 'Jivaniya' (life-promoting) plant mentioned in ancient Ayurvedic treatises like Charaka Samhita. Seen as the wild, uncultivated, potent ancestor of the modern mung bean. Physical Characteristics: A slender, twining, annual or perennial creeping herb covered with brownish hairs, bearing trifoliate leaves and small, yellow flowers. The tiny pods contain 5-10 small, brownish-black or grey mottled seeds. Found wild throughout India, particularly in warm regions. Specific Chemical Compounds: Contains Vitexin, Isovitexin, and Phaseol. These compounds are centrally active in promoting systemic 'Jivaniya' (vitality) and providing hemostatic balance. Strict Standardizations: Standardized based on its distinctive hairy stem, trifoliate leaves resembling Mudga, and tiny seeds. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>12%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Kashaya (astringent)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious wild legume for 'Jivaniya' (life-sustaining) and 'Shukra-janana' (sperm-promoting) therapies. While it is cooling, it is 'Laghu' (light), making it easy to digest and Tridoshic, similar to Mudga but wilder."
+  },
+  "preparation_methods": {
+    "jivaniya_ghrita__medicated_ghee_": {
+      "method": "Root and seeds boiled in ghee for profound systemic nervous and muscular weakness."
+    },
+    "kashaya__decoction_": {
+      "method": "Whole plant boiled and reduced. Taken for fever management and internal bleeding."
+    },
+    "seed_powder__churna_": {
+      "method": "3-6g of fine powder taken daily with warm milk for stamina."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh plant applied directly to localized inflammations or painful joints to reduce heat."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 grams of powder mixed with honey once twice for development.",
+    "adults": "3-6g of powder or 30-50ml of decoction per day.",
+    "elderly": "Highly recommended to prevent age-related weight loss and maintain physical stability. Dosage: 5g of powder daily."
+  },
+  "medicinal_uses": [
     "Expert Reproductive and Vitality Specialist (Jivaniya): Mudgaparni is the premier Ayurvedic wild creeper for comprehensive systemic rejuvenation. Its 'Madhura' (sweet) and 'Laghu' (light) nature helps in providing profound stabilization of the 'Rasa' and 'Shukra' tissues. It acts as an elite 'Vajikarana' (aphrodisiac) without causing heaviness.",
     "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the uterus, stomach, and pelvic organs by providing systemic cooling.",
     "Physical Strength and Convalescence (Balya): Historically known as 'Angamarda-prashamana' (body-ache relieving). It effectively reduces the intensity and frequency of joint stiffness (Sandhi-graha) and chronic Vata-related muscular aches.",
     "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its balancing presence and cooling nature helps in protecting the heart muscles from high Pitta/Vata states.",
     "Phytochemical Profile: Rich in Proteins (20-22%), Flavonoids (Vitexin, Isovitexin), Isoflavonoids, Saponins, and Essential Minerals (Phosphorus, Selenium, Calcium). Vitexin is crucial for its neuro-relaxant and anti-tumor action."
   ],
-  "plantProfile": [
-    "Unique History: A highly sacred 'Jivaniya' (life-promoting) plant mentioned in ancient Ayurvedic treatises like Charaka Samhita. Seen as the wild, uncultivated, potent ancestor of the modern mung bean.",
-    "Physical Characteristics: A slender, twining, annual or perennial creeping herb covered with brownish hairs, bearing trifoliate leaves and small, yellow flowers. The tiny pods contain 5-10 small, brownish-black or grey mottled seeds. Found wild throughout India, particularly in warm regions.",
-    "Specific Chemical Compounds: Contains Vitexin, Isovitexin, and Phaseol. These compounds are centrally active in promoting systemic 'Jivaniya' (vitality) and providing hemostatic balance.",
-    "Strict Standardizations: Standardized based on its distinctive hairy stem, trifoliate leaves resembling Mudga, and tiny seeds. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>12%)."
-  ],
-  "preparationMethods": [
-    "Jivaniya Ghrita (Medicated Ghee): Root and seeds boiled in ghee for profound systemic nervous and muscular weakness.",
-    "Kashaya (Decoction): Whole plant boiled and reduced. Taken for fever management and internal bleeding.",
-    "Seed Powder (Churna): 3-6g of fine powder taken daily with warm milk for stamina.",
-    "External Paste (Lepa): Ground fresh plant applied directly to localized inflammations or painful joints to reduce heat."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 grams of powder mixed with honey once twice for development.",
-    "Adults": "3-6g of powder or 30-50ml of decoction per day.",
-    "Elderly": "Highly recommended to prevent age-related weight loss and maintain physical stability. Dosage: 5g of powder daily."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. No known contraindications due to its Tridosha-balancing and 'Laghu' (light) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as a neutral carrier for many medicines."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. No known contraindications due to its Tridosha-balancing and 'Laghu' (light) nature.",
-    "GRAS Status: Classified as a safe medicinal herb.",
-    "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
-    "Adverse Effects: None documented."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

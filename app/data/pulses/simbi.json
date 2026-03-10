@@ -1,19 +1,43 @@
 {
-  "name": "Simbi",
-  "scientificName": "Lablab purpureus var. typicus (L.) Sweet (Fresh Hyacinth Bean Pods)",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata dosha as a fresh pod but can aggravate Vata when dry. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, the fresh green pod (Simbi) is a prestigious vegetable for 'Brimhaniya' (nourishing) and 'Vata-hara' (Vata-pacifying) therapies. The dried seed ('Nippava') behaves differently as a Kapha-hara pulse.",
-    "Rasa (Taste): Madhura (sweet).",
-    "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily) in fresh state.",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Vatahara (Vata-pacifying), Brimhana (nourishing), Balya (strength-promoter), Raktaprasadana (blood-soothing), and Vanya (complexion-improving).",
-    "API/AFI Adherence: Known as 'Simbi' (fresh pod) or 'Avare' in traditional practices. Distinct from 'Nippava' (dried seeds) in its therapeutic action. It is highly valued as a 'Shaka' (green vegetable) for winter nourishment.",
-    "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Vata-vyadhi (neuromuscular disorders from dryness), Raktapitta (Bleeding disorders), and Daha (Internal burning)."
-  ],
-  "usageForm": "Fresh pods cooked as vegetable (Shaka), Seed paste (Lepa).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Simbi"
+    ],
+    "scientific_name": "Lablab purpureus var. typicus (L.) Sweet (Fresh Hyacinth Bean Pods)",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Simbi"
+    ],
+    "description": "Unique History: A quintessential winter crop, celebrated in Southern and Western India (e.g., Avarekai Mela) for its distinct aroma, heavy nourishment, and sacred agricultural significance. Physical Characteristics: A vigorous twining or semi-erect perennial (grown as annual) herb. Leaves are trifoliate and broad. The flowers are stunning purple or white. The defining feature is the wide, flat, fleshy, green or purple-tinged pods containing oval seeds. Found throughout Indian gardens. Specific Chemical Compounds: Contains Tyrosinase inhibitors, Phytohemagglutinins (in raw state), and Saponins. Cooking destroys toxins and unlocks its 'Brimhana' property. Strict Standardizations: The fresh pod is standardized based on its bright green/purple color, fleshy texture, and characteristic aromatic 'bean' smell."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata dosha as a fresh pod but can aggravate Vata when dry. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, the fresh green pod (Simbi) is a prestigious vegetable for 'Brimhaniya' (nourishing) and 'Vata-hara' (Vata-pacifying) therapies. The dried seed ('Nippava') behaves differently as a Kapha-hara pulse."
+  },
+  "preparation_methods": {
+    "simbi_shaka__cooked_vegetable_": {
+      "method": "Fresh pods and seeds boiled and stir-fried with mustard oil/ghee, asafoetida, and cumin. The best way to harness its strength-giving property without causing gas."
+    },
+    "avarekai__peeled_green_seeds_": {
+      "method": "The specialized inner kernel ('Hitikida Avare') squeezed out and cooked as a highly prized, easily digestible winter tonic."
+    },
+    "leaf_juice__swarasa_": {
+      "method": "Fresh leaf juice applied topically to insect stings and localized eczema."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh beans applied directly to inflammatory skin conditions."
+    }
+  },
+  "dosage": {
+    "children": "Highly recommended for growth. 50-100 grams of cooked vegetable.",
+    "adults": "Daily winter staple food (100-200g of cooked pods per meal).",
+    "elderly": "Highly recommended with ghee to prevent age-related muscle wasting and constipation."
+  },
+  "medicinal_uses": [
     "Expert Nourishing Vegetable (Brimhaniya Shaka): Simbi is the premier Ayurvedic green pod for building muscle mass and countering severe Vata and dryness during winters. Its 'Guru' (heavy) and 'Snigdha' (oily) nature helps in providing systemic stabilization of the 'Mamsa-dhatu' (muscle tissue) and soothing the nerves.",
     "Gastrointestinal and Constitutive Care (Vata-ahara): Historically known as 'Anulomana' (downward-moving). It effectively regulates bowel movements when consumed fresh with ghee, curing chronic Vata-induced constipation (unlike the dry seed which causes gas).",
     "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the stomach and pelvic organs by providing systemic cooling.",
@@ -21,27 +45,26 @@
     "Cardiovascular Support: High potassium and dietary fiber help in regulating heart rate and improving systemic circulation.",
     "Phytochemical Profile: Rich in Fresh Proteins, Complex Carbohydrates, Flavonoids, Saponins, Carotenoids, and Essential Minerals (Potassium, Iron, Calcium). Carotenoids and Flavonoids form its anti-oxidative base."
   ],
-  "plantProfile": [
-    "Unique History: A quintessential winter crop, celebrated in Southern and Western India (e.g., Avarekai Mela) for its distinct aroma, heavy nourishment, and sacred agricultural significance.",
-    "Physical Characteristics: A vigorous twining or semi-erect perennial (grown as annual) herb. Leaves are trifoliate and broad. The flowers are stunning purple or white. The defining feature is the wide, flat, fleshy, green or purple-tinged pods containing oval seeds. Found throughout Indian gardens.",
-    "Specific Chemical Compounds: Contains Tyrosinase inhibitors, Phytohemagglutinins (in raw state), and Saponins. Cooking destroys toxins and unlocks its 'Brimhana' property.",
-    "Strict Standardizations: The fresh pod is standardized based on its bright green/purple color, fleshy texture, and characteristic aromatic 'bean' smell."
-  ],
-  "preparationMethods": [
-    "Simbi-Shaka (Cooked Vegetable): Fresh pods and seeds boiled and stir-fried with mustard oil/ghee, asafoetida, and cumin. The best way to harness its strength-giving property without causing gas.",
-    "Avarekai (Peeled Green Seeds): The specialized inner kernel ('Hitikida Avare') squeezed out and cooked as a highly prized, easily digestible winter tonic.",
-    "Leaf Juice (Swarasa): Fresh leaf juice applied topically to insect stings and localized eczema.",
-    "External Paste (Lepa): Ground fresh beans applied directly to inflammatory skin conditions."
-  ],
-  "dosages": {
-    "Children": "Highly recommended for growth. 50-100 grams of cooked vegetable.",
-    "Adults": "Daily winter staple food (100-200g of cooked pods per meal).",
-    "Elderly": "Highly recommended with ghee to prevent age-related muscle wasting and constipation."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe, highly nutritious vegetable.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe WHEN COOKED. High Kapha (severe congestion) should limit intake as it is 'Guru'. MUST NEVER BE EATEN RAW due to cyanogenic glycosides and hemagglutinins."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Severe gastrointestinal distress and toxicity if eaten raw."
+    ],
+    "drug_interactions": [
+      "None documented."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe WHEN COOKED. High Kapha (severe congestion) should limit intake as it is 'Guru'. MUST NEVER BE EATEN RAW due to cyanogenic glycosides and hemagglutinins.",
-    "GRAS Status: Classified as a safe, highly nutritious vegetable.",
-    "Herb-Drug Interactions: None documented.",
-    "Adverse Effects: Severe gastrointestinal distress and toxicity if eaten raw."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

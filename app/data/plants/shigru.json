@@ -1,31 +1,53 @@
 {
-  "id": "shigru",
-  "name": "Shigru (Moringa)",
-  "scientificName": "Moringa oleifera Lam.",
-  "botanicalFamily": "Moringaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata.",
-    "Rasa: Katu (Pungent), Tikta (Bitter).",
-    "Virya: Ushna (Hot).",
-    "Karma: Shothahara (Anti-inflammatory), Chakshushya (Eye health)."
-  ],
-  "usageForm": "Leaf powder, Seed oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shigru (Moringa)"
+    ],
+    "scientific_name": "Moringa oleifera Lam.",
+    "family": "Moringaceae",
+    "ayurveda_names": [
+      "Shigru (Moringa)"
+    ],
+    "description": "Known as the 'Drumstick Tree' or the 'Miracle Tree'."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (Pungent), Tikta (Bitter)."
+    ],
+    "virya_potency": "Ushna (Hot).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Add leaf powder to soups or take as tablets."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "2-5g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Highly nutritional 'Superfood' with high Vitamin C and Calcium.",
     "Reduces joint pain and inflammation in arthritis.",
     "Protects the liver and supports kidney health.",
     "Improves vision and immunity."
   ],
-  "plantProfile": [
-    "Known as the 'Drumstick Tree' or the 'Miracle Tree'."
-  ],
-  "preparationMethods": [
-    "Add leaf powder to soups or take as tablets."
-  ],
-  "dosages": {
-    "Adults": "2-5g"
+  "safety_profile": {
+    "warning": "Avoid root bark extracts during pregnancy.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Avoid root bark extracts during pregnancy."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

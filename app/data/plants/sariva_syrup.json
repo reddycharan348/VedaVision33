@@ -1,27 +1,50 @@
 {
-  "id": "sariva_syrup",
-  "name": "Sariva Syrup",
-  "scientificName": "Hemidesmus root extract",
-  "botanicalFamily": "Apocynaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Tridoshahara."
-  ],
-  "usageForm": "Syrup/Juice.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Sariva Syrup"
+    ],
+    "scientific_name": "Hemidesmus root extract",
+    "family": "Apocynaceae",
+    "ayurveda_names": [
+      "Sariva Syrup"
+    ],
+    "description": "Concentrated essence."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Tridoshahara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Dilute with water."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "20ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Blood purifier",
     "Acne",
     "Cooling."
   ],
-  "plantProfile": [
-    "Concentrated essence."
-  ],
-  "preparationMethods": [
-    "Dilute with water."
-  ],
-  "dosages": {
-    "Adults": "20ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

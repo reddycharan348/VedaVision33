@@ -1,29 +1,51 @@
 {
-  "id": "vidari",
-  "name": "Vidari",
-  "scientificName": "Pueraria tuberosa (Roxb. ex Willd.) DC.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Pitta.",
-    "Karma: Vrishya (Aphrodisiac), Balya (Strength)."
-  ],
-  "usageForm": "Tuber powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vidari"
+    ],
+    "scientific_name": "Pueraria tuberosa (Roxb. ex Willd.) DC.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Vidari"
+    ],
+    "description": "Large tuberous root with high nutritional value."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Consume powder with milk and ghee."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-6g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Highly effective for weight gain and muscle development.",
     "Promotes lactation in nursing mothers.",
     "Acts as a powerful rejuvenative tonic for the elderly.",
     "Improves male reproductive health."
   ],
-  "plantProfile": [
-    "Large tuberous root with high nutritional value."
-  ],
-  "preparationMethods": [
-    "Consume powder with milk and ghee."
-  ],
-  "dosages": {
-    "Adults": "3-6g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

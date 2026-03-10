@@ -1,19 +1,46 @@
 {
-  "name": "Shirisha",
-  "scientificName": "Albizia lebbeck (L.) Benth.",
-  "botanicalFamily": "Fabaceae (sub-fam. Mimosoideae)",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Tridoshahara (pacifies all three doshas). Due to its Madhura (sweet) and Tikta (bitter) Rasa and Anushna (neutral-to-warm) Virya, it is the most prestigious herb for 'Vishaghna' (anti-toxic) and 'Varnya' (complexion-promoting) therapies. It clears the fiery and agitated qualities of Pitta and the heavy qualities of Kapha through its systemic detoxifying property.",
-    "Rasa (Taste): Katu (pungent), Tikta (bitter), Kashaya (astringent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Anushna (neither-too-hot-nor-too-cold).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Vishaghna (anti-toxic), Kandughna (anti-itch), Kusthaghna (anti-skin disease), Shothahara (anti-swelling), Varnya (complexion-promoting), and Jwarahara (antipyretic).",
-    "API/AFI Adherence: The dried stem bark and seeds are official as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in almost all classical anti-toxic formulations like Shirisharishta, Dashanga Agada, and various skin-toning masks (Lepas).",
-    "Specific Indications: Used in Visha (Allergic conditions), Kushtha (Skin diseases), Shwasa (Asthma), Kasa (Cough), Shotha (Edema), and Kandu (Pruritus)."
-  ],
-  "usageForm": "Stem bark powder (Churna), Seed powder (Churna), Decoction (Kwatha), Fermented extract (Arishta).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shirisha"
+    ],
+    "scientific_name": "Albizia lebbeck (L.) Benth.",
+    "family": "Fabaceae (sub-fam. Mimosoideae)",
+    "ayurveda_names": [
+      "Shirisha"
+    ],
+    "description": "Unique History: Classified under the 'Vishaghna' (anti-toxic) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Shirisha' translates to 'one that stays in the mountains'. Historically used as a bio-enhancer for various anti-allergic tonics. Mentioned in classical Sanskrit literature as the 'Siris' or 'Lebbeck' tree. Physical Characteristics: A medium-to-large perennial deciduous tree reaching up to 15-20 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are opposite, pinnate (serrated), and green. The flowers are attractive, white-to-pale yellow 'puffball' heads. The fruit consists of numerous pods containing small, oval seeds. Found throughout India and tropical/sub-tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India. Specific Chemical Compounds: Contains Albizinoside, Lebbecasides, and Quercetin. The presence of quercetin is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells. Strict Standardizations: The stem bark is standardized in API based on its greyish-brown color and characteristic estremamente bitter-pungent taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent), Tikta (bitter), Kashaya (astringent)."
+    ],
+    "virya_potency": "Anushna (neither-too-hot-nor-too-cold).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Tridoshahara (pacifies all three doshas). Due to its Madhura (sweet) and Tikta (bitter) Rasa and Anushna (neutral-to-warm) Virya, it is the most prestigious herb for 'Vishaghna' (anti-toxic) and 'Varnya' (complexion-promoting) therapies. It clears the fiery and agitated qualities of Pitta and the heavy qualities of Kapha through its systemic detoxifying property."
+  },
+  "preparation_methods": {
+    "stem_bark_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with milk or honey (for allergy health) or warm water (for general vitality)."
+    },
+    "bark_decoction__kwatha_": {
+      "method": "20g of dried bark boiled in 160ml water reduced to 40ml for chronic asthma and bronchial congestion. Take twice daily before meals."
+    },
+    "shirisharishta": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles through its blood-purifying action."
+    },
+    "internal_medicated_ghee": {
+      "method": "5ml - 10ml taken twice daily for managing mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh bark or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "World-Class Anti-Toxic Specialist (Vishaghna): Shirisha is the premier Ayurvedic remedy for all conditions of systemic and localized allergy (Visha). Its 'Vishaghna' (anti-toxic) nature provided by saponins and flavonoids helps in neutralizing inflammatory cytokines and providing systemic stabilization of the immune system. WHO research confirms its potent mast-cell stabilizing and anti-allergic properties.",
     "Skin Health and Itch Relief (Kandughna): Its cooling and antimicrobial properties help in treating chronic skin conditions like acne, psoriasis, and eczema. The bark paste applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Vranaropana' (wound-healing) effects.",
     "Respiratory and Asthma Management: Historically known as 'Shwasahara' (antiasthmatic). It effectively reduces the intensity and frequency of asthma attacks by clearing 'Kapha-avarana' (mucus-obstruction) in the respiratory channels and providing systemic nourishment (Brimhana).",
@@ -22,28 +49,26 @@
     "Cardiovascular and Heart health: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helps in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress.",
     "Phytochemical Profile: Rich in Saponins (Albizia-saponin), Flavonoids (Quercetin), Tannins, and diversos Amino Acids. Albizia-saponin is the primary bioactive responsible for its potent anti-allergic, anti-carcinogenic, and anti-tubercular action on the heart and skin cells."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Vishaghna' (anti-toxic) group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Shirisha' translates to 'one that stays in the mountains'. Historically used as a bio-enhancer for various anti-allergic tonics. Mentioned in classical Sanskrit literature as the 'Siris' or 'Lebbeck' tree.",
-    "Physical Characteristics: A medium-to-large perennial deciduous tree reaching up to 15-20 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are opposite, pinnate (serrated), and green. The flowers are attractive, white-to-pale yellow 'puffball' heads. The fruit consists of numerous pods containing small, oval seeds. Found throughout India and tropical/sub-tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India.",
-    "Specific Chemical Compounds: Contains Albizinoside, Lebbecasides, and Quercetin. The presence of quercetin is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
-    "Strict Standardizations: The stem bark is standardized in API based on its greyish-brown color and characteristic estremamente bitter-pungent taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
-  ],
-  "preparationMethods": [
-    "Stem Bark Powder (Churna): 3-6g of fine powder taken twice daily with milk or honey (for allergy health) or warm water (for general vitality).",
-    "Bark Decoction (Kwatha): 20g of dried bark boiled in 160ml water reduced to 40ml for chronic asthma and bronchial congestion. Take twice daily before meals.",
-    "Shirisharishta: 15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles through its blood-purifying action.",
-    "Internal Medicated Ghee: 5ml - 10ml taken twice daily for managing mental stress and physical weakness through its 'Rasayana' quality.",
-    "External Paste (Lepa): Ground fresh bark or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Kashaya (astringent). Avoid during pregnancy in very large therapeutic doses except under professional guidance."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Kashaya (astringent). Avoid during pregnancy in very large therapeutic doses except under professional guidance.",
-    "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

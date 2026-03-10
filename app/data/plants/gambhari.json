@@ -1,19 +1,46 @@
 {
-  "name": "Gambhari",
-  "scientificName": "Gmelina arborea Roxb.",
-  "botanicalFamily": "Lamiaceae (formerly Verbenaceae)",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Tikta (bitter), Kashaya (astringent) and Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Medhya' (brain-toning) and 'Vata-Pitta Shaman' (Pitta-Vata pacifying) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata. Ripe fruit is extremely cooling.",
-    "Rasa (Taste): Tikta (bitter), Kashaya (astringent), Madhura (sweet).",
-    "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Medhya (intellect-promoting), Hridya (heart-tonic), Stanya-janana (galactagogue), Rasayana (rejuvenative), Deepana (appetizer), and Pachana (digestive).",
-    "API/AFI Adherence: The dried root and fruit are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Dashamoola-arishta, Gambhari Ghrita, and various Medhya tonics.",
-    "Specific Indications: Used in Shosha (wasting/decline), Smriti-kshaya (memory loss), Stanya-kshaya (low breast milk), Arsha (hemorrhoids), and Raktapitta (bleeding disorders)."
-  ],
-  "usageForm": "Root decoction (Kwatha), Fruit powder (Churna), Medicated ghee (Ghrita), Fermented extract (Arishta).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Gambhari"
+    ],
+    "scientific_name": "Gmelina arborea Roxb.",
+    "family": "Lamiaceae (formerly Verbenaceae)",
+    "ayurveda_names": [
+      "Gambhari"
+    ],
+    "description": "Unique History: Classified under the 'Dashamoola' (ten roots) and 'Medhya' (intellect) groups in ancient Ayurvedic treatises like Charaka Samhita. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as 'Sriparni' (the auspicious-leaf tree). Physical Characteristics: A large, deciduous tree growing up to 20-30 meters in height, with a majestic crown and thick, light-grey bark. It features broad, heart-shaped (cordate) leaves and attractive, brownish-yellow flowers arranged in terminal spikes. The fruit is an oval, yellow drupe with a sweet-astringent taste. It is found in deciduous forests throughout India and Southeast Asia. Specific Chemical Compounds: Primarily contains Lignans (Gmelinol, Paulownin), Flavonoids, and Saponins. The presence of gmelinol is crucial for its bio-enhancing, anti-microbial, and cytotoxic action on the immune system. Strict Standardizations: The root is standardized in API based on macroscopic features (tough bark, slightly sweet taste). Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>7%), and water-soluble extractive (>20%). HPTLC quantification is used to monitor gmelinol and flavone content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Kashaya (astringent), Madhura (sweet)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Vata and Pitta doshas. Due to its Tikta (bitter), Kashaya (astringent) and Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Medhya' (brain-toning) and 'Vata-Pitta Shaman' (Pitta-Vata pacifying) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata. Ripe fruit is extremely cooling."
+  },
+  "preparation_methods": {
+    "root_decoction__kwatha_": {
+      "method": "20g of root bark boiled in 160ml water reduced to 40ml for chronic memory and debility issues. Take twice daily before meals."
+    },
+    "fruit_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm milk or honey (for piles) or warm water (for general vitality)."
+    },
+    "gambhari_ghrita": {
+      "method": "5-10g of ghee processed with Gambhari; taken to treat chronic mental stress and low milk production through its 'Rasayana' quality."
+    },
+    "dashamoola_arishta": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing post-partum recovery and joint disorders."
+    },
+    "external_paste": {
+      "method": "Ground fresh leaves or bark applied directly to localized inflammations and skin rashes to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 ml of decoction or 125-250 mg of powder mixed with honey twice daily for enhancing memory and concentration in students.",
+    "adults": "Powder: 3-6 grams; Decoction: 50-100 ml; Ghee: 5-10 g, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related cognitive support and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Brain and Memory Support: Gambhari is a premier 'Medhya Rasayana' in Ayurveda. It helps in enhancing cognitive function, improving memory retention, and providing systemic cooling to the nervous system. WHO-aligned research supports its neuroprotective and anti-stress effects.",
     "Galactagogue (Breast Milk Enhancer): Historically known as 'Stanya-janana' (remedy for increasing milk). It is the most prestigious herb for breastfeeding mothers to improve both the quantity and quality of breast milk naturally and safely.",
     "Hemorrhoids and Gut Health: Its 'Grahi' (absorbent) and 'Deepana' (appetizer) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining.",
@@ -22,28 +49,26 @@
     "Bleeding Disorders and Thirst: Traditionally used to manage 'Raktapitta' (localized bleeding) and excessive thirst (Trishnahara). Its cooling and astringent properties help in providing systemic hemostatic balance.",
     "Phytochemical Profile: Rich in Lignans (gmelinol, arborone), Flavonoids (quercetin), Tannins, and Sterols. The presence of gmelinol is crucial for its neuro-regenerative and anti-oxidant action on the brain and liver cells."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Dashamoola' (ten roots) and 'Medhya' (intellect) groups in ancient Ayurvedic treatises like Charaka Samhita. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as 'Sriparni' (the auspicious-leaf tree).",
-    "Physical Characteristics: A large, deciduous tree growing up to 20-30 meters in height, with a majestic crown and thick, light-grey bark. It features broad, heart-shaped (cordate) leaves and attractive, brownish-yellow flowers arranged in terminal spikes. The fruit is an oval, yellow drupe with a sweet-astringent taste. It is found in deciduous forests throughout India and Southeast Asia.",
-    "Specific Chemical Compounds: Primarily contains Lignans (Gmelinol, Paulownin), Flavonoids, and Saponins. The presence of gmelinol is crucial for its bio-enhancing, anti-microbial, and cytotoxic action on the immune system.",
-    "Strict Standardizations: The root is standardized in API based on macroscopic features (tough bark, slightly sweet taste). Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>7%), and water-soluble extractive (>20%). HPTLC quantification is used to monitor gmelinol and flavone content."
-  ],
-  "preparationMethods": [
-    "Root Decoction (Kwatha): 20g of root bark boiled in 160ml water reduced to 40ml for chronic memory and debility issues. Take twice daily before meals.",
-    "Fruit Powder (Churna): 3-6g of fine powder taken twice daily with warm milk or honey (for piles) or warm water (for general vitality).",
-    "Gambhari Ghrita: 5-10g of ghee processed with Gambhari; taken to treat chronic mental stress and low milk production through its 'Rasayana' quality.",
-    "Dashamoola-arishta: 15-30ml of fermented extract taken twice daily after meals for managing post-partum recovery and joint disorders.",
-    "External Paste: Ground fresh leaves or bark applied directly to localized inflammations and skin rashes to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 ml of decoction or 125-250 mg of powder mixed with honey twice daily for enhancing memory and concentration in students.",
-    "Adults": "Powder: 3-6 grams; Decoction: 50-100 ml; Ghee: 5-10 g, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related cognitive support and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and edible fruit with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Guru (heavy). Avoid in extreme constipation due to its 'Grahi' (absorbent) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or sedative medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Guru (heavy). Avoid in extreme constipation due to its 'Grahi' (absorbent) nature.",
-    "GRAS Status: Classified as a safe medicinal herb and edible fruit with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or sedative medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

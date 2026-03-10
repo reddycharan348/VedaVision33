@@ -1,62 +1,42 @@
 {
-  "name": "Money Plant",
-  "scientific_name": "Epipremnum aureum",
-  "other_names": {
-    "sanskrit": "Not traditionally described in classical Ayurveda",
-    "hindi": "मनी प्लांट (Money Plant)",
-    "english": "Devil's Ivy, Golden Pothos, Money Plant",
-    "telugu": "మనీ ప్లాంట్ (Money Plant)"
+  "plant": {
+    "common_names": [
+      "Money Plant"
+    ],
+    "scientific_name": "",
+    "family": "Araceae",
+    "ayurveda_names": [
+      "Money Plant"
+    ],
+    "description": ""
   },
-  "description": "Money Plant (Epipremnum aureum) is a popular evergreen vine widely grown indoors. While not a classical Ayurvedic herb used for internal medicine, it holds significant value in Vaastu Shastra and Feng Shui for attracting positive energy. More importantly, modern research and traditional home practices recognize its exceptional air-purifying qualities, removing indoor pollutants like formaldehyde, xylene, and benzene.",
-  "botanicalFamily": "Araceae",
-  "habitat": "Native to Mo'orea in the Society Islands of French Polynesia. Currently naturalized worldwide in tropical and sub-tropical forests, and extensively cultivated as an indoor decorative plant globally.",
-  "parts_used": ["Leaves (primarily for external use or environmental purification)"],
-  "usage_form": "Whole plant for indoor air purification; crushed leaves for topical application in folk remedies (with caution).",
   "ayurvedic_properties": {
-    "rasa": "Katu (Pungent) - based on its highly irritating sap",
-    "guna": "Laghu (Light), Tikshna (Sharp/Piercing), Ruksha (Dry)",
-    "virya": "Ushna (Hot)",
-    "vipaka": "Katu (Pungent)",
-    "dosha_effect": "Aggravates Vata and Pitta, may reduce Kapha externally. Not recommended for internal use."
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": ""
   },
-  "plant_profile": [
-    "Botanical Characteristics: A robust, trailing vine that can grow up to 20m tall in the wild, but usually much smaller indoors. Leaves are alternate, heart-shaped, entire on juvenile plants, but irregularly pinnatifid on mature plants.",
-    "Toxicity Warning: All parts of the plant contain calcium oxalate crystals. Ingestion causes intense irritation of the mucous membranes, swelling of the mouth/throat, and gastrointestinal distress.",
-    "Environmental Role: NASA's Clean Air Study identified it as one of the most effective plants for removing indoor air toxins, acting as a natural respiratory protectant by improving air quality."
-  ],
-  "main_medicinal_uses": [
-    "Air Purification: Extensively used to filter indoor air, removing volatile organic compounds (VOCs) and reducing respiratory irritation.",
-    "Stress Reduction: The presence of lush greenery indoors has been shown to lower systemic stress levels and improve mental well-being (psychological benefit).",
-    "Topical Antiseptic (Folk Use): In some traditional practices, cautiously applied externally to minor cuts or insect bites, though this is not a mainstream Ayurvedic practice."
-  ],
-  "three_main_uses": [
-    "Indoor air purification (toxin removal)",
-    "Psychological stress reduction",
-    "Vaastu/Feng shui energy harmonizer"
-  ],
-  "preparation_methods": [
-    "Placement: Grow in pots indoors or outdoors in semi-shade to maximize air purification.",
-    "Topical Paste: Leaves are occasionally crushed into a very mild paste for external application on skin, though caution is advised due to its irritating nature."
-  ],
-  "active_compounds": [
-    "Calcium oxalate (raphides - causes toxicity/irritation)",
-    "Various enzymes responsible for breaking down airborne VOCs"
-  ],
-  "safety_profile": [
-    "Toxicity: Mild to moderately toxic to cats, dogs, and humans if ingested.",
-    "Symptoms of Ingestion: Oral irritation, intense burning and irritation of mouth, tongue and lips, excessive drooling, vomiting, difficulty swallowing.",
-    "Handling: Sap may cause skin irritation (contact dermatitis) in sensitive individuals."
-  ],
-  "contraindications": [
-    "Strictly contraindicated for internal consumption.",
-    "Keep out of reach of children and pets."
-  ],
-  "drug_interactions": [
-    "None known as it is not consumed internally."
-  ],
-  "dosages": {
-    "Adults": "Not applicable for internal consumption.",
-    "Children": "Strictly avoid ingestion.",
-    "External": "Use of leaf sap/paste should be minimal and tested on a small skin patch first."
+  "preparation_methods": {},
+  "dosage": {
+    "children": "Strictly avoid ingestion.",
+    "adults": "Not applicable for internal consumption.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [],
+  "safety_profile": {
+    "warning": "",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
   }
 }

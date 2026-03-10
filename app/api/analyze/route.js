@@ -157,6 +157,7 @@ export async function POST(req) {
                     const langCode = LANG_CODES[language] || 'en';
 
                     const fieldsToTranslate = [
+                        'plant', 'dosage',
                         'name', 'description', 'habitat', 'parts_used', 'usage_form',
                         'botanicalFamily', 'family',
                         'plant_profile', 'plantProfile',

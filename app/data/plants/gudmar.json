@@ -1,19 +1,46 @@
 {
-  "name": "Gudmar",
-  "scientificName": "Gymnema sylvestre (Retz.) R.Br. ex Sm.",
-  "botanicalFamily": "Apocynaceae (formerly Asclepiadaceae)",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Primarily pacifies Kapha and Pitta doshas. Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the premier herb for 'Prameha-hara' (diabetes-relieving) and 'Lekhana' (scraping) therapies, clearing the heavy, sweet, and clogging qualities of Kapha. It may slightly increase Vata if used in excess.",
-    "Rasa (Taste): Tikta (bitter), Kashaya (astringent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Pramehahara (anti-diabetic), Madhunashini (sugar-destroyer), Deepana (appetizer), Pachana (digestive), Mutrala (diuretic), and Chakshushya (eye-tonic).",
-    "API/AFI Adherence: The dried leaf is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in almost all classical and modern Ayurvedic formulations for blood sugar management.",
-    "Specific Indications: Used in Madhumeha (Diabetes Mellitus), Prameha (Urinary disorders), Medoroga (Obesity), Mutrakricchra (Dysuria), and Kasa (Cough/Asthma)."
-  ],
-  "usageForm": "Leaf powder (Churna), Leaf decoction (Kwatha), Root powder (in specific cases), Medicated ghee (Ghrita).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Gudmar"
+    ],
+    "scientific_name": "Gymnema sylvestre (Retz.) R.Br. ex Sm.",
+    "family": "Apocynaceae (formerly Asclepiadaceae)",
+    "ayurveda_names": [
+      "Gudmar"
+    ],
+    "description": "Unique History: Mentioned in the Nighantus (Ayurvedic lexicons) as 'Madhunashini'. It is one of the most culturally significant plants in the Indian subcontinent for metabolic health. Ancient physicians identified its property by observing that it 'destroys the taste of sugar'. Physical Characteristics: A large, woody, perennial climbing shrub. The leaves are opposite, elliptic or ovate, and hairy. The flowers are small, yellowish, in axillary umbels. The fruit is a pair of slender follicles containing seeds with a silky coma. It is found throughout Central and Southern India and tropical parts of Africa. Specific Chemical Compounds: Primarily contains Gymnemic Acids (I-XVIII), Gymnemaside, and Gyminine. The chemical similarity between gymnemic acid molecules and glucose allows them to bind to receptor sites on the tongue and gut wall. Strict Standardizations: The leaf is standardized in API based on macroscopic features (hairy surface, bitter taste). Physicochemical benchmarks: total ash (<12%), alcohol-soluble extractive (>5%), and water-soluble extractive (>20%). HPLC is used to quantify 25% to 75% Gymnemic Acids in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Kashaya (astringent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Primarily pacifies Kapha and Pitta doshas. Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the premier herb for 'Prameha-hara' (diabetes-relieving) and 'Lekhana' (scraping) therapies, clearing the heavy, sweet, and clogging qualities of Kapha. It may slightly increase Vata if used in excess."
+  },
+  "preparation_methods": {
+    "leaf_powder": {
+      "method": "3-6g of dried leaf powder taken twice daily, 30 minutes before meals, with warm water."
+    },
+    "leaf_decoction": {
+      "method": "5-10g of leaves boiled in 100ml water reduced to 25ml; used for managing acute sugar spikes."
+    },
+    "fresh_juice": {
+      "method": "5-10ml of fresh leaf juice taken twice daily on an empty stomach for maximum absorption."
+    },
+    "chewing_leaves": {
+      "method": "Chewing 1-2 fresh leaves before a meal to reduce sugar cravings and block sugar taste."
+    },
+    "root_powder_paste": {
+      "method": "Applied topically in traditional Siddha medicine for localized inflammation and insect bites."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe in low doses (500mg - 1g) for childhood obesity or juvenile sugar issues, under expert guidance.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Standardized Extract: 250-500 mg, divided throughout the day before meals.",
+    "elderly": "Excellent for geriatric diabetes. Dosage: 3g of powder daily with warm water to support insulin sensitivity."
+  },
+  "medicinal_uses": [
     "Sugar Destroyer (Madhunashini): Gudmar literally translates to 'Sugar Destroyer'. When the leaves are chewed, they temporarily suppress the tongue's ability to taste sweetness. WHO-aligned research confirms its role in decreasing sugar absorption in the gut and stimulating insulin secretion from the pancreas.",
     "Blood Glucose Management: Acts as a powerful hypoglycemic agent. It helps in maintaining stable blood sugar levels by regeneration of Beta-islet cells and increasing the activities of enzymes responsible for glucose utilization.",
     "Weight Loss and Lipid Support: Its 'Lekhana' (scraping) property helps in reducing excessive body fat (Meda) and lowering 'bad' LDL cholesterol and triglycerides. It is a key herb for managing metabolic syndrome and obesity.",
@@ -22,28 +49,26 @@
     "Respiratory and Immunity: Its Ushna (heating) potency helps in clearing mucus from the lungs. The roots are traditionally used to treat snake bites and as an antimicrobial agent for localized infections.",
     "Phytochemical Profile: Rich in Gymnemic acids (a group of triterpene saponins), gymnemosides, gymnemagenin, and flavones. Gymnemic acid is the primary bioactive responsible for the sugar-blocking effect."
   ],
-  "plantProfile": [
-    "Unique History: Mentioned in the Nighantus (Ayurvedic lexicons) as 'Madhunashini'. It is one of the most culturally significant plants in the Indian subcontinent for metabolic health. Ancient physicians identified its property by observing that it 'destroys the taste of sugar'.",
-    "Physical Characteristics: A large, woody, perennial climbing shrub. The leaves are opposite, elliptic or ovate, and hairy. The flowers are small, yellowish, in axillary umbels. The fruit is a pair of slender follicles containing seeds with a silky coma. It is found throughout Central and Southern India and tropical parts of Africa.",
-    "Specific Chemical Compounds: Primarily contains Gymnemic Acids (I-XVIII), Gymnemaside, and Gyminine. The chemical similarity between gymnemic acid molecules and glucose allows them to bind to receptor sites on the tongue and gut wall.",
-    "Strict Standardizations: The leaf is standardized in API based on macroscopic features (hairy surface, bitter taste). Physicochemical benchmarks: total ash (<12%), alcohol-soluble extractive (>5%), and water-soluble extractive (>20%). HPLC is used to quantify 25% to 75% Gymnemic Acids in commercial extracts."
-  ],
-  "preparationMethods": [
-    "Leaf Powder: 3-6g of dried leaf powder taken twice daily, 30 minutes before meals, with warm water.",
-    "Leaf Decoction: 5-10g of leaves boiled in 100ml water reduced to 25ml; used for managing acute sugar spikes.",
-    "Fresh Juice: 5-10ml of fresh leaf juice taken twice daily on an empty stomach for maximum absorption.",
-    "Chewing Leaves: Chewing 1-2 fresh leaves before a meal to reduce sugar cravings and block sugar taste.",
-    "Root Powder Paste: Applied topically in traditional Siddha medicine for localized inflammation and insect bites."
-  ],
-  "dosages": {
-    "Children": "Generally safe in low doses (500mg - 1g) for childhood obesity or juvenile sugar issues, under expert guidance.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Standardized Extract: 250-500 mg, divided throughout the day before meals.",
-    "Elderly": "Excellent for geriatric diabetes. Dosage: 3g of powder daily with warm water to support insulin sensitivity."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb. It has been used for over 2000 years in Ayurveda without record of chronic toxicity at recommended doses.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Use with caution in individuals already on potent synthetic hypoglycemic drugs (like insulin) to avoid hypoglycemia. Not recommended for pregnant or lactating women due to lack of extensive safety data in those groups."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Rare. Excessive use on an empty stomach may occasionally cause mild gastric irritation or dizziness if blood sugar drops too quickly."
+    ],
+    "drug_interactions": [
+      "May potentiate the effects of anti-diabetic medications. Monitor blood sugar levels closely when starting Gudmar alongside pharmaceuticals."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Use with caution in individuals already on potent synthetic hypoglycemic drugs (like insulin) to avoid hypoglycemia. Not recommended for pregnant or lactating women due to lack of extensive safety data in those groups.",
-    "GRAS Status: Classified as a safe medicinal herb. It has been used for over 2000 years in Ayurveda without record of chronic toxicity at recommended doses.",
-    "Herb-Drug Interactions: May potentiate the effects of anti-diabetic medications. Monitor blood sugar levels closely when starting Gudmar alongside pharmaceuticals.",
-    "Adverse Effects: Rare. Excessive use on an empty stomach may occasionally cause mild gastric irritation or dizziness if blood sugar drops too quickly."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

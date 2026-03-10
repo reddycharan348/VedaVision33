@@ -1,27 +1,50 @@
 {
-  "id": "amalaki_ghrita",
-  "name": "Amalaki Ghrita",
-  "scientificName": "Emblica officinalis in Ghee",
-  "botanicalFamily": "Phyllanthaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Pitta Hara."
-  ],
-  "usageForm": "Medicated Ghee.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Amalaki Ghrita"
+    ],
+    "scientific_name": "Emblica officinalis in Ghee",
+    "family": "Phyllanthaceae",
+    "ayurveda_names": [
+      "Amalaki Ghrita"
+    ],
+    "description": "Amla processed in cow ghee."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Classical Sneha Paka."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "10g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Eye health",
     "Digestion",
     "Brain power."
   ],
-  "plantProfile": [
-    "Amla processed in cow ghee."
-  ],
-  "preparationMethods": [
-    "Classical Sneha Paka."
-  ],
-  "dosages": {
-    "Adults": "10g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

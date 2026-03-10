@@ -1,27 +1,50 @@
 {
-  "id": "latakasturi",
-  "name": "Latakasturi",
-  "scientificName": "Abelmoschus moschatus (Honed)",
-  "botanicalFamily": "Malvaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Tridoshahara."
-  ],
-  "usageForm": "Seed powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Latakasturi"
+    ],
+    "scientific_name": "Abelmoschus moschatus (Honed)",
+    "family": "Malvaceae",
+    "ayurveda_names": [
+      "Latakasturi"
+    ],
+    "description": "Musk Mallow seeds."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Tridoshahara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Powder mixed with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Aphrodisiac",
     "Skin glow",
     "Urinary health."
   ],
-  "plantProfile": [
-    "Musk Mallow seeds."
-  ],
-  "preparationMethods": [
-    "Powder mixed with honey."
-  ],
-  "dosages": {
-    "Adults": "1g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

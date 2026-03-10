@@ -1,27 +1,50 @@
 {
-  "id": "ashmantaka",
-  "name": "Ashmantaka",
-  "scientificName": "Bauhinia purpurea L.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta."
-  ],
-  "usageForm": "Bark, Flower.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Ashmantaka"
+    ],
+    "scientific_name": "Bauhinia purpurea L.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Ashmantaka"
+    ],
+    "description": "Commonly known as the Purple Orchid Tree."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Bark decoction."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "20-50ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Traditionally used for tumors and localized swellings.",
     "Treats skin conditions and wounds.",
     "Balanced thyroid function support."
   ],
-  "plantProfile": [
-    "Commonly known as the Purple Orchid Tree."
-  ],
-  "preparationMethods": [
-    "Bark decoction."
-  ],
-  "dosages": {
-    "Adults": "20-50ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

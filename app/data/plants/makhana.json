@@ -1,27 +1,50 @@
 {
-  "id": "makhana",
-  "name": "Makhana (Fox Nut)",
-  "scientificName": "Euryale ferox Salisb.",
-  "botanicalFamily": "Nymphaeaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Pitta."
-  ],
-  "usageForm": "Puffed seeds.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Makhana (Fox Nut)"
+    ],
+    "scientific_name": "Euryale ferox Salisb.",
+    "family": "Nymphaeaceae",
+    "ayurveda_names": [
+      "Makhana (Fox Nut)"
+    ],
+    "description": "Seeds of a lotus-like water lily."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Roasted seeds or cooked in milk."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "Handful of roasted seeds.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Excellent tonic for heart and sexual health.",
     "Reduces diarrhea and urinary frequency.",
     "Used as a nutritional supplement for weakness."
   ],
-  "plantProfile": [
-    "Seeds of a lotus-like water lily."
-  ],
-  "preparationMethods": [
-    "Roasted seeds or cooked in milk."
-  ],
-  "dosages": {
-    "Adults": "Handful of roasted seeds."
+  "safety_profile": {
+    "warning": "Extremely safe and non-toxic.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Extremely safe and non-toxic."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

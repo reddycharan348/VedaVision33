@@ -1,28 +1,50 @@
 {
-  "id": "apamarga",
-  "name": "Apamarga",
-  "scientificName": "Achyranthes aspera L.",
-  "botanicalFamily": "Amaranthaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata.",
-    "Karma: Shiro-virechana (Brain cleanser), Dipana (Digestive)."
-  ],
-  "usageForm": "Seed/Root ash (Kshara), Decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Apamarga"
+    ],
+    "scientific_name": "Achyranthes aspera L.",
+    "family": "Amaranthaceae",
+    "ayurveda_names": [
+      "Apamarga"
+    ],
+    "description": "Common weed known for its seeds that stick to clothes."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Kshara (alkaline ash) for tumors and obesity."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-2g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Dissolves hard fat and manages obesity.",
     "Excellent tooth-cleansing stick.",
     "Used for ear-aches and asthma."
   ],
-  "plantProfile": [
-    "Common weed known for its seeds that stick to clothes."
-  ],
-  "preparationMethods": [
-    "Kshara (alkaline ash) for tumors and obesity."
-  ],
-  "dosages": {
-    "Adults": "1-2g"
+  "safety_profile": {
+    "warning": "External application only during pregnancy.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "External application only during pregnancy."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

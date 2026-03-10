@@ -1,19 +1,43 @@
 {
-  "name": "Priyangu",
-  "scientificName": "Callicarpa macrophylla Vahl.",
-  "botanicalFamily": "Lamiaceae (formerly Verbenaceae)",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Pitta and Kapha Hara (pacifies Pitta and Kapha doshas). Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Raktastambhana' (hemostatic) and 'Dahaprashamana' (burning-relieving) therapies. It clears the fiery, hot qualities of Pitta while balancing the heavy qualities of Kapha through its systemic astringent property.",
-    "Rasa (Taste): Tikta (bitter), Kashaya (astringent), Madhura (sweet).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Raktastambhana (hemostatic), Dahaprashamana (burning-reliever), Mutravirechaniya (diuretic), Varnya (complexion-promoting), and Vishaghna (anti-toxic).",
-    "API/AFI Adherence: The dried inflorescence (flower buds) and fruits are official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in Priyangvadi-oil and various cooling tonics.",
-    "Specific Indications: Used in Raktapitta (bleeding disorders), Daha (burning sensations), Trishna (thirst), Kushtha (skin diseases), Visha (poisoning), and Atisara (diarrhea)."
-  ],
-  "usageForm": "Fruit/flower powder (Churna), Decoction (Kwatha), Cold infusion (Hima), Medicated oil (Taila).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Priyangu"
+    ],
+    "scientific_name": "Callicarpa macrophylla Vahl.",
+    "family": "Lamiaceae (formerly Verbenaceae)",
+    "ayurveda_names": [
+      "Priyangu"
+    ],
+    "description": "Unique History: Classified under the 'Priyangvadi' group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Priyangu' translates to 'the one that is loved' (referring to its beauty and fragrance). Historically used as a bio-enhancer for various cooling tonics. Mentioned in classical Sanskrit literature as 'Beautyberry'. Physical Characteristics: A medium-to-large perennial shrub reaching up to 2-3 meters in height, with quadrangular stems and opposite, ovate-lanceolate leaves with a velvety-grey underside. The flowers are attractive, small, pink-to-purple, in terminal or axillary cymes. The fruit is a small, globose drupe (fleshy-white to pink) containing 4-small-brown seeds. Found throughout the sub-Himalayan tract and Northeast forests of India up to 1800m. Specific Chemical Compounds: Contains Calliterpenone, Luteolin, and Apigenin. The presence of calliterpenone is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells. Strict Standardizations: The flower/fruit is standardized in API based on its greyish-green color and characteristic sweet-astringent-bitter taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Kashaya (astringent), Madhura (sweet)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Pitta and Kapha Hara (pacifies Pitta and Kapha doshas). Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Raktastambhana' (hemostatic) and 'Dahaprashamana' (burning-relieving) therapies. It clears the fiery, hot qualities of Pitta while balancing the heavy qualities of Kapha through its systemic astringent property."
+  },
+  "preparation_methods": {
+    "fruit_powder": {
+      "method": "1-3g of fine powder taken with honey twice daily for bleeding."
+    },
+    "flower_decoction": {
+      "method": "40ml taken twice daily for chronic fever and heat relief."
+    },
+    "priyangvadi_taila": {
+      "method": "Medicated oil preparation used for local application on the skin for complexion and inflammatory lesions."
+    },
+    "cold_infusion": {
+      "method": "10g of crushed seeds soaked in 60ml water overnight; filtered and taken for managing thirst and acidity."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 500 mg of powder mixed with honey once daily for respiratory and skin protection.",
+    "adults": "Powder: 1-3 grams; Decoction: 30-50 ml; Infusion: 50-100 ml.",
+    "elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 1g of powder daily."
+  },
+  "medicinal_uses": [
     "Expert Hemostatic Specialist (Raktastambhana): Priyangu is the premier Ayurvedic remedy for internal bleeding and localized bleeding disorders. Its 'Raktastambhana' (hemostatic) and 'Kashaya' (astringent) nature helps in instantaneously clotting blood and reducing inflammatory congestion. WHO-aligned research supports its role in wound healing and systemic coagulation.",
     "Burning Sensation and Excessive Heat: Its extreme cooling potency (Sheeta) provides instant relief from internal burning sensations (Daha), sunstrokes, and inflammatory fevers. It helps in Reducing systemic heat and inflammatory congestion.",
     "Skin Health and Complexion enhancement: Known as 'Varnya' (beneficial for skin). It effectively reduces skin discoloration, age-spots, and acne by providing systemic blood-purifying effects. The fruit paste applied topically promotes radiance.",
@@ -21,27 +45,26 @@
     "Mouth Ulcers and Oral health: Its antimicrobial and astringent nature makes it unmatched for oral health. It is traditionally used to manage bleeding gums and localized mouth ulcers (Kusthaghna).",
     "Phytochemical Profile: Rich in Diterpenoids (Calliterpenone), Flavonoids, Tannins, and Sterols. Calliterpenone is the primary bioactive responsible for its potent anti-inflammatory and tissue-regenerative action."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Priyangvadi' group in ancient Ayurvedic treatises like Charaka Samhita. The name 'Priyangu' translates to 'the one that is loved' (referring to its beauty and fragrance). Historically used as a bio-enhancer for various cooling tonics. Mentioned in classical Sanskrit literature as 'Beautyberry'.",
-    "Physical Characteristics: A medium-to-large perennial shrub reaching up to 2-3 meters in height, with quadrangular stems and opposite, ovate-lanceolate leaves with a velvety-grey underside. The flowers are attractive, small, pink-to-purple, in terminal or axillary cymes. The fruit is a small, globose drupe (fleshy-white to pink) containing 4-small-brown seeds. Found throughout the sub-Himalayan tract and Northeast forests of India up to 1800m.",
-    "Specific Chemical Compounds: Contains Calliterpenone, Luteolin, and Apigenin. The presence of calliterpenone is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells.",
-    "Strict Standardizations: The flower/fruit is standardized in API based on its greyish-green color and characteristic sweet-astringent-bitter taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
-  ],
-  "preparationMethods": [
-    "Fruit Powder: 1-3g of fine powder taken with honey twice daily for bleeding.",
-    "Flower Decoction: 40ml taken twice daily for chronic fever and heat relief.",
-    "Priyangvadi-Taila: Medicated oil preparation used for local application on the skin for complexion and inflammatory lesions.",
-    "Cold Infusion: 10g of crushed seeds soaked in 60ml water overnight; filtered and taken for managing thirst and acidity."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 500 mg of powder mixed with honey once daily for respiratory and skin protection.",
-    "Adults": "Powder: 1-3 grams; Decoction: 30-50 ml; Infusion: 50-100 ml.",
-    "Elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 1g of powder daily."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a long history of use across global cultures without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid during pregnancy in very large therapeutic doses."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented. Discontinue if extreme bitterness causes nausea."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid during pregnancy in very large therapeutic doses.",
-    "GRAS Status: Classified as a safe medicinal herb with a long history of use across global cultures without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-    "Adverse Effects: None documented. Discontinue if extreme bitterness causes nausea."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

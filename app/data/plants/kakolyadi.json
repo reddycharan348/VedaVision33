@@ -1,27 +1,50 @@
 {
-  "id": "kakolyadi",
-  "name": "Kakolyadi Gana",
-  "scientificName": "Complex Herb Grouping",
-  "botanicalFamily": "Mixed Families",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Pitta Hara."
-  ],
-  "usageForm": "Group decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Kakolyadi Gana"
+    ],
+    "scientific_name": "Complex Herb Grouping",
+    "family": "Mixed Families",
+    "ayurveda_names": [
+      "Kakolyadi Gana"
+    ],
+    "description": "A classical group of eight vitalizing herbs."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Slow cooking in ghee or milk."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "10g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Supreme tissue building",
     "Strength",
     "Anti-aging."
   ],
-  "plantProfile": [
-    "A classical group of eight vitalizing herbs."
-  ],
-  "preparationMethods": [
-    "Slow cooking in ghee or milk."
-  ],
-  "dosages": {
-    "Adults": "10g"
+  "safety_profile": {
+    "warning": "Very heavy; requires strong digestion.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Very heavy; requires strong digestion."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

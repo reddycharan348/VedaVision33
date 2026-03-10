@@ -1,27 +1,50 @@
 {
-  "id": "chandana_oil",
-  "name": "Chandana Oil",
-  "scientificName": "Santalum album Essence",
-  "botanicalFamily": "Santalaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pitta Hara."
-  ],
-  "usageForm": "Essence Oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Chandana Oil"
+    ],
+    "scientific_name": "Santalum album Essence",
+    "family": "Santalaceae",
+    "ayurveda_names": [
+      "Chandana Oil"
+    ],
+    "description": "Essential oil from heartwood."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Steam distilled."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1 drop (external)",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Skin cooling",
     "Perfumery",
     "Mental calm."
   ],
-  "plantProfile": [
-    "Essential oil from heartwood."
-  ],
-  "preparationMethods": [
-    "Steam distilled."
-  ],
-  "dosages": {
-    "Adults": "1 drop (external)"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,27 +1,50 @@
 {
-  "id": "gunja",
-  "name": "Gunja",
-  "scientificName": "Abrus precatorius L.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha."
-  ],
-  "usageForm": "Purified seed powder, Oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Gunja"
+    ],
+    "scientific_name": "Abrus precatorius L.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Gunja"
+    ],
+    "description": "Red and black seeds are highly toxic if not purified."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Seeds must be boiled in cow's milk for 3-6 hours (Shodhana)."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "60-125mg (Purified)",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Used specifically for hair growth and scalp infections.",
     "Assists in neurological pains in very small doses.",
     "Purified root used for cough."
   ],
-  "plantProfile": [
-    "Red and black seeds are highly toxic if not purified."
-  ],
-  "preparationMethods": [
-    "Seeds must be boiled in cow's milk for 3-6 hours (Shodhana)."
-  ],
-  "dosages": {
-    "Adults": "60-125mg (Purified)"
+  "safety_profile": {
+    "warning": "RAW SEEDS ARE DEADLY POISONOUS. NEVER USE WITHOUT EXPERT PURIFICATION.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "RAW SEEDS ARE DEADLY POISONOUS. NEVER USE WITHOUT EXPERT PURIFICATION."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

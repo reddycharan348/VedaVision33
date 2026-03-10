@@ -1,49 +1,74 @@
 {
-    "name": "Kumuda",
-    "scientificName": "Nymphaea pubescens Willd. (Syn. Nymphaea nouchali auct.)",
-    "botanicalFamily": "Nymphaeaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Powerful Pitta and Vata Hara (pacifies Pitta and Vata doshas). Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Atyanta-Sheeta (extremely cooling) Virya, it is the most prestigious herb for 'Daha-prashamana' (burning-relieving) and 'Hridya' (heart-tonic) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata through its systemic cooling and unctuous (Snigdha) property.",
-        "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
-        "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
-        "Virya (Potency): Sheeta (extremely cooling).",
-        "Vipaka (Post-digestive taste): Madhura (sweet).",
-        "Karma (Actions): Daha-prashamana (burning-reliever), Hridya (heart-tonic), Raktaprasadana (blood-soothing), Grahi (absorbent), Mutra-janana (diuretic), and Varnya (complexion-promoting).",
-        "API/AFI Adherence: The dried flower (petals) and rhizome are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Kumuda-asava, Chandanadi Taila, and various cooling heart tonics.",
-        "Specific Indications: Used in Daha (burning sensation), Hrid-roga (heart diseases), Raktapitta (bleeding disorders), Atisara (diarrhea), and Mutra-kricchra (dysuria)."
+  "plant": {
+    "common_names": [
+      "Kumuda"
     ],
-    "usageForm": "Flower powder (Churna), Rhizome decoction (Kwatha), Cold infusion (Hima), Fermented extract (Asava/Arishta).",
-    "mainMedicinalUses": [
-        "Expert Cooling and Heart Tonic Specialist (Hridya): Kumuda is the premier Ayurvedic remedy for all conditions of extreme internal heat and cardiac agitation. Its Atyanta-Sheeta (extremely cooling) nature provided by alkaloids (nymphaldehyde) helps in providing instant relief from palpitations, stress-related high blood pressure, and inflammatory fevers. WHO-aligned research confirms its potent anti-oxidant and heart-soothing action.",
-        "Gastrointestinal and Diarrhea Care: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing chronic diarrhea, dysentery, and irritable bowel symptoms by binding the stool and cooling the gut lining. It is traditionally used in 'Atisara' management.",
-        "Urinary and Kidney Care Specialist: Acts as a powerful agent for managing urinary tract infections (UTI). It helps in reducing burning sensation during micturition and promoting the excretion of toxins by cooling the Pitta in the bladder and kidneys through its 'Mutra-janana' (diuretic) property.",
-        "Skin Health and Complexion: Known as 'Varnya' (beneficial for skin). It is traditionally used in 'Kumuda-asava' to improve skin radiance, reduce acne, and prevent age-related skin aging and discoloration by providing systemic cooling and blood-purifying effects.",
-        "Female Menstrual Support: Traditionally used to manage excessive menstrual flow (Asrigdara) and internal bleeding (Raktapitta). Its cooling and astringent properties help in providing systemic hormonal and hemostatic balance.",
-        "Bleeding Disorders and Thirst: Traditionally used to manage 'Raktapitta' (localized bleeding) and excessive thirst (Trishnahara). Its cooling and astringent properties help in providing systemic hemostatic balance.",
-        "Phytochemical Profile: Rich in Alkaloids (Nymphaeine, Nupharine), Flavonoids (Quercetin, Kaempferol), and Tannins. Nymphaeine is the primary bioactive responsible for its potent anti-inflammatory and heart-soothing action."
+    "scientific_name": "Nymphaea pubescens Willd. (Syn. Nymphaea nouchali auct.)",
+    "family": "Nymphaeaceae",
+    "ayurveda_names": [
+      "Kumuda"
     ],
-    "plantProfile": [
-        "Unique History: A highly sacred and ornamental plant in India, traditionally associated with the moon and divine beauty. Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Daha-prashamana' (burning-relieving) and 'Hridya' (heart-tonic) properties. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'White Water Lily'.",
-        "Physical Characteristics: A perennial aquatic herb with large, floating, peltate (shield-shaped) leaves and attractive, solitary flowers (white, pink, or red) that bloom at night. The rhizome is thick, creeping, and submerged in mud. The seeds are small and numerous. It is found in ponds, lakes, and slow-moving rivers throughout India and tropical regions worldwide. ",
-        "Specific Chemical Compounds: Primarily contains Alkaloids (Nymphalin), Flavonoids, and Mucilage. The presence of nymphalin is crucial for its neuro-relaxant, anti-inflammatory, and cardiotonic action on the human heart.",
-        "Strict Standardizations: The flower is standardized in API based on its white-to-light-brown color and characteristic faint-aromatic-sweet taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPLC is used to monitor 1% to 2% alkaloids in commercial extracts."
+    "description": "Unique History: A highly sacred and ornamental plant in India, traditionally associated with the moon and divine beauty. Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Daha-prashamana' (burning-relieving) and 'Hridya' (heart-tonic) properties. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'White Water Lily'. Physical Characteristics: A perennial aquatic herb with large, floating, peltate (shield-shaped) leaves and attractive, solitary flowers (white, pink, or red) that bloom at night. The rhizome is thick, creeping, and submerged in mud. The seeds are small and numerous. It is found in ponds, lakes, and slow-moving rivers throughout India and tropical regions worldwide.  Specific Chemical Compounds: Primarily contains Alkaloids (Nymphalin), Flavonoids, and Mucilage. The presence of nymphalin is crucial for its neuro-relaxant, anti-inflammatory, and cardiotonic action on the human heart. Strict Standardizations: The flower is standardized in API based on its white-to-light-brown color and characteristic faint-aromatic-sweet taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPLC is used to monitor 1% to 2% alkaloids in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Kashaya (astringent)."
     ],
-    "preparationMethods": [
-        "Flower Powder (Churna): 3-6g of dried petals taken twice daily with milk or honey for managing mental stress and heart health.",
-        "Rhizome Decoction (Kwatha): 20g of dried rhizome boiled in 160ml water reduced to 40ml for chronic urinary issues and diarrhea. Take twice daily before meals.",
-        "Cold Infusion (Hima): 10g of flowers soaked in 60ml water overnight; filtered and taken with sugar in the morning for cooling and acidity.",
-        "Kumuda-asava: 15-30ml of fermented extract taken twice daily after meals for managing heart issues and general weakness.",
-        "External Paste (Lepa): Ground fresh flower or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
-        "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Hima (Infusion): 50-100 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
-        "Elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+    "virya_potency": "Sheeta (extremely cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Powerful Pitta and Vata Hara (pacifies Pitta and Vata doshas). Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Atyanta-Sheeta (extremely cooling) Virya, it is the most prestigious herb for 'Daha-prashamana' (burning-relieving) and 'Hridya' (heart-tonic) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata through its systemic cooling and unctuous (Snigdha) property."
+  },
+  "preparation_methods": {
+    "flower_powder__churna_": {
+      "method": "3-6g of dried petals taken twice daily with milk or honey for managing mental stress and heart health."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid during active extreme constipation due to its 'Grahi' (absorbent) nature.",
-        "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-hypertensive or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
-        "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    "rhizome_decoction__kwatha_": {
+      "method": "20g of dried rhizome boiled in 160ml water reduced to 40ml for chronic urinary issues and diarrhea. Take twice daily before meals."
+    },
+    "cold_infusion__hima_": {
+      "method": "10g of flowers soaked in 60ml water overnight; filtered and taken with sugar in the morning for cooling and acidity."
+    },
+    "kumuda_asava": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing heart issues and general weakness."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh flower or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Hima (Infusion): 50-100 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
+    "Expert Cooling and Heart Tonic Specialist (Hridya): Kumuda is the premier Ayurvedic remedy for all conditions of extreme internal heat and cardiac agitation. Its Atyanta-Sheeta (extremely cooling) nature provided by alkaloids (nymphaldehyde) helps in providing instant relief from palpitations, stress-related high blood pressure, and inflammatory fevers. WHO-aligned research confirms its potent anti-oxidant and heart-soothing action.",
+    "Gastrointestinal and Diarrhea Care: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing chronic diarrhea, dysentery, and irritable bowel symptoms by binding the stool and cooling the gut lining. It is traditionally used in 'Atisara' management.",
+    "Urinary and Kidney Care Specialist: Acts as a powerful agent for managing urinary tract infections (UTI). It helps in reducing burning sensation during micturition and promoting the excretion of toxins by cooling the Pitta in the bladder and kidneys through its 'Mutra-janana' (diuretic) property.",
+    "Skin Health and Complexion: Known as 'Varnya' (beneficial for skin). It is traditionally used in 'Kumuda-asava' to improve skin radiance, reduce acne, and prevent age-related skin aging and discoloration by providing systemic cooling and blood-purifying effects.",
+    "Female Menstrual Support: Traditionally used to manage excessive menstrual flow (Asrigdara) and internal bleeding (Raktapitta). Its cooling and astringent properties help in providing systemic hormonal and hemostatic balance.",
+    "Bleeding Disorders and Thirst: Traditionally used to manage 'Raktapitta' (localized bleeding) and excessive thirst (Trishnahara). Its cooling and astringent properties help in providing systemic hemostatic balance.",
+    "Phytochemical Profile: Rich in Alkaloids (Nymphaeine, Nupharine), Flavonoids (Quercetin, Kaempferol), and Tannins. Nymphaeine is the primary bioactive responsible for its potent anti-inflammatory and heart-soothing action."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus) should use it in moderation as it is Sheeta (cooling). Avoid during active extreme constipation due to its 'Grahi' (absorbent) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-hypertensive or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

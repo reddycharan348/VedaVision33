@@ -1,27 +1,50 @@
 {
-  "id": "shringavera",
-  "name": "Shringavera",
-  "scientificName": "Common Ginger Variant",
-  "botanicalFamily": "Zingiberaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Kapha Hara."
-  ],
-  "usageForm": "Crushed root.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shringavera"
+    ],
+    "scientific_name": "Common Ginger Variant",
+    "family": "Zingiberaceae",
+    "ayurveda_names": [
+      "Shringavera"
+    ],
+    "description": "Ancient Sanskrit term for Ginger."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Kapha Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Raw chewing."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "2g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Anticipating Nausea",
     "Digestion",
     "Cold."
   ],
-  "plantProfile": [
-    "Ancient Sanskrit term for Ginger."
-  ],
-  "preparationMethods": [
-    "Raw chewing."
-  ],
-  "dosages": {
-    "Adults": "2g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

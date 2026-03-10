@@ -1,46 +1,69 @@
 {
-    "name": "Shashtika Shali",
-    "scientificName": "Oryza sativa L. (60-day variety)",
-    "botanicalFamily": "Poaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Exceptionally pacifies Vata and Pitta. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is the most prestigious cereal for 'Snehana' (unctuous) and 'Brimhaniya' (nourishing) therapies. It is considered 'Laghu' (light) for digestion despite its high nutritive value, making it safe for Kapha when cooked appropriately.",
-        "Rasa (Taste): Madhura (sweet).",
-        "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily), Mridu (soft).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Madhura (sweet).",
-        "Karma (Actions): Balya (strength-promoter), Brimhana (nourishing), Poshaka (nutritive), Jivaniya (life-sustaining), and Vrishya (aphrodisiac).",
-        "API/AFI Adherence: Recognized as a specific subtype of 'Shali' (rice) in the Ayurvedic Pharmacopoeia of India (API). It is the exclusive grain used in the iconic 'Njavara Kizhi' (Shashtika-pinda-sweda) therapy.",
-        "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Vata-vyadhi (neuromuscular disorders), and during convalescence."
+  "plant": {
+    "common_names": [
+      "Shashtika Shali"
     ],
-    "usageForm": "Cooked grain (Odana), Gruel with milk (Kshira-paka), Medicated rice-pouch (Kizhi).",
-    "mainMedicinalUses": [
-        "Premier Neuromuscular Rejuvenator: Shashtika Shali is globally famous for its use in 'Njavara Kizhi'. The rice is cooked in a decoction of Bala (Sida cordifolia) and milk, then applied as a massage. This therapy is the gold standard for treating muscular dystrophy, paralysis, and joint stiffness by providing deep 'Vata' pacification and tissue nourishment.",
-        "Brimhana (Weight-Gain) Specialist: It is the most effective cereal for treating extreme emaciation and malnutrition. Unlike other heavy grains, its 'Laghu' (light) nature allows the body to absorb nutrients rapidly without creating 'Ama' (toxins).",
-        "Sattvic Nutrition for Brain & Nervous System: High in essential minerals and vitamins, it functions as a 'Medhya' (intellect-promoting) food. It calms the mind, improves focus, and reduces stress-related Pitta aggravation (burning sensations).",
-        "Post-Partum and Pediatric Care: Traditionally used as a primary strengthening food for nursing mothers to improve milk quality and for infants to promote healthy bone and muscle development through its 'Jivaniya' (life-promoting) quality.",
-        "Phytochemical Profile: Rich in Vitamin B-Complex, essential amino acids, Gamma-Oryzanol, and trace minerals like Magnesium and Zinc. Gamma-oryzanol provides potent systemic anti-inflammatory and cholesterol-balancing effects."
+    "scientific_name": "Oryza sativa L. (60-day variety)",
+    "family": "Poaceae",
+    "ayurveda_names": [
+      "Shashtika Shali"
     ],
-    "plantProfile": [
-        "Unique History: Its name literally means 'sixty' (Shashtika), referring to its quick harvest cycle of 60 days. Mentioned in the Charaka Samhita as the best among cereals for long-term health and rejuvenation. Historically regarded as a 'temple grain' in South India.",
-        "Physical Characteristics: A short-duration variety of rice. It is an annual grass with linear leaves. The grain is characterized by a slightly golden or whitish husk and a nutrient-dense endosperm. Found primarily in the tropical regions of India (especially Kerala and Tamil Nadu).",
-        "Specific Chemical Compounds: Contains Oryzanol, Tocotrienols, and Ferulic acid. These compounds are centrally active in promoting muscle regeneration and protecting nerve sheaths.",
-        "Strict Standardizations: The grain is standardized based on its 60-day maturity marker and characteristic sweet-creamy taste. Physicochemical benchmarks: moisture content (<12%), broken-grain percentage (<5%)."
+    "description": "Unique History: Its name literally means 'sixty' (Shashtika), referring to its quick harvest cycle of 60 days. Mentioned in the Charaka Samhita as the best among cereals for long-term health and rejuvenation. Historically regarded as a 'temple grain' in South India. Physical Characteristics: A short-duration variety of rice. It is an annual grass with linear leaves. The grain is characterized by a slightly golden or whitish husk and a nutrient-dense endosperm. Found primarily in the tropical regions of India (especially Kerala and Tamil Nadu). Specific Chemical Compounds: Contains Oryzanol, Tocotrienols, and Ferulic acid. These compounds are centrally active in promoting muscle regeneration and protecting nerve sheaths. Strict Standardizations: The grain is standardized based on its 60-day maturity marker and characteristic sweet-creamy taste. Physicochemical benchmarks: moisture content (<12%), broken-grain percentage (<5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet)."
     ],
-    "preparationMethods": [
-        "Shashtika-Kshira-Paka (Milk Rice): Rice cooked in 4 parts milk and 1 part water until creamy. Take with honey for weight gain and immunity.",
-        "Njavara Kizhi (External): Rice tied in muslin bags, dipped in warm medicated milk-decoction, and used for systemic massage in neurological conditions.",
-        "Odana (Cooked Rice): Cooked with minimal water and taken with green-gram soup for light dinner.",
-        "Kanjee (Thin Gruel): Watery extract of boiled rice; used as a primary rehydration fluid in fevers."
-    ],
-    "dosages": {
-        "Children": "Safe from 6 months. 20-50g as milk-porridge twice daily.",
-        "Adults": "100-250g of cooked rice per meal. As therapy: 50-100g in milk-decoction.",
-        "Elderly": "Highly recommended to prevent age-related muscle wasting (Cachexia). Dosage: once daily as lunch."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Exceptionally pacifies Vata and Pitta. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is the most prestigious cereal for 'Snehana' (unctuous) and 'Brimhaniya' (nourishing) therapies. It is considered 'Laghu' (light) for digestion despite its high nutritive value, making it safe for Kapha when cooked appropriately."
+  },
+  "preparation_methods": {
+    "shashtika_kshira_paka__milk_rice_": {
+      "method": "Rice cooked in 4 parts milk and 1 part water until creamy. Take with honey for weight gain and immunity."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with severe Kapha-blocking conditions (extreme obesity or sinus congestion) should toast the rice slightly before cooking.",
-        "GRAS Status: Classified as a safe staple food with a history of therapeutic use for over 2500 years.",
-        "Herb-Drug Interactions: None documented. It acts as an excellent vehicle for herbal medicines (Anupana).",
-        "Adverse Effects: None documented at traditional dietary levels."
+    "njavara_kizhi__external_": {
+      "method": "Rice tied in muslin bags, dipped in warm medicated milk-decoction, and used for systemic massage in neurological conditions."
+    },
+    "odana__cooked_rice_": {
+      "method": "Cooked with minimal water and taken with green-gram soup for light dinner."
+    },
+    "kanjee__thin_gruel_": {
+      "method": "Watery extract of boiled rice; used as a primary rehydration fluid in fevers."
+    }
+  },
+  "dosage": {
+    "children": "Safe from 6 months. 20-50g as milk-porridge twice daily.",
+    "adults": "100-250g of cooked rice per meal. As therapy: 50-100g in milk-decoction.",
+    "elderly": "Highly recommended to prevent age-related muscle wasting (Cachexia). Dosage: once daily as lunch."
+  },
+  "medicinal_uses": [
+    "Premier Neuromuscular Rejuvenator: Shashtika Shali is globally famous for its use in 'Njavara Kizhi'. The rice is cooked in a decoction of Bala (Sida cordifolia) and milk, then applied as a massage. This therapy is the gold standard for treating muscular dystrophy, paralysis, and joint stiffness by providing deep 'Vata' pacification and tissue nourishment.",
+    "Brimhana (Weight-Gain) Specialist: It is the most effective cereal for treating extreme emaciation and malnutrition. Unlike other heavy grains, its 'Laghu' (light) nature allows the body to absorb nutrients rapidly without creating 'Ama' (toxins).",
+    "Sattvic Nutrition for Brain & Nervous System: High in essential minerals and vitamins, it functions as a 'Medhya' (intellect-promoting) food. It calms the mind, improves focus, and reduces stress-related Pitta aggravation (burning sensations).",
+    "Post-Partum and Pediatric Care: Traditionally used as a primary strengthening food for nursing mothers to improve milk quality and for infants to promote healthy bone and muscle development through its 'Jivaniya' (life-promoting) quality.",
+    "Phytochemical Profile: Rich in Vitamin B-Complex, essential amino acids, Gamma-Oryzanol, and trace minerals like Magnesium and Zinc. Gamma-oryzanol provides potent systemic anti-inflammatory and cholesterol-balancing effects."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of therapeutic use for over 2500 years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with severe Kapha-blocking conditions (extreme obesity or sinus congestion) should toast the rice slightly before cooking."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional dietary levels."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as an excellent vehicle for herbal medicines (Anupana)."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

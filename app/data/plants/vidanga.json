@@ -1,30 +1,52 @@
 {
-  "id": "vidanga",
-  "name": "Vidanga",
-  "scientificName": "Embelia ribes Burm. f.",
-  "botanicalFamily": "Primulaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Rasa: Katu (Pungent), Tikta (Bitter).",
-    "Virya: Ushna (Hot).",
-    "Karma: Krimighna (Anti-parasitic), Dipana (Digestive)."
-  ],
-  "usageForm": "Fruit powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vidanga"
+    ],
+    "scientific_name": "Embelia ribes Burm. f.",
+    "family": "Primulaceae",
+    "ayurveda_names": [
+      "Vidanga"
+    ],
+    "description": "Climbing shrub native to hilly regions of India."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (Pungent), Tikta (Bitter)."
+    ],
+    "virya_potency": "Ushna (Hot).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Powder mixed with castor oil or honey for worms."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-2g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Premier Ayurvedic herb for intestinal worms.",
     "Assists in weight loss by scraping fat.",
     "Improves appetite and skin health."
   ],
-  "plantProfile": [
-    "Climbing shrub native to hilly regions of India."
-  ],
-  "preparationMethods": [
-    "Powder mixed with castor oil or honey for worms."
-  ],
-  "dosages": {
-    "Adults": "1-2g"
+  "safety_profile": {
+    "warning": "Contraindicated in pregnancy.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Contraindicated in pregnancy."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

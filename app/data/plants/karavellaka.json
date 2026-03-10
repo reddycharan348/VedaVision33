@@ -1,19 +1,46 @@
 {
-  "name": "Karavellaka",
-  "scientificName": "Momordica charantia L.",
-  "botanicalFamily": "Cucurbitaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Atyanta-Tikta (extremely bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Prameha-hara' (diabetes-relieving) and 'Raktashodhaka' (blood-purifying) therapies, clearing the heavy, cold, and sticky qualities of Kapha while balancing the fiery and hot qualities of Pitta through its systemic detoxifying property. It may increase Vata if used in excess.",
-    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Pramehahara (anti-diabetic), Raktashodhaka (blood-purifier), Deepana (appetizer), Pachana (digestive), Krimighna (anthelminthic), and Jwarahara (antipyretic).",
-    "API/AFI Adherence: The fresh fruit and dried seeds are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in iconic classical formulations like Karavellaka-varti, Phalatrikadi Kwatha, and various metabolic tonics.",
-    "Specific Indications: Used in Madhumeha (Diabetes Mellitus), Kushtha (Skin diseases), Kamala (Jaundice), Pandu (Anemia), Kasa (Cough), and Krimi (Intestinal worms)."
-  ],
-  "usageForm": "Fruit juice (Swarasa), Fruit powder (Churna), Seed powder (Kalka), Decoction (Kwatha).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Karavellaka"
+    ],
+    "scientific_name": "Momordica charantia L.",
+    "family": "Cucurbitaceae",
+    "ayurveda_names": [
+      "Karavellaka"
+    ],
+    "description": "Unique History: Classified under the 'Kushthaghna' (skin-disease-destroying) and 'Tikta-skandha' (bitter-group) in ancient Ayurvedic treatises like Charaka Samhita. The name 'Karavellaka' literally translates to 'the one that stays bitter'. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Bitter Gourd'. Physical Characteristics: A perennial climbing or trailing herb growing up to 5 meters in height, with thin, hollow stems and tendrils. The leaves are alternate, deeply lobed, and green. The flowers are small, yellowish, solitary. The fruit is an oblong or oval berry with a bumpy-warty surface, green (turning orange when ripe). It is found throughout India and tropical regions worldwide and is widely cultivated globally for culinary and medicinal use. Specific Chemical Compounds: Primarily contains Charantin, Polypeptide-p, and Momordicins. The presence of charantin is crucial for its anti-viral, anti-carcinogenic, and anti-hyperglycemic action on the pancreas. Strict Standardizations: The fruit is standardized in API based on its green color and characteristic extremely bitter taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>20%). HPLC is used to monitor 1% to 2% charantin in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Katu (pungent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Kapha and Pitta doshas. Due to its Atyanta-Tikta (extremely bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Prameha-hara' (diabetes-relieving) and 'Raktashodhaka' (blood-purifying) therapies, clearing the heavy, cold, and sticky qualities of Kapha while balancing the fiery and hot qualities of Pitta through its systemic detoxifying property. It may increase Vata if used in excess."
+  },
+  "preparation_methods": {
+    "fresh_fruit_juice__swarasa_": {
+      "method": "10-20ml of fresh fruit juice taken twice daily on an empty stomach for maximum blood sugar control."
+    },
+    "fruit_powder__churna_": {
+      "method": "3-6g of dried fruit powder taken twice daily with warm water before meals."
+    },
+    "fruit_decoction__kwatha_": {
+      "method": "20g of dried fruit boiled in 160ml water reduced to 40ml for chronic liver and skin congestion. Take twice daily before meals."
+    },
+    "seed_powder": {
+      "method": "1-3g of dried seed powder taken for managing intestinal worms and severe metabolic stagnation."
+    },
+    "external_paste": {
+      "method": "Ground fresh fruit or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for digestive protection and worm relief.",
+    "adults": "Swarasa (Juice): 10-20 ml; Powder: 3-6 grams; Decoction: 20-50 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related insulin support and Maintaining liver health. Dosage: 3g of powder daily with warm water before meals."
+  },
+  "medicinal_uses": [
     "Expert Antidiabetic Specialist: Karavellaka is the premier Ayurvedic remedy for managing blood sugar levels. Its 'Pramehahara' (diabetes-relieving) and 'Tikta' (bitter) nature provided by charantin and polypeptide-p helps in stimulating insulin secretion and improving glucose uptake in the cells. WHO-aligned research confirms its potent hypoglycemic and insulin-mimetic properties.",
     "Blood Purification and Skin Health: Its anti-inflammatory and blood-purifying properties help in treating chronic skin conditions like acne, psoriasis, and eczema. It is traditionally used to improve skin radiance and prevent age-related skin aging by providing systemic 'Raktashodhaka' (blood-purifying) effects.",
     "Liver and Spleen Detox: Acts as a powerful hepatoprotective agent. It is extensively used to treat jaundice and fatty liver by promoting healthy bile secretion and clearing congestion in the 'Yakṛt' (liver) system. It helps in reversing liver enzyme imbalances.",
@@ -22,28 +49,26 @@
     "Digestive and Appetizer: Its Tikshna (sharp) and Ushna (heating) nature helps in igniting the Jatharagni (digestive fire) and clearing Ama (metabolic toxins) from the gut. It is traditionally used to manage 'Aruchi' (tastelessness).",
     "Phytochemical Profile: Rich in Charantin (a steroidal saponin), Polypeptide-p (plant-insulin), Vicine, and Momordicosides. Charantin and Polypeptide-p are the primary bioactives responsible for its potent anti-diabetic and glucose-lowering action."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Kushthaghna' (skin-disease-destroying) and 'Tikta-skandha' (bitter-group) in ancient Ayurvedic treatises like Charaka Samhita. The name 'Karavellaka' literally translates to 'the one that stays bitter'. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Bitter Gourd'.",
-    "Physical Characteristics: A perennial climbing or trailing herb growing up to 5 meters in height, with thin, hollow stems and tendrils. The leaves are alternate, deeply lobed, and green. The flowers are small, yellowish, solitary. The fruit is an oblong or oval berry with a bumpy-warty surface, green (turning orange when ripe). It is found throughout India and tropical regions worldwide and is widely cultivated globally for culinary and medicinal use.",
-    "Specific Chemical Compounds: Primarily contains Charantin, Polypeptide-p, and Momordicins. The presence of charantin is crucial for its anti-viral, anti-carcinogenic, and anti-hyperglycemic action on the pancreas.",
-    "Strict Standardizations: The fruit is standardized in API based on its green color and characteristic extremely bitter taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>20%). HPLC is used to monitor 1% to 2% charantin in commercial extracts."
-  ],
-  "preparationMethods": [
-    "Fresh Fruit Juice (Swarasa): 10-20ml of fresh fruit juice taken twice daily on an empty stomach for maximum blood sugar control.",
-    "Fruit Powder (Churna): 3-6g of dried fruit powder taken twice daily with warm water before meals.",
-    "Fruit Decoction (Kwatha): 20g of dried fruit boiled in 160ml water reduced to 40ml for chronic liver and skin congestion. Take twice daily before meals.",
-    "Seed Powder: 1-3g of dried seed powder taken for managing intestinal worms and severe metabolic stagnation.",
-    "External Paste: Ground fresh fruit or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for digestive protection and worm relief.",
-    "Adults": "Swarasa (Juice): 10-20 ml; Powder: 3-6 grams; Decoction: 20-50 ml, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related insulin support and Maintaining liver health. Dosage: 3g of powder daily with warm water before meals."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal vegetable and herb with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme exhaustion or low blood sugar (hypoglycemia) should use it in moderation. Avoid during pregnancy in very large therapeutic doses due to potential uterine stimulation (seeds/roots)."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness. Discontinue if extreme bitterness causes nausea."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic medications as it may potentiate their effects (additive hypoglycemia). No severe adverse interactions reported in clinical literature."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with extreme exhaustion or low blood sugar (hypoglycemia) should use it in moderation. Avoid during pregnancy in very large therapeutic doses due to potential uterine stimulation (seeds/roots).",
-    "GRAS Status: Classified as a safe medicinal vegetable and herb with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic medications as it may potentiate their effects (additive hypoglycemia). No severe adverse interactions reported in clinical literature.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness. Discontinue if extreme bitterness causes nausea."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

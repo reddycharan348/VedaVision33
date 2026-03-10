@@ -1,47 +1,70 @@
 {
-    "name": "Chanaka",
-    "scientificName": "Cicer arietinum L.",
-    "botanicalFamily": "Fabaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is a premier choice for 'Samshodhana' (purification) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry) and slightly 'Kashaya' (astringent), making it a Vata-increasing grain (Vatala) if not cooked with digestive spices.",
-        "Rasa (Taste): Kashaya (astringent), Madhura (sweet).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Grahi (absorbent), Deepana (appetizer), Medahara (fat-relieving), Varnya (complexion-improving), and Vishaghna (anti-toxic).",
-        "API/AFI Adherence: Known as 'Chanaka' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Varnya' (complexion-improving) and 'Medohara' (weight-loss) formulations like Chanakadi Churna and various herbal facial masks (Ubtan).",
-        "Specific Indications: Used in Madhumeha (Diabetes mellitus), Medo-roga (Obesity), Raktapitta (Bleeding disorders), Daha (Internal burning), and Prameha (Urinary disorders)."
+  "plant": {
+    "common_names": [
+      "Chanaka"
     ],
-    "usageForm": "Roasted seeds (Bhrista Chanaka), Pulse flour (Besan), Cooked whole pulse (Odana), Roasted powder drink (Saktu).",
-    "mainMedicinalUses": [
-        "World-Class Fat and Weight Loss Specialist (Medahara): Chanaka is the premier Ayurvedic cereal for managing obesity and excess Kapha. Its 'Ruksha' (dry) and 'Laghu' (light) nature provided by high fiber and complex proteins helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO research confirms its potent cholesterol-lowering and anti-diabetic properties.",
-        "Skin Health and Complexion enhancement (Varnya): Historically used as 'Besan' (flour) for facial cleansing. Its antimicrobial and astringent nature makes it unmatched for reducing skin oiliness, acne, and pigmentation through its systemic blood-purifying effects. It is traditionally used to improve skin radiance and texture.",
-        "Digestive and Metabolism Catalyst: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining and binding the stool.",
-        "Blood Sugar and Diabetes Support: Recognized as 'Pramehahara' (diabetes-relieving). It helps in regulating blood glucose levels by slowing carbohydrate absorption and reducing insulin spikes through its 'Kashaya' and 'Tikta' properties.",
-        "Anemia and Strength (Varnya): High in essential iron and proteins, it provides systemic strength-promoting (Balya) action. It is often combined with Jaggery (Gur) for managing 'Pandu' (anemia) and general debility.",
-        "Phytochemical Profile: Rich in Proteins (18-22%), Isoflavones (Daidzein, Genistein), Tannins, and Essential Minerals (Iron, Calcium, Magnesium). Isoflavones are the primary bioactives responsible for its potent anti-inflammatory and hormonal-balancing effects."
+    "scientific_name": "Cicer arietinum L.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Chanaka"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vatala' pulses (ones that increase Vata). Historically used as a primary protein source for scholars and high-performance individuals. Historically regarded as the 'Grain of the Intellect'.",
-        "Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with quadrangular stems and opposite, pinnate (leaflets) leaves with small, white-to-pink funnel-shaped flowers. The fruit consists of small, inflated pods containing 1-2 small, globose, brownish-black-to-yellow seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Biochanin A, Formononetin, and diversos Protease inhibitors. The presence of biochanin A is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells.",
-        "Strict Standardizations: The seed is standardized in API based on its brownish-black-to-yellow color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>18%)."
+    "description": "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vatala' pulses (ones that increase Vata). Historically used as a primary protein source for scholars and high-performance individuals. Historically regarded as the 'Grain of the Intellect'. Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with quadrangular stems and opposite, pinnate (leaflets) leaves with small, white-to-pink funnel-shaped flowers. The fruit consists of small, inflated pods containing 1-2 small, globose, brownish-black-to-yellow seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Biochanin A, Formononetin, and diversos Protease inhibitors. The presence of biochanin A is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells. Strict Standardizations: The seed is standardized in API based on its brownish-black-to-yellow color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>18%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent), Madhura (sweet)."
     ],
-    "preparationMethods": [
-        "Besan (Flour): Ground seeds used as a base for facial masks and cleansing washes (Ubtan) for complexion.",
-        "Bhrista Chanaka (Roasted): 30g of roasted seeds taken daily for Managing weight-loss and diabetes.",
-        "Chanaka-Yusha (Soup): Whole seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
-        "Saktu drink: Roasted chickpea powder mixed with water and honey as an instant energy drink during summer."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 10 - 20 grams of cooked pulse mixed with digestive spices twice daily for respiratory and skin protection during childhood infections.",
-        "Adults": "Daily staple food (50-100g of cooked pulse per meal).",
-        "Elderly": "Use lower doses of roasted seeds (20g max) to avoid excessive bloating from Vata-prakopa."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is a premier choice for 'Samshodhana' (purification) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry) and slightly 'Kashaya' (astringent), making it a Vata-increasing grain (Vatala) if not cooked with digestive spices."
+  },
+  "preparation_methods": {
+    "besan__flour_": {
+      "method": "Ground seeds used as a base for facial masks and cleansing washes (Ubtan) for complexion."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with digestive spices like ginger and hing. Avoid during active extreme constipation due to its 'Ruksha' (dry) nature.",
-        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately cooked."
+    "bhrista_chanaka__roasted_": {
+      "method": "30g of roasted seeds taken daily for Managing weight-loss and diabetes."
+    },
+    "chanaka_yusha__soup_": {
+      "method": "Whole seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect."
+    },
+    "saktu_drink": {
+      "method": "Roasted chickpea powder mixed with water and honey as an instant energy drink during summer."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 10 - 20 grams of cooked pulse mixed with digestive spices twice daily for respiratory and skin protection during childhood infections.",
+    "adults": "Daily staple food (50-100g of cooked pulse per meal).",
+    "elderly": "Use lower doses of roasted seeds (20g max) to avoid excessive bloating from Vata-prakopa."
+  },
+  "medicinal_uses": [
+    "World-Class Fat and Weight Loss Specialist (Medahara): Chanaka is the premier Ayurvedic cereal for managing obesity and excess Kapha. Its 'Ruksha' (dry) and 'Laghu' (light) nature provided by high fiber and complex proteins helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO research confirms its potent cholesterol-lowering and anti-diabetic properties.",
+    "Skin Health and Complexion enhancement (Varnya): Historically used as 'Besan' (flour) for facial cleansing. Its antimicrobial and astringent nature makes it unmatched for reducing skin oiliness, acne, and pigmentation through its systemic blood-purifying effects. It is traditionally used to improve skin radiance and texture.",
+    "Digestive and Metabolism Catalyst: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining and binding the stool.",
+    "Blood Sugar and Diabetes Support: Recognized as 'Pramehahara' (diabetes-relieving). It helps in regulating blood glucose levels by slowing carbohydrate absorption and reducing insulin spikes through its 'Kashaya' and 'Tikta' properties.",
+    "Anemia and Strength (Varnya): High in essential iron and proteins, it provides systemic strength-promoting (Balya) action. It is often combined with Jaggery (Gur) for managing 'Pandu' (anemia) and general debility.",
+    "Phytochemical Profile: Rich in Proteins (18-22%), Isoflavones (Daidzein, Genistein), Tannins, and Essential Minerals (Iron, Calcium, Magnesium). Isoflavones are the primary bioactives responsible for its potent anti-inflammatory and hormonal-balancing effects."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with digestive spices like ginger and hing. Avoid during active extreme constipation due to its 'Ruksha' (dry) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption leads to excessive gas and bloating if not appropriately cooked."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

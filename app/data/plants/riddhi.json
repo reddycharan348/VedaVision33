@@ -1,27 +1,50 @@
 {
-  "id": "riddhi",
-  "name": "Riddhi",
-  "scientificName": "Habenaria intermedia (Honed)",
-  "botanicalFamily": "Orchidaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Pitta Hara."
-  ],
-  "usageForm": "Tuber juice.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Riddhi"
+    ],
+    "scientific_name": "Habenaria intermedia (Honed)",
+    "family": "Orchidaceae",
+    "ayurveda_names": [
+      "Riddhi"
+    ],
+    "description": "Rare medicinal orchid."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Fresh extraction."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "5ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Anti-aging",
     "Nerve health",
     "Vital power."
   ],
-  "plantProfile": [
-    "Rare medicinal orchid."
-  ],
-  "preparationMethods": [
-    "Fresh extraction."
-  ],
-  "dosages": {
-    "Adults": "5ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

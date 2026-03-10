@@ -1,46 +1,69 @@
 {
-  "name": "Vatya",
-  "scientificName": "Avena sterilis L. / Hordeum vulgare subsp. spontaneum (Wild Oat/Ancient Barley Preparations)",
-  "botanicalFamily": "Poaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, specifically processed Vatya (roasted and husked wild barley/oat gruel) is the most prestigious convalescent diet for 'Jivaniya' (life-sustaining) and 'Grahi' (absorbent) therapies. While it is 'Laghu' (light) and cooling, it deeply nourishes the tissues.",
-    "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
-    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily) when cooked properly, otherwise Ruksha (dry).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Grahi (absorbent), Jwarahara (antipyretic), Balya (strength-promoter), Raktaprasadana (blood-soothing), and Trushnahara (thirst-quenching).",
-    "API/AFI Adherence: Known as 'Vatya' or 'Vatya-manda' (barley gruel made from husked, roasted grain) in classical Ayurvedic pathogenesis (Jwara-chikitsa/Fever management). It is the ultimate recovery food.",
-    "Specific Indications: Used in Jwara (Acute and chronic fevers), Atisara (Severe diarrhea), Trushna (Excessive thirst), Daurbalya (profound weakness), and Raktapitta (Bleeding disorders)."
-  ],
-  "usageForm": "Roasted grain decoction (Phanta), Very thin gruel (Manda), Thick gruel (Peya), Seed powder (Churna).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vatya"
+    ],
+    "scientific_name": "Avena sterilis L. / Hordeum vulgare subsp. spontaneum (Wild Oat/Ancient Barley Preparations)",
+    "family": "Poaceae",
+    "ayurveda_names": [
+      "Vatya"
+    ],
+    "description": "Unique History: Not just a plant, but a highly specific, ancient processing technique (roasting, husking, decoccotting) mentioned in the Charaka Samhita as the first line of defense in severe fevers ('Manda' therapy). Physical Characteristics: Derived from wild oats or unrefined ancient barley. A tall, erect, annual grass. The grains are harvested, cleaned, rigorously roasted to break down complex starches, husked, and then ground or kept whole for medical decoding. Specific Chemical Compounds: Contains Beta-glucan, Hordein/Avenin, and complex polysaccharides fragmented into instantly bioavailable dextrins through roasting. Strict Standardizations: Standardized based on its distinctive roasted, nutty aroma and ability to form a very clear, mucilaginous liquid when boiled in 14 parts water."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Kashaya (astringent)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, specifically processed Vatya (roasted and husked wild barley/oat gruel) is the most prestigious convalescent diet for 'Jivaniya' (life-sustaining) and 'Grahi' (absorbent) therapies. While it is 'Laghu' (light) and cooling, it deeply nourishes the tissues."
+  },
+  "preparation_methods": {
+    "vatya_manda__liquid_gruel_": {
+      "method": "1 part processed/roasted grain boiled in 14 parts water until the grain blooms. ONLY the clear liquid is taken to manage the peak of high fevers."
+    },
+    "vatya_peya__thick_gruel_": {
+      "method": "Prepared with less water; the grain is consumed alongside the liquid for convalescence and recovering strength."
+    },
+    "phanta__hot_infusion_": {
+      "method": "Crushed roasted grains soaked in hot water for immediate thirst management."
+    },
+    "vatya_saktu__powder_": {
+      "method": "Added to buttermilk for summer heat and chronic diarrhea."
+    }
+  },
+  "dosage": {
+    "children": "Perfectly safe and life-saving. 30-50 ml of liquid gruel every few hours during fever and diarrhea.",
+    "adults": "Primary medical diet (100-500ml of gruel) instead of solid food during acute illness.",
+    "elderly": "Highly recommended to manage dehydration and weakness. Replace heavy dinners with this gruel."
+  },
+  "medicinal_uses": [
     "Expert Fever Management and Rehydration Specialist (Jwarahara Manda): Vatya-manda is the premier Ayurvedic hospital diet. Its 'Laghu' (light) and 'Sheeta' (cooling) nature provides immediate energy and electrolytes to a feverish patient without challenging the deeply impaired digestive fire (Mandagni). WHO-aligned research confirms its supreme easily-digestible beta-glucan and starch matrix.",
     "Gastrointestinal and Diarrhea Care Specialist (Grahi): As a thin roasted gruel, it acts as a phenomenal absorbent, coating the inflamed gut lining, stopping watery stools, and restoring vitality in acute gastroenteritis.",
     "Excessive Thirst and Dehydration (Trushnahara): Instantly quenches unquenchable, fever-induced thirst and deeply hydrates the 'Rasa' and 'Rakta' channels through its systemic cooling and sweet post-digestive effect.",
     "Heart and Emotional Wellbeing: Acts as a mild Hridya (heart-tonic). Its balancing presence and cooling nature helps in protecting the heart muscles from high Pitta/fever states.",
     "Phytochemical Profile: Rich in Soluble Fiber (Beta-glucan), easily digestible Starch, Phenolic acids, Flavonoids, and Essential Electrolytes (Potassium, Phosphorus). The roasted starch matrix is crucial for its instant-energy, non-heavy action."
   ],
-  "plantProfile": [
-    "Unique History: Not just a plant, but a highly specific, ancient processing technique (roasting, husking, decoccotting) mentioned in the Charaka Samhita as the first line of defense in severe fevers ('Manda' therapy).",
-    "Physical Characteristics: Derived from wild oats or unrefined ancient barley. A tall, erect, annual grass. The grains are harvested, cleaned, rigorously roasted to break down complex starches, husked, and then ground or kept whole for medical decoding.",
-    "Specific Chemical Compounds: Contains Beta-glucan, Hordein/Avenin, and complex polysaccharides fragmented into instantly bioavailable dextrins through roasting.",
-    "Strict Standardizations: Standardized based on its distinctive roasted, nutty aroma and ability to form a very clear, mucilaginous liquid when boiled in 14 parts water."
-  ],
-  "preparationMethods": [
-    "Vatya-Manda (Liquid Gruel): 1 part processed/roasted grain boiled in 14 parts water until the grain blooms. ONLY the clear liquid is taken to manage the peak of high fevers.",
-    "Vatya-Peya (Thick Gruel): Prepared with less water; the grain is consumed alongside the liquid for convalescence and recovering strength.",
-    "Phanta (Hot Infusion): Crushed roasted grains soaked in hot water for immediate thirst management.",
-    "Vatya-Saktu (Powder): Added to buttermilk for summer heat and chronic diarrhea."
-  ],
-  "dosages": {
-    "Children": "Perfectly safe and life-saving. 30-50 ml of liquid gruel every few hours during fever and diarrhea.",
-    "Adults": "Primary medical diet (100-500ml of gruel) instead of solid food during acute illness.",
-    "Elderly": "Highly recommended to manage dehydration and weakness. Replace heavy dinners with this gruel."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a supreme, universally safe medicinal food.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "None. It is designed specifically as the safest food for the sickest individuals."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as a perfect carrier vehicle for giving bitter medicines."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: None. It is designed specifically as the safest food for the sickest individuals.",
-    "GRAS Status: Classified as a supreme, universally safe medicinal food.",
-    "Herb-Drug Interactions: None documented. It acts as a perfect carrier vehicle for giving bitter medicines.",
-    "Adverse Effects: None documented."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

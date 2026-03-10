@@ -1,47 +1,70 @@
 {
-    "name": "Adhaki",
-    "scientificName": "Cajanus cajan (L.) Millsp.",
-    "botanicalFamily": "Fabaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is a premier choice for 'Samshodhana' (purification) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry), making it a Vata-increasing grain (Vatala) if not cooked with digestive spices.",
-        "Rasa (Taste): Madhura (sweet), Kashaya (astringent).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Grahi (absorbent), Deepana (appetizer), Medahara (fat-relieving), Varnya (complexion-improving), and Vishaghna (anti-toxic).",
-        "API/AFI Adherence: Known as 'Adhaki' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Medohara' (weight-loss) and 'Pitta-hara' cooling formulations and daily soups.",
-        "Specific Indications: Used in Medo-roga (Obesity), Madhumeha (Diabetes mellitus), Raktapitta (Bleeding disorders), Daha (Internal burning), and Prameha (Urinary disorders)."
+  "plant": {
+    "common_names": [
+      "Adhaki"
     ],
-    "usageForm": "Split pulse soup (Dal), Whole pulse cooked (Odana), Roasted powder (Saktu), Seed paste (Lepa).",
-    "mainMedicinalUses": [
-        "Expert Weight Management and Fat-Scraping Specialist (Medahara): Adhaki is the premier Ayurvedic cereal for managing obesity and clearing abdominal fat. Its 'Ruksha' (dry) and 'Laghu' (light) nature provided by high fiber and complex proteins helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO research confirms its potent cholesterol-lowering and anti-diabetic properties.",
-        "Digestive Catalyst and Metabolism: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Ajirna' (indigestion) and 'Anaha' (bloating) through its systemic carminative action.",
-        "Internal Hemorrhage and Bleeding (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
-        "Skin Health and Complexion enhancement (Varnya): Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The roasted powder drink (Saktu) provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
-        "Urinary and Kidney Support: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the Pitta in the bladder and kidneys.",
-        "Phytochemical Profile: Rich in Proteins (20-22%), Carbohydrates, Flavonoids, Saponins, and Essential Minerals (Iron, Calcium, Magnesium). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+    "scientific_name": "Cajanus cajan (L.) Millsp.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Adhaki"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vatala' pulses (ones that increase Vata). Historically used as a primary protein source for scholars and high-performance individuals. Regarded as 'Daily Nourisher'.",
-        "Physical Characteristics: A small, erect, annual shrub reaching up to 1-2 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of small follicles (pods) containing numerous flat, brownish-black-to-yellow seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Biochanin A, Cajanin, and diversos Protease inhibitors. The presence of biochanin A (approx. 0.5-1.0% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells.",
-        "Strict Standardizations: The seed is standardized in API based on its yellowish-brown-to-red color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>20%)."
+    "description": "Unique History: Mentioned in ancient Ayurvedic treatises like Charaka Samhita as the best among 'Vatala' pulses (ones that increase Vata). Historically used as a primary protein source for scholars and high-performance individuals. Regarded as 'Daily Nourisher'. Physical Characteristics: A small, erect, annual shrub reaching up to 1-2 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of small follicles (pods) containing numerous flat, brownish-black-to-yellow seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Biochanin A, Cajanin, and diversos Protease inhibitors. The presence of biochanin A (approx. 0.5-1.0% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells. Strict Standardizations: The seed is standardized in API based on its yellowish-brown-to-red color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>20%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Kashaya (astringent)."
     ],
-    "preparationMethods": [
-        "Dal (Split Soup): 1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
-        "Roasted Powder (Saktu): 30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
-        "Odana (Cooked Pulse): Cooked with minimal water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect.",
-        "External Paste (Lepa): Ground fresh seeds applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 10 - 20 grams of cooked pulse mixed with ghee once twice for muscle development in childhood.",
-        "Adults": "Daily staple food (50-100g of cooked pulse per meal).",
-        "Elderly": "Highly recommended to prevent age-related Pitta issues and maintain skin radiance. Dosage: 50g of cooked pulse daily."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Kapha and Pitta doshas. Due to its Madhura (sweet) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is a premier choice for 'Samshodhana' (purification) and 'Meda-hara' (fat-relieving) therapies. While it is cooling, it is 'Ruksha' (dry), making it a Vata-increasing grain (Vatala) if not cooked with digestive spices."
+  },
+  "preparation_methods": {
+    "dal__split_soup_": {
+      "method": "1 part seeds boiled with 4 parts water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with digestive spices like ginger and hing. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature.",
-        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-        "Adverse Effects: Overconsumption leads to excessive gas and bloating if not appropriately cooked."
+    "roasted_powder__saktu_": {
+      "method": "30g of roasted seeds powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets."
+    },
+    "odana__cooked_pulse_": {
+      "method": "Cooked with minimal water and seasoned with digestive spices like pepper and hing to counter the Vata-increasing effect."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh seeds applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 10 - 20 grams of cooked pulse mixed with ghee once twice for muscle development in childhood.",
+    "adults": "Daily staple food (50-100g of cooked pulse per meal).",
+    "elderly": "Highly recommended to prevent age-related Pitta issues and maintain skin radiance. Dosage: 50g of cooked pulse daily."
+  },
+  "medicinal_uses": [
+    "Expert Weight Management and Fat-Scraping Specialist (Medahara): Adhaki is the premier Ayurvedic cereal for managing obesity and clearing abdominal fat. Its 'Ruksha' (dry) and 'Laghu' (light) nature provided by high fiber and complex proteins helps in absorbing systemic 'Meda' (fat) and providing systemic stabilization of the 'Kapha' channels. WHO research confirms its potent cholesterol-lowering and anti-diabetic properties.",
+    "Digestive Catalyst and Metabolism: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Ajirna' (indigestion) and 'Anaha' (bloating) through its systemic carminative action.",
+    "Internal Hemorrhage and Bleeding (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
+    "Skin Health and Complexion enhancement (Varnya): Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The roasted powder drink (Saktu) provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
+    "Urinary and Kidney Support: As a mild diuretic, it helps in clearing urinary stagnations and managing infections by cooling the Pitta in the bladder and kidneys.",
+    "Phytochemical Profile: Rich in Proteins (20-22%), Carbohydrates, Flavonoids, Saponins, and Essential Minerals (Iron, Calcium, Magnesium). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Vata (severe constipation, bloating, dry skin) should use it in moderation and always cook with digestive spices like ginger and hing. Avoid during extreme dehydration due to its 'Ruksha' (dry) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption leads to excessive gas and bloating if not appropriately cooked."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

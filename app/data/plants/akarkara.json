@@ -1,19 +1,46 @@
 {
-  "name": "Akarkara",
-  "scientificName": "Anacyclus pyrethrum (L.) Lag.",
-  "botanicalFamily": "Asteraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Strongly pacifies Vata and Kapha doshas. Due to its Atyanta-Ushna (extremely hot) Virya and Tikshna (sharp/piercing) Guna, it is one of the premier herbs for clearing deep-seated stagnation and Vata-originated nerve disorders. It may significantly aggravate Pitta dosha.",
-    "Rasa (Taste): Katu (pungent). It has a unique 'tingling' or 'numbing' sensation on the tongue.",
-    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Vatahara (Vata-pacifying), Shulaghna (analgesic), Vedanasthapana (anesthetic/pain-killer), Vajikarana (aphrodisiac), and Balya (strength-promoting).",
-    "API/AFI Adherence: The dried root is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is used in classical Ayurvedic formulations like Akarakarabhadi Churna and various medicated oils for Vata disorders.",
-    "Specific Indications: Used in Mukha-roga (oral/tooth problems), Pakshagata (paralysis), Ardita (facial palsy), Gridhrasi (sciatica), and Klaibya (impotence)."
-  ],
-  "usageForm": "Root powder (Churna), Root decoction (Kwatha), Root paste (Kalka), Medicated oil (Taila).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Akarkara"
+    ],
+    "scientific_name": "Anacyclus pyrethrum (L.) Lag.",
+    "family": "Asteraceae",
+    "ayurveda_names": [
+      "Akarkara"
+    ],
+    "description": "Unique History: Akarkara is native to North Africa (Moroccan Pellitory) but has been an integral part of the Ayurvedic and Unani-Tibb systems for centuries. It is described in medieval Nighantus (lexicons) as a 'divine herb' for nerve strength and reproductive power. Physical Characteristics: A perennial, prostrate herb with multiple creeping stems. The leaves are twice pinnatisect into linear segments. The flower heads are large, solitary, and daisy-like with white ray florets and yellow disc florets. The root is long, cylindrical, greyish-brown, and has a pungent, numbing taste. Specific Chemical Compounds: Primarily contains N-isobutyl-2,4-decadienamide (Pellitorine), Anacyclin, Inulin (up to 33%), and Pyrethrine. The presence of these bioactive amides is crucial for its neuro-stimulatory and sialagogue (saliva-inducing) effects. Strict Standardizations: The root is standardized in API based on macro-microscopic features. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>15%), and water-soluble extractive (>20%). Standardized extracts are quantified based on pellitorine content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent). It has a unique 'tingling' or 'numbing' sensation on the tongue."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Strongly pacifies Vata and Kapha doshas. Due to its Atyanta-Ushna (extremely hot) Virya and Tikshna (sharp/piercing) Guna, it is one of the premier herbs for clearing deep-seated stagnation and Vata-originated nerve disorders. It may significantly aggravate Pitta dosha."
+  },
+  "preparation_methods": {
+    "toothache_powder": {
+      "method": "A small pinch of fine root powder (approx. 100-250mg) is rubbed directly on the painful tooth or gum area for immediate relief."
+    },
+    "decoction_gargle": {
+      "method": "5g of root boiled in 100ml water reduced to 25ml; used as a gargle twice daily for sore throat and gum inflammation."
+    },
+    "honey_mix": {
+      "method": "125mg-250mg of Akarkara powder mixed with honey for libido and nerve strength. Honey acts as a bio-enhancer (Anupana)."
+    },
+    "taila__medicated_oil_": {
+      "method": "Root paste cooked in sesame oil; massaged on paralyzed limbs to stimulate nerves and circulation."
+    },
+    "tablet_vati": {
+      "method": "Often found in composite tablets with other Vata-pacifying herbs like Ashwagandha and Kaunch Beel."
+    }
+  },
+  "dosage": {
+    "children": "Generally NOT recommended for children unless under strict expert guidance. Smallest doses (25-50mg) used for delayed speech or vocal issues.",
+    "adults": "Powder (Churna): 250mg - 1000mg per day in divided doses. Large doses (above 2g per day) should be avoided.",
+    "elderly": "Very low doses (125-250mg) are advisable initially, monitoring for any increase in Pitta or body heat."
+  },
+  "medicinal_uses": [
     "Dental and Oral Health: The root is locally anesthetic. When chewed or used as a gargle, it provides instant relief from toothaches, prevents gum disease, and increases salivary flow to improve oral hygiene. WHO-aligned research supports its antimicrobial action against oral pathogens.",
     "Neurological and Nerve Disorders: Its profound Vata-pacifying property makes it a key ingredient in managing paralysis, sciatica, and nerve-related pains. It stimulates the peripheral nerves and improves blood circulation to the affected limbs.",
     "Reproductive Health and Vitality: As a potent Vajikarana (aphrodisiac), it helps improve libido, enhances testosterone production, and manages premature ejaculation. Botanical studies confirm its nitrogen-retaining and muscle-strengthening effects.",
@@ -22,28 +49,26 @@
     "Antidiabetic and Antioxidant: Emerging research indicates its potential for improving insulin sensitivity and providing cellular protection against oxidative stress, supporting its traditional use in metabolic syndromes.",
     "Phytochemical Profile: Rich in alkylamides (pellitory oil), particularly anacyclin and pellitorine (pyrethrine), which are responsible for the numbing sensation and pharmaceutical activities. Also contains inulin, tannins, and essential oils."
   ],
-  "plantProfile": [
-    "Unique History: Akarkara is native to North Africa (Moroccan Pellitory) but has been an integral part of the Ayurvedic and Unani-Tibb systems for centuries. It is described in medieval Nighantus (lexicons) as a 'divine herb' for nerve strength and reproductive power.",
-    "Physical Characteristics: A perennial, prostrate herb with multiple creeping stems. The leaves are twice pinnatisect into linear segments. The flower heads are large, solitary, and daisy-like with white ray florets and yellow disc florets. The root is long, cylindrical, greyish-brown, and has a pungent, numbing taste.",
-    "Specific Chemical Compounds: Primarily contains N-isobutyl-2,4-decadienamide (Pellitorine), Anacyclin, Inulin (up to 33%), and Pyrethrine. The presence of these bioactive amides is crucial for its neuro-stimulatory and sialagogue (saliva-inducing) effects.",
-    "Strict Standardizations: The root is standardized in API based on macro-microscopic features. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>15%), and water-soluble extractive (>20%). Standardized extracts are quantified based on pellitorine content."
-  ],
-  "preparationMethods": [
-    "Toothache Powder: A small pinch of fine root powder (approx. 100-250mg) is rubbed directly on the painful tooth or gum area for immediate relief.",
-    "Decoction Gargle: 5g of root boiled in 100ml water reduced to 25ml; used as a gargle twice daily for sore throat and gum inflammation.",
-    "Honey Mix: 125mg-250mg of Akarkara powder mixed with honey for libido and nerve strength. Honey acts as a bio-enhancer (Anupana).",
-    "Taila (Medicated Oil): Root paste cooked in sesame oil; massaged on paralyzed limbs to stimulate nerves and circulation.",
-    "Tablet/Vati: Often found in composite tablets with other Vata-pacifying herbs like Ashwagandha and Kaunch Beel."
-  ],
-  "dosages": {
-    "Children": "Generally NOT recommended for children unless under strict expert guidance. Smallest doses (25-50mg) used for delayed speech or vocal issues.",
-    "Adults": "Powder (Churna): 250mg - 1000mg per day in divided doses. Large doses (above 2g per day) should be avoided.",
-    "Elderly": "Very low doses (125-250mg) are advisable initially, monitoring for any increase in Pitta or body heat."
+  "safety_profile": {
+    "warning": "GRAS Status: Recognized as a safe medicine within therapeutic limits; however, it is not a dietary spice and must be taken with caution due to its intensity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Strictly contraindicated in individuals with high Pitta (excessive heat), hyperacidity, stomach ulcers, inflammatory bowel syndrome, or internal bleeding. Not for use during pregnancy or lactation due to its extremely hot potency."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overdose or use in high Pitta individuals can cause mouth ulcers, excessive thirst, acidity, heartburn, and skin rashes."
+    ],
+    "drug_interactions": [
+      "May interact with blood-pressure-lowering drugs and sedative medications. Use caution if on heart medications as it can increase local blood circulation."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Strictly contraindicated in individuals with high Pitta (excessive heat), hyperacidity, stomach ulcers, inflammatory bowel syndrome, or internal bleeding. Not for use during pregnancy or lactation due to its extremely hot potency.",
-    "GRAS Status: Recognized as a safe medicine within therapeutic limits; however, it is not a dietary spice and must be taken with caution due to its intensity.",
-    "Herb-Drug Interactions: May interact with blood-pressure-lowering drugs and sedative medications. Use caution if on heart medications as it can increase local blood circulation.",
-    "Adverse Effects: Overdose or use in high Pitta individuals can cause mouth ulcers, excessive thirst, acidity, heartburn, and skin rashes."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

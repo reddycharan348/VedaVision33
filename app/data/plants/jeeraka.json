@@ -1,19 +1,46 @@
 {
-  "name": "Jeeraka",
-  "scientificName": "Cuminum cyminum L.",
-  "botanicalFamily": "Apiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Deepana' (appetizer) and 'Pachana' (digestive) therapies, clearing the cold, heavy, and sticky qualities of Kapha while balancing the dry and rough qualities of Vata through its systemic downward-flowing property. It does not aggravate Pitta when used appropriately.",
-    "Rasa (Taste): Katu (pungent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Grahi (absorbent), Vishaghna (anti-toxic), Hridya (heart-tonic), and Jwarahara (antipyretic).",
-    "API/AFI Adherence: The dried fruit (seed) is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Jeerakadyarishta, Hingvashtaka Churna, and various digestive tonics.",
-    "Specific Indications: Used in Ajirna (Indigestion), Atisara (Diarrhea), Chardi (Vomiting), Grahani (IBS), Shoola (Abdominal colic), and Jwara (fever)."
-  ],
-  "usageForm": "Seed powder (Churna), Seed decoction (Kwatha), Cold infusion (Hima), Fermented liquid (Arishta).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Jeeraka"
+    ],
+    "scientific_name": "Cuminum cyminum L.",
+    "family": "Apiaceae",
+    "ayurveda_names": [
+      "Jeeraka"
+    ],
+    "description": "Unique History: One of the oldest spices/herbs documented in human history. Mentioned in the Vedas and ancient Ayurvedic texts for its unmatched 'Deepana-Pachana' (digestive) and 'Shulaprashamana' (pain-reliever) providing properties. The name 'Jeeraka' literally translates to 'one that aids digestion'. It is spiritually associated with 'Sattva' (purity and clarity). Physical Characteristics: A small, annual herb growing up to 30-50 cm in height, with thin, hollow stems and attractive, finely-divided leaves. It features small, white or pale-pink flowers arranged in terminal umbels. The fruit is a small, elongated, yellowish-brown schizocarp (seed) containing two seeds. It is found throughout India and tropical/sub-tropical regions worldwide and is widely cultivated globally for medicinal and culinary use. Specific Chemical Compounds: Primarily contains Essential Oil (2-5%) including Cuminaldehyde, Cymene, and Terpinene. The presence of cuminaldehyde is crucial for its digestive, anti-microbial, and anti-cancer effects.  Strict Standardizations: The seed is standardized in API based on its yellowish-grey color and characteristic strong-aromatic-pungent-bitter taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>7%), and water-soluble extractive (>15%). GC-MS is used to monitor 2% to 4% volatile oil in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Deepana' (appetizer) and 'Pachana' (digestive) therapies, clearing the cold, heavy, and sticky qualities of Kapha while balancing the dry and rough qualities of Vata through its systemic downward-flowing property. It does not aggravate Pitta when used appropriately."
+  },
+  "preparation_methods": {
+    "seed_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm water or buttermilk (as a digestive Anupana) before meals."
+    },
+    "seed_decoction__kwatha_": {
+      "method": "20g of seeds boiled in 160ml water reduced to 40ml for chronic diarrhea and fevers. Take twice daily before meals."
+    },
+    "cold_infusion__hima_": {
+      "method": "10g of crushed seeds soaked in 60ml water overnight; filtered and taken with sugar in the morning for cooling and acidity."
+    },
+    "jeerakadyarishta": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing post-partum recovery and digestive weakness."
+    },
+    "external_paste": {
+      "method": "Ground fresh seeds or paste applied directly to the navel (especially for infants) for instant relief from abdominal gas and colic."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before or after meals.",
+    "elderly": "Ideal for age-related digestive support and maintaining metabolic health. Dosage: 3g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Digestive and Metabolism Specialist: Jeeraka is the premier Ayurvedic remedy for all types of weak digestion and metabolic toxins (Ama). Its Tikshna (sharp) and Ushna (heating) nature helps in igniting the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. WHO-aligned research supports its prokinetic and carminative effects.",
     "Gastrointestinal and Diarrhea Care: Its 'Sangrahi' (absorbent) and 'Deepana' (appetizer) actions make it incomparable for managing chronic diarrhea, dysentery, and irritable bowel symptoms by binding the stool and strengthening the gut lining.",
     "Pain and Abdominal Colic: Known as 'Shulaprashamana' (pain-relieving). It is traditionally used to provide relief from abdominal cramps, flatulence, and bloating by clearing 'Vata-avarana' (Vata-obstruction) in the gut through its systemic downward-flowing energy (Apana-Vata).",
@@ -22,28 +49,26 @@
     "Diabetes and Metabolic support: Its Katu (pungent) and Ushna (heating) properties help in regulating blood sugar levels and improving insulin sensitivity through metabolic balancing. Clinical studies confirm its hypoglycemic potential.",
     "Phytochemical Profile: Rich in Essential Oil (Cuminaldehyde, Cymene, Pinene), Flavonoids (Quercetin, Kaempferol), and Tannins. The presence of cuminaldehyde is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the immune system."
   ],
-  "plantProfile": [
-    "Unique History: One of the oldest spices/herbs documented in human history. Mentioned in the Vedas and ancient Ayurvedic texts for its unmatched 'Deepana-Pachana' (digestive) and 'Shulaprashamana' (pain-reliever) providing properties. The name 'Jeeraka' literally translates to 'one that aids digestion'. It is spiritually associated with 'Sattva' (purity and clarity).",
-    "Physical Characteristics: A small, annual herb growing up to 30-50 cm in height, with thin, hollow stems and attractive, finely-divided leaves. It features small, white or pale-pink flowers arranged in terminal umbels. The fruit is a small, elongated, yellowish-brown schizocarp (seed) containing two seeds. It is found throughout India and tropical/sub-tropical regions worldwide and is widely cultivated globally for medicinal and culinary use.",
-    "Specific Chemical Compounds: Primarily contains Essential Oil (2-5%) including Cuminaldehyde, Cymene, and Terpinene. The presence of cuminaldehyde is crucial for its digestive, anti-microbial, and anti-cancer effects. ",
-    "Strict Standardizations: The seed is standardized in API based on its yellowish-grey color and characteristic strong-aromatic-pungent-bitter taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>7%), and water-soluble extractive (>15%). GC-MS is used to monitor 2% to 4% volatile oil in commercial extracts."
-  ],
-  "preparationMethods": [
-    "Seed Powder (Churna): 3-6g of fine powder taken twice daily with warm water or buttermilk (as a digestive Anupana) before meals.",
-    "Seed Decoction (Kwatha): 20g of seeds boiled in 160ml water reduced to 40ml for chronic diarrhea and fevers. Take twice daily before meals.",
-    "Cold Infusion (Hima): 10g of crushed seeds soaked in 60ml water overnight; filtered and taken with sugar in the morning for cooling and acidity.",
-    "Jeerakadyarishta: 15-30ml of fermented extract taken twice daily after meals for managing post-partum recovery and digestive weakness.",
-    "External Paste: Ground fresh seeds or paste applied directly to the navel (especially for infants) for instant relief from abdominal gas and colic."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before or after meals.",
-    "Elderly": "Ideal for age-related digestive support and maintaining metabolic health. Dosage: 3g of powder daily with warm water at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and spice with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme high Pitta (burning sensation, hyperacidity, bleeding disorders) should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses due to potential uterine stimulation."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with extreme high Pitta (burning sensation, hyperacidity, bleeding disorders) should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses due to potential uterine stimulation.",
-    "GRAS Status: Classified as a safe medicinal herb and spice with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

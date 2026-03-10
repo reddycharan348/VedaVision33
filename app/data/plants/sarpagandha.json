@@ -1,30 +1,52 @@
 {
-  "id": "sarpagandha",
-  "name": "Sarpagandha",
-  "scientificName": "Rauwolfia serpentina (L.) Benth. ex Kurz",
-  "botanicalFamily": "Apocynaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Rasa: Tikta (Bitter).",
-    "Virya: Ushna (Hot).",
-    "Karma: Nidrajanana (Sleep-inducing), Manasrogahara (Anti-psychotic)."
-  ],
-  "usageForm": "Root powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Sarpagandha"
+    ],
+    "scientific_name": "Rauwolfia serpentina (L.) Benth. ex Kurz",
+    "family": "Apocynaceae",
+    "ayurveda_names": [
+      "Sarpagandha"
+    ],
+    "description": "Source of Reserpine, used globally for hypertension."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (Bitter)."
+    ],
+    "virya_potency": "Ushna (Hot).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Fine root powder often given with milk at night."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "250mg - 500mg ONLY. MUST BE EXPERT LED.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "World-famous for reducing high blood pressure.",
     "Used for anxiety, insomnia, and psychiatric disorders.",
     "Relieves hysteria and severe stress."
   ],
-  "plantProfile": [
-    "Source of Reserpine, used globally for hypertension."
-  ],
-  "preparationMethods": [
-    "Fine root powder often given with milk at night."
-  ],
-  "dosages": {
-    "Adults": "250mg - 500mg ONLY. MUST BE EXPERT LED."
+  "safety_profile": {
+    "warning": "Avoid in depression and cardiac weakness.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Avoid in depression and cardiac weakness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

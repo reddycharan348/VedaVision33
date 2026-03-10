@@ -1,27 +1,50 @@
 {
-  "id": "vriddhi",
-  "name": "Vriddhi",
-  "scientificName": "Habenaria edgeworthii (Honed)",
-  "botanicalFamily": "Orchidaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pitta-Vata Hara."
-  ],
-  "usageForm": "Tuber juice.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vriddhi"
+    ],
+    "scientific_name": "Habenaria edgeworthii (Honed)",
+    "family": "Orchidaceae",
+    "ayurveda_names": [
+      "Vriddhi"
+    ],
+    "description": "Medicinal Orchid from High Himalayas."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pitta-Vata Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Root powder with milk."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Extreme muscle building",
     "Rejuvenative",
     "Cooling."
   ],
-  "plantProfile": [
-    "Medicinal Orchid from High Himalayas."
-  ],
-  "preparationMethods": [
-    "Root powder with milk."
-  ],
-  "dosages": {
-    "Adults": "3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

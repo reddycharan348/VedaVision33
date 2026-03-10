@@ -1,27 +1,50 @@
 {
-  "id": "mustoka",
-  "name": "Mustoka",
-  "scientificName": "Cyperus species",
-  "botanicalFamily": "Cyperaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Kapha-Pitta Hara."
-  ],
-  "usageForm": "Root decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Mustoka"
+    ],
+    "scientific_name": "Cyperus species",
+    "family": "Cyperaceae",
+    "ayurveda_names": [
+      "Mustoka"
+    ],
+    "description": "Wild variant of Musta."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Kapha-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Decoction."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "30ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Digestive health",
     "Fever",
     "Acidity."
   ],
-  "plantProfile": [
-    "Wild variant of Musta."
-  ],
-  "preparationMethods": [
-    "Decoction."
-  ],
-  "dosages": {
-    "Adults": "30ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

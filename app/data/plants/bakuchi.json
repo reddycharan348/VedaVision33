@@ -1,28 +1,50 @@
 {
-  "id": "bakuchi",
-  "name": "Bakuchi",
-  "scientificName": "Psoralea corylifolia L.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata.",
-    "Karma: Kushtaghna (Skin healer), Varnya (Complexion)."
-  ],
-  "usageForm": "Seed powder, Oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Bakuchi"
+    ],
+    "scientific_name": "Psoralea corylifolia L.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Bakuchi"
+    ],
+    "description": "Often called 'Babchi' oil in modern skincare."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Topical oil application followed by sunlight (sun exposure)."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "The primary herb for Vitiligo (Leucoderma) and psoriasis.",
     "Heals wounds and localized infections.",
     "Used for hair growth and scalp health."
   ],
-  "plantProfile": [
-    "Often called 'Babchi' oil in modern skincare."
-  ],
-  "preparationMethods": [
-    "Topical oil application followed by sunlight (sun exposure)."
-  ],
-  "dosages": {
-    "Adults": "1g"
+  "safety_profile": {
+    "warning": "Can cause skin irritation; always dilute. Consult professional.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Can cause skin irritation; always dilute. Consult professional."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

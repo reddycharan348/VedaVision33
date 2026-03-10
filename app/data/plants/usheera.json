@@ -1,30 +1,52 @@
 {
-  "id": "usheera",
-  "name": "Usheera (Vetiver)",
-  "scientificName": "Vetiveria zizanioides (L.) Nash",
-  "botanicalFamily": "Poaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Pitta and Vata.",
-    "Rasa: Tikta (Bitter), Madhura (Sweet).",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Daha-prashamana (Burning relief), Stambhana (Stops bleeding)."
-  ],
-  "usageForm": "Root powder, Oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Usheera (Vetiver)"
+    ],
+    "scientific_name": "Vetiveria zizanioides (L.) Nash",
+    "family": "Poaceae",
+    "ayurveda_names": [
+      "Usheera (Vetiver)"
+    ],
+    "description": "Fragrant roots used in perfumes and cooling mats."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (Bitter), Madhura (Sweet)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Pitta and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Cold infusion (Hima) or root powder."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "The ultimate cooling herb for summer and fevers.",
     "Treats urinary tract infections and burning urination.",
     "Calms the mind and reduces anxiety."
   ],
-  "plantProfile": [
-    "Fragrant roots used in perfumes and cooling mats."
-  ],
-  "preparationMethods": [
-    "Cold infusion (Hima) or root powder."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Extremely safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Extremely safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

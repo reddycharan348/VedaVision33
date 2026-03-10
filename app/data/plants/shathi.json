@@ -1,27 +1,50 @@
 {
-  "id": "shathi",
-  "name": "Shathi",
-  "scientificName": "Hedychium spicatum (Honed)",
-  "botanicalFamily": "Zingiberaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Kapha Hara."
-  ],
-  "usageForm": "Powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shathi"
+    ],
+    "scientific_name": "Hedychium spicatum (Honed)",
+    "family": "Zingiberaceae",
+    "ayurveda_names": [
+      "Shathi"
+    ],
+    "description": "Spiked Ginger Lily."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Kapha Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Inhalation or powder."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Fragrant respiratory cleansing",
     "Cough",
     "Asthma."
   ],
-  "plantProfile": [
-    "Spiked Ginger Lily."
-  ],
-  "preparationMethods": [
-    "Inhalation or powder."
-  ],
-  "dosages": {
-    "Adults": "1g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

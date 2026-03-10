@@ -1,50 +1,75 @@
 {
-    "name": "Nimba",
-    "scientificName": "Azadirachta indica A.Juss.",
-    "botanicalFamily": "Meliaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Pitta and Kapha doshas. Due to its Atyanta-Tikta (extremely bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Kandughna' (itching-relieving) and 'Kusthaghna' (skin-destroying) therapies, clearing the fiery and agitated qualities of Pitta and the heavy qualities of Kapha through its systemic cooling and detoxifying property. It may increase Vata if used in excess.",
-        "Rasa (Taste): Tikta (bitter), Kashaya (astringent).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Kandughna (anti-itch), Kusthaghna (anti-skin disease), Krimighna (anthelminthic), Raktashodhaka (blood-purifier), Vishaghna (anti-toxic), and Jwarahara (antipyretic).",
-        "API/AFI Adherence: Nearly all parts (leaves, bark, seeds, roots, flowers) are official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in almost all classical antimicrobial and blood-purifying tonics like Nimba-arishta, Nimbadi Churna, and various medicated oils (Tailas).",
-        "Specific Indications: Used in Kushtha (Skin diseases), Kamala (Jaundice), Prameha (Diabetes), Krimi (Intestinal worms), Jwara (Chronic and malarial fevers), and Arsha (Hemorrhoids)."
+  "plant": {
+    "common_names": [
+      "Nimba"
     ],
-    "usageForm": "Leaf juice (Swarasa), Bark powder (Churna), Seed oil (Taila), Flower decoction (Kwatha), Fermented extract (Arishta).",
-    "mainMedicinalUses": [
-        "World-Famous Anti-Microbial and Blood Purifier (Raktashodhaka): Nimba is the premier Ayurvedic remedy for all conditions of systemic and localized infections. Its Atyanta-Tikta (extremely bitter) nature provided by azadirachtin and nimbin helps in clearing deep-seated pathogens and metabolic toxins (Ama) from the blood stream. WHO-aligned research confirms its potent anti-viral, anti-bacterial, and anti-fungal properties.",
-        "Skin Health and Itch Relief: Known as 'Kandughna' (anti-itch). Its cooling and antimicrobial properties help in treating chronic skin conditions like acne, psoriasis, and eczema. The leaf juice applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Raktashodhaka' (blood-purifying) effects.",
-        "Dental and Gum Care: Historically used as 'Danta-dhavana' (tooth-cleaning). Its antimicrobial and astringent nature makes it unmatched for preventing dental caries and bleeding gums. Neem-bark is traditionally used in 'Kavala' (gargling) for oral health.",
-        "Liver and Spleen Detox: Acts as a powerful hepatoprotective agent. It is extensively used to treat jaundice and fatty liver by promoting healthy bile secretion and clearing congestion in the 'Yakṛt' (liver) system. It helps in reversing liver enzyme imbalances.",
-        "Antipyretic and Chronic Fever: Highly effective as a 'Jwarahara' (fever-reliever), particularly in persistent and malarial fevers. It helps in reducing the intensity and duration of fevers by clearing systemic 'Ama' (toxins). It is a key herb for managing recovery from viral infections like dengue.",
-        "Worm and Internal Parasite Care: Its extremely bitter nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment. It helps in cleared stagnant toxins from the gut.",
-        "Diabetes and Metabolic support: Its Tikta (bitter) and Katu (pungent) properties help in regulating blood sugar levels and improving insulin sensitivity through its systemic metabolic balancing property. Clinical studies confirm its hypoglycemic potential.",
-        "Phytochemical Profile: Rich in Triterpenoids (Azadirachtin, Nimbin, Nimbidin), Flavonoids (Quercetin), and diversos Phenolic compounds. Azadirachtin and Nimbin are the primary bioactives responsible for its potent anti-microbial, anti-carcinogenic, and anti-inflammatory action."
+    "scientific_name": "Azadirachta indica A.Juss.",
+    "family": "Meliaceae",
+    "ayurveda_names": [
+      "Nimba"
     ],
-    "plantProfile": [
-        "Unique History: A highly sacred and valued tree of India, often called the 'Village Pharmacy'. Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Kandughna' (itch-destroying) and 'Vranashodhana' (wound-purifying) properties. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Divine Margosa'.",
-        "Physical Characteristics: A medium-to-large evergreen tree reaching up to 15-20 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are opposite, pinnate (serrated), and green. The flowers are small, white, fragrant, in terminal and axillary panicles. The fruit is an oval-to-globose drupe (yellow when ripe) containing a single seed. It is found throughout India and tropical/sub-tropical regions worldwide. It is widely cultivated globally for medicinal and biofuel use.",
-        "Specific Chemical Compounds: Primarily contains Triterpenes (Nimbin, Azadirachtin), Flavonoids (Quercetin), and Essential Oils. The presence of azadirachtin (0.2-1.0%) and nimbin (0.01-0.05%) is crucial for its bio-enhancing, anti-microbial, and anti-tubercular action on the immune system.",
-        "Strict Standardizations: The leaf and bark are standardized in API based on its greenish-grey color and characteristic estremamente amaro-biting taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>10%), and water-soluble extractive (>15%). HPLC is used to monitor 1% to 2% azadirachtin in commercial extracts."
+    "description": "Unique History: A highly sacred and valued tree of India, often called the 'Village Pharmacy'. Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Kandughna' (itch-destroying) and 'Vranashodhana' (wound-purifying) properties. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Divine Margosa'. Physical Characteristics: A medium-to-large evergreen tree reaching up to 15-20 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are opposite, pinnate (serrated), and green. The flowers are small, white, fragrant, in terminal and axillary panicles. The fruit is an oval-to-globose drupe (yellow when ripe) containing a single seed. It is found throughout India and tropical/sub-tropical regions worldwide. It is widely cultivated globally for medicinal and biofuel use. Specific Chemical Compounds: Primarily contains Triterpenes (Nimbin, Azadirachtin), Flavonoids (Quercetin), and Essential Oils. The presence of azadirachtin (0.2-1.0%) and nimbin (0.01-0.05%) is crucial for its bio-enhancing, anti-microbial, and anti-tubercular action on the immune system. Strict Standardizations: The leaf and bark are standardized in API based on its greenish-grey color and characteristic estremamente amaro-biting taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>10%), and water-soluble extractive (>15%). HPLC is used to monitor 1% to 2% azadirachtin in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Kashaya (astringent)."
     ],
-    "preparationMethods": [
-        "Leaf Juice (Swarasa): 10-20ml of fresh leaf juice taken twice daily on an empty stomach for maximum blood sugar control and detoxification.",
-        "Bark Powder (Churna): 3-6g of fine powder taken twice daily with warm water at bedtime for managing chronic skin issues.",
-        "Nimbarishta: 15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles through its blood-purifying action.",
-        "Seed Oil (Taila): Pure seed oil applied topically (mixed with sesame oil) to treat chronic skin diseases, alopecia, and non-healing ulcers.",
-        "External Paste (Lepa): Ground fresh leaf or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory and digestive protection during childhood infections.",
-        "Adults": "Powder: 3-6 grams; Swarasa (Juice): 10-20 ml; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
-        "Elderly": "Ideal for age-related immunity support and maintaining cardiac health. Dosage: 3g of powder daily with warm water at bedtime."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Pitta and Kapha doshas. Due to its Atyanta-Tikta (extremely bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Kandughna' (itching-relieving) and 'Kusthaghna' (skin-destroying) therapies, clearing the fiery and agitated qualities of Pitta and the heavy qualities of Kapha through its systemic cooling and detoxifying property. It may increase Vata if used in excess."
+  },
+  "preparation_methods": {
+    "leaf_juice__swarasa_": {
+      "method": "10-20ml of fresh leaf juice taken twice daily on an empty stomach for maximum blood sugar control and detoxification."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with extreme high Vata (severe constellation, dehydration) should use it in moderation as it is Tikta (bitter). Avoid during pregnancy or lactation in very large therapeutic doses due to potential abortifacient and contraceptive effects (seeds/oil).",
-        "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
-        "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness. Discontinue if extreme bitterness causes nausea."
+    "bark_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm water at bedtime for managing chronic skin issues."
+    },
+    "nimbarishta": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles through its blood-purifying action."
+    },
+    "seed_oil__taila_": {
+      "method": "Pure seed oil applied topically (mixed with sesame oil) to treat chronic skin diseases, alopecia, and non-healing ulcers."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh leaf or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory and digestive protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Swarasa (Juice): 10-20 ml; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related immunity support and maintaining cardiac health. Dosage: 3g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
+    "World-Famous Anti-Microbial and Blood Purifier (Raktashodhaka): Nimba is the premier Ayurvedic remedy for all conditions of systemic and localized infections. Its Atyanta-Tikta (extremely bitter) nature provided by azadirachtin and nimbin helps in clearing deep-seated pathogens and metabolic toxins (Ama) from the blood stream. WHO-aligned research confirms its potent anti-viral, anti-bacterial, and anti-fungal properties.",
+    "Skin Health and Itch Relief: Known as 'Kandughna' (anti-itch). Its cooling and antimicrobial properties help in treating chronic skin conditions like acne, psoriasis, and eczema. The leaf juice applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Raktashodhaka' (blood-purifying) effects.",
+    "Dental and Gum Care: Historically used as 'Danta-dhavana' (tooth-cleaning). Its antimicrobial and astringent nature makes it unmatched for preventing dental caries and bleeding gums. Neem-bark is traditionally used in 'Kavala' (gargling) for oral health.",
+    "Liver and Spleen Detox: Acts as a powerful hepatoprotective agent. It is extensively used to treat jaundice and fatty liver by promoting healthy bile secretion and clearing congestion in the 'Yakṛt' (liver) system. It helps in reversing liver enzyme imbalances.",
+    "Antipyretic and Chronic Fever: Highly effective as a 'Jwarahara' (fever-reliever), particularly in persistent and malarial fevers. It helps in reducing the intensity and duration of fevers by clearing systemic 'Ama' (toxins). It is a key herb for managing recovery from viral infections like dengue.",
+    "Worm and Internal Parasite Care: Its extremely bitter nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment. It helps in cleared stagnant toxins from the gut.",
+    "Diabetes and Metabolic support: Its Tikta (bitter) and Katu (pungent) properties help in regulating blood sugar levels and improving insulin sensitivity through its systemic metabolic balancing property. Clinical studies confirm its hypoglycemic potential.",
+    "Phytochemical Profile: Rich in Triterpenoids (Azadirachtin, Nimbin, Nimbidin), Flavonoids (Quercetin), and diversos Phenolic compounds. Azadirachtin and Nimbin are the primary bioactives responsible for its potent anti-microbial, anti-carcinogenic, and anti-inflammatory action."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme high Vata (severe constellation, dehydration) should use it in moderation as it is Tikta (bitter). Avoid during pregnancy or lactation in very large therapeutic doses due to potential abortifacient and contraceptive effects (seeds/oil)."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness. Discontinue if extreme bitterness causes nausea."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

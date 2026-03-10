@@ -1,46 +1,69 @@
 {
-  "name": "Kuttu",
-  "scientificName": "Fagopyrum esculentum Moench (Buckwheat)",
-  "botanicalFamily": "Polygonaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Kapha dosha but can aggravate Vata and Pitta due to its extreme 'Ushna' (heating) and 'Ruksha' (dry) qualities. Due to its Kashaya (astringent) and Madhura (sweet) Rasa, and Ushna (heating) Virya, it is a highly specialized pseudo-cereal for 'Meda-hara' (fat-relieving) and warming therapies (winter use).",
-    "Rasa (Taste): Kashaya (astringent), Madhura (sweet).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry), Vishada (clear).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Medahara (fat-relieving), Kledahara (moisture-reducing), Mutravirechaniya (diuretic), Ushna (heating), and Raktadoshakara (can vitiate blood if overused).",
-    "API/AFI Adherence: Known as 'Kuttu' or 'Kotu' in traditional regional practices of the Himalayas. Extensively used as a 'Phalahar' (fasting food) but strictly restricted from daily long-term use due to its heating nature.",
-    "Specific Indications: Used in Medo-roga (Obesity), Shita-jwara (Cold-fever), Urustambha (Thigh stiffness from Kapha), and managing excessive bodily fluids (Kleda)."
-  ],
-  "usageForm": "Seed flour (Atta), Dehusked groats cooked (Odana), Roasted seeds.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Kuttu"
+    ],
+    "scientific_name": "Fagopyrum esculentum Moench (Buckwheat)",
+    "family": "Polygonaceae",
+    "ayurveda_names": [
+      "Kuttu"
+    ],
+    "description": "Unique History: A crop from the high Himalayas, adopted as a sacred fasting grain (Phalahar). Known for its intensely dark flour and profound heating effect. Physical Characteristics: A fast-growing, erect, annual herb with heart-shaped leaves and clusters of tiny white or pink flowers. The fruit is a distinctive triangular achene (nut-like seed) with a dark brown/black hull. Found specifically in cold mountainous regions. Specific Chemical Compounds: Contains Rutin, D-chiro-inositol, Quercetin, and Fagopyrin. Fagopyrin can cause photosensitivity in extreme doses. Strict Standardizations: Standardized based on its distinctive triangular seeds and greyish-black flour. Physicochemical benchmarks: high rutin content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent), Madhura (sweet)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Medahara (fat-relieving), Kledahara (moisture-reducing), Mutravirechaniya (diuretic), Ushna (heating), and Raktadoshakara (can vitiate blood if overused)."
+  },
+  "preparation_methods": {
+    "kuttu_atta__flour_": {
+      "method": "Used strictly as a base for fried flatbreads (Puris) or pancakes during winter religious fasts (Navratri). Usually mixed with potatoes/ghee to counteract its extreme dryness."
+    },
+    "groats__kasha_": {
+      "method": "Toasted whole seeds cooked like rice or porridge for extreme cold weather."
+    },
+    "tea__soba_": {
+      "method": "Roasted seeds infused as a circulation-boosting winter tea."
+    },
+    "external_paste__lepa_": {
+      "method": "Applied sparingly to cold, stiff joints."
+    }
+  },
+  "dosage": {
+    "children": "Limited use. Only in cold weather as small pancakes.",
+    "adults": "Intermittent/seasonal fasting food (not a daily staple). 50-100g of flour per meal.",
+    "elderly": "Use with caution in high Pitta; beneficial for cold extremities and circulation."
+  },
+  "medicinal_uses": [
     "Expert Warming and Kapha-Drying Specialist: Kuttu is the premier winter pseudo-cereal. Its intense 'Ushna' (heating) nature helps to melt stubborn Kapha, clear cold respiratory blocks, and provide deep internal warmth in snowy mountainous regions.",
     "Cardiovascular Support and Circulation (Rutin Source): Known scientifically for its massive Rutin (flavonoids) content, Kuttu strengthens capillary walls, prevents internal bleeding (in a paradoxical way despite being hot), and manages varicose veins and high blood pressure.",
     "Extreme Fat-Scraping Specialist (Meda-hara): Its 'Ruksha' (dry) and highly astringent nature provided by specific fiber profiles helps in absorbing systemic 'Meda' (fat) and resolving profound water retention (Shotha).",
     "Gluten-Free Diabetic Support: Highly beneficial for regulating blood glucose levels by slowing down carbohydrate absorption, acting as an excellent alternative for wheat-allergic and diabetic individuals.",
     "Phytochemical Profile: Rich in Proteins (13-15%), Dietary Fiber, massive amounts of Flavonoids (Rutin, Quercetin), D-chiro-inositol, and Essential Minerals (Magnesium, Copper, Manganese). Rutin is the primary bioactive for its vascular protective effects."
   ],
-  "plantProfile": [
-    "Unique History: A crop from the high Himalayas, adopted as a sacred fasting grain (Phalahar). Known for its intensely dark flour and profound heating effect.",
-    "Physical Characteristics: A fast-growing, erect, annual herb with heart-shaped leaves and clusters of tiny white or pink flowers. The fruit is a distinctive triangular achene (nut-like seed) with a dark brown/black hull. Found specifically in cold mountainous regions.",
-    "Specific Chemical Compounds: Contains Rutin, D-chiro-inositol, Quercetin, and Fagopyrin. Fagopyrin can cause photosensitivity in extreme doses.",
-    "Strict Standardizations: Standardized based on its distinctive triangular seeds and greyish-black flour. Physicochemical benchmarks: high rutin content."
-  ],
-  "preparationMethods": [
-    "Kuttu-Atta (Flour): Used strictly as a base for fried flatbreads (Puris) or pancakes during winter religious fasts (Navratri). Usually mixed with potatoes/ghee to counteract its extreme dryness.",
-    "Groats (Kasha): Toasted whole seeds cooked like rice or porridge for extreme cold weather.",
-    "Tea (Soba): Roasted seeds infused as a circulation-boosting winter tea.",
-    "External Paste (Lepa): Applied sparingly to cold, stiff joints."
-  ],
-  "dosages": {
-    "Children": "Limited use. Only in cold weather as small pancakes.",
-    "Adults": "Intermittent/seasonal fasting food (not a daily staple). 50-100g of flour per meal.",
-    "Elderly": "Use with caution in high Pitta; beneficial for cold extremities and circulation."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe seasonal staple food.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "STRICTLY contraindictated in high Pitta (burning, ulcers, hyperacidity, summer season). Do not consume daily year-round as it vitiates blood (Rakta) and causes skin eruptions (Kushtha/Visarpa) due to extreme heat."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Extreme heating, skin rashes (photosensitivity from Fagopyrin), and severe constipation if not cooked with abundant ghee or fluids."
+    ],
+    "drug_interactions": [
+      "None documented. D-chiro-inositol may assist Metformin."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: STRICTLY contraindictated in high Pitta (burning, ulcers, hyperacidity, summer season). Do not consume daily year-round as it vitiates blood (Rakta) and causes skin eruptions (Kushtha/Visarpa) due to extreme heat.",
-    "GRAS Status: Classified as a safe seasonal staple food.",
-    "Herb-Drug Interactions: None documented. D-chiro-inositol may assist Metformin.",
-    "Adverse Effects: Extreme heating, skin rashes (photosensitivity from Fagopyrin), and severe constipation if not cooked with abundant ghee or fluids."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

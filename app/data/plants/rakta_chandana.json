@@ -1,29 +1,52 @@
 {
-  "id": "rakta_chandana",
-  "name": "Rakta Chandana (Red Sandalwood)",
-  "scientificName": "Pterocarpus santalinus L.f.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Pitta and Kapha.",
-    "Rasa: Tikta (Bitter), Madhura (Sweet).",
-    "Virya: Sheeta (Cooling)."
-  ],
-  "usageForm": "Wood powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Rakta Chandana (Red Sandalwood)"
+    ],
+    "scientific_name": "Pterocarpus santalinus L.f.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Rakta Chandana (Red Sandalwood)"
+    ],
+    "description": "Dark red wood found primarily in Andhra Pradesh."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (Bitter), Madhura (Sweet)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Pitta and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Paste application over face or affected skin."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Superior for skin radiance and pigmentation removal.",
     "Effective as an anti-pyretic for children's fevers.",
     "Heals wounds and localized swellings."
   ],
-  "plantProfile": [
-    "Dark red wood found primarily in Andhra Pradesh."
-  ],
-  "preparationMethods": [
-    "Paste application over face or affected skin."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

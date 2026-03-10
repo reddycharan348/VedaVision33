@@ -1,27 +1,50 @@
 {
-  "id": "vridaru",
-  "name": "Vridaru",
-  "scientificName": "Argyreia speciosa (Honed)",
-  "botanicalFamily": "Convolvulaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Kapha Hara."
-  ],
-  "usageForm": "Leaf/Root powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vridaru"
+    ],
+    "scientific_name": "Argyreia speciosa (Honed)",
+    "family": "Convolvulaceae",
+    "ayurveda_names": [
+      "Vridaru"
+    ],
+    "description": "Elephant Creeper."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Kapha Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Leaf paste."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Wound care",
     "Syphilis",
     "Edema."
   ],
-  "plantProfile": [
-    "Elephant Creeper."
-  ],
-  "preparationMethods": [
-    "Leaf paste."
-  ],
-  "dosages": {
-    "Adults": "3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

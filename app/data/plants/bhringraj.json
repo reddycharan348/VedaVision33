@@ -1,19 +1,46 @@
 {
-  "name": "Bhringraj",
-  "scientificName": "Eclipta alba (L.) L.",
-  "botanicalFamily": "Asteraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Primarily pacifies Kapha and Vata doshas. Due to its Tikta (bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Kesharaja' (King of hair) and 'Yakṛt' (liver) therapies, clearing the sticky and heavy qualities of Kapha. It may slightly increase Pitta if used in excess.",
-    "Rasa (Taste): Katu (pungent), Tikta (bitter).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Keshya (hair-toning), Yakrit-balya (liver-strengthening), Rasayana (rejuvenative), Chakshushya (eye-tonic), Deepana (appetizer), Pachana (digestive), and Shothahara (anti-inflammatory).",
-    "API/AFI Adherence: The whole plant is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is the primary ingredient in iconic classical formulations like Bhringamalakadi Taila, Mahabhringraj Taila, and Bhringrajasava.",
-    "Specific Indications: Used in Khalitya (hair loss), Palitya (premature greying), Kamala (jaundice), Yakrit-pleeha roga (liver-spleen disorders), and Shotha (generalized edema)."
-  ],
-  "usageForm": "Whole plant juice (Swarasa), Whole plant powder (Churna), Medicated oil (Taila), Fermented preparation (Asava).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Bhringraj"
+    ],
+    "scientific_name": "Eclipta alba (L.) L.",
+    "family": "Asteraceae",
+    "ayurveda_names": [
+      "Bhringraj"
+    ],
+    "description": "Unique History: Classified under the 'Vayah-sthapana' (age-stabilizing) and 'Keshya' (hair-promoting) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Bhringraj' literally translates to 'King of Bees,' symbolizing its role as a vital life-force enhancer in the plant kingdom. Physical Characteristics: A small, annual, creeping herb growing up to 30-40 cm in height, usually found in moist, marshy areas. It features narrow, lanceolate leaves and solitary, small, white flower heads that bloom throughout the year. The stems are reddish-purple and slightly hairy. It is a common weed throughout India and tropical South Asia. Specific Chemical Compounds: Primarily contains Wedelolactone (a signature coumarin), Ecliptine, dimethyl wedelolactone, and diversos thiophenes. The presence of wedelolactone makes it a globally recognized natural ingredient for liver and skin pharmaceuticals. Strict Standardizations: The whole plant is standardized in API based on macroscopic features (hairy stem, white flowers). Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor wedelolactone content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent), Tikta (bitter)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Primarily pacifies Kapha and Vata doshas. Due to its Tikta (bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Kesharaja' (King of hair) and 'Yakṛt' (liver) therapies, clearing the sticky and heavy qualities of Kapha. It may slightly increase Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "medicated_hair_oil": {
+      "method": "100ml of fresh juice is cooked in 400ml sesame oil with Amla and other herbs until only the oil remains. This is the gold standard for hair health."
+    },
+    "fresh_juice__swarasa_": {
+      "method": "5-10ml of fresh juice taken twice daily with honey for jaundice and digestive health."
+    },
+    "root_whole_plant_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with milk or water for liver health and general vitality."
+    },
+    "fermented_extract__asava_": {
+      "method": "15-20ml of Bhringrajasava taken after meals to improve digestion and reverse hair greying."
+    },
+    "eye_paste__anjana_": {
+      "method": "Specially purified juice extracted and processed into a fine paste for external eye application under expert guidance."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 ml of fresh juice mixed with honey twice daily for liver protection during infections.",
+    "adults": "Powder: 3-6 grams; Swarasa (Juice): 10-20 ml; Asava: 15-30 ml, divided throughout the day after meals.",
+    "elderly": "Excellent for geriatric care to support liver function and maintain optical health. Dosage: 3g of powder daily with milk."
+  },
+  "medicinal_uses": [
     "Expert Hair Care: Known as the 'King of Hair.' It is the premier remedy for preventing hair fall, promoting thick growth, and reversing premature greying. It works by stimulating the blood flow to the scalp and nourishing the hair follicles at a cellular level. WHO-aligned research supports its role in hair follicle regeneration.",
     "Liver and Spleen Detox: Acts as a powerful hepatoprotective agent. It is extensively used to treat jaundice, fatty liver, and liver cirrhosis by promoting healthy bile secretion and clearing congestion in the 'Yakṛt' (liver) system.",
     "Vision and Eye Support: Enhances optical health and reduces redness or burning sensations in the eyes. It is traditionally used in 'Anjana' (medicated collyrium) forms and as a systemic 'Chakshushya' (vision-promoting) internal supplement.",
@@ -22,28 +49,26 @@
     "Digestive Stimulant: Acts as an effective 'Deepana' (appetizer), helping to ignite the 'Agni' (digestive fire) and clear 'Ama' (toxins) from the gut, reducing bloating and improving metabolic efficiency.",
     "Phytochemical Profile: Rich in wedelolactone (a potent hepatoprotective compound), ecliptine, coumestans, wedelic acid, and various alkaloids that provide its multifaceted medicinal benefits."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Vayah-sthapana' (age-stabilizing) and 'Keshya' (hair-promoting) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Bhringraj' literally translates to 'King of Bees,' symbolizing its role as a vital life-force enhancer in the plant kingdom.",
-    "Physical Characteristics: A small, annual, creeping herb growing up to 30-40 cm in height, usually found in moist, marshy areas. It features narrow, lanceolate leaves and solitary, small, white flower heads that bloom throughout the year. The stems are reddish-purple and slightly hairy. It is a common weed throughout India and tropical South Asia.",
-    "Specific Chemical Compounds: Primarily contains Wedelolactone (a signature coumarin), Ecliptine, dimethyl wedelolactone, and diversos thiophenes. The presence of wedelolactone makes it a globally recognized natural ingredient for liver and skin pharmaceuticals.",
-    "Strict Standardizations: The whole plant is standardized in API based on macroscopic features (hairy stem, white flowers). Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor wedelolactone content."
-  ],
-  "preparationMethods": [
-    "Medicated Hair Oil: 100ml of fresh juice is cooked in 400ml sesame oil with Amla and other herbs until only the oil remains. This is the gold standard for hair health.",
-    "Fresh Juice (Swarasa): 5-10ml of fresh juice taken twice daily with honey for jaundice and digestive health.",
-    "Root/Whole Plant Powder (Churna): 3-6g of fine powder taken twice daily with milk or water for liver health and general vitality.",
-    "Fermented Extract (Asava): 15-20ml of Bhringrajasava taken after meals to improve digestion and reverse hair greying.",
-    "Eye Paste (Anjana): Specially purified juice extracted and processed into a fine paste for external eye application under expert guidance."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 ml of fresh juice mixed with honey twice daily for liver protection during infections.",
-    "Adults": "Powder: 3-6 grams; Swarasa (Juice): 10-20 ml; Asava: 15-30 ml, divided throughout the day after meals.",
-    "Elderly": "Excellent for geriatric care to support liver function and maintain optical health. Dosage: 3g of powder daily with milk."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a long history of use. It is occasionally used as a traditional green vegetable in some rural Indian cuisines.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with severe Pitta (hyperacidity) should use it in moderation due to its Ushna (heating) nature. Avoid during active high-fever episodes unless specifically prescribed."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin warmth or loose stools."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic liver medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with severe Pitta (hyperacidity) should use it in moderation due to its Ushna (heating) nature. Avoid during active high-fever episodes unless specifically prescribed.",
-    "GRAS Status: Classified as a safe medicinal herb with a long history of use. It is occasionally used as a traditional green vegetable in some rural Indian cuisines.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic liver medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin warmth or loose stools."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

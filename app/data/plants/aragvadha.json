@@ -1,30 +1,52 @@
 {
-  "id": "aragvadha",
-  "name": "Aragvadha",
-  "scientificName": "Cassia fistula L.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies all three doshas.",
-    "Rasa: Madhura (Sweet).",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Mridu Rechana (Mild laxative)."
-  ],
-  "usageForm": "Fruit pulp.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Aragvadha"
+    ],
+    "scientific_name": "Cassia fistula L.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Aragvadha"
+    ],
+    "description": "Known as the 'Golden Shower' tree for its beautiful yellow flowers."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (Sweet)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies all three doshas."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Fruit pulp soaked in water and strained."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "5-10g of pulp",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Safest laxative for children and pregnant women.",
     "Treats skin conditions and purifies blood.",
     "Reduces inflammation and fevers."
   ],
-  "plantProfile": [
-    "Known as the 'Golden Shower' tree for its beautiful yellow flowers."
-  ],
-  "preparationMethods": [
-    "Fruit pulp soaked in water and strained."
-  ],
-  "dosages": {
-    "Adults": "5-10g of pulp"
+  "safety_profile": {
+    "warning": "Safe and gentle.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe and gentle."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

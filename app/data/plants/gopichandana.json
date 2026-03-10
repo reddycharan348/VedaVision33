@@ -1,27 +1,50 @@
 {
-  "id": "gopichandana",
-  "name": "Gopichandana (White Clay)",
-  "scientificName": "Aluminous earth/Clay",
-  "botanicalFamily": "Mineral origin",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Pitta."
-  ],
-  "usageForm": "Paste, Fine powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Gopichandana (White Clay)"
+    ],
+    "scientific_name": "Aluminous earth/Clay",
+    "family": "Mineral origin",
+    "ayurveda_names": [
+      "Gopichandana (White Clay)"
+    ],
+    "description": "Medicinal clay found in Dwarka and Rajasthan."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "External paste with rose water."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "External application only.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Classic treatment for excessive body heat.",
     "Used for acne and skin boils as a mask.",
     "Treats localized inflammation."
   ],
-  "plantProfile": [
-    "Medicinal clay found in Dwarka and Rajasthan."
-  ],
-  "preparationMethods": [
-    "External paste with rose water."
-  ],
-  "dosages": {
-    "Adults": "External application only."
+  "safety_profile": {
+    "warning": "Safe externally.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe externally."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

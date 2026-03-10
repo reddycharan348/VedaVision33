@@ -1,28 +1,50 @@
 {
-  "id": "vacha",
-  "name": "Vacha",
-  "scientificName": "Acorus calamus L.",
-  "botanicalFamily": "Acoraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Karma: Medhya (Brain tonic), Vamana (Emetic)."
-  ],
-  "usageForm": "Rhizome powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vacha"
+    ],
+    "scientific_name": "Acorus calamus L.",
+    "family": "Acoraceae",
+    "ayurveda_names": [
+      "Vacha"
+    ],
+    "description": "Commonly known as Sweet Flag; known for speech enhancement."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Small pinch of powder with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "125-250mg - VERY SMALL DOSES.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Improves speech and vocal clarity.",
     "Treats amnesia and mental cloudiness.",
     "Used for gastrointestinal pain."
   ],
-  "plantProfile": [
-    "Commonly known as Sweet Flag; known for speech enhancement."
-  ],
-  "preparationMethods": [
-    "Small pinch of powder with honey."
-  ],
-  "dosages": {
-    "Adults": "125-250mg - VERY SMALL DOSES."
+  "safety_profile": {
+    "warning": "High doses can cause nausea and vomiting.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "High doses can cause nausea and vomiting."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

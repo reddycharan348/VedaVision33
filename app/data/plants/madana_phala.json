@@ -1,27 +1,50 @@
 {
-  "id": "madana_phala",
-  "name": "Madana Phala",
-  "scientificName": "Catunaregam spinosa (Thunb.) Tirveng.",
-  "botanicalFamily": "Rubiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata."
-  ],
-  "usageForm": "Fruit powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Madana Phala"
+    ],
+    "scientific_name": "Catunaregam spinosa (Thunb.) Tirveng.",
+    "family": "Rubiaceae",
+    "ayurveda_names": [
+      "Madana Phala"
+    ],
+    "description": "The best emetic agent in Ayurveda."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Milk or water paste for Vamana."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-6g for emesis.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Primary drug for Vamana (therapeutic vomiting) therapy.",
     "Used in chronic asthma and respiratory congestion.",
     "Treats skin diseases and tumors."
   ],
-  "plantProfile": [
-    "The best emetic agent in Ayurveda."
-  ],
-  "preparationMethods": [
-    "Milk or water paste for Vamana."
-  ],
-  "dosages": {
-    "Adults": "3-6g for emesis."
+  "safety_profile": {
+    "warning": "Only use under strictly clinical Ayurvedic supervision.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Only use under strictly clinical Ayurvedic supervision."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

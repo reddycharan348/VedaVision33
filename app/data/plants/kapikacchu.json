@@ -1,19 +1,46 @@
 {
-  "name": "Kapikacchu",
-  "scientificName": "Mucuna pruriens (L.) DC.",
-  "botanicalFamily": "Fabaceae (formerly Leguminosae)",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Balya' (strength-promoting), 'Vajikarana' (aphrodisiac), and 'Vatavyadhi' (neurological disorders) therapies, clearing the fiery qualities of Pitta and nourishing the dry Vata. It may increase Kapha if used in excess.",
-    "Rasa (Taste): Madhura (sweet), Tikta (bitter).",
-    "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Vajikarana (aphrodisiac), Balya (strength-promoting), Vatenasthapana (neurological-stabilizer), Jivaniya (life-promoting), Rasayana (rejuvenative), and Brimhaniya (nourishing).",
-    "API/AFI Adherence: The dried seed and root are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in iconic classical formulations like Kapikacchu-paka, Vanari-gutika, and various vitality-boosting jams.",
-    "Specific Indications: Used in Klaibya (impotence), Kampa-vata (Parkinson's disease), Shosha (wasting), Gridhrasi (sciatica), and Anidra (insomnia)."
-  ],
-  "usageForm": "Seed powder (Churna), Medicated jam (Paka/Lehya), Seed decoction (Kwatha), Medicated ghee (Ghrita).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Kapikacchu"
+    ],
+    "scientific_name": "Mucuna pruriens (L.) DC.",
+    "family": "Fabaceae (formerly Leguminosae)",
+    "ayurveda_names": [
+      "Kapikacchu"
+    ],
+    "description": "Unique History: Classified under the 'Vajikarana' (aphrodisiac) and 'Balya' (strength-promoting) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kapikacchu' literally translates to 'one that causes itching like a monkey' (referring to the stinging hairs on the fruit pod). It is spiritually associated with 'Sattva' (purity and clarity). Physical Characteristics: An annual climbing shrub growing up to 10-15 meters in height, with trifoliate, broad, hairy leaves. The flowers are attractive, drooping bunches of purple or white corolla. The fruit is a curved, leathery pod covered with stiff, reddish-brown stinging hairs. The seeds are oval, glossy black or brownish-mottled. It is found in deciduous forests and wastelands throughout India and tropical South Asia. Specific Chemical Compounds: Primarily contains L-Dopa (3% to 7% in seeds), Squalene, and Triterpenoids. The presence of L-Dopa is crucial for its dopamine-increasing, anti-parkinsonian, and anti-convulsant effects on the nervous system. Strict Standardizations: The seed is standardized in API based on its glossy-mottled color and characteristic sweet-bland taste. Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>3%), and water-soluble extractive (>15%). HPLC is used to monitor 3% to 6% L-Dopa content in commercial extracts. Safety Note: The stinging hairs on the pods are extreme irritants and must be handled with care; only the seeds and roots are used medicinally."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Tikta (bitter)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Balya' (strength-promoting), 'Vajikarana' (aphrodisiac), and 'Vatavyadhi' (neurological disorders) therapies, clearing the fiery qualities of Pitta and nourishing the dry Vata. It may increase Kapha if used in excess."
+  },
+  "preparation_methods": {
+    "seed_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm milk or honey (for libido) or warm water (for general vitality)."
+    },
+    "kapikacchu_paka": {
+      "method": "Medicated jam-like preparation taken (10-20g) twice daily for systemic rejuvenation and reproductive health."
+    },
+    "decoction__kwatha_": {
+      "method": "20g of dried seeds boiled in 160ml water reduced to 40ml for chronic Parkinson's and nerve pain issues. Take twice daily before meals."
+    },
+    "medicated_milk__ksheerapaka_": {
+      "method": "5g of powder boiled in 200ml milk; taken to support nerve health and manage physical weakness."
+    },
+    "kapikacchu_ghrita": {
+      "method": "5-10g of ghee processed with Kapikacchu; taken to treat chronic mental stress and physical debility through its 'Rasayana' quality."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for enhancing concentration and physical growth in students.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Paka/Lehya: 10-20 g; Ghee: 5-10 g, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related cognitive support and preventing physical decline (Parkinson's). Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "World-Class Neurological and Parkinson's Specialist: Kapikacchu is the premier Ayurvedic remedy for all conditions of 'Kampa-vata' (trembling/Parkinson's). Its unique content of natural L-Dopa (levodopa) helps in restoring the dopamine levels in the brain and providing systemic stabilization (Vedanasthapana). WHO-aligned research supports its role in neuro-protection and anti-Parkinson's effects.",
     "Vitality and Reproductive Health: Historically known as 'Vajikarana' (aphrodisiac). It effectively improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic nourishing (Brimhana) action.",
     "Muscle Strength and Athletics: Widely used for its ability to improve muscle tone, physical stamina, and recovery from chronic fatigue. It is traditionally used to promote healthy growth and physical recovery from tissue wasting (Shosha) and debility.",
@@ -22,29 +49,26 @@
     "Anti-Aging and Rejuvenation: Acts as a powerful 'Rasayana' (rejuvenative). It helps in delaying age-related physical and mental decline and protecting the cells from oxidative stress through its potent antioxidant and immunity-enhancing profile.",
     "Phytochemical Profile: Rich in L-Dopa (Levodopa), Serotonin, Nicotine, Triterpenes, and various alkaloids. L-Dopa is the primary bioactive responsible for its potent anti-Parkinsonian and libido-enhancing effects."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Vajikarana' (aphrodisiac) and 'Balya' (strength-promoting) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kapikacchu' literally translates to 'one that causes itching like a monkey' (referring to the stinging hairs on the fruit pod). It is spiritually associated with 'Sattva' (purity and clarity).",
-    "Physical Characteristics: An annual climbing shrub growing up to 10-15 meters in height, with trifoliate, broad, hairy leaves. The flowers are attractive, drooping bunches of purple or white corolla. The fruit is a curved, leathery pod covered with stiff, reddish-brown stinging hairs. The seeds are oval, glossy black or brownish-mottled. It is found in deciduous forests and wastelands throughout India and tropical South Asia.",
-    "Specific Chemical Compounds: Primarily contains L-Dopa (3% to 7% in seeds), Squalene, and Triterpenoids. The presence of L-Dopa is crucial for its dopamine-increasing, anti-parkinsonian, and anti-convulsant effects on the nervous system.",
-    "Strict Standardizations: The seed is standardized in API based on its glossy-mottled color and characteristic sweet-bland taste. Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>3%), and water-soluble extractive (>15%). HPLC is used to monitor 3% to 6% L-Dopa content in commercial extracts.",
-    "Safety Note: The stinging hairs on the pods are extreme irritants and must be handled with care; only the seeds and roots are used medicinally."
-  ],
-  "preparationMethods": [
-    "Seed Powder (Churna): 3-6g of fine powder taken twice daily with warm milk or honey (for libido) or warm water (for general vitality).",
-    "Kapikacchu-Paka: Medicated jam-like preparation taken (10-20g) twice daily for systemic rejuvenation and reproductive health.",
-    "Decoction (Kwatha): 20g of dried seeds boiled in 160ml water reduced to 40ml for chronic Parkinson's and nerve pain issues. Take twice daily before meals.",
-    "Medicated Milk (Ksheerapaka): 5g of powder boiled in 200ml milk; taken to support nerve health and manage physical weakness.",
-    "Kapikacchu-Ghrita: 5-10g of ghee processed with Kapikacchu; taken to treat chronic mental stress and physical debility through its 'Rasayana' quality."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for enhancing concentration and physical growth in students.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Paka/Lehya: 10-20 g; Ghee: 5-10 g, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related cognitive support and preventing physical decline (Parkinson's). Dosage: 3g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and edible seed with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and Himachali medicine) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Guru (heavy) and Snigdha (oily). Avoid during pregnancy or lactation in very large therapeutic doses except under professional guidance."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-Parkinson's meds (L-Dopa) or MAO inhibitors as it may cause additive effects. No severe adverse interactions reported in clinical literature with purified doses."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Guru (heavy) and Snigdha (oily). Avoid during pregnancy or lactation in very large therapeutic doses except under professional guidance.",
-    "GRAS Status: Classified as a safe medicinal herb and edible seed with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and Himachali medicine) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-Parkinson's meds (L-Dopa) or MAO inhibitors as it may cause additive effects. No severe adverse interactions reported in clinical literature with purified doses.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,30 +1,52 @@
 {
-  "id": "sariva",
-  "name": "Sariva",
-  "scientificName": "Hemidesmus indicus (L.) R. Br.",
-  "botanicalFamily": "Apocynaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Balanced effect (Tridosha-hara).",
-    "Rasa: Madhura (Sweet), Tikta (Bitter).",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Raktashodhaka (Blood purifier), Dahahara (Relieves heat)."
-  ],
-  "usageForm": "Root powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Sariva"
+    ],
+    "scientific_name": "Hemidesmus indicus (L.) R. Br.",
+    "family": "Apocynaceae",
+    "ayurveda_names": [
+      "Sariva"
+    ],
+    "description": "Indian Sarsaparilla, known for its pleasant vanillin aroma."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (Sweet), Tikta (Bitter)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Balanced effect (Tridosha-hara)."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Roots processed into syrup or decoction."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-6g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Used for severe skin rashes and psoriasis.",
     "Excellent cooling blood purifier.",
     "Promotes healthy hair and lactation."
   ],
-  "plantProfile": [
-    "Indian Sarsaparilla, known for its pleasant vanillin aroma."
-  ],
-  "preparationMethods": [
-    "Roots processed into syrup or decoction."
-  ],
-  "dosages": {
-    "Adults": "3-6g"
+  "safety_profile": {
+    "warning": "Highly safe and palatable.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Highly safe and palatable."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

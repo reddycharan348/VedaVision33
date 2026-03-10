@@ -1,28 +1,50 @@
 {
-  "id": "shallaki",
-  "name": "Shallaki (Boswellia)",
-  "scientificName": "Boswellia serrata Roxb.",
-  "botanicalFamily": "Burseraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
-    "Karma: Sandhigata-vatahara (Joint pain relief)."
-  ],
-  "usageForm": "Resin extract.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shallaki (Boswellia)"
+    ],
+    "scientific_name": "Boswellia serrata Roxb.",
+    "family": "Burseraceae",
+    "ayurveda_names": [
+      "Shallaki (Boswellia)"
+    ],
+    "description": "Source of Indian Frankincense resin."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Standardized capsules of Boswellic acids."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "300-500mg extract",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Invaluable for osteoarthritis and chronic inflammatory diseases.",
     "Reduces joint swelling and improves range of motion.",
     "Used for inflammatory bowel diseases like Colitis."
   ],
-  "plantProfile": [
-    "Source of Indian Frankincense resin."
-  ],
-  "preparationMethods": [
-    "Standardized capsules of Boswellic acids."
-  ],
-  "dosages": {
-    "Adults": "300-500mg extract"
+  "safety_profile": {
+    "warning": "Generally safe; may cause mild stomach upset in some.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Generally safe; may cause mild stomach upset in some."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

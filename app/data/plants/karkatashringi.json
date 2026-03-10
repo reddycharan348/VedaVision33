@@ -1,27 +1,50 @@
 {
-  "id": "karkatashringi",
-  "name": "Karkatashringi",
-  "scientificName": "Pistacia chinensis (Honed)",
-  "botanicalFamily": "Anacardiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Kapha-Vata Hara."
-  ],
-  "usageForm": "Powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Karkatashringi"
+    ],
+    "scientific_name": "Pistacia chinensis (Honed)",
+    "family": "Anacardiaceae",
+    "ayurveda_names": [
+      "Karkatashringi"
+    ],
+    "description": "Galls found on tree."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Kapha-Vata Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Mixed with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Chest congestion",
     "Hiccups",
     "Cough in children."
   ],
-  "plantProfile": [
-    "Galls found on tree."
-  ],
-  "preparationMethods": [
-    "Mixed with honey."
-  ],
-  "dosages": {
-    "Adults": "1g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

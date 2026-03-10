@@ -1,29 +1,50 @@
 {
-  "id": "arka",
-  "name": "Arka",
-  "scientificName": "Calotropis procera (Aiton) Dryand.",
-  "botanicalFamily": "Apocynaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Virya: Ushna (Hot).",
-    "Karma: Kushtha-ghna (Skin-clearing)."
-  ],
-  "usageForm": "Leaf/Root latex and flowers.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Arka"
+    ],
+    "scientific_name": "Calotropis procera (Aiton) Dryand.",
+    "family": "Apocynaceae",
+    "ayurveda_names": [
+      "Arka"
+    ],
+    "description": "Known as the 'Giant Milkweed', holy to Lord Shiva."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "Ushna (Hot).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "External application of latex or internal use of flowers."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "Flowers: 125mg-250mg only.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Latex used for localized skin tumors and warts.",
     "Leaves used to treat orthopedic pain.",
     "Flowers used for chronic cough and asthma."
   ],
-  "plantProfile": [
-    "Known as the 'Giant Milkweed', holy to Lord Shiva."
-  ],
-  "preparationMethods": [
-    "External application of latex or internal use of flowers."
-  ],
-  "dosages": {
-    "Adults": "Flowers: 125mg-250mg only."
+  "safety_profile": {
+    "warning": "LATEX IS TOXIC TO EYES. Internal use must be very small and expert-led.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "LATEX IS TOXIC TO EYES. Internal use must be very small and expert-led."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,27 +1,50 @@
 {
-  "id": "bijaka",
-  "name": "Bijaka",
-  "scientificName": "Pterocarpus marsupium (Honed)",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Kapha-Pitta Hara."
-  ],
-  "usageForm": "Wood powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Bijaka"
+    ],
+    "scientific_name": "Pterocarpus marsupium (Honed)",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Bijaka"
+    ],
+    "description": "Heartwood is medicinal."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Kapha-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Cold infusion."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Diabetes management",
     "Skin diseases",
     "Lipid regulation."
   ],
-  "plantProfile": [
-    "Heartwood is medicinal."
-  ],
-  "preparationMethods": [
-    "Cold infusion."
-  ],
-  "dosages": {
-    "Adults": "3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

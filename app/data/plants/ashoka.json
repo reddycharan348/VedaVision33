@@ -1,43 +1,61 @@
 {
-  "id": "ashoka",
-  "name": "Ashoka",
-  "scientificName": "Saraca asoca (Roxb.) de Wilde",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Pitta and Kapha. Its extreme Kashaya (astringent) Rasa and Sheeta (cooling) Virya act as a biological sponge, absorbing excess Pitta-driven bleeding and Kapha-driven cysts.",
-    "Rasa (Taste): Kashaya (Astringent), Tikta (Bitter).",
-    "Guna (Qualities): Laghu (Light), Ruksha (Dry).",
-    "Virya (Potency): Sheeta (Cooling).",
-    "Vipaka (Post-digestive taste): Katu (Pungent).",
-    "Karma (Actions): Garbhashaya Doshahara (Uterine tonic), Raktastambhaka (Hemostatic), Shothaghna (Anti-inflammatory), Vedanasthapana (Analgesic for uterine cramps).",
-    "API/AFI Adherence: The dried stem bark is the API official part. It forms the foundation of Ashokarishta and Ashoka Ghrita.",
-    "Specific Indications: Asrigdara (Menorrhagia/heavy bleeding), Shwetapradara (Leucorrhea), Kashtartava (Dysmenorrhea/painful periods), Garbhashaya Arbuda (Uterine Fibroids)."
-  ],
-  "usageForm": "Stem bark decoction (Kwatha), Fermented preparation (Ashokarishta), Medicated Ghee.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Ashoka"
+    ],
+    "scientific_name": "Saraca asoca (Roxb.) de Wilde",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Ashoka"
+    ],
+    "description": "Unique History: Worshiped as a profoundly sacred tree across Hinduism and Buddhism (where Queen Maya gave birth to Gautama Buddha under an Ashoka tree). It is the unquestioned pillar of Ayurvedic gynecology. Physical Characteristics: A majestic, small evergreen tree with beautiful, dense clusters of highly fragrant, orange-yellow turning to crimson flowers. Sadly, it is categorized as highly vulnerable/endangered in the wild. Specific Chemical Compounds: Rich in tannins, catechins, flavonoids (quercetin, kaempferol), and sterols. Tannins represent its extreme astringent properties. Strict Standardizations: The most heavily adulterated plant in India (often replaced by Polyalthia longifolia). API mandates strict microscopic bark identification and tannin quantification."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (Astringent), Tikta (Bitter)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "Katu (Pungent).",
+    "dosha_karma": "Garbhashaya Doshahara (Uterine tonic), Raktastambhaka (Hemostatic), Shothaghna (Anti-inflammatory), Vedanasthapana (Analgesic for uterine cramps)."
+  },
+  "preparation_methods": {
+    "ksheerapaka__milk_decoction_": {
+      "method": "Boiling Ashoka bark powder in milk and water until only milk remains. This is the absolute peak clinical method for treating heavy menstrual bleeding (Asrigdara)."
+    },
+    "ashokarishta": {
+      "method": "The classical fermented wine containing Ashoka, prescribed universally by Ayurvedic physicians for female reproductive stabilization."
+    }
+  },
+  "dosage": {
+    "children": "Generally not applicable unless specifically directed for early-onset gynecological imbalances.",
+    "adults": "Ksheerapaka Base: 5-10g bark powder. Ashokarishta: 15-30ml mixed with an equal volume of water post-meals.",
+    "elderly": "Effective for managing post-menopausal bleeding or pelvic prolapse inflammation."
+  },
+  "medicinal_uses": [
     "Supreme Uterine Tonic (Garbhashaya Doshahara): 'Ashoka' literally translates to 'remover of sorrow' for women. It stimulates the endometrium and ovarian tissues, regulating endogenous hormonal cascades to treat PCOD, heavy menstrual bleeding, and severe pelvic pain.",
     "Anti-Hemorrhagic (Raktastambhaka): The extreme astringency rapidly constricts severely bleeding capillary vessels in the uterus, treating Menorrhagia and dysbiosis-driven Leucorrhea.",
     "Fibroid Management: Used heavily in clinical Ayurveda to shrink uterine and ovarian cysts (Arbuda/Granthi) by physically scraping away stagnant Kapha and blocking inflammatory Pitta markers."
   ],
-  "plantProfile": [
-    "Unique History: Worshiped as a profoundly sacred tree across Hinduism and Buddhism (where Queen Maya gave birth to Gautama Buddha under an Ashoka tree). It is the unquestioned pillar of Ayurvedic gynecology.",
-    "Physical Characteristics: A majestic, small evergreen tree with beautiful, dense clusters of highly fragrant, orange-yellow turning to crimson flowers. Sadly, it is categorized as highly vulnerable/endangered in the wild.",
-    "Specific Chemical Compounds: Rich in tannins, catechins, flavonoids (quercetin, kaempferol), and sterols. Tannins represent its extreme astringent properties.",
-    "Strict Standardizations: The most heavily adulterated plant in India (often replaced by Polyalthia longifolia). API mandates strict microscopic bark identification and tannin quantification."
-  ],
-  "preparationMethods": [
-    "Ksheerapaka (Milk Decoction): Boiling Ashoka bark powder in milk and water until only milk remains. This is the absolute peak clinical method for treating heavy menstrual bleeding (Asrigdara).",
-    "Ashokarishta: The classical fermented wine containing Ashoka, prescribed universally by Ayurvedic physicians for female reproductive stabilization."
-  ],
-  "dosages": {
-    "Children": "Generally not applicable unless specifically directed for early-onset gynecological imbalances.",
-    "Adults": "Ksheerapaka Base: 5-10g bark powder. Ashokarishta: 15-30ml mixed with an equal volume of water post-meals.",
-    "Elderly": "Effective for managing post-menopausal bleeding or pelvic prolapse inflammation."
+  "safety_profile": {
+    "warning": "GRAS Status: Recognized globally with a spotless, millennial-long safety record.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Amenorrhea (absence of periods)—due to its severely astringent, flow-stopping nature, it will worsen absentee periods."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Extreme overdosing may cause severe constipation due to its intense tannins."
+    ],
+    "drug_interactions": [
+      "None clinically significant."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Amenorrhea (absence of periods)—due to its severely astringent, flow-stopping nature, it will worsen absentee periods.",
-    "GRAS Status: Recognized globally with a spotless, millennial-long safety record.",
-    "Herb-Drug Interactions: None clinically significant.",
-    "Adverse Effects: Extreme overdosing may cause severe constipation due to its intense tannins."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

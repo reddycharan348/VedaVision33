@@ -1,19 +1,46 @@
 {
-  "name": "Chavya",
-  "scientificName": "Piper chaba Hunter",
-  "botanicalFamily": "Piperaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Pachana' (digestive) and 'Shulaghna' (pain-relieving) therapies, clearing the cold and heavy qualities of Kapha. It may increase Pitta if used in excess.",
-    "Rasa (Taste): Katu (pungent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Vata-hara (Vata-pacifying), Shulaghna (analgesic), Pleehahara (spleen-tonic), and Arshoghna (anti-piles).",
-    "API/AFI Adherence: The dried stem is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Chavyadi Churna, Panchakola Churna, and various digestive tonics.",
-    "Specific Indications: Used in Aruchi (tastelessness), Ajirna (indigestion), Shoola (abdominal colic), Pleeha-roga (spleen disorders), and Arsha (hemorrhoids)."
-  ],
-  "usageForm": "Stem powder (Churna), Stem decoction (Kwatha), Medicated ghee (Ghrita), Fermented preparation (Arishta).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Chavya"
+    ],
+    "scientific_name": "Piper chaba Hunter",
+    "family": "Piperaceae",
+    "ayurveda_names": [
+      "Chavya"
+    ],
+    "description": "Unique History: Classified under the 'Pippalyadi' and 'Chavyadi' groups in ancient Ayurvedic treatises like Charaka Samhita. It is one of the 'Panchakola' (five spices) that form the baseline of Ayurvedic clinical pharmacology for treating cold and wet diseases. Its mention dates back to 3000 years. Physical Characteristics: A climbing, glabrous shrub growing up to 3-5 meters in height, with thick, fleshy stems and ovate-oblong, dark-green leaves. It features cylindrical fruit spikes (catkins) that turn reddish-orange when ripe. It is found primarily in the tropical regions of India (Bengal, Orissa) and Southeast Asia. Specific Chemical Compounds: Primarily contains Alkaloids (Piperine, Chavicine, Piperlongumine) and Lignans. The presence of piperine is crucial for its bio-enhancing, anti-inflammatory, and digestive action on the gastrointestinal tract. Strict Standardizations: The stem is standardized in API based on macroscopic features (fleshy stem, pungent taste). Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor piperine content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Pachana' (digestive) and 'Shulaghna' (pain-relieving) therapies, clearing the cold and heavy qualities of Kapha. It may increase Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "stem_powder__churna_": {
+      "method": "1-3g of fine powder taken twice daily with honey (for piles) or warm water (for general digestion)."
+    },
+    "stem_decoction__kwatha_": {
+      "method": "5g of dried stem boiled in 100ml water reduced to 25ml for chronic spleen and liver congestion. Take twice daily before meals."
+    },
+    "panchakola_churna": {
+      "method": "Combined with Pippali, Sunthi, Pippalimoola, and Chitraka for systemic metabolism and respiratory health."
+    },
+    "medicated_ghee": {
+      "method": "The stem is processed with cow's ghee to treat chronic digestive issues through its 'Pachana' (digestive) quality."
+    },
+    "external_paste": {
+      "method": "Ground fresh stem or paste applied directly to localized inflammations and skin rashes to reduce cold-related pain and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
+    "adults": "Powder: 1-3 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related digestive support and maintaining metabolic health. Dosage: 1g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
     "Digestive Power Specialist: Chavya is the premier Ayurvedic remedy for all conditions of weak digestion and metabolic toxins (Ama). Its Tikshna (sharp) and Ushna (heating) nature helps in igniting the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. WHO-aligned research supports its prokinetic and digestive effects.",
     "Spleen and Liver Health: Known as 'Pleehahara' (remedy for spleen). It is traditionally used to manage spleen enlargement and liver congestion by promoting healthy blood and bile flow through its sharp-heating quality.",
     "Hemorrhoids Management: Acts as a powerful 'Arshoghna' (anti-piles) agent. It helps in reducing the size of hemorrhoidal masses and improving the vascular tone of the rectal area through its systemic Vata-pacifying effect.",
@@ -22,28 +49,26 @@
     "Metabolic Support and Obesity: Helps in reducing excessive body fat and cholesterol (Meda-rogahara) by stimulating the 'Agni' (digestive fire) and inhibiting the synthesis of fatty acids in the fat cells.",
     "Phytochemical Profile: Rich in Piperine, Chavicine, Piperlongumine, Quercetin, and various essential oils that provide its multifaceted medicinal benefits, particularly its potent anti-oxidant and anti-microbial properties."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Pippalyadi' and 'Chavyadi' groups in ancient Ayurvedic treatises like Charaka Samhita. It is one of the 'Panchakola' (five spices) that form the baseline of Ayurvedic clinical pharmacology for treating cold and wet diseases. Its mention dates back to 3000 years.",
-    "Physical Characteristics: A climbing, glabrous shrub growing up to 3-5 meters in height, with thick, fleshy stems and ovate-oblong, dark-green leaves. It features cylindrical fruit spikes (catkins) that turn reddish-orange when ripe. It is found primarily in the tropical regions of India (Bengal, Orissa) and Southeast Asia.",
-    "Specific Chemical Compounds: Primarily contains Alkaloids (Piperine, Chavicine, Piperlongumine) and Lignans. The presence of piperine is crucial for its bio-enhancing, anti-inflammatory, and digestive action on the gastrointestinal tract.",
-    "Strict Standardizations: The stem is standardized in API based on macroscopic features (fleshy stem, pungent taste). Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor piperine content."
-  ],
-  "preparationMethods": [
-    "Stem Powder (Churna): 1-3g of fine powder taken twice daily with honey (for piles) or warm water (for general digestion).",
-    "Stem Decoction (Kwatha): 5g of dried stem boiled in 100ml water reduced to 25ml for chronic spleen and liver congestion. Take twice daily before meals.",
-    "Panchakola Churna: Combined with Pippali, Sunthi, Pippalimoola, and Chitraka for systemic metabolism and respiratory health.",
-    "Medicated Ghee: The stem is processed with cow's ghee to treat chronic digestive issues through its 'Pachana' (digestive) quality.",
-    "External Paste: Ground fresh stem or paste applied directly to localized inflammations and skin rashes to reduce cold-related pain and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
-    "Adults": "Powder: 1-3 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related digestive support and maintaining metabolic health. Dosage: 1g of powder daily with warm water at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Avoid during active pregnancy and lactation as it is very sharp."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin warmth or stomach burning."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Avoid during active pregnancy and lactation as it is very sharp.",
-    "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin warmth or stomach burning."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,19 +1,46 @@
 {
-  "name": "Jivaka",
-  "scientificName": "Malaxis muscifera (Lindl.) Kuntze",
-  "botanicalFamily": "Orchidaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Vata and Pitta Hara (pacifies Vata and Pitta doshas). Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Jivaniya' (life-promoting) and 'Brimhaniya' (nourishing) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata. It may slightly increase Kapha if used in excess.",
-    "Rasa (Taste): Madhura (sweet).",
-    "Guna (Qualities): Snigdha (unctuous/oily), Guru (heavy).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Jivaniya (life-promoting), Brimhaniya (nourishing), Balya (strength-promoting), Rasayana (rejuvenative), Vrishya (aphrodisiac), and Snehopaga (unctuous-assisting).",
-    "API/AFI Adherence: The dried pseudo-bulb is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Ashtavarga-Churna, Chyawanprash, and various strength-promoting tonics.",
-    "Specific Indications: Used in Shosha (Wasting/Decline), Kshaya (Consumption/TB), Klaibya (Impotence), Raktapitta (Bleeding disorders), and Jwara (fever)."
-  ],
-  "usageForm": "Pseudo-bulb powder (Churna), Medicated ghee (Ghrita), Medicated oil (Taila), Jam (Lehya).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Jivaka"
+    ],
+    "scientific_name": "Malaxis muscifera (Lindl.) Kuntze",
+    "family": "Orchidaceae",
+    "ayurveda_names": [
+      "Jivaka"
+    ],
+    "description": "Unique History: A highly sacred and valued herb of the Himalayas, traditionally included in the group 'Ashtavarga' (eight herbs of vitality). Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Jivaniya' (life-promoting) and 'Brimhaniya' (nourishing) properties. It is spiritually associated with 'Sattva' (purity and clarity). It is an endangered species. Physical Characteristics: A small, terrestrial orchid growing in the sub-alpine and alpine regions of the Himalayas (altitude 2500m to 4000m). It features broad, heart-shaped (cordate) lower leaves and narrow, amplexicaul upper leaves. The flowers are small, yellowish-green or greenish-white, in terminal spikes. The pseudo-bulb is small, oval, and yellowish-grey with a characteristic sweet-earthy fragrance. Specific Chemical Compounds: Primarily contains Starch (Glucomannan), Flavonoids (Vitexin), and Steroids. The presence of glucomannan is crucial for its bio-enhancing, anti-microbial, and tissue-regenerative action on the immune system. Strict Standardizations: The pseudo-bulb is standardized in API based on its yellowish-grey color and characteristic sweet-earthy-musky fragrance. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>2%), and water-soluble extractive (>5%). Identification via HPTLC is used to monitor specific marker carbohydrates. Substitute Provision: Due to its endangered status, API and Ayurvedic authorities allow for the use of 'Vidari-kanda' (Pueraria tuberosa) as a specified substitute for Jivaka in various classical formulations under regulated conditions."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Powerful Vata and Pitta Hara (pacifies Vata and Pitta doshas). Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Jivaniya' (life-promoting) and 'Brimhaniya' (nourishing) therapies, clearing the fiery and agitated qualities of Pitta and nourishing the dry Vata. It may slightly increase Kapha if used in excess."
+  },
+  "preparation_methods": {
+    "pseudo_bulb_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with honey or warm milk (as an Anupana) for enhancing memory and vitality."
+    },
+    "ashtavarga_churna": {
+      "method": "Combined with other vitality-boosting herbs for systemic rejuvenation and immunity support."
+    },
+    "jivaka_ghrita": {
+      "method": "5-10g of ghee processed with Jivaka; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "chyawanprash": {
+      "method": "Central component in modern and classical jam preparation for systemic rejuvenation and respiratory health."
+    },
+    "external_paste": {
+      "method": "Ground fresh pseudo-bulb or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for enhancing concentration and physical growth in students.",
+    "adults": "Powder: 3-6 grams; Ghee: 5-10 g; Lehya: 10-20 g, divided throughout the day before or during meals.",
+    "elderly": "Ideal for age-related cognitive support and preventing physical decline. Dosage: 1g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Life and Vitality Specialist (Jivaniya): Jivaka is the premier Ayurvedic remedy for all conditions of extreme weakness and wasting (Shosha). Its 'Jivaniya' (life-giving) and 'Brimhaniya' (nourishing) nature provided by starch-rich pseudo-bulbs helps in regenerating the body's tissues (Dhatus) and providing instant relief from systemic exhaustion. WHO-aligned research supports its role in nutrition and immune support.",
     "Strengthening and Muscle recovery: Known as 'Balya' (strength-promoting). It is traditionally used to improve muscle tone, physical stamina, and recovery from chronic fatigue by promoting healthy 'Mamsa-dhatu' (muscle-tissue) building.",
     "Reproductive Health and Vitality: Historically known as 'Vrishya' (aphrodisiac). It effectively improves sperm count, libido, and sexual stamina by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic nourishing (Brimhana) action.",
@@ -22,29 +49,26 @@
     "Cooling and Internal Heat: Its extreme cooling potency provides instant relief from internal burning sensations (Daha), sunstrokes, and inflammatory fevers. It helps in Reducing systemic heat and inflammatory congestion.",
     "Phytochemical Profile: Rich in Carbohydrates (Starch, Glucomannan), Flavonoids, Steroids, and various Amino Acids. Glucomannan is the primary bioactive responsible for its potent nourishing and life-promoting effects."
   ],
-  "plantProfile": [
-    "Unique History: A highly sacred and valued herb of the Himalayas, traditionally included in the group 'Ashtavarga' (eight herbs of vitality). Mentioned in ancient Ayurvedic treatises like Charaka Samhita for its unmatched 'Jivaniya' (life-promoting) and 'Brimhaniya' (nourishing) properties. It is spiritually associated with 'Sattva' (purity and clarity). It is an endangered species.",
-    "Physical Characteristics: A small, terrestrial orchid growing in the sub-alpine and alpine regions of the Himalayas (altitude 2500m to 4000m). It features broad, heart-shaped (cordate) lower leaves and narrow, amplexicaul upper leaves. The flowers are small, yellowish-green or greenish-white, in terminal spikes. The pseudo-bulb is small, oval, and yellowish-grey with a characteristic sweet-earthy fragrance.",
-    "Specific Chemical Compounds: Primarily contains Starch (Glucomannan), Flavonoids (Vitexin), and Steroids. The presence of glucomannan is crucial for its bio-enhancing, anti-microbial, and tissue-regenerative action on the immune system.",
-    "Strict Standardizations: The pseudo-bulb is standardized in API based on its yellowish-grey color and characteristic sweet-earthy-musky fragrance. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>2%), and water-soluble extractive (>5%). Identification via HPTLC is used to monitor specific marker carbohydrates.",
-    "Substitute Provision: Due to its endangered status, API and Ayurvedic authorities allow for the use of 'Vidari-kanda' (Pueraria tuberosa) as a specified substitute for Jivaka in various classical formulations under regulated conditions."
-  ],
-  "preparationMethods": [
-    "Pseudo-bulb Powder (Churna): 3-6g of fine powder taken twice daily with honey or warm milk (as an Anupana) for enhancing memory and vitality.",
-    "Ashtavarga-Churna: Combined with other vitality-boosting herbs for systemic rejuvenation and immunity support.",
-    "Jivaka-Ghrita: 5-10g of ghee processed with Jivaka; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality.",
-    "Chyawanprash: Central component in modern and classical jam preparation for systemic rejuvenation and respiratory health.",
-    "External Paste: Ground fresh pseudo-bulb or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for enhancing concentration and physical growth in students.",
-    "Adults": "Powder: 3-6 grams; Ghee: 5-10 g; Lehya: 10-20 g, divided throughout the day before or during meals.",
-    "Elderly": "Ideal for age-related cognitive support and preventing physical decline. Dosage: 1g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Guru (heavy) and Snigdha (oily). No severe adverse interactions reported in clinical literature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Guru (heavy) and Snigdha (oily). No severe adverse interactions reported in clinical literature.",
-    "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,19 +1,46 @@
 {
-  "name": "Guggulu",
-  "scientificName": "Commiphora wightii (Arn.) Bhandari",
-  "botanicalFamily": "Burseraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Kapha doshas. Due to its Tikta (bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Lekhana' (scraping) and 'Shothahara' (anti-inflammatory) therapies, clearing the heavy, cold and sticky qualities of Kapha. Purified Guggulu (Shuddha) does not aggravate Pitta.",
-    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry), Vishada (clear), Tikshna (sharp), Sukshma (micro-penetrating), Sara (flowing), Snigdha (oily) - specifically for old/new property differences.",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Lekhana (scraping), Shothahara (anti-inflammatory), Amavata-hara (rheumatoid arthritis-reliever), Medo-hara (lipid-reducer), Rasayana (rejuvenative), and Vedanasthapana (analgesic).",
-    "API/AFI Adherence: The purified oleo-gum-resin is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Yogaraj Guggulu, Kaishore Guggulu, and Triphala-Guggulu.",
-    "Specific Indications: Used in Amavata (rheumatoid arthritis), Medoroga (obesity/high cholesterol), Granthi (cysts/tumors), Sandhigatavata (osteoarthritis), and Atherosclerosis."
-  ],
-  "usageForm": "Purified resin (Shuddha Guggulu), Tablet (Vti), Medicated ghee (Ghrita), Medicated oil (Taila).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Guggulu"
+    ],
+    "scientific_name": "Commiphora wightii (Arn.) Bhandari",
+    "family": "Burseraceae",
+    "ayurveda_names": [
+      "Guggulu"
+    ],
+    "description": "Unique History: Classified under the 'Lekhaniya' (scraping) and 'Vayah-sthapana' (age-stabilizing) groups in ancient Ayurvedic treatises like Charaka Samhita. It is spiritually associated with 'Sattva' (purity and clarity). Its mention dates back to the Atharva Veda where it is hailed as a protector against disease. Physical Characteristics: A small, thorny, deciduous shrub or small tree growing up to 3-4 meters in height, with a spreading crown and ash-coloured, papery bark. It features small, trifoliate leaves and tiny, yellowish to reddish flowers. The resin is collected from the stem by making incisions. It is found primarily in the arid regions of India (Rajasthan and Gujarat). Specific Chemical Compounds: Primarily contains Guggulsterones (E, Z), Steroids, and Triterpenes. The presence of guggulsterones is crucial for its anti-cholesterol, anti-inflammatory, and neuro-protective action on the immune system. Strict Standardizations: The resin is standardized in API based on macroscopic features (aromatic odor, golden-brown to dark-brown color). Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>40%), and water-soluble extractive (>50%). HPTLC quantification is used to monitor total guggulsterone E and Z content. Purification Process (Shodhana): The raw resin is traditionally boiled in 'Triphala-Kwatha' (decoction) or 'Dugdha' (milk) into a soft mass and filtered to remove impurities (stones, bark) before medicinal use."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Katu (pungent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Vata and Kapha doshas. Due to its Tikta (bitter) and Katu (pungent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Lekhana' (scraping) and 'Shothahara' (anti-inflammatory) therapies, clearing the heavy, cold and sticky qualities of Kapha. Purified Guggulu (Shuddha) does not aggravate Pitta."
+  },
+  "preparation_methods": {
+    "purified_resin__shuddha_": {
+      "method": "1 gram to 2 grams of purified resin taken twice daily with warm water or honey (for weight loss) or warm milk (for joint pain)."
+    },
+    "yogaraj_guggulu": {
+      "method": "Classical tablet form used for rheumatoid arthritis and joint pain; taken (500-1000mg) after meals with warm water."
+    },
+    "medicated_ghee__ghrita_": {
+      "method": "Purified Guggulu processed with cow's ghee to treat chronic cystic conditions and deep Vata issues through its 'Sukshma' (penetrating) quality."
+    },
+    "guggulu_arka": {
+      "method": "Distilled extract is traditionally used for managing localized swellings and gargling for throat issues."
+    },
+    "external_paste": {
+      "method": "Ground purified resin applied directly to localized inflammations (Mumps, boils) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of purified powder mixed with honey twice daily for liver and digestive protection during childhood infections.",
+    "adults": "Resin (Purified): 1-3 grams; Tablet: 500-1000 mg; Decoction: 20-50 ml, divided throughout the day before or after meals.",
+    "elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 1g of purified resin with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Lipid and Weight Manager: Guggulu is the premier Ayurvedic remedy for all conditions of 'Meda' (excess body fat) and 'Lekhana' (systemic scraping). Its 'Sukshma' (penetrating) nature allows it to clear plaque from the arteries and reduce serum cholesterol levels. WHO-aligned research recognizes its potent hypolipidemic and anti-obesity effects.",
     "Joint and Bone Health: Historically known as 'Amavata-hara' (rheumatoid arthritis-reliever). It effectively reduces systemic inflammation and pain in the joints by promoting the healthy detoxification of 'Ama' (toxins) from the musculoskeletal system through its warming action.",
     "Atherosclerosis and Cardiac Support: Acts as a powerful agent for managing cardiovascular health (Hrid-roga). It prevents the blockage of blood vessels and improves circulation by stimulating the 'Agni' (metabolic fire) within the tissues (Dhatus).",
@@ -22,29 +49,26 @@
     "Metabolic Stimulant: Acts as an effective 'Pachana' (digestive) and 'Deepana' (appetizer), helping to clear 'Ama' (toxins) from the lymphatic and circulatory systems, reducing systemic heaviness and improving metabolic efficiency.",
     "Phytochemical Profile: Rich in Guggulsterones (E and Z), guggulipids, diterpenoids (cembrene), and diversos essential oils that provide its multifaceted medicinal benefits, particularly its potent anti-oxidant and lipid-lowering properties."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Lekhaniya' (scraping) and 'Vayah-sthapana' (age-stabilizing) groups in ancient Ayurvedic treatises like Charaka Samhita. It is spiritually associated with 'Sattva' (purity and clarity). Its mention dates back to the Atharva Veda where it is hailed as a protector against disease.",
-    "Physical Characteristics: A small, thorny, deciduous shrub or small tree growing up to 3-4 meters in height, with a spreading crown and ash-coloured, papery bark. It features small, trifoliate leaves and tiny, yellowish to reddish flowers. The resin is collected from the stem by making incisions. It is found primarily in the arid regions of India (Rajasthan and Gujarat).",
-    "Specific Chemical Compounds: Primarily contains Guggulsterones (E, Z), Steroids, and Triterpenes. The presence of guggulsterones is crucial for its anti-cholesterol, anti-inflammatory, and neuro-protective action on the immune system.",
-    "Strict Standardizations: The resin is standardized in API based on macroscopic features (aromatic odor, golden-brown to dark-brown color). Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>40%), and water-soluble extractive (>50%). HPTLC quantification is used to monitor total guggulsterone E and Z content.",
-    "Purification Process (Shodhana): The raw resin is traditionally boiled in 'Triphala-Kwatha' (decoction) or 'Dugdha' (milk) into a soft mass and filtered to remove impurities (stones, bark) before medicinal use."
-  ],
-  "preparationMethods": [
-    "Purified Resin (Shuddha): 1 gram to 2 grams of purified resin taken twice daily with warm water or honey (for weight loss) or warm milk (for joint pain).",
-    "Yogaraj Guggulu: Classical tablet form used for rheumatoid arthritis and joint pain; taken (500-1000mg) after meals with warm water.",
-    "Medicated Ghee (Ghrita): Purified Guggulu processed with cow's ghee to treat chronic cystic conditions and deep Vata issues through its 'Sukshma' (penetrating) quality.",
-    "Guggulu-Arka: Distilled extract is traditionally used for managing localized swellings and gargling for throat issues.",
-    "External Paste: Ground purified resin applied directly to localized inflammations (Mumps, boils) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of purified powder mixed with honey twice daily for liver and digestive protection during childhood infections.",
-    "Adults": "Resin (Purified): 1-3 grams; Tablet: 500-1000 mg; Decoction: 20-50 ml, divided throughout the day before or after meals.",
-    "Elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 1g of purified resin with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb ONLY when properly purified (Shodhana) and taken in recommended therapeutic dosages without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe (Purified). However, individuals with severe Pitta (hyperacidity, bleeding disorders) should use it in moderation as it is Ushna (heating). Avoid during pregnancy as it is a potent uterine stimulant. Avoid non-purified resin as it can cause kidney and skin irritation."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Overdose in very sensitive individuals may rarely cause mild skin warmth, stomach burning, or skin rashes."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe (Purified). However, individuals with severe Pitta (hyperacidity, bleeding disorders) should use it in moderation as it is Ushna (heating). Avoid during pregnancy as it is a potent uterine stimulant. Avoid non-purified resin as it can cause kidney and skin irritation.",
-    "GRAS Status: Classified as a safe medicinal herb ONLY when properly purified (Shodhana) and taken in recommended therapeutic dosages without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Overdose in very sensitive individuals may rarely cause mild skin warmth, stomach burning, or skin rashes."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

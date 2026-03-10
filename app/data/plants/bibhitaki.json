@@ -1,19 +1,46 @@
 {
-  "name": "Bibhitaki",
-  "scientificName": "Terminalia bellirica (Gaertn.) Roxb.",
-  "botanicalFamily": "Combretaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Primarily pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Kasahara' (cough-relieving) and 'Keshya' (hair-strengthening) therapies, clearing the heavy and clogging qualities of Kapha. It may increase Vata if used in excess.",
-    "Rasa (Taste): Kashaya (astringent).",
-    "Guna (Qualities): Ruksha (dry), Laghu (light).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Kasahara (cough-reliever), Keshya (hair-toning), Chakshushya (eye-tonic), Bhedaka (laxative/purgative in specific forms), Deepana (appetizer), Pachana (digestive), and Rasayana (rejuvenative).",
-    "API/AFI Adherence: The dried fruit rind (pericarp) is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Triphala, Talisadi Churna, and Bibhitakadi Kwatha.",
-    "Specific Indications: Used in Kasa (cough), Shwasa (asthma), Khalitya (hair loss), Vibandha (constipation), Prameha (diabetes), and Netra-roga (eye diseases)."
-  ],
-  "usageForm": "Fruit rind powder (Churna), Whole fruit decoction (Kwatha), Medicated ghee (Ghrita), Medicated oil (Taila).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Bibhitaki"
+    ],
+    "scientific_name": "Terminalia bellirica (Gaertn.) Roxb.",
+    "family": "Combretaceae",
+    "ayurveda_names": [
+      "Bibhitaki"
+    ],
+    "description": "Unique History: Classified under the 'Jwarahara' (fever-reducing) and 'Vayah-sthapana' (age-stabilizing) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Bibhitaki' literally translates to 'one that keeps away all diseases,' signifying its supreme status as a life-supporting fruit. Physical Characteristics: A large, deciduous tree growing up to 30-40 meters in height, with a majestic crown and thick, greyish bark. It features broad-elliptic leaves clustered at the ends of branchlets and small, greenish-yellow flowers. The fruit is a globose or ovoid drupe with a woody endocarp containing one seed. It is found in deciduous forests throughout India and Southeast Asia. Specific Chemical Compounds: Primarily contains Tannins (Gallic acid, Ellagic acid), Flavonoids (Quercetin, Kaempferol), and Saponins (Belleric acid). The presence of gallic acid is crucial for its anti-viral and anti-inflammatory action on the respiratory and digestive cells. Strict Standardizations: The fruit rind is standardized in API based on macroscopic features (tough rind, astringent taste). Physicochemical benchmarks: total ash (<7%), alcohol-soluble extractive (>8%), and water-soluble extractive (>35%). HPTLC quantification is used to monitor gallic acid content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Primarily pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Kasahara' (cough-relieving) and 'Keshya' (hair-strengthening) therapies, clearing the heavy and clogging qualities of Kapha. It may increase Vata if used in excess."
+  },
+  "preparation_methods": {
+    "fruit_rind_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with honey (for cough) or warm water (for digestion)."
+    },
+    "triphala_preparation": {
+      "method": "Combined with Amla and Haritaki in 1:1:1 ratio for systemic rejuvenation and bowel regulation."
+    },
+    "whole_fruit_decoction__kwatha_": {
+      "method": "20g of fruit rind boiled in 160ml water reduced to 40ml for chronic respiratory congestion and cooling."
+    },
+    "medicated_ghee": {
+      "method": "The fruit is processed with cow's ghee to treat chronic fever and debility through its 'Rasayana' quality."
+    },
+    "external_paste": {
+      "method": "Ground wood or rind applied directly to localized inflammations and skin rashes to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 grams of powder mixed with honey twice daily for respiratory protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 50-100 ml; Triphala: 3-5 g, divided throughout the day after meals.",
+    "elderly": "Ideal for age-related respiratory support and maintaining optical health. Dosage: 3g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
     "Respiratory Health Specialist: Bibhitaki is the premier Ayurvedic remedy for all types of chronic cough, asthma, and bronchitis. Its Kapha-pacifying nature helps in liquefying and expelling thick mucus from the lungs. WHO-aligned research supports its bronchodilatory and anti-asthmatic properties.",
     "Vision and Eye Tonic: Known as 'Chakshushya' (beneficial for eyes). It is traditionally used in 'Triphala' to improve optical health, reduce eye strain, and prevent age-related macular degeneration by balancing Pitta and strengthening the ocular nerves.",
     "Digestive and Metabolic Care: Acts as a mild laxative (Bhedaka) in the small intestine but has an astringent effect in the colon, making it ideal for clearing 'Ama' (toxins) and regularizing bowel movements without causing dependency.",
@@ -22,28 +49,26 @@
     "Skin Health and Wound Healing: Its antimicrobial and astringent properties help in treating chronic skin conditions and localized inflammation. The powdered fruit is traditionally applied topically to stop bleeding and promote healing of ulcers.",
     "Phytochemical Profile: Rich in gallic acid, ellagic acid, chebulinic acid, bellericanin, and various tannins that provide its multifaceted medicinal benefits, particularly its potent anti-oxidant and anti-microbial properties."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Jwarahara' (fever-reducing) and 'Vayah-sthapana' (age-stabilizing) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Bibhitaki' literally translates to 'one that keeps away all diseases,' signifying its supreme status as a life-supporting fruit.",
-    "Physical Characteristics: A large, deciduous tree growing up to 30-40 meters in height, with a majestic crown and thick, greyish bark. It features broad-elliptic leaves clustered at the ends of branchlets and small, greenish-yellow flowers. The fruit is a globose or ovoid drupe with a woody endocarp containing one seed. It is found in deciduous forests throughout India and Southeast Asia.",
-    "Specific Chemical Compounds: Primarily contains Tannins (Gallic acid, Ellagic acid), Flavonoids (Quercetin, Kaempferol), and Saponins (Belleric acid). The presence of gallic acid is crucial for its anti-viral and anti-inflammatory action on the respiratory and digestive cells.",
-    "Strict Standardizations: The fruit rind is standardized in API based on macroscopic features (tough rind, astringent taste). Physicochemical benchmarks: total ash (<7%), alcohol-soluble extractive (>8%), and water-soluble extractive (>35%). HPTLC quantification is used to monitor gallic acid content."
-  ],
-  "preparationMethods": [
-    "Fruit Rind Powder (Churna): 3-6g of fine powder taken twice daily with honey (for cough) or warm water (for digestion).",
-    "Triphala Preparation: Combined with Amla and Haritaki in 1:1:1 ratio for systemic rejuvenation and bowel regulation.",
-    "Whole Fruit Decoction (Kwatha): 20g of fruit rind boiled in 160ml water reduced to 40ml for chronic respiratory congestion and cooling.",
-    "Medicated Ghee: The fruit is processed with cow's ghee to treat chronic fever and debility through its 'Rasayana' quality.",
-    "External Paste: Ground wood or rind applied directly to localized inflammations and skin rashes to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 grams of powder mixed with honey twice daily for respiratory protection during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Decoction: 50-100 ml; Triphala: 3-5 g, divided throughout the day after meals.",
-    "Elderly": "Ideal for age-related respiratory support and maintaining optical health. Dosage: 3g of powder daily with warm water at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme Vata (constipation, dryness) should use it in moderation due to its 'Ruksha' (dry) nature. Avoid during active extreme diarrhea episodes unless specifically prescribed."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-viral or anti-diabetic medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with extreme Vata (constipation, dryness) should use it in moderation due to its 'Ruksha' (dry) nature. Avoid during active extreme diarrhea episodes unless specifically prescribed.",
-    "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-viral or anti-diabetic medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

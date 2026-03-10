@@ -1,46 +1,69 @@
 {
-    "name": "Mudga",
-    "scientificName": "Vigna radiata (L.) R.Wilczek (Syn. Phaseolus aureus)",
-    "botanicalFamily": "Fabaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: The most prestigious of all pulses, it is 'Kapha-Pitta Hara' (pacifies Kapha and Pitta) and does not increase Vata in excess when cooked properly. Due to its Kashaya (astringent) and Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Katu Vipaka, it is the premier choice for 'Samshodhana' (purification) and 'Deepana-Pachana' (digestive) therapies.",
-        "Rasa (Taste): Kashaya (astringent), Madhura (sweet).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Grahi (absorbent), Deepana (appetizer), Pachana (digestive), Varnya (complexion-improving), and Chakshushya (beneficial for eyes).",
-        "API/AFI Adherence: Known as 'Mudga' in the Ayurvedic Pharmacopoeia of India (API). It is the base for 'Yusha' (soup) formulations used in almost all Ayurvedic health protocols.",
-        "Specific Indications: Used in Jwara (fever), Raktapitta (bleeding disorders), Daha (internal burning), Atisara (diarrhea), and during post-fever recovery."
+  "plant": {
+    "common_names": [
+      "Mudga"
     ],
-    "usageForm": "Split pulse soup (Yusha), Whole pulse cooked (Odana), Roasted powder (Saktu), Sprouted (Ankurita).",
-    "mainMedicinalUses": [
-        "Premier Digestive and Fever Food: Mudga is the only pulse considered 'Laghu' enough for use during active fevers. Its 'Sheeta' (cooling) and 'Grahi' (absorbent) nature helps in quenching internal heat and binding loose stools without creating 'Ama' (toxins). WHO research supports its high digestibility and low flatulence-causing profile.",
-        "Detoxification and Blood Purification: Historically known as 'Raktaprasadana' (blood-soothing). It effectively cleared stagnant metabolic waste from the blood by providing systemic 'Deepana' (digestive) action. It is often combined with bitter herbs for skin diseases.",
-        "Vision and Eye health Support: Acts as a powerful agent for managing eye health. It helps in reducing inflammatory heat (Pitta) in the ocular channels and providing essential proteins for strengthening vision. It is traditionally used in 'Kushmanda-Avaleha' diet for brain and eye health.",
-        "Cardiovascular Support and Weight Management: As a low-fat, high-fiber pulse, it helps in clearing urinary and circulatory stagnations by cooling the blood and providing systemic nourishment (Brimhana) without increasing fat (Meda).",
-        "Phytochemical Profile: Rich in Flavonoids (Vitexin, Isovitexin), Phenolic acids, and essential minerals (Potassium, Iron). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+    "scientific_name": "Vigna radiata (L.) R.Wilczek (Syn. Phaseolus aureus)",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Mudga"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in the Charaka Samhita as the best among 'Shami Dhanyas' (legumes/pulses). Historically used as a primary protein source for monks and seekers due to its 'Sattvic' (pure/calm) nature. Regarded as 'Mother of all Pulses'.",
-        "Physical Characteristics: A small, erect, annual herb reaching up to 0.5-1.0 meters in height, with trifoliate leaves. The fruit consists of long, hairy pods containing small, oval, green (or yellow) seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Vitexin, Isovitexin, and diversos Protease inhibitors. The green pigment (chlorophyll) and flavonoids are centrally active in its antioxidant profile.",
-        "Strict Standardizations: The seed is standardized in API based on its greenish-black-to-yellow color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>20%)."
+    "description": "Unique History: Mentioned in the Charaka Samhita as the best among 'Shami Dhanyas' (legumes/pulses). Historically used as a primary protein source for monks and seekers due to its 'Sattvic' (pure/calm) nature. Regarded as 'Mother of all Pulses'. Physical Characteristics: A small, erect, annual herb reaching up to 0.5-1.0 meters in height, with trifoliate leaves. The fruit consists of long, hairy pods containing small, oval, green (or yellow) seeds. Found throughout India and tropical Asia, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Vitexin, Isovitexin, and diversos Protease inhibitors. The green pigment (chlorophyll) and flavonoids are centrally active in its antioxidant profile. Strict Standardizations: The seed is standardized in API based on its greenish-black-to-yellow color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>20%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent), Madhura (sweet)."
     ],
-    "preparationMethods": [
-        "Krita-Yusha (Medicated Soup): 1 part Mudga boiled with 14 parts water, seasoned with ginger and cumin. Take as a primary meal during recovery.",
-        "Akrita-Yusha (Plain Soup): Plain boiled mung water; used as a primary rehydration fluid in fevers and diarrhea.",
-        "Mudga-Saktu: Roasted mung seeds ground into fine powder; taken with honey as an instant energy drink during summer.",
-        "External Paste (Lepa): Ground fresh mung or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Safe from 6 months. 10-20g as soup twice daily.",
-        "Adults": "Daily staple food (50-200g of cooked pulse per meal).",
-        "Elderly": "Highly recommended due to easy digestibility and strength-promoting nature. Dosage: once daily as soup."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "The most prestigious of all pulses, it is 'Kapha-Pitta Hara' (pacifies Kapha and Pitta) and does not increase Vata in excess when cooked properly. Due to its Kashaya (astringent) and Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Katu Vipaka, it is the premier choice for 'Samshodhana' (purification) and 'Deepana-Pachana' (digestive) therapies."
+  },
+  "preparation_methods": {
+    "krita_yusha__medicated_soup_": {
+      "method": "1 part Mudga boiled with 14 parts water, seasoned with ginger and cumin. Take as a primary meal during recovery."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with extreme high Kapha (severe constipation, obesity) should enjoy it with spices like black pepper and dry ginger.",
-        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
-        "Adverse Effects: None documented at traditional dietary levels."
+    "akrita_yusha__plain_soup_": {
+      "method": "Plain boiled mung water; used as a primary rehydration fluid in fevers and diarrhea."
+    },
+    "mudga_saktu": {
+      "method": "Roasted mung seeds ground into fine powder; taken with honey as an instant energy drink during summer."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh mung or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Safe from 6 months. 10-20g as soup twice daily.",
+    "adults": "Daily staple food (50-200g of cooked pulse per meal).",
+    "elderly": "Highly recommended due to easy digestibility and strength-promoting nature. Dosage: once daily as soup."
+  },
+  "medicinal_uses": [
+    "Premier Digestive and Fever Food: Mudga is the only pulse considered 'Laghu' enough for use during active fevers. Its 'Sheeta' (cooling) and 'Grahi' (absorbent) nature helps in quenching internal heat and binding loose stools without creating 'Ama' (toxins). WHO research supports its high digestibility and low flatulence-causing profile.",
+    "Detoxification and Blood Purification: Historically known as 'Raktaprasadana' (blood-soothing). It effectively cleared stagnant metabolic waste from the blood by providing systemic 'Deepana' (digestive) action. It is often combined with bitter herbs for skin diseases.",
+    "Vision and Eye health Support: Acts as a powerful agent for managing eye health. It helps in reducing inflammatory heat (Pitta) in the ocular channels and providing essential proteins for strengthening vision. It is traditionally used in 'Kushmanda-Avaleha' diet for brain and eye health.",
+    "Cardiovascular Support and Weight Management: As a low-fat, high-fiber pulse, it helps in clearing urinary and circulatory stagnations by cooling the blood and providing systemic nourishment (Brimhana) without increasing fat (Meda).",
+    "Phytochemical Profile: Rich in Flavonoids (Vitexin, Isovitexin), Phenolic acids, and essential minerals (Potassium, Iron). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme high Kapha (severe constipation, obesity) should enjoy it with spices like black pepper and dry ginger."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional dietary levels."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as a neutral carrier for many medicines."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

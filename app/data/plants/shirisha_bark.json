@@ -1,27 +1,50 @@
 {
-  "id": "shirisha_bark",
-  "name": "Shirisha Bark",
-  "scientificName": "Albizia lebbeck (L.) Benth.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Tridoshahara."
-  ],
-  "usageForm": "Bark decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shirisha Bark"
+    ],
+    "scientific_name": "Albizia lebbeck (L.) Benth.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Shirisha Bark"
+    ],
+    "description": "Known as 'Vishaghna' - destroyer of toxins."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Tridoshahara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Decoction."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "20-50ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Unmatched anti-toxic and anti-allergic herb.",
     "Used for chronic asthma and hives.",
     "Heals allergic skin reactions."
   ],
-  "plantProfile": [
-    "Known as 'Vishaghna' - destroyer of toxins."
-  ],
-  "preparationMethods": [
-    "Decoction."
-  ],
-  "dosages": {
-    "Adults": "20-50ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

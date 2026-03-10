@@ -1,19 +1,43 @@
 {
-  "name": "Lajjalu",
-  "scientificName": "Mimosa pudica L.",
-  "botanicalFamily": "Fabaceae (sub-fam. Mimosoideae)",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Pitta and Kapha doshas. Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Sangrahi' (absorbent) and 'Raktastambhana' (hemostatic) therapies. It clears the fiery and agitated qualities of Pitta through its systemic cooling and astringent property. It does not aggravate Vata when used appropriately.",
-    "Rasa (Taste): Tikta (bitter), Kashaya (astringent).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Raktastambhana (hemostatic), Sangrahi (absorbent), Kandughna (anti-itch), Vishaghna (anti-toxic), and Jwarahara (antipyretic).",
-    "API/AFI Adherence: Nearly all parts (leaves, root, whole plant) are official as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Kutajaghan Vati, Lajjalu-Kwatha, and various skin-toning masks (Lepas).",
-    "Specific Indications: Used in Arsha (Piles), Raktapitta (Bleeding disorders), Atisara (Diarrhea), Kushtha (Skin diseases), Kamala (Jaundice), and Yoniroga (vaginal disorders)."
-  ],
-  "usageForm": "Whole plant powder (Churna), Whole plant decoction (Kwatha), Root powder (Churna), Leaf juice (Swarasa).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Lajjalu"
+    ],
+    "scientific_name": "Mimosa pudica L.",
+    "family": "Fabaceae (sub-fam. Mimosoideae)",
+    "ayurveda_names": [
+      "Lajjalu"
+    ],
+    "description": "Unique History: Classified under the 'Kandughna' (anti-itch) and 'Raktastambhana' (hemostatic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Lajjalu' literally translates to 'one that feels shy' (referring to its sensitive leaves). It is spiritually associated with 'Sattva' (purity). Mentioned in classical Sanskrit literature as the 'Sensitive Plant'. Physical Characteristics: A small, erect-to-prostrate perennial shrub reaching up to 0.5-1.0 meters in height, with prickly stems and opposite, pinnate (serrated), sensitive leaves. The flowers are attractive, small, and pink-to-purple globose heads. The fruit consists of small follicles (pods) containing numerous flat seeds. Found throughout India and tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India. Specific Chemical Compounds: Contains Mimosine, Tannic acid, and Mucilage. The presence of mimosine is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells. Strict Standardizations: The whole plant is standardized in API based on its greyish-green-to-black color and characteristic estremamente bitter-pungent taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Kashaya (astringent)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Pitta and Kapha doshas. Due to its Tikta (bitter) and Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Sangrahi' (absorbent) and 'Raktastambhana' (hemostatic) therapies. It clears the fiery and agitated qualities of Pitta through its systemic cooling and astringent property. It does not aggravate Vata when used appropriately."
+  },
+  "preparation_methods": {
+    "whole_plant_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with milk or honey (for female health) or warm water (for general vitality)."
+    },
+    "lajjalu_kwatha": {
+      "method": "decoction taken (20-40ml) twice daily for managing menstrual issues and general weakness."
+    },
+    "root_powder__churna_": {
+      "method": "1 gram to 3 grams taken twice daily with buttermilk (as a digestive Anupana) for chronic diarrhea."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh leaf or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml.",
+    "elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Female Health and Bleeding Specialist (Raktastambhana): Lajjalu is the premier Ayurvedic remedy for all conditions of excessive menstrual bleeding (Raktapradara) and bleeding hemorrhoids (Arsha). Its 'Raktastambhana' (hemostatic) and 'Kashaya' (astringent) nature provided by tannins and mimosine helps in providing instant hemostatic control and cooling the pelvic region. WHO research confirms its role in managing inflammatory gynecological load.",
     "Skin Health and Itch Relief (Kandughna): Its cooling and antimicrobial properties help in treating chronic skin conditions like acne, psoriasis, and eczema. The leaf juice applied topically promotes rapid relief from acne and sun-burns while providing systemic 'Vranaropana' (wound-healing) effects.",
     "Wound Healing and Internal Damage Control: Traditionally used to manage internal and external ulcers (Vrana). Its astringent and cooling properties help in providing systemic hemostatic balance and promoting healthy skin recovery through its 'Sandhaniya' (union-promoting) quality.",
@@ -22,27 +46,26 @@
     "Gastrointestinal and Diarrhea Care: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining and binding the stool.",
     "Phytochemical Profile: Rich in Tannins, Alkaloids (Mimosine), Flavonoids, Steroids, and diversos Triterpenes. Mimosine is the primary bioactive responsible for its potent anti-inflammatory, anti-carcinogenic, and hemostatic action on the blood and skin cells."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Kandughna' (anti-itch) and 'Raktastambhana' (hemostatic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Lajjalu' literally translates to 'one that feels shy' (referring to its sensitive leaves). It is spiritually associated with 'Sattva' (purity). Mentioned in classical Sanskrit literature as the 'Sensitive Plant'.",
-    "Physical Characteristics: A small, erect-to-prostrate perennial shrub reaching up to 0.5-1.0 meters in height, with prickly stems and opposite, pinnate (serrated), sensitive leaves. The flowers are attractive, small, and pink-to-purple globose heads. The fruit consists of small follicles (pods) containing numerous flat seeds. Found throughout India and tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India.",
-    "Specific Chemical Compounds: Contains Mimosine, Tannic acid, and Mucilage. The presence of mimosine is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells.",
-    "Strict Standardizations: The whole plant is standardized in API based on its greyish-green-to-black color and characteristic estremamente bitter-pungent taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
-  ],
-  "preparationMethods": [
-    "Whole Plant Powder (Churna): 3-6g of fine powder taken twice daily with milk or honey (for female health) or warm water (for general vitality).",
-    "Lajjalu-Kwatha: decoction taken (20-40ml) twice daily for managing menstrual issues and general weakness.",
-    "Root Powder (Churna): 1 gram to 3 grams taken twice daily with buttermilk (as a digestive Anupana) for chronic diarrhea.",
-    "External Paste (Lepa): Ground fresh leaf or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml.",
-    "Elderly": "Ideal for age-related Pitta issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and fruit with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Kashaya (astringent). Avoid during pregnancy in very large therapeutic doses except under professional guidance."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Kashaya (astringent). Avoid during pregnancy in very large therapeutic doses except under professional guidance.",
-    "GRAS Status: Classified as a safe medicinal herb and fruit with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

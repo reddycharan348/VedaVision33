@@ -1,19 +1,46 @@
 {
-  "name": "Bilva",
-  "scientificName": "Aegle marmelos (L.) Correa",
-  "botanicalFamily": "Rutaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Primarily pacifies Vata and Kapha doshas. Due to its Kashaya (astringent) and Tikta (bitter) Rasa (in unripe form) and Ushna (heating) Virya, it is the most prestigious herb for 'Grahani' (IBS) and 'Pachana' (digestive) therapies, clearing the sticky and cold qualities of Kapha. Ripe fruit pacifies Pitta and Vata but is slightly harder to digest.",
-    "Rasa (Taste): Kashaya (astringent), Tikta (bitter) - Unripe; Madhura (sweet) - Ripe.",
-    "Guna (Qualities): Laghu (light), Ruksha (dry).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Sangrahi (absorbent), Deepana (appetizer), Pachana (digestive), Vata-hara (Vata-pacifying), Grahi (bowel-binding), and Hridya (heart-tonic).",
-    "API/AFI Adherence: The unripe fruit rind, root, and leaves are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Dashamoola-arishta, Bilvadi Churna, and Bilvadi Leha.",
-    "Specific Indications: Used in Atisara (diarrhea), Grahani (IBS), Prameha (diabetes), Kamala (jaundice), and Shotha (generalized edema)."
-  ],
-  "usageForm": "Unripe fruit powder (Churna), Root decoction (Kwatha), Leaf juice (Swarasa), Fruit pulp (Leha/Murabba).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Bilva"
+    ],
+    "scientific_name": "Aegle marmelos (L.) Correa",
+    "family": "Rutaceae",
+    "ayurveda_names": [
+      "Bilva"
+    ],
+    "description": "Unique History: A highly sacred tree in India, traditionally associated with Lord Shiva. The three-leaf (trifoliate) pattern is culturally significant. Classified under the 'Dashamoola' (ten roots) and 'Grahani-hara' (IBS-relieving) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Bilva' signifies its ability to 'protect' or 'guard' health. Physical Characteristics: A medium to large deciduous tree growing up to 12-15 meters in height, with a majestic crown and thorny branches. It features aromatic trifoliate leaves and small, greenish-yellow, fragrant flowers. The fruit is a globose or ovoid drupe with a hard, woody rind and aromatic, orange-yellow pulp. It is found in deciduous forests and sacred groves throughout India and Southeast Asia. Specific Chemical Compounds: Primarily contains Coumarins (Marmelosin, Scopoletin), Alkaloids (Aegelin, Marmeline), and Tannins. The presence of marmelosin is crucial for its anti-microbial and anti-diarrheal action on the digestive system. Strict Standardizations: The fruit rind and root are standardized in API based on macroscopic features (woody rind, aromatic odor). Physicochemical benchmarks: total ash (<6%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor marmelosin and aegelin content."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent), Tikta (bitter) - Unripe; Madhura (sweet) - Ripe."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Primarily pacifies Vata and Kapha doshas. Due to its Kashaya (astringent) and Tikta (bitter) Rasa (in unripe form) and Ushna (heating) Virya, it is the most prestigious herb for 'Grahani' (IBS) and 'Pachana' (digestive) therapies, clearing the sticky and cold qualities of Kapha. Ripe fruit pacifies Pitta and Vata but is slightly harder to digest."
+  },
+  "preparation_methods": {
+    "unripe_fruit_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with honey (for IBS) or warm water (for general digestion)."
+    },
+    "leaf_juice__swarasa_": {
+      "method": "10-20ml of fresh juice taken twice daily with black pepper for managing diabetes and liver issues."
+    },
+    "root_decoction__kwatha_": {
+      "method": "20g of root bark boiled in 160ml water reduced to 40ml for chronic Vata pain and respiratory congestion."
+    },
+    "fruit_leha_pulp": {
+      "method": "Ripe fruit pulp processed with sugar/honey (Bilvadi Leha) to treat general weakness and inflammatory gut conditions."
+    },
+    "external_paste": {
+      "method": "Ground fresh leaves or bark applied directly to localized inflammations and skin boils to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 ml of leaf juice mixed with honey twice daily for liver protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Swarasa (Juice): 10-20 ml; Decoction: 50-100 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related digestive support and maintaining metabolic health. Dosage: 3g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
     "IBS and Chronic Diarrhea Specialist: Unripe Bilva is the gold standard in Ayurveda for managing Irritable Bowel Syndrome (IBS) and chronic dysentery. Its 'Sangrahi' (absorbent) and 'Deepana' (appetizer) actions help in binding the stool, Kindle the digestive fire, and clear mucus from the gut. WHO-aligned research supports its antispasmodic and antimicrobial effects in the colon.",
     "Diabetes Management: The leaf juice is famously used as 'Pramehahara' (anti-diabetic). It helps in regulating blood sugar levels and improving insulin sensitivity through its Tikta (bitter) and Ushna (heating) properties. Clinical studies confirm its hypoglycemic potential.",
     "Hepatoprotective Activity: Acts as a powerful agent for liver health. It is traditionally used to treat jaundice and hepatitis-related symptoms by promoting the flow of bile and protecting liver cells from toxins. It helps in reversing liver enzyme imbalances.",
@@ -22,28 +49,26 @@
     "Skin Health and Wound Healing: Its antimicrobial and astringent properties help in treating chronic skin conditions and localized inflammation. The leaf paste applied topically promotes rapid healing of wounds and boils.",
     "Phytochemical Profile: Rich in marmelosin, aegelin, coumarins, alkaloids (rutaceline), tannins, and various essential oils that provide its multifaceted medicinal benefits, particularly its potent anti-diabetic and anti-inflammatory properties."
   ],
-  "plantProfile": [
-    "Unique History: A highly sacred tree in India, traditionally associated with Lord Shiva. The three-leaf (trifoliate) pattern is culturally significant. Classified under the 'Dashamoola' (ten roots) and 'Grahani-hara' (IBS-relieving) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Bilva' signifies its ability to 'protect' or 'guard' health.",
-    "Physical Characteristics: A medium to large deciduous tree growing up to 12-15 meters in height, with a majestic crown and thorny branches. It features aromatic trifoliate leaves and small, greenish-yellow, fragrant flowers. The fruit is a globose or ovoid drupe with a hard, woody rind and aromatic, orange-yellow pulp. It is found in deciduous forests and sacred groves throughout India and Southeast Asia.",
-    "Specific Chemical Compounds: Primarily contains Coumarins (Marmelosin, Scopoletin), Alkaloids (Aegelin, Marmeline), and Tannins. The presence of marmelosin is crucial for its anti-microbial and anti-diarrheal action on the digestive system.",
-    "Strict Standardizations: The fruit rind and root are standardized in API based on macroscopic features (woody rind, aromatic odor). Physicochemical benchmarks: total ash (<6%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPTLC quantification is used to monitor marmelosin and aegelin content."
-  ],
-  "preparationMethods": [
-    "Unripe Fruit Powder (Churna): 3-6g of fine powder taken twice daily with honey (for IBS) or warm water (for general digestion).",
-    "Leaf Juice (Swarasa): 10-20ml of fresh juice taken twice daily with black pepper for managing diabetes and liver issues.",
-    "Root Decoction (Kwatha): 20g of root bark boiled in 160ml water reduced to 40ml for chronic Vata pain and respiratory congestion.",
-    "Fruit Leha/Pulp: Ripe fruit pulp processed with sugar/honey (Bilvadi Leha) to treat general weakness and inflammatory gut conditions.",
-    "External Paste: Ground fresh leaves or bark applied directly to localized inflammations and skin boils to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 ml of leaf juice mixed with honey twice daily for liver protection during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Swarasa (Juice): 10-20 ml; Decoction: 50-100 ml, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related digestive support and maintaining metabolic health. Dosage: 3g of powder daily with warm water at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and edible fruit with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta (excessive heat, hyperacidity) should use ripe fruit in moderation. Avoid during active extreme constipation due to its 'Sangrahi' (astringent) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Pitta (excessive heat, hyperacidity) should use ripe fruit in moderation. Avoid during active extreme constipation due to its 'Sangrahi' (astringent) nature.",
-    "GRAS Status: Classified as a safe medicinal herb and edible fruit with a history of use spanning millennia across various traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

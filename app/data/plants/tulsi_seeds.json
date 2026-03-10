@@ -1,27 +1,50 @@
 {
-  "id": "tulsi_seeds",
-  "name": "Tulsi Seeds (Tukmaria)",
-  "scientificName": "Ocimum tenuiflorum Seeds",
-  "botanicalFamily": "Lamiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Pitta."
-  ],
-  "usageForm": "Soaked seeds.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Tulsi Seeds (Tukmaria)"
+    ],
+    "scientific_name": "Ocimum tenuiflorum Seeds",
+    "family": "Lamiaceae",
+    "ayurveda_names": [
+      "Tulsi Seeds (Tukmaria)"
+    ],
+    "description": "Black seeds that swell into a gel when soaked."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Soak in water or milk before consuming."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1 teaspoon soaked.",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Ultimate natural cooling agent for summer.",
     "Relieves constipation and acidity.",
     "Helps in weight loss and detox."
   ],
-  "plantProfile": [
-    "Black seeds that swell into a gel when soaked."
-  ],
-  "preparationMethods": [
-    "Soak in water or milk before consuming."
-  ],
-  "dosages": {
-    "Adults": "1 teaspoon soaked."
+  "safety_profile": {
+    "warning": "Extremely safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Extremely safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

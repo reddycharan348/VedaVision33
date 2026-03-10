@@ -1,27 +1,50 @@
 {
-  "id": "vishala",
-  "name": "Vishala",
-  "scientificName": "Citrullus colocynthis (Honed)",
-  "botanicalFamily": "Cucurbitaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Kapha-Pitta Hara."
-  ],
-  "usageForm": "Decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vishala"
+    ],
+    "scientific_name": "Citrullus colocynthis (Honed)",
+    "family": "Cucurbitaceae",
+    "ayurveda_names": [
+      "Vishala"
+    ],
+    "description": "Bitter melon variant."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Kapha-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Warm infusion."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "10ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Liver detox",
     "Worms",
     "Jaundice."
   ],
-  "plantProfile": [
-    "Bitter melon variant."
-  ],
-  "preparationMethods": [
-    "Warm infusion."
-  ],
-  "dosages": {
-    "Adults": "10ml"
+  "safety_profile": {
+    "warning": "Bitter.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Bitter."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,49 +1,74 @@
 {
-    "name": "Kalamegha",
-    "scientificName": "Andrographis paniculata (Burm.f.) Wall. ex Nees",
-    "botanicalFamily": "Acanthaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Atyanta-Tikta (extremely bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Yakrit-uttejaka' (liver-stimulant) and 'Jwarahara' (antipyretic) therapies, clearing the heavy, cold, and sticky qualities of Kapha while balancing the fiery and hot qualities of Pitta through its systemic cooling and detoxifying property.",
-        "Rasa (Taste): Tikta (bitter).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Ushna (hot).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Yakrit-uttejaka (liver-stimulant), Jwarahara (antipyretic), Krimighna (anthelminthic), Raktashodhaka (blood-purifier), Vishaghna (anti-toxic), and Deepana (appetizer).",
-        "API/AFI Adherence: The dried whole plant is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in iconic classical formulations like Kalameghasava, Phalatrikadi Kwatha, and various liver-health tonics.",
-        "Specific Indications: Used in Kamala (Jaundice), Yakrit-dalodara (Liver enlargement), Jwara (Chronic and malarial fevers), Kushtha (Skin diseases), and Atisara (Diarrhea)."
+  "plant": {
+    "common_names": [
+      "Kalamegha"
     ],
-    "usageForm": "Whole plant powder (Churna), Fresh juice (Swarasa), Decoction (Kwatha), Fermented extract (Arishta/Asava).",
-    "mainMedicinalUses": [
-        "Expert Liver and Gallbladder Specialist: Kalamegha is the premier Ayurvedic remedy for all conditions of the liver and gallbladder. Its Atyanta-Tikta (extremely bitter) nature helps in stimulating bile flow and clearing toxins (Ama) from the hepatic cells. WHO-aligned research confirms its potent hepatoprotective and anti-viral properties, making it a gold standard for managing fatty liver and jaundice.",
-        "Antipyretic and Immune Booster: Highly effective as a 'Jwarahara' (fever-reliever), particularly in malarial and chronic fevers. It helps in reducing the intensity and duration of fevers by clearing systemic pathogens. It is a key herb for managing recovery from viral infections like dengue and chikungunya.",
-        "Worm and Internal Parasite Care: Its extremely bitter nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment. It helps in cleared stagnant toxins from the gut without causing constipation.",
-        "Blood Purification and Skin Health: Its anti-inflammatory and blood-purifying properties help in treating chronic skin conditions like acne, psoriasis, and eczema. It is traditionally used to improve skin radiance and prevent age-related skin aging and discoloration by providing systemic detoxification.",
-        "Digestive and Metabolism Specialist: Its Tikshna (sharp) and Ushna (heating) nature helps in igniting the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Anaha' (bloating) and severe indigestion.",
-        "Respiratory and Cough support: Its Atyanta-Tikta (heating/bitter) potency helps in liquefying and expelling thick mucus from the lungs through its metabolic-cleansing action. It is traditionally used in 'Kasa' (cough) and 'Shwasa' (asthma) when there is excess Kapha accumulation.",
-        "Phytochemical Profile: Rich in Diterpenoid Lactones (Andrographolide, Neoandrographolide), Flavonoids, and Polyphenols. Andrographolide is the primary bioactive responsible for its potent anti-viral, anti-carcinogenic, and anti-inflammatory action on the immune system."
+    "scientific_name": "Andrographis paniculata (Burm.f.) Wall. ex Nees",
+    "family": "Acanthaceae",
+    "ayurveda_names": [
+      "Kalamegha"
     ],
-    "plantProfile": [
-        "Unique History: Classified under the 'Rechaniya' (purgative) and 'Vishaghna' (anti-toxic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kalamegha' literally translates to 'black cloud'. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as 'Bhui-neem' (ground neem) due to its extreme bitterness.",
-        "Physical Characteristics: An annual herb growing up to 30-100 cm in height, with quadrangular stems and opposite, lanceolate-elliptic, green leaves. The flowers are small, yellowish-white, in terminal and axillary panicles. The whole plant is extremely bitter. It is found throughout India and tropical/sub-tropical Southeast Asia and is widely cultivated globally for medicinal use.",
-        "Specific Chemical Compounds: Primarily contains Diterpene Lactones (Andrographolide), Neoandrographolide, and Deoxyandrographolide. The presence of andrographolide (2-4% in whole plant) is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the liver cells.",
-        "Strict Standardizations: The whole plant is standardized in API based on its greenish color and characteristic extremely bitter-biting taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>3%), and water-soluble extractive (>15%). HPLC is used to monitor 1% to 3% andrographolide in commercial extracts."
+    "description": "Unique History: Classified under the 'Rechaniya' (purgative) and 'Vishaghna' (anti-toxic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kalamegha' literally translates to 'black cloud'. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as 'Bhui-neem' (ground neem) due to its extreme bitterness. Physical Characteristics: An annual herb growing up to 30-100 cm in height, with quadrangular stems and opposite, lanceolate-elliptic, green leaves. The flowers are small, yellowish-white, in terminal and axillary panicles. The whole plant is extremely bitter. It is found throughout India and tropical/sub-tropical Southeast Asia and is widely cultivated globally for medicinal use. Specific Chemical Compounds: Primarily contains Diterpene Lactones (Andrographolide), Neoandrographolide, and Deoxyandrographolide. The presence of andrographolide (2-4% in whole plant) is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the liver cells. Strict Standardizations: The whole plant is standardized in API based on its greenish color and characteristic extremely bitter-biting taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>3%), and water-soluble extractive (>15%). HPLC is used to monitor 1% to 3% andrographolide in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter)."
     ],
-    "preparationMethods": [
-        "Whole Plant Powder: 3-6g of fine powder taken twice daily with warm water or buttermilk (as a digestive Anupana) before meals.",
-        "Fresh Juice (Swarasa): 5-10ml of fresh plant juice taken twice daily with honey (for Kapha) or ginger water (for Vata) for maximum absorption.",
-        "Kalameghasava: 15-30ml of fermented extract taken twice daily after meals for managing chronic liver and spleen congestion.",
-        "Decoction (Kwatha): 20g of plant boiled in 160ml water reduced to 40ml for chronic fevers and immunity support. Take twice daily before meals.",
-        "External Paste (Lepa): Ground fresh plant or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
-        "Adults": "Powder: 3-6 grams; Swarasa (Juice): 5-10 ml; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before or during meals.",
-        "Elderly": "Ideal for age-related immunity support and maintaining cardiac health. Dosage: 3g of powder daily with warm water at bedtime."
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Kapha and Pitta doshas. Due to its Atyanta-Tikta (extremely bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Yakrit-uttejaka' (liver-stimulant) and 'Jwarahara' (antipyretic) therapies, clearing the heavy, cold, and sticky qualities of Kapha while balancing the fiery and hot qualities of Pitta through its systemic cooling and detoxifying property."
+  },
+  "preparation_methods": {
+    "whole_plant_powder": {
+      "method": "3-6g of fine powder taken twice daily with warm water or buttermilk (as a digestive Anupana) before meals."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with extreme high Pitta (burning sensation, hyperacidity, bleeding disorders) should use it in moderation as it is Ushna (heating). Avoid during pregnancy or lactation in very large therapeutic doses due to potential uterine stimulation.",
-        "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
-        "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness. Discontinue if extreme bitterness causes nausea."
+    "fresh_juice__swarasa_": {
+      "method": "5-10ml of fresh plant juice taken twice daily with honey (for Kapha) or ginger water (for Vata) for maximum absorption."
+    },
+    "kalameghasava": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing chronic liver and spleen congestion."
+    },
+    "decoction__kwatha_": {
+      "method": "20g of plant boiled in 160ml water reduced to 40ml for chronic fevers and immunity support. Take twice daily before meals."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh plant or paste applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey twice daily for respiratory and digestive protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Swarasa (Juice): 5-10 ml; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before or during meals.",
+    "elderly": "Ideal for age-related immunity support and maintaining cardiac health. Dosage: 3g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
+    "Expert Liver and Gallbladder Specialist: Kalamegha is the premier Ayurvedic remedy for all conditions of the liver and gallbladder. Its Atyanta-Tikta (extremely bitter) nature helps in stimulating bile flow and clearing toxins (Ama) from the hepatic cells. WHO-aligned research confirms its potent hepatoprotective and anti-viral properties, making it a gold standard for managing fatty liver and jaundice.",
+    "Antipyretic and Immune Booster: Highly effective as a 'Jwarahara' (fever-reliever), particularly in malarial and chronic fevers. It helps in reducing the intensity and duration of fevers by clearing systemic pathogens. It is a key herb for managing recovery from viral infections like dengue and chikungunya.",
+    "Worm and Internal Parasite Care: Its extremely bitter nature makes it incomparable for managing stubborn intestinal parasites and worms (Krimighna) that thrive in a high-Kapha environment. It helps in cleared stagnant toxins from the gut without causing constipation.",
+    "Blood Purification and Skin Health: Its anti-inflammatory and blood-purifying properties help in treating chronic skin conditions like acne, psoriasis, and eczema. It is traditionally used to improve skin radiance and prevent age-related skin aging and discoloration by providing systemic detoxification.",
+    "Digestive and Metabolism Specialist: Its Tikshna (sharp) and Ushna (heating) nature helps in igniting the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Anaha' (bloating) and severe indigestion.",
+    "Respiratory and Cough support: Its Atyanta-Tikta (heating/bitter) potency helps in liquefying and expelling thick mucus from the lungs through its metabolic-cleansing action. It is traditionally used in 'Kasa' (cough) and 'Shwasa' (asthma) when there is excess Kapha accumulation.",
+    "Phytochemical Profile: Rich in Diterpenoid Lactones (Andrographolide, Neoandrographolide), Flavonoids, and Polyphenols. Andrographolide is the primary bioactive responsible for its potent anti-viral, anti-carcinogenic, and anti-inflammatory action on the immune system."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme high Pitta (burning sensation, hyperacidity, bleeding disorders) should use it in moderation as it is Ushna (heating). Avoid during pregnancy or lactation in very large therapeutic doses due to potential uterine stimulation."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness. Discontinue if extreme bitterness causes nausea."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

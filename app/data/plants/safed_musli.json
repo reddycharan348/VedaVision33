@@ -1,29 +1,51 @@
 {
-  "id": "safed_musli",
-  "name": "Safed Musli",
-  "scientificName": "Chlorophytum borivilianum Santapau & Fern.",
-  "botanicalFamily": "Asparagaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Pitta.",
-    "Karma: Vrishya (Aphrodisiac), Balya (Strength)."
-  ],
-  "usageForm": "Tuber powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Safed Musli"
+    ],
+    "scientific_name": "Chlorophytum borivilianum Santapau & Fern.",
+    "family": "Asparagaceae",
+    "ayurveda_names": [
+      "Safed Musli"
+    ],
+    "description": "Known as 'Natural Viagra' for its reproductive benefits."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Consume tuber powder with milk and sugar."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-6g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Improves sexual health and vigor.",
     "Used as a powerful natural body-building supplement.",
     "Boosts immunity and general vitality.",
     "Effective for postnatal recovery."
   ],
-  "plantProfile": [
-    "Known as 'Natural Viagra' for its reproductive benefits."
-  ],
-  "preparationMethods": [
-    "Consume tuber powder with milk and sugar."
-  ],
-  "dosages": {
-    "Adults": "3-6g"
+  "safety_profile": {
+    "warning": "Safe for long-term use.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe for long-term use."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

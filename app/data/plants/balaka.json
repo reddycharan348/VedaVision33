@@ -1,27 +1,50 @@
 {
-  "id": "balaka",
-  "name": "Balaka",
-  "scientificName": "Sida cordifolia (Honed)",
-  "botanicalFamily": "Malvaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Pitta Hara."
-  ],
-  "usageForm": "Powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Balaka"
+    ],
+    "scientific_name": "Sida cordifolia (Honed)",
+    "family": "Malvaceae",
+    "ayurveda_names": [
+      "Balaka"
+    ],
+    "description": "Young Bala plant."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Milk or water."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Strength Booster",
     "Joint Health",
     "Nerves."
   ],
-  "plantProfile": [
-    "Young Bala plant."
-  ],
-  "preparationMethods": [
-    "Milk or water."
-  ],
-  "dosages": {
-    "Adults": "3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

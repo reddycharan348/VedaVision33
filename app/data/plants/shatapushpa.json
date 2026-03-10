@@ -1,19 +1,46 @@
 {
-  "name": "Shatapushpa",
-  "scientificName": "Anethum sowa Roxb. ex Fleming (Syn. Peucedanum sowa)",
-  "botanicalFamily": "Apiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Artavajanana' (menstrual-promoting) and 'Deepana-Pachana' (digestive) therapies. It clears the cold, heavy qualities of Kapha through its systemic warming and penetrating (Sukshma) property. It may aggravate Pitta if used in excess.",
-    "Rasa (Taste): Katu (pungent), Tikta (bitter).",
-    "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Artavajanana (menstrual-promoter), Deepana (appetizer), Pachana (digestive), Krimighna (anthelminthic), and Jwarahara (antipyretic).",
-    "API/AFI Adherence: The dried fruit (seed) is official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in Shatapushpadya Ghrita, Shatapushpa Churna, and various infant grip water (Aarka) formulations.",
-    "Specific Indications: Used in Rajorodha (amenorrhea), Kashtartava (dysmenorrhea), Shoola (abdominal pain/colic), Agnimandya (weak digestion), and Atisara (diarrhea)."
-  ],
-  "usageForm": "Fruit/seed powder (Churna), Medicated oil (Taila), Distilled water (Aarka), Medicated ghee (Ghrita).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Shatapushpa"
+    ],
+    "scientific_name": "Anethum sowa Roxb. ex Fleming (Syn. Peucedanum sowa)",
+    "family": "Apiaceae",
+    "ayurveda_names": [
+      "Shatapushpa"
+    ],
+    "description": "Unique History: Classified under the 'Artavajanana' (menstrual-promoting) and 'Deepaniya' (appetizer) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Shatapushpa' literally translates to 'one with a hundred flowers' (referring to its large umbels). Historically used as a bio-enhancer for various reproductive tonics. Mentioned in classical Sanskrit literature as the 'Indian Dill'. Physical Characteristics: An erect, poorly branched annual herb reaching up to 1 meter in height, with quadrangular stems and opposite, pinnately divided (thread-like), green leaves. The small, white-to-greenish-yellow flowers are in terminal and axillary umbels. The fruit consists of two small, oval, brownish-black seeds with a characteristic strong-sweet-musky-aromatic odor and bitter-pungent taste. Found throughout India in the sub-Himalayan tract and South India. Specific Chemical Compounds: Contains Dillapiol, Limonene, and Myristicin. The presence of dillapiol is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells. Strict Standardizations: The fruit/seed is standardized in API based on its yellowish-brown-to-grey color and characteristic strong-sweet-musky-aromatic odor. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent), Tikta (bitter)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Artavajanana' (menstrual-promoting) and 'Deepana-Pachana' (digestive) therapies. It clears the cold, heavy qualities of Kapha through its systemic warming and penetrating (Sukshma) property. It may aggravate Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "fruit_powder__churna_": {
+      "method": "1 gram to 3 grams of fine powder taken twice daily with honey or warm milk (for female health) or warm water (for general vitality)."
+    },
+    "shatapushpadya_ghrita": {
+      "method": "5ml - 10ml taken twice daily for managing mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "distilled_water__aarka_": {
+      "method": "1-5ml of distilled water (Aarka) taken twice daily for infant colic and gastrointestinal relief."
+    },
+    "shatapushpadya_kwatha": {
+      "method": "20g of fruit boiled in 100ml water reduced to 25ml for therapeutic emesis (Vamana) under expert care."
+    },
+    "external_paste": {
+      "method": "Ground fresh internal pulp applied directly over fracture sites or painful joints to assist healing."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory and digestive protection during childhood infections.",
+    "adults": "Powder: 1-3 grams; Decoction: 20-50 ml; Aarka: 10-30 ml (expert only), divided throughout the day before meals.",
+    "elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 1g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Female Reproductive Specialist (Artavajanana): Shatapushpa is the premier Ayurvedic remedy for all conditions of irregular or delayed menstruation (Rajorodha). Its 'Sukshma' (micro-penetrating) and 'Ushna' (warming) nature provided by essential oils (dillapiol) helps in promoting healthy pelvic circulation and providing systemic hormonal balance. WHO-aligned research confirms its potent emmenagogue and anti-spasmodic properties.",
     "Infant Colic and Digestive and Metabolism: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is widely used in 'Grip Water' for infants to manage bloating, flatulence, and colic (Shoola) through its systemic carminative action.",
     "Anthelmintic and Parasite Control: Its 'Krimighna' (parasite-destroying) nature provided by essential oils like dillapiol helps in expelling intestinal worms and parasites that thrive in a high-Kapha environment. It membantu dalam sistemik detoxifying of the blood.",
@@ -21,28 +48,26 @@
     "Anti-inflammatory and Pain Relief: Systemically used for conditions like chronic inflammatory conditions and joint pain by clearing blocked Vata pathways and reducing local swelling through its warming property.",
     "Phytochemical Profile: Rich in Essential Oil (approx. 2-4%), Carvone, Dillapiol, Flavonoids, and Tannins. Carvone and Dillapiol are the primary bioactives responsible for its potent anti-inflammatory, anti-carcinogenic, and anti-spasmodic action on the heart and skin cells."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Artavajanana' (menstrual-promoting) and 'Deepaniya' (appetizer) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Shatapushpa' literally translates to 'one with a hundred flowers' (referring to its large umbels). Historically used as a bio-enhancer for various reproductive tonics. Mentioned in classical Sanskrit literature as the 'Indian Dill'.",
-    "Physical Characteristics: An erect, poorly branched annual herb reaching up to 1 meter in height, with quadrangular stems and opposite, pinnately divided (thread-like), green leaves. The small, white-to-greenish-yellow flowers are in terminal and axillary umbels. The fruit consists of two small, oval, brownish-black seeds with a characteristic strong-sweet-musky-aromatic odor and bitter-pungent taste. Found throughout India in the sub-Himalayan tract and South India.",
-    "Specific Chemical Compounds: Contains Dillapiol, Limonene, and Myristicin. The presence of dillapiol is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and brain cells.",
-    "Strict Standardizations: The fruit/seed is standardized in API based on its yellowish-brown-to-grey color and characteristic strong-sweet-musky-aromatic odor. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%)."
-  ],
-  "preparationMethods": [
-    "Fruit Powder (Churna): 1 gram to 3 grams of fine powder taken twice daily with honey or warm milk (for female health) or warm water (for general vitality).",
-    "Shatapushpadya Ghrita: 5ml - 10ml taken twice daily for managing mental stress and physical weakness through its 'Rasayana' quality.",
-    "Distilled Water (Aarka): 1-5ml of distilled water (Aarka) taken twice daily for infant colic and gastrointestinal relief.",
-    "Shatapushpadya-Kwatha: 20g of fruit boiled in 100ml water reduced to 25ml for therapeutic emesis (Vamana) under expert care.",
-    "External Paste: Ground fresh internal pulp applied directly over fracture sites or painful joints to assist healing."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory and digestive protection during childhood infections.",
-    "Adults": "Powder: 1-3 grams; Decoction: 20-50 ml; Aarka: 10-30 ml (expert only), divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 1g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses except under professional guidance."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses except under professional guidance.",
-    "GRAS Status: Classified as a safe medicinal herb and aquatic plant with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

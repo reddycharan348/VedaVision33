@@ -1,27 +1,50 @@
 {
-  "id": "kakoli",
-  "name": "Kakoli",
-  "scientificName": "Roscoea purpurea (Honed)",
-  "botanicalFamily": "Zingiberaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Pitta Hara."
-  ],
-  "usageForm": "Root powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Kakoli"
+    ],
+    "scientific_name": "Roscoea purpurea (Honed)",
+    "family": "Zingiberaceae",
+    "ayurveda_names": [
+      "Kakoli"
+    ],
+    "description": "Extremely rare Himalayan tuber."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Pitta Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Powder mixed with ghee/milk."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Supreme longevity tonic",
     "Tissue nutrition",
     "Semen quality."
   ],
-  "plantProfile": [
-    "Extremely rare Himalayan tuber."
-  ],
-  "preparationMethods": [
-    "Powder mixed with ghee/milk."
-  ],
-  "dosages": {
-    "Adults": "3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

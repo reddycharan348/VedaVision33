@@ -1,49 +1,74 @@
 {
-    "name": "Musali",
-    "scientificName": "Chlorophytum borivilianum Santapau & R.R.Fern.",
-    "botanicalFamily": "Asparagaceae (formerly Liliaceae)",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Powerful Vata and Pitta Hara (pacifies Vata and Pitta doshas). Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Brimhaniya' (nourishing) and 'Vajikarana' (aphrodisiac) therapies, clearing the fiery qualities of Pitta and nourishing the dry Vata through its systemic unctuous (Snigdha) property. It may increase Kapha if used in excess.",
-        "Rasa (Taste): Madhura (sweet).",
-        "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Madhura (sweet).",
-        "Karma (Actions): Brimhaniya (nourishing), Balya (strength-promoting), Vrishya (aphrodisiac), Jivaniya (life-promoting), Rasayana (rejuvenative), and Shukrala (reproductive-tonic).",
-        "API/AFI Adherence: The dried tuberous root is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Musli-paka, Muslyadi Churna, and various strength-promoting tonics.",
-        "Specific Indications: Used in Klaibya (impotence), Shosha (wasting), Kshaya (consumption), Raktapitta (bleeding disorders), Pandu (anemia), and Jwara (fever)."
+  "plant": {
+    "common_names": [
+      "Musali"
     ],
-    "usageForm": "Tuberous root powder (Churna), Medicated jam (Paka), Medicated ghee (Ghrita), Milk infusion (Ksheerapaka).",
-    "mainMedicinalUses": [
-        "Expert Vitality and Strength Specialist (Brimhaniya): Musali is the premier Ayurvedic remedy for all conditions of extreme weakness and wasting (Shosha). Its 'Brimhaniya' (nourishing) and 'Balya' (strength-promoting) nature provided by steroid saponins helps in regenerating the body's tissues (Dhatus) and providing instant relief from systemic exhaustion. WHO-aligned research confirms its potent immunomodulatory and adaptogenic effects.",
-        "Reproductive Health and Aphrodisiac: Historically known as 'Vajikarana' (aphrodisiac). It effectively improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic nourishing (Brimhana) action. It is often called 'White Gold' for its reproductive benefits.",
-        "Muscle Strength and Athletics: Widely used for its ability to improve muscle tone, physical stamina, and recovery from chronic fatigue. It is traditionally used to promote healthy growth and physical recovery from tissue wasting (Shosha) and debility.",
-        "Diabetes and Metabolic support: Its Madhura (sweet) and Sheeta (cooling) properties help in regulating blood sugar levels and improving insulin sensitivity through metabolic balancing. Clinical studies confirm its hypoglycemic potential.",
-        "Anti-Aging and Rejuvenation: Acts as a powerful 'Rasayana' (rejuvenative). It helps in delaying age-related physical and mental decline and protecting the cells from oxidative stress through its potent antioxidant and immunity-enhancing profile.",
-        "Lactation support: Traditionally used to improve breast milk production (Stanya-janana) in lactating mothers by providing systemic nourishment and hormonal balance.",
-        "Phytochemical Profile: Rich in Steroid Saponins (Stigmasterol, Hecogenin), Alkaloids, Polysaccharides (approx. 40%), and diversos Amino Acids. Saponins are the primary bioactives responsible for its potent immunomodulatory and reproductive-enhancing effects."
+    "scientific_name": "Chlorophytum borivilianum Santapau & R.R.Fern.",
+    "family": "Asparagaceae (formerly Liliaceae)",
+    "ayurveda_names": [
+      "Musali"
     ],
-    "plantProfile": [
-        "Unique History: Classified under the 'Vajikarana' (aphrodisiac) and 'Brimhaniya' (nourishing) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Musali' signifies its association with Lord Shiva. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as 'Safed Musli'. It is an endangered species.",
-        "Physical Characteristics: A small, perennial terrestrial herb growing in the deciduous forests of Central India (altitude 500m to 1500m). It features broad, lanceolate, fleshy leaves and attractive, white-to-greenish flowers in terminal racemes. The tuberous root consists of thick, cylindrical, yellowish-white fingers (fasciculate roots) with a characteristic sweet-mucilaginous taste. It is an endangered species.",
-        "Specific Chemical Compounds: Primarily contains Saponins (approx. 2-15% in roots), Polysaccharides (Mucilage), and Steroids. The presence of saponins is crucial for its bio-enhancing, anti-microbial, and tissue-regenerative action on the immune system.",
-        "Strict Standardizations: The tuberous root is standardized in API based on its yellowish-white color and characteristic sweet-mucilaginous fragrance. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%), and water-soluble extractive (>50%). HPLC is used to monitor 2% to 15% saponins in commercial extracts."
+    "description": "Unique History: Classified under the 'Vajikarana' (aphrodisiac) and 'Brimhaniya' (nourishing) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Musali' signifies its association with Lord Shiva. It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as 'Safed Musli'. It is an endangered species. Physical Characteristics: A small, perennial terrestrial herb growing in the deciduous forests of Central India (altitude 500m to 1500m). It features broad, lanceolate, fleshy leaves and attractive, white-to-greenish flowers in terminal racemes. The tuberous root consists of thick, cylindrical, yellowish-white fingers (fasciculate roots) with a characteristic sweet-mucilaginous taste. It is an endangered species. Specific Chemical Compounds: Primarily contains Saponins (approx. 2-15% in roots), Polysaccharides (Mucilage), and Steroids. The presence of saponins is crucial for its bio-enhancing, anti-microbial, and tissue-regenerative action on the immune system. Strict Standardizations: The tuberous root is standardized in API based on its yellowish-white color and characteristic sweet-mucilaginous fragrance. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%), and water-soluble extractive (>50%). HPLC is used to monitor 2% to 15% saponins in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet)."
     ],
-    "preparationMethods": [
-        "Tuberous Root Powder (Churna): 3-6g of fine powder taken twice daily with milk or honey (for vitality) or warm water (for general health).",
-        "Musli-Paka: Medicated jam-like preparation taken (10-20g) twice daily for systemic rejuvenation and reproductive health.",
-        "Milk Infusion (Ksheerapaka): 5g of powder boiled in 200ml milk; filtered and taken for managing physical weakness and hormonal balance.",
-        "Musalyadi Churna: Combined with other vitality-boosting herbs for systemic rejuvenation and immunity support.",
-        "External Paste: Ground fresh root or powder applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for enhancing concentration and physical growth in students.",
-        "Adults": "Powder: 3-6 grams; Paka: 10-20 g; Ghee: 5-10 g; divided throughout the day before or during meals.",
-        "Elderly": "Ideal for age-related cognitive support and preventing physical decline. Dosage: 3g of powder daily with warm milk at bedtime."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Powerful Vata and Pitta Hara (pacifies Vata and Pitta doshas). Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Brimhaniya' (nourishing) and 'Vajikarana' (aphrodisiac) therapies, clearing the fiery qualities of Pitta and nourishing the dry Vata through its systemic unctuous (Snigdha) property. It may increase Kapha if used in excess."
+  },
+  "preparation_methods": {
+    "tuberous_root_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with milk or honey (for vitality) or warm water (for general health)."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Guru (heavy) and Snigdha (oily). No severe adverse interactions reported in clinical literature.",
-        "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and Himachali medicine) without documented toxicity.",
-        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-        "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
+    "musli_paka": {
+      "method": "Medicated jam-like preparation taken (10-20g) twice daily for systemic rejuvenation and reproductive health."
+    },
+    "milk_infusion__ksheerapaka_": {
+      "method": "5g of powder boiled in 200ml milk; filtered and taken for managing physical weakness and hormonal balance."
+    },
+    "musalyadi_churna": {
+      "method": "Combined with other vitality-boosting herbs for systemic rejuvenation and immunity support."
+    },
+    "external_paste": {
+      "method": "Ground fresh root or powder applied directly to localized inflammations (Mumps, boils, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for enhancing concentration and physical growth in students.",
+    "adults": "Powder: 3-6 grams; Paka: 10-20 g; Ghee: 5-10 g; divided throughout the day before or during meals.",
+    "elderly": "Ideal for age-related cognitive support and preventing physical decline. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
+    "Expert Vitality and Strength Specialist (Brimhaniya): Musali is the premier Ayurvedic remedy for all conditions of extreme weakness and wasting (Shosha). Its 'Brimhaniya' (nourishing) and 'Balya' (strength-promoting) nature provided by steroid saponins helps in regenerating the body's tissues (Dhatus) and providing instant relief from systemic exhaustion. WHO-aligned research confirms its potent immunomodulatory and adaptogenic effects.",
+    "Reproductive Health and Aphrodisiac: Historically known as 'Vajikarana' (aphrodisiac). It effectively improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic nourishing (Brimhana) action. It is often called 'White Gold' for its reproductive benefits.",
+    "Muscle Strength and Athletics: Widely used for its ability to improve muscle tone, physical stamina, and recovery from chronic fatigue. It is traditionally used to promote healthy growth and physical recovery from tissue wasting (Shosha) and debility.",
+    "Diabetes and Metabolic support: Its Madhura (sweet) and Sheeta (cooling) properties help in regulating blood sugar levels and improving insulin sensitivity through metabolic balancing. Clinical studies confirm its hypoglycemic potential.",
+    "Anti-Aging and Rejuvenation: Acts as a powerful 'Rasayana' (rejuvenative). It helps in delaying age-related physical and mental decline and protecting the cells from oxidative stress through its potent antioxidant and immunity-enhancing profile.",
+    "Lactation support: Traditionally used to improve breast milk production (Stanya-janana) in lactating mothers by providing systemic nourishment and hormonal balance.",
+    "Phytochemical Profile: Rich in Steroid Saponins (Stigmasterol, Hecogenin), Alkaloids, Polysaccharides (approx. 40%), and diversos Amino Acids. Saponins are the primary bioactives responsible for its potent immunomodulatory and reproductive-enhancing effects."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia across various global cultures and traditional systems (Ayurveda, Unani, and Himachali medicine) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha (cold, excess mucus, obesity) should use it in moderation as it is Guru (heavy) and Snigdha (oily). No severe adverse interactions reported in clinical literature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach heaviness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diabetic or anti-hypertensive medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

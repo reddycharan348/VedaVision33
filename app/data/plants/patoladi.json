@@ -1,27 +1,50 @@
 {
-  "id": "patoladi",
-  "name": "Patoladi",
-  "scientificName": "Traditional Grouping",
-  "botanicalFamily": "Mixed",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pitta-Kapha Hara."
-  ],
-  "usageForm": "Powder/Decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Patoladi"
+    ],
+    "scientific_name": "Traditional Grouping",
+    "family": "Mixed",
+    "ayurveda_names": [
+      "Patoladi"
+    ],
+    "description": "Based on Pointed Gourd."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pitta-Kapha Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Decoction."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "30ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Skin diseases",
     "Fever",
     "Liver cleansing."
   ],
-  "plantProfile": [
-    "Based on Pointed Gourd."
-  ],
-  "preparationMethods": [
-    "Decoction."
-  ],
-  "dosages": {
-    "Adults": "30ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

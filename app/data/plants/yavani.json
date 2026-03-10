@@ -1,28 +1,50 @@
 {
-  "id": "yavani",
-  "name": "Yavani (Ajwain)",
-  "scientificName": "Trachyspermum ammi (L.) Sprague",
-  "botanicalFamily": "Apiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Karma: Dipana (Appetite), Shulaghna (Pain reliever)."
-  ],
-  "usageForm": "Seed powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Yavani (Ajwain)"
+    ],
+    "scientific_name": "Trachyspermum ammi (L.) Sprague",
+    "family": "Apiaceae",
+    "ayurveda_names": [
+      "Yavani (Ajwain)"
+    ],
+    "description": "Strongly aromatic seeds containing Thymol."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Chew seeds with salt or boil in water."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Instant relief from stomach gas and cramps.",
     "Excellent carminative and antifungal agent.",
     "Clears respiratory congestion and asthma."
   ],
-  "plantProfile": [
-    "Strongly aromatic seeds containing Thymol."
-  ],
-  "preparationMethods": [
-    "Chew seeds with salt or boil in water."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Safe in cooking; excessive oil can be heating.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe in cooking; excessive oil can be heating."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

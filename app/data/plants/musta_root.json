@@ -1,27 +1,50 @@
 {
-  "id": "musta_root",
-  "name": "Musta Root",
-  "scientificName": "Cyperus rotundus Root",
-  "botanicalFamily": "Cyperaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pitta-Kapha Hara."
-  ],
-  "usageForm": "Tuber powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Musta Root"
+    ],
+    "scientific_name": "Cyperus rotundus Root",
+    "family": "Cyperaceae",
+    "ayurveda_names": [
+      "Musta Root"
+    ],
+    "description": "Most common medicinal weed."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pitta-Kapha Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Powder with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "2g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Menstrual health",
     "Diarrhea",
     "Gastritis."
   ],
-  "plantProfile": [
-    "Most common medicinal weed."
-  ],
-  "preparationMethods": [
-    "Powder with honey."
-  ],
-  "dosages": {
-    "Adults": "2g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

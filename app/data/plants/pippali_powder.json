@@ -1,27 +1,50 @@
 {
-  "id": "pippali_powder",
-  "name": "Pippali Powder",
-  "scientificName": "Piper longum Fruit Powder",
-  "botanicalFamily": "Piperaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Vata-Kapha Hara."
-  ],
-  "usageForm": "Fine Powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Pippali Powder"
+    ],
+    "scientific_name": "Piper longum Fruit Powder",
+    "family": "Piperaceae",
+    "ayurveda_names": [
+      "Pippali Powder"
+    ],
+    "description": "Dried long pepper."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Vata-Kapha Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Honey mix."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Respiratory cleansing",
     "Metabolism",
     "Immunity."
   ],
-  "plantProfile": [
-    "Dried long pepper."
-  ],
-  "preparationMethods": [
-    "Honey mix."
-  ],
-  "dosages": {
-    "Adults": "1g"
+  "safety_profile": {
+    "warning": "Heating; use sparingly.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Heating; use sparingly."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,19 +1,46 @@
 {
-  "name": "Mishreya",
-  "scientificName": "Foeniculum vulgare Mill.",
-  "botanicalFamily": "Apiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful pacifier of all three doshas (Tridoshahara), with a specific affinity for Vata and Pitta. Due to its Madhura (sweet), Tikta (bitter), and Katu (pungent) Rasa and Anushna (neutral-to-warm) Virya, it is the most prestigious herb for 'Deepana-Pachana' (digestive) and 'Shulaprashamana' (pain-relieving) therapies. It clears the cold and heavy qualities of Kapha through its systemic warming and penetrating (Sukshma) property.",
-    "Rasa (Taste): Madhura (sweet), Katu (pungent), Tikta (bitter).",
-    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
-    "Virya (Potency): Anushna (neither-too-hot-nor-too-cold).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Vata-anulomana (Vata-moving), Stanyajanana (lactation-promoter), and Artavajanana (menstrual-promoting).",
-    "API/AFI Adherence: The dried fruit (seed) is official as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in iconic classical formulations like 'Mishreya-arishta', 'Mustakarishta', and various digestive tonics.",
-    "Specific Indications: Used in Shoola (abdominal pain/colic), Agnimandya (weak digestion), Aruchi (anorexia), Atisara (diarrhea), and Stri-roga (female reproductive health issues like dysmenorrhea)."
-  ],
-  "usageForm": "Fruit/seed powder (Churna), Seed decoction (Kwatha), Cold infusion (Hima), Fermented extract (Arishta).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Mishreya"
+    ],
+    "scientific_name": "Foeniculum vulgare Mill.",
+    "family": "Apiaceae",
+    "ayurveda_names": [
+      "Mishreya"
+    ],
+    "description": "Unique History: Classified under the 'Deepaniya' (appetizer) and 'Shothahara' (anti-inflammatory) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Mishreya' literally translates to 'one that is mixed' (referring to its utility in various mixed herb tonics). Historically used as a bio-enhancer for various digestive tonics. Mentioned in classical Sanskrit literature as the 'Fennel'. Physical Characteristics: A perennial, erect herb reaching up to 1-2 meters in height, with finely divided (thread-like), green leaves and large, yellow-to-greenish umbels. The flowers are attractive, small, and yellow arranged in terminal or axillary dense whorls. Found throughout India and tropical/sub-tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India. Specific Chemical Compounds: Contains Anethole, Fenchone, and Limonene. The presence of anethole is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells. Strict Standardizations: The seed is standardized in API based on its yellowish-green-to-brown color and characteristic strong-sweet-musky-aromatic-pungent-bitter taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Katu (pungent), Tikta (bitter)."
+    ],
+    "virya_potency": "Anushna (neither-too-hot-nor-too-cold).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Powerful pacifier of all three doshas (Tridoshahara), with a specific affinity for Vata and Pitta. Due to its Madhura (sweet), Tikta (bitter), and Katu (pungent) Rasa and Anushna (neutral-to-warm) Virya, it is the most prestigious herb for 'Deepana-Pachana' (digestive) and 'Shulaprashamana' (pain-relieving) therapies. It clears the cold and heavy qualities of Kapha through its systemic warming and penetrating (Sukshma) property."
+  },
+  "preparation_methods": {
+    "fruit_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm water at bedtime for managing acidity and digestion."
+    },
+    "seed_decoction__kwatha_": {
+      "method": "20g of seeds boiled in 160ml water reduced to 40ml for chronic asthma and fever. Take twice daily before meals."
+    },
+    "cold_infusion__hima_": {
+      "method": "10g of crushed seeds soaked in 60ml water overnight; filtered and taken for managing thirst and acidity."
+    },
+    "mishreya_arishta": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles through its blood-purifying action."
+    },
+    "external_paste": {
+      "method": "Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "Expert Digestive and Metabolism Specialist: Mishreya is the premier Ayurvedic remedy for all conditions of abdominal bloating and indigestion. Its 'Deepaniya' (appetizer) and 'Shulaprashamana' (pain-relieving) nature provided by essential oils (anethole) helps in igniting the Jatharagni (digestive fire) and providing systemic stabilization of the 'Vata' channels (Srotas). WHO-aligned research supports its role in nutrition and metabolic support.",
     "Gastrointestinal and Diarrhea Care: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining and binding the stool.",
     "Female Lactation and Hormone Balance: Known as 'Stanya-janana' (lactation-promoter). Its phytoestrogen-rich profile helps in improving breast milk production and providing systemic hormonal balance in nursing mothers. It is often combined with Shatavari.",
@@ -21,28 +48,26 @@
     "Anti-inflammatory and Pain Relief: Systemically used for conditions like chronic inflammatory conditions and joint pain by clearing blocked Vata pathways and reducing local swelling through its warming property.",
     "Phytochemical Profile: Rich in Essential Oil (approx. 2-5%), Anethole, Fenchone, Flavonoids, and diversos Triterpenes. Anethole is the primary bioactive responsible for its potent anti-inflammatory, anti-carcinogenic, and anti-spasmodic action on the heart and brain cells."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Deepaniya' (appetizer) and 'Shothahara' (anti-inflammatory) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Mishreya' literally translates to 'one that is mixed' (referring to its utility in various mixed herb tonics). Historically used as a bio-enhancer for various digestive tonics. Mentioned in classical Sanskrit literature as the 'Fennel'.",
-    "Physical Characteristics: A perennial, erect herb reaching up to 1-2 meters in height, with finely divided (thread-like), green leaves and large, yellow-to-greenish umbels. The flowers are attractive, small, and yellow arranged in terminal or axillary dense whorls. Found throughout India and tropical/sub-tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India.",
-    "Specific Chemical Compounds: Contains Anethole, Fenchone, and Limonene. The presence of anethole is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the heart and skin cells.",
-    "Strict Standardizations: The seed is standardized in API based on its yellowish-green-to-brown color and characteristic strong-sweet-musky-aromatic-pungent-bitter taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%)."
-  ],
-  "preparationMethods": [
-    "Fruit Powder (Churna): 3-6g of fine powder taken twice daily with warm water at bedtime for managing acidity and digestion.",
-    "Seed Decoction (Kwatha): 20g of seeds boiled in 160ml water reduced to 40ml for chronic asthma and fever. Take twice daily before meals.",
-    "Cold Infusion (Hima): 10g of crushed seeds soaked in 60ml water overnight; filtered and taken for managing thirst and acidity.",
-    "Mishreya-arishta: 15-30ml of fermented extract taken twice daily after meals for managing chronic gut infections and piles through its blood-purifying action.",
-    "External Paste: Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and cooling during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and fruit with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). No severe adverse interactions reported."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach gas."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). No severe adverse interactions reported.",
-    "GRAS Status: Classified as a safe medicinal herb and fruit with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach gas."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

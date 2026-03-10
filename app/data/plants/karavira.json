@@ -1,27 +1,50 @@
 {
-  "id": "karavira",
-  "name": "Karavira (Oleander)",
-  "scientificName": "Nerium oleander L.",
-  "botanicalFamily": "Apocynaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata."
-  ],
-  "usageForm": "Root bark powder/oil (External mostly).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Karavira (Oleander)"
+    ],
+    "scientific_name": "Nerium oleander L.",
+    "family": "Apocynaceae",
+    "ayurveda_names": [
+      "Karavira (Oleander)"
+    ],
+    "description": "All parts of the plant are severely toxic."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Processed into oils for external use."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "30-100mg (Minute doses, expert only)",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Used topically for stubborn skin infections and leprosy.",
     "Effective for hair loss related to scalp issues.",
     "Assists in cardiac conditions in minute, expert doses."
   ],
-  "plantProfile": [
-    "All parts of the plant are severely toxic."
-  ],
-  "preparationMethods": [
-    "Processed into oils for external use."
-  ],
-  "dosages": {
-    "Adults": "30-100mg (Minute doses, expert only)"
+  "safety_profile": {
+    "warning": "EXTREMELY TOXIC. Fatal if ingested in small amounts.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "EXTREMELY TOXIC. Fatal if ingested in small amounts."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

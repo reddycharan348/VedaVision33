@@ -1,47 +1,70 @@
 {
-    "name": "Kamala-bija",
-    "scientificName": "Nelumbo nucifera Gaertn. (Seeds)",
-    "botanicalFamily": "Nelumbonaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Powerful Pitta and Kapha Hara (pacifies Pitta and Kapha doshas). Due to its Madhura (sweet) and Tikta (bitter) Rasa and Sheeta (cooling) Virya, it is the most prestigious seed for 'Hridya' (heart-tonic) and 'Varnya' (complexion-improving) therapies. While it is cooling, its 'Laghu' (light) and 'Snigdha' (unctuous) nature makes it a Vata-pacifying grain too.",
-        "Rasa (Taste): Madhura (sweet), Tikta (bitter).",
-        "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Madhura (sweet).",
-        "Karma (Actions): Hridya (heart-tonic), Medhya (intellect-promoting), Varnya (complexion-improving), Sangrahi (absorbent), Mutravirechaniya (diuretic), and Vrishya (aphrodisiac).",
-        "API/AFI Adherence: Known as 'Kamala-bija' in the Ayurvedic Pharmacopoeia of India (API). It is the base for several 'Pitta-hara' cooling formulations like Kamaladi-gutika and various heart-nourishing soups.",
-        "Specific Indications: Used in Daha (internal burning), Hridroga (Heart diseases), Unmada (Insanity), Smriti-bhramsha (Memory loss), and Artava-dosha (Bleeding disorders)."
+  "plant": {
+    "common_names": [
+      "Kamala-bija"
     ],
-    "usageForm": "Roasted seeds (Makhana), Seed powder (Churna), Seed paste (Kalka), Medicated ghee (Ghrita).",
-    "mainMedicinalUses": [
-        "Expert Brain and Mental Health Specialist (Medhya): Kamala-bija is the premier Ayurvedic seed for managing chronic mental stress and physical weakness. Its 'Sheeta' (cooling) and 'Medhya' (intellect-promoting) nature helps in providing systemic stabilization of the 'Sadhaka-Pitta' (heart-mind-fire) and cleared 'Avarana' in the memory channels through its systemic 'Hridya' (heart-tonic) action. WHO research confirms its high content of alkaloids and neuro-protective effects.",
-        "Heart and Emotional Wellbeing Specialist (Hridya): Historically known as 'Hridya' (heart-tonic). It effectively reduces the intensity and frequency of heart palpitations and high blood pressure by Providing systemic cooling and providing systemic circulation improvements. It is a key herb for managing anger and anxiety.",
-        "Skin Health and Radiance Enhancement (Varnya): Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The seed paste applied topically or taken internally provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
-        "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
-        "Reproductive Health and Aphrodisiac (Vrishya): Associated with 'Vajikarana' (aphrodisiac). It improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya) action.",
-        "Phytochemical Profile: Rich in Proteins (18-20%), Dietary Fiber (10-12%), Phenolic acids, Alkaloids (Liensinine, Isoliensinine), Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). Liensinine is the primary bioactive responsible for its potent anti-inflammatory and cardio-protective effects."
+    "scientific_name": "Nelumbo nucifera Gaertn. (Seeds)",
+    "family": "Nelumbonaceae",
+    "ayurveda_names": [
+      "Kamala-bija"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Pitta-pacifying' seeds. Historically used as a primary protein source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Ancient Mother of Mind'.",
-        "Physical Characteristics: A perennial, aquatic plant with linear leaves and terminal spikes (ears) of flowers. The fruit consists of small follicles (seeds) containing numerous small, flat, greyish-white-to-brown seeds embedded in a spongy receptacle. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Liensinine, Isoliensinine, and diversos Protease inhibitors. Liensinine (approx. 0.5-1.0% in seeds) is centrally active in promoting systemic 'Hridya' (heart-tonic) and providing systemic hemostatic balance.",
-        "Strict Standardizations: The seed is standardized in API based on its greyish-white-to-brown color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    "description": "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Pitta-pacifying' seeds. Historically used as a primary protein source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Ancient Mother of Mind'. Physical Characteristics: A perennial, aquatic plant with linear leaves and terminal spikes (ears) of flowers. The fruit consists of small follicles (seeds) containing numerous small, flat, greyish-white-to-brown seeds embedded in a spongy receptacle. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Liensinine, Isoliensinine, and diversos Protease inhibitors. Liensinine (approx. 0.5-1.0% in seeds) is centrally active in promoting systemic 'Hridya' (heart-tonic) and providing systemic hemostatic balance. Strict Standardizations: The seed is standardized in API based on its greyish-white-to-brown color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Tikta (bitter)."
     ],
-    "preparationMethods": [
-        "Kamala-bija-Kheer (Lotus Seed Porridge): Roasted seeds boiled in milk and seasoned with cardamom and saffron. Take for heart and mind health.",
-        "Seed Powder (Churna): 3-6g of fine powder taken with warm milk once daily for managing stress and sleep disorders.",
-        "Kamaladi-Ghrita: 5-10g of ghee processed with Kamala-bija; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality.",
-        "External Paste (Lepa): Ground fresh seeds mixed with rose water applied directly to the face for 20 minutes to treat acne and enhance radiance."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 1 - 2 grams of powder mixed with honey once twice for mental support and cooling during childhood infections.",
-        "Adults": "3-6 grams of powder or 10-30g of roasted seeds divided throughout the day before meals.",
-        "Elderly": "Highly recommended to prevent age-related mental decline and maintain cardiac health. Dosage: 10g of roasted seeds daily."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Used in Daha (internal burning), Hridroga (Heart diseases), Unmada (Insanity), Smriti-bhramsha (Memory loss), and Artava-dosha (Bleeding disorders)."
+  },
+  "preparation_methods": {
+    "kamala_bija_kheer__lotus_seed_porridge_": {
+      "method": "Roasted seeds boiled in milk and seasoned with cardamom and saffron. Take for heart and mind health."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with extreme weak digestion and those with constant cold sensations should avoid large quantities as it is Sheeta (cooling). Always cook with digestive spices like cardamom.",
-        "GRAS Status: Classified as a safe medicinal herb and food source with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
-        "Adverse Effects: Overconsumption leads to excessive cooling and heavy digestion if not appropriately toasted before cooking."
+    "seed_powder__churna_": {
+      "method": "3-6g of fine powder taken with warm milk once daily for managing stress and sleep disorders."
+    },
+    "kamaladi_ghrita": {
+      "method": "5-10g of ghee processed with Kamala-bija; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh seeds mixed with rose water applied directly to the face for 20 minutes to treat acne and enhance radiance."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1 - 2 grams of powder mixed with honey once twice for mental support and cooling during childhood infections.",
+    "adults": "3-6 grams of powder or 10-30g of roasted seeds divided throughout the day before meals.",
+    "elderly": "Highly recommended to prevent age-related mental decline and maintain cardiac health. Dosage: 10g of roasted seeds daily."
+  },
+  "medicinal_uses": [
+    "Expert Brain and Mental Health Specialist (Medhya): Kamala-bija is the premier Ayurvedic seed for managing chronic mental stress and physical weakness. Its 'Sheeta' (cooling) and 'Medhya' (intellect-promoting) nature helps in providing systemic stabilization of the 'Sadhaka-Pitta' (heart-mind-fire) and cleared 'Avarana' in the memory channels through its systemic 'Hridya' (heart-tonic) action. WHO research confirms its high content of alkaloids and neuro-protective effects.",
+    "Heart and Emotional Wellbeing Specialist (Hridya): Historically known as 'Hridya' (heart-tonic). It effectively reduces the intensity and frequency of heart palpitations and high blood pressure by Providing systemic cooling and providing systemic circulation improvements. It is a key herb for managing anger and anxiety.",
+    "Skin Health and Radiance Enhancement (Varnya): Its antimicrobial and blood-purifying properties help in improving skin luster and texture. The seed paste applied topically or taken internally provides systemic cooling while providing systemic 'Varnya' (complexion-improving) effects.",
+    "Internal Hemorrhage and Bleeding Specialist (Raktapitta): Recognized as 'Raktapitta-hara' (bleeding-destroyer). It effectively cools the blood and stops internal bleeding from the lungs, stomach, and pelvic organs by providing systemic cooling and providing systemic hemostatic balance.",
+    "Reproductive Health and Aphrodisiac (Vrishya): Associated with 'Vajikarana' (aphrodisiac). It improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya) action.",
+    "Phytochemical Profile: Rich in Proteins (18-20%), Dietary Fiber (10-12%), Phenolic acids, Alkaloids (Liensinine, Isoliensinine), Flavonoids, and Essential Minerals (Phosphorus, Magnesium, Calcium). Liensinine is the primary bioactive responsible for its potent anti-inflammatory and cardio-protective effects."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and food source with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme weak digestion and those with constant cold sensations should avoid large quantities as it is Sheeta (cooling). Always cook with digestive spices like cardamom."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption leads to excessive cooling and heavy digestion if not appropriately toasted before cooking."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as a neutral carrier for many medicines."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

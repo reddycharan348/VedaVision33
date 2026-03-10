@@ -1,19 +1,46 @@
 {
-  "name": "Bakula",
-  "scientificName": "Mimusops elengi L.",
-  "botanicalFamily": "Sapotaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Primarily pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is considered one of the 'Hridya' (heart-toning) and 'Dantya' (tooth-strengthening) herbs. It may slightly increase Vata when used in excess.",
-    "Rasa (Taste): Kashaya (astringent), Katu (pungent).",
-    "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily) - specifically the fruit; the bark is more Ruksha (dry).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Dantya (tooth-strengthening), Hridya (heart-tonic), Grahi (absorbent), Shothahara (anti-inflammatory), Vishaghna (anti-toxic), Krimighna (anthelminthic), and Stambhana (hemostatic).",
-    "API/AFI Adherence: The bark, flowers, and fruit are official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is used in classical formulations like Bakuladi Taila, Khadiradi Vati, and various dental powders (Dashana-samskara Churna).",
-    "Specific Indications: Used in Danta-shaithilya (loose teeth), Mukha-roga (oral diseases), Hrid-roga (heart diseases), Raktatisara (bloody diarrhea), and chronic non-healing wounds."
-  ],
-  "usageForm": "Bark powder (Churna), Bark decoction (Kwatha), Seed powder, Medicated oil (Taila), Flower extract (Arka).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Bakula"
+    ],
+    "scientific_name": "Mimusops elengi L.",
+    "family": "Sapotaceae",
+    "ayurveda_names": [
+      "Bakula"
+    ],
+    "description": "Unique History: A highly sacred and ornamental tree of the Indian subcontinent. It is mentioned in classical Sanskrit literature (Klidasa) for its fragrant flowers that symbolize love and beauty. In Ayurveda, it is hailed as the 'Vajra' (diamond-strong) medicine for the teeth. Physical Characteristics: A medium to large evergreen tree with a dense, spreading crown. The leaves are glossy, dark green, and elliptic-lanceolate. The flowers are small, creamy-white, star-shaped, and intensely fragrant. The fruit is an oval, yellow-orange drupe with a sweet-astringent taste. It is found in coastal regions and deciduous forests throughout India and Southeast Asia. Specific Chemical Compounds: Primarily contains Triterpenoid Saponins (Mimusopsic Acid), Flavonoids (Quercetin, Kaempferol), and Steroids (Spinasterol, Taraxerol). The bark is exceptionally rich in Tannins (approx. 7%), which provide its potent astringent action. Strict Standardizations: The bark is standardized in API based on its greyish-brown color and scaly appearance. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>10%), and water-soluble extractive (>12%). HPLC/HPTLC fingerprinting is used to quantify markers like ursolic acid."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent), Katu (pungent)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Primarily pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is considered one of the 'Hridya' (heart-toning) and 'Dantya' (tooth-strengthening) herbs. It may slightly increase Vata when used in excess."
+  },
+  "preparation_methods": {
+    "dental_gargle": {
+      "method": "10g of bark boiled in 200ml water reduced to 50ml. Use warm for gargling twice daily for gum health."
+    },
+    "bark_powder__churna_": {
+      "method": "3-6g of fine powder taken with warm water for diarrhea and heart health."
+    },
+    "nasal_snuff": {
+      "method": "Dried flower powder is snuffed (approx. 100-250mg) for relieving Kapha-related headaches."
+    },
+    "seed_powder_paste": {
+      "method": "Seeds are ground with water into a paste and applied as a suppository in infants for chronic constipation (traditional use)."
+    },
+    "medicated_oil__taila_": {
+      "method": "Bark processed in sesame oil; used for local massage and Danta-Dhavana (tooth-strengthening oil technique)."
+    }
+  },
+  "dosage": {
+    "children": "Bark decoction (gargle): Safe. Internal powder: 1-2 grams mixed with honey or lukewarm water, once daily.",
+    "adults": "Powder: 3-6 grams; Decoction: 50-100 ml (gargle) or 30ml (internal). Seed powder: 1-2 grams.",
+    "elderly": "Ideal for age-related dental issues. Gargle twice daily with 30-50ml bark decoction."
+  },
+  "medicinal_uses": [
     "Advanced Dental Care: Bakula is the most prestigious herb for strengthening gums and loose teeth. The bark decoction is used as a gargle to treat bleeding gums, pyorrhea, and dental decay. WHO botanical research acknowledges its antimicrobial influence on oral micro-flora.",
     "Cardiac Support: Acts as a mild Hridya (heart-tonic). It helps in regulating heart rate and provides systemic cooling, which is beneficial in Pitta-related cardiac palpitations and anxiety.",
     "Wound Healing: The bark and leaves exhibit significant antiseptic and astringent properties. A paste or wash made from the bark accelerates the healing of chronic ulcers and prevents secondary infections.",
@@ -22,28 +49,26 @@
     "Reproductive Health: Traditionally used to treat leucorrhea and other vaginal discharges due to its astringent (Kashaya) property, which helps in toning the reproductive tissues.",
     "Phytochemical Profile: Rich in saponins (mimusopsic acid), tannins, quercetin, taraxerol, ursolic acid, and spinasterol. The essential oil from the flowers contains methyl benzoate and diversas terpenes."
   ],
-  "plantProfile": [
-    "Unique History: A highly sacred and ornamental tree of the Indian subcontinent. It is mentioned in classical Sanskrit literature (Klidasa) for its fragrant flowers that symbolize love and beauty. In Ayurveda, it is hailed as the 'Vajra' (diamond-strong) medicine for the teeth.",
-    "Physical Characteristics: A medium to large evergreen tree with a dense, spreading crown. The leaves are glossy, dark green, and elliptic-lanceolate. The flowers are small, creamy-white, star-shaped, and intensely fragrant. The fruit is an oval, yellow-orange drupe with a sweet-astringent taste. It is found in coastal regions and deciduous forests throughout India and Southeast Asia.",
-    "Specific Chemical Compounds: Primarily contains Triterpenoid Saponins (Mimusopsic Acid), Flavonoids (Quercetin, Kaempferol), and Steroids (Spinasterol, Taraxerol). The bark is exceptionally rich in Tannins (approx. 7%), which provide its potent astringent action.",
-    "Strict Standardizations: The bark is standardized in API based on its greyish-brown color and scaly appearance. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>10%), and water-soluble extractive (>12%). HPLC/HPTLC fingerprinting is used to quantify markers like ursolic acid."
-  ],
-  "preparationMethods": [
-    "Dental Gargle: 10g of bark boiled in 200ml water reduced to 50ml. Use warm for gargling twice daily for gum health.",
-    "Bark Powder (Churna): 3-6g of fine powder taken with warm water for diarrhea and heart health.",
-    "Nasal Snuff: Dried flower powder is snuffed (approx. 100-250mg) for relieving Kapha-related headaches.",
-    "Seed Powder Paste: Seeds are ground with water into a paste and applied as a suppository in infants for chronic constipation (traditional use).",
-    "Medicated Oil (Taila): Bark processed in sesame oil; used for local massage and Danta-Dhavana (tooth-strengthening oil technique)."
-  ],
-  "dosages": {
-    "Children": "Bark decoction (gargle): Safe. Internal powder: 1-2 grams mixed with honey or lukewarm water, once daily.",
-    "Adults": "Powder: 3-6 grams; Decoction: 50-100 ml (gargle) or 30ml (internal). Seed powder: 1-2 grams.",
-    "Elderly": "Ideal for age-related dental issues. Gargle twice daily with 30-50ml bark decoction."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia. The fruit is consumed as a wild food in many parts of India.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "No major contraindications. However, excessive internal use of bark powder may cause mild constipation due to its high tannin (astringent) content."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at therapeutic levels. Overdose of seeds may cause gastric irritation."
+    ],
+    "drug_interactions": [
+      "None documented. However, its astringent nature might slow down the absorption of certain oral medications if taken simultaneously."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: No major contraindications. However, excessive internal use of bark powder may cause mild constipation due to its high tannin (astringent) content.",
-    "GRAS Status: Classified as a safe medicinal herb with a history of use spanning millennia. The fruit is consumed as a wild food in many parts of India.",
-    "Herb-Drug Interactions: None documented. However, its astringent nature might slow down the absorption of certain oral medications if taken simultaneously.",
-    "Adverse Effects: None documented at therapeutic levels. Overdose of seeds may cause gastric irritation."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,27 +1,50 @@
 {
-  "id": "latakaranja",
-  "name": "Latakaranja (Fever Nut)",
-  "scientificName": "Caesalpinia bonduc (L.) Roxb.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata."
-  ],
-  "usageForm": "Seed powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Latakaranja (Fever Nut)"
+    ],
+    "scientific_name": "Caesalpinia bonduc (L.) Roxb.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Latakaranja (Fever Nut)"
+    ],
+    "description": "Seeds are extremely hard and pebble-like."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Seed powder taken with black pepper."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Famous for treating malaria and recurring fevers.",
     "Reduces testicle swelling and edema.",
     "Used for intestinal worms and abdominal pain."
   ],
-  "plantProfile": [
-    "Seeds are extremely hard and pebble-like."
-  ],
-  "preparationMethods": [
-    "Seed powder taken with black pepper."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

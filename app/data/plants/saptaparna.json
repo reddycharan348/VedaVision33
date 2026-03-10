@@ -1,28 +1,50 @@
 {
-  "id": "saptaparna",
-  "name": "Saptaparna",
-  "scientificName": "Alstonia scholaris (L.) R. Br.",
-  "botanicalFamily": "Apocynaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
-    "Karma: Jwarahara (Antipyretic), Kushtaghna (Skin healer)."
-  ],
-  "usageForm": "Bark decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Saptaparna"
+    ],
+    "scientific_name": "Alstonia scholaris (L.) R. Br.",
+    "family": "Apocynaceae",
+    "ayurveda_names": [
+      "Saptaparna"
+    ],
+    "description": "Name means 'seven leaves', found in clusters."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Decoction of bark."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "20-30ml decoction",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Specific for malarial fevers and skin ulcers.",
     "Reduces high blood pressure and cholesterol.",
     "Used to treat chronic diarrhea and dysentery."
   ],
-  "plantProfile": [
-    "Name means 'seven leaves', found in clusters."
-  ],
-  "preparationMethods": [
-    "Decoction of bark."
-  ],
-  "dosages": {
-    "Adults": "20-30ml decoction"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

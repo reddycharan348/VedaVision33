@@ -1,27 +1,50 @@
 {
-  "id": "pippalimoola",
-  "name": "Pippalimoola",
-  "scientificName": "Piper longum (Root)",
-  "botanicalFamily": "Piperaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha."
-  ],
-  "usageForm": "Root powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Pippalimoola"
+    ],
+    "scientific_name": "Piper longum (Root)",
+    "family": "Piperaceae",
+    "ayurveda_names": [
+      "Pippalimoola"
+    ],
+    "description": "The root of the Long Pepper plant."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Powder mixed with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "500mg - 1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Stronger than the fruit for metabolic cleansing.",
     "Induces sleep and calms the nervous system.",
     "Reduces joint pain and spleen disorders."
   ],
-  "plantProfile": [
-    "The root of the Long Pepper plant."
-  ],
-  "preparationMethods": [
-    "Powder mixed with honey."
-  ],
-  "dosages": {
-    "Adults": "500mg - 1g"
+  "safety_profile": {
+    "warning": "Heating; avoid in high Pitta.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Heating; avoid in high Pitta."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,28 +1,50 @@
 {
-  "id": "tagara",
-  "name": "Tagara",
-  "scientificName": "Valeriana wallichii DC.",
-  "botanicalFamily": "Caprifoliaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata, Kapha, and Pitta.",
-    "Karma: Nidra-janana (Sleep inducing), Manas-rogahara (Stress relief)."
-  ],
-  "usageForm": "Rhizome powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Tagara"
+    ],
+    "scientific_name": "Valeriana wallichii DC.",
+    "family": "Caprifoliaceae",
+    "ayurveda_names": [
+      "Tagara"
+    ],
+    "description": "Commonly known as Indian Valerian."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata, Kapha, and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Root powder taken with warm water at bedtime."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Effective natural treatment for Insomnia and sleep apnea.",
     "Calms nervous anxiety and panic attacks.",
     "Reduces muscle spasms and tremors."
   ],
-  "plantProfile": [
-    "Commonly known as Indian Valerian."
-  ],
-  "preparationMethods": [
-    "Root powder taken with warm water at bedtime."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Safe for short-term; long-term use can cause mild dizziness.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe for short-term; long-term use can cause mild dizziness."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

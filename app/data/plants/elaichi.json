@@ -1,30 +1,52 @@
 {
-  "id": "elaichi",
-  "name": "Elaichi (Cardamom)",
-  "scientificName": "Elettaria cardamomum Maton",
-  "botanicalFamily": "Zingiberaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Balanced effect on all three doshas.",
-    "Rasa: Madhura (Sweet), Katu (Pungent).",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Mukhashuddhikara (Oral purifier), Dipana (Digestive)."
-  ],
-  "usageForm": "Fruit powder, Essential oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Elaichi (Cardamom)"
+    ],
+    "scientific_name": "Elettaria cardamomum Maton",
+    "family": "Zingiberaceae",
+    "ayurveda_names": [
+      "Elaichi (Cardamom)"
+    ],
+    "description": "The 'Queen of Spices', native to the Western Ghats of India."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (Sweet), Katu (Pungent)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Balanced effect on all three doshas."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Chew whole pods or use powder in food/tea."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "500mg - 1g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Relieves bloating and flatulence.",
     "Excellent breath freshener.",
     "Calms nausea and vomiting."
   ],
-  "plantProfile": [
-    "The 'Queen of Spices', native to the Western Ghats of India."
-  ],
-  "preparationMethods": [
-    "Chew whole pods or use powder in food/tea."
-  ],
-  "dosages": {
-    "Adults": "500mg - 1g"
+  "safety_profile": {
+    "warning": "Extremely safe in culinary amounts.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Extremely safe in culinary amounts."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

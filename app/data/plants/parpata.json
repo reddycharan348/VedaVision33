@@ -1,30 +1,52 @@
 {
-  "id": "parpata",
-  "name": "Parpata",
-  "scientificName": "Fumaria indica (Haussk.) Pugsley",
-  "botanicalFamily": "Fumariaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Pitta and Kapha.",
-    "Rasa: Tikta (Bitter).",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Jwarahara (Antipyretic), Raktashodhaka (Blood purifier)."
-  ],
-  "usageForm": "Whole plant decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Parpata"
+    ],
+    "scientific_name": "Fumaria indica (Haussk.) Pugsley",
+    "family": "Fumariaceae",
+    "ayurveda_names": [
+      "Parpata"
+    ],
+    "description": "Highly valued in Ayurveda for its cooling and blood-purifying properties."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (Bitter)."
+    ],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Pitta and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Decoction of the whole dried plant."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "20-50ml decoction",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "The best herb for Pitta-dominant fevers and burning sensations.",
     "Effectively treats skin diseases and excessive thirst.",
     "Used as a mild laxative and liver tonic."
   ],
-  "plantProfile": [
-    "Highly valued in Ayurveda for its cooling and blood-purifying properties."
-  ],
-  "preparationMethods": [
-    "Decoction of the whole dried plant."
-  ],
-  "dosages": {
-    "Adults": "20-50ml decoction"
+  "safety_profile": {
+    "warning": "Safe for general use.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe for general use."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

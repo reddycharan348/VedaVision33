@@ -1,29 +1,50 @@
 {
-  "id": "vijaysar",
-  "name": "Vijaysar",
-  "scientificName": "Pterocarpus marsupium Roxb.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Pramehaghna (Anti-diabetic), Kushtaghna (Skin health)."
-  ],
-  "usageForm": "Heartwood powder, Wood cup.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vijaysar"
+    ],
+    "scientific_name": "Pterocarpus marsupium Roxb.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Vijaysar"
+    ],
+    "description": "Drinking water kept in Vijaysar wood cups is a traditional diabetic remedy."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Soak wood in water overnight and drink in the morning."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-6g powder",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Effectively controls high blood sugar levels.",
     "Reduces obesity and bad cholesterol.",
     "Treats skin diseases and intestinal worms."
   ],
-  "plantProfile": [
-    "Drinking water kept in Vijaysar wood cups is a traditional diabetic remedy."
-  ],
-  "preparationMethods": [
-    "Soak wood in water overnight and drink in the morning."
-  ],
-  "dosages": {
-    "Adults": "3-6g powder"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

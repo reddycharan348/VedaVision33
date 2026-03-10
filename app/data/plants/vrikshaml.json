@@ -1,28 +1,50 @@
 {
-  "id": "vrikshaml",
-  "name": "Vrikshaml (Kokum)",
-  "scientificName": "Garcinia indica (Thouars) Choisy",
-  "botanicalFamily": "Clusiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata and Kapha.",
-    "Karma: Pachana (Digestive), Hridya (Heart tonic)."
-  ],
-  "usageForm": "Fruit rind, Butter.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Vrikshaml (Kokum)"
+    ],
+    "scientific_name": "Garcinia indica (Thouars) Choisy",
+    "family": "Clusiaceae",
+    "ayurveda_names": [
+      "Vrikshaml (Kokum)"
+    ],
+    "description": "Deep purple fruit used in coastal Indian cooking."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata and Kapha."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Juice or as a butter for topical use."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "5-10ml juice",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Classic treatment for digestive acidity and flatulence.",
     "Used for weight loss and preventing fat accumulation.",
     "Kokum butter is excellent for cracked skin and heels."
   ],
-  "plantProfile": [
-    "Deep purple fruit used in coastal Indian cooking."
-  ],
-  "preparationMethods": [
-    "Juice or as a butter for topical use."
-  ],
-  "dosages": {
-    "Adults": "5-10ml juice"
+  "safety_profile": {
+    "warning": "Generally safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Generally safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

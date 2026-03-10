@@ -1,47 +1,70 @@
 {
-    "name": "Kulattha",
-    "scientificName": "Macrotyloma uniflorum (Lam.) Verdc. (Syn. Dolichos biflorus)",
-    "botanicalFamily": "Fabaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious pulse for 'Ashmari-hara' (stone-breaking) and 'Vatavyadhi' (neurological disorders) therapies. While it is heating, its 'Sara' (flowing) quality helps in clearing Kapha while balancing the dry qualities of Vata. It may significantly aggravate Pitta if used in excess.",
-        "Rasa (Taste): Kashaya (astringent).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry), Tikshna (sharp).",
-        "Virya (Potency): Ushna (hot).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Ashmari-hara (stone-breaker), Mutravirechaniya (diuretic), Shothahara (anti-swelling), Kasaswashara (respiratory-relieving), and Medohara (fat-relieving).",
-        "API/AFI Adherence: Known as 'Kulattha' in the Ayurvedic Pharmacopoeia of India (API). It is the base for several iconic 'Ashmari-hara' (stone-breaking) and 'Vatavyadhi' (Vata-balancing) formulations like Kulatthadi-Ghrita and various diuretic soups.",
-        "Specific Indications: Used in Mutrashmari (urinary calculi), Mutrakricchra (Dysuria), Ashmari-shula (stone-pain), Shwasa (Asthma), Kasa (Cough), and Medoroga (Obesity)."
+  "plant": {
+    "common_names": [
+      "Kulattha"
     ],
-    "usageForm": "Split pulse soup (Yusha), Seed powder (Churna), Medicated ghee (Ghrita), Whole pulse cooked (Odana).",
-    "mainMedicinalUses": [
-        "World-Famous Stone-Breaking and Kidney Specialist (Ashmari-hara): Kulattha is the premier Ayurvedic cereal for managing urinary and kidney stones. Its 'Ashmari-hara' (stone-breaking) and 'Tikshna' (sharp) nature provided by specific alkaloids helps in breaking down the stones and providing systemic stabilization of the 'Mutra' channels (Srotas). WHO research confirms its potent anti-urolithiatic and diuretic properties.",
-        "Brimhana (Weight-Loss) and Fat-Scraping Specialist: Historically known as 'Medohara' (fat-relieving). It effectively reduces the intensity and frequency of joint stiffness (Sandhi-graha) and chronic Vata-related nerve disorders by providing systemic relief from 'Vata-avarana' (Vata-obstruction) in the pelvic region. It is often combined with other weight-loss herbs.",
-        "Respiratory and Asthma Management: Its 'Ushna' (heating) and 'Tikshna' (sharp) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage 'Shwasa' (asthma) and chronic productive coughs.",
-        "Inflammation and Edema (Shotha): Systemically used for clearing localized swelling (Shotha) and abdominal enlargement (Udara-roga) by expelling accumulated fluids and metabolic wastes through the gut and kidneys.",
-        "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions like acne and parasitic skin issues. The seed paste applied topically promotes radiance while providing systemic 'Vranaropana' (wound-healing) effects.",
-        "Phytochemical Profile: Rich in Proteins (22-25%), Carbohydrates, Flavonoids (Vitexin, Isovitexin), and Essential Minerals (Iron, Calcium, Phosphorus). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+    "scientific_name": "Macrotyloma uniflorum (Lam.) Verdc. (Syn. Dolichos biflorus)",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Kulattha"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in the Charaka Samhita as the best among 'Ashmari-hara' pulses. Historically used as a primary protein source for high-performance individuals due to its 'Ojas' enhancing quality. Historically regarded as the 'Grain of the Earth' for its strength-giving property.",
-        "Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of small follicles (pods) containing numerous flat, brownish-black-to-yellow seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Biochanin A, Formononetin, and diversos Protease inhibitors. The presence of these compounds is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
-        "Strict Standardizations: The seed is standardized in API based on its brownish-black-to-yellow color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    "description": "Unique History: Mentioned in the Charaka Samhita as the best among 'Ashmari-hara' pulses. Historically used as a primary protein source for high-performance individuals due to its 'Ojas' enhancing quality. Historically regarded as the 'Grain of the Earth' for its strength-giving property. Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of small follicles (pods) containing numerous flat, brownish-black-to-yellow seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Biochanin A, Formononetin, and diversos Protease inhibitors. The presence of these compounds is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells. Strict Standardizations: The seed is standardized in API based on its brownish-black-to-yellow color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent)."
     ],
-    "preparationMethods": [
-        "Kulattha-Yusha (Medicated Soup): 1 part seeds boiled with 14 parts water, seasoned with ginger and cumin. Take as a primary meal for managing kidney stones.",
-        "Seed Powder (Churna): 3-6g of fine powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets.",
-        "Kulatthadi-Ghrita: 5-10g of ghee processed with Kulattha; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality.",
-        "External Paste (Lepa): Ground fresh seeds or seeds soaked overnight and ground into paste applied directly over localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 10 - 20 grams of cooked pulse mixed with digestive spices twice daily for respiratory support and cooling during childhood infections.",
-        "Adults": "Daily staple food (50-100g of cooked pulse per meal) for stone management.",
-        "Elderly": "Highly recommended to prevent age-related Vata issues and maintain urinary health. Dosage: 50g of cooked pulse daily."
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious pulse for 'Ashmari-hara' (stone-breaking) and 'Vatavyadhi' (neurological disorders) therapies. While it is heating, its 'Sara' (flowing) quality helps in clearing Kapha while balancing the dry qualities of Vata. It may significantly aggravate Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "kulattha_yusha__medicated_soup_": {
+      "method": "1 part seeds boiled with 14 parts water, seasoned with ginger and cumin. Take as a primary meal for managing kidney stones."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Avoid during active extreme constipation due to its 'Ruksha' (dry) nature. Strictly avoid in pregnancy in very large therapeutic doses except under professional guidance (as it may stimulate contractions).",
-        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants and anti-diabetics.",
-        "Adverse Effects: Overconsumption in sensitive individuals can cause bloating if not appropriately cooked."
+    "seed_powder__churna_": {
+      "method": "3-6g of fine powder taken daily with water or buttermilk as a cooling energy drink during weight-loss diets."
+    },
+    "kulatthadi_ghrita": {
+      "method": "5-10g of ghee processed with Kulattha; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh seeds or seeds soaked overnight and ground into paste applied directly over localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 10 - 20 grams of cooked pulse mixed with digestive spices twice daily for respiratory support and cooling during childhood infections.",
+    "adults": "Daily staple food (50-100g of cooked pulse per meal) for stone management.",
+    "elderly": "Highly recommended to prevent age-related Vata issues and maintain urinary health. Dosage: 50g of cooked pulse daily."
+  },
+  "medicinal_uses": [
+    "World-Famous Stone-Breaking and Kidney Specialist (Ashmari-hara): Kulattha is the premier Ayurvedic cereal for managing urinary and kidney stones. Its 'Ashmari-hara' (stone-breaking) and 'Tikshna' (sharp) nature provided by specific alkaloids helps in breaking down the stones and providing systemic stabilization of the 'Mutra' channels (Srotas). WHO research confirms its potent anti-urolithiatic and diuretic properties.",
+    "Brimhana (Weight-Loss) and Fat-Scraping Specialist: Historically known as 'Medohara' (fat-relieving). It effectively reduces the intensity and frequency of joint stiffness (Sandhi-graha) and chronic Vata-related nerve disorders by providing systemic relief from 'Vata-avarana' (Vata-obstruction) in the pelvic region. It is often combined with other weight-loss herbs.",
+    "Respiratory and Asthma Management: Its 'Ushna' (heating) and 'Tikshna' (sharp) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage 'Shwasa' (asthma) and chronic productive coughs.",
+    "Inflammation and Edema (Shotha): Systemically used for clearing localized swelling (Shotha) and abdominal enlargement (Udara-roga) by expelling accumulated fluids and metabolic wastes through the gut and kidneys.",
+    "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions like acne and parasitic skin issues. The seed paste applied topically promotes radiance while providing systemic 'Vranaropana' (wound-healing) effects.",
+    "Phytochemical Profile: Rich in Proteins (22-25%), Carbohydrates, Flavonoids (Vitexin, Isovitexin), and Essential Minerals (Iron, Calcium, Phosphorus). Vitexin and Isovitexin are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Avoid during active extreme constipation due to its 'Ruksha' (dry) nature. Strictly avoid in pregnancy in very large therapeutic doses except under professional guidance (as it may stimulate contractions)."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption in sensitive individuals can cause bloating if not appropriately cooked."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants and anti-diabetics."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,29 +1,50 @@
 {
-  "id": "nagakeshara",
-  "name": "Nagakeshara",
-  "scientificName": "Mesua ferrea L.",
-  "botanicalFamily": "Calophyllaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
-    "Virya: Sheeta (Cooling).",
-    "Karma: Raktastambhak (Hemostatic)."
-  ],
-  "usageForm": "Flower stamen powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Nagakeshara"
+    ],
+    "scientific_name": "Mesua ferrea L.",
+    "family": "Calophyllaceae",
+    "ayurveda_names": [
+      "Nagakeshara"
+    ],
+    "description": "Beautiful fragrant flowers known as Ironwood."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Powder mixed with butter and sugar."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "1-3g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Stops internal and external bleeding (hemorrhage).",
     "Effective for bleeding piles and heavy menstruation.",
     "Used in traditional perfumes and skin creams."
   ],
-  "plantProfile": [
-    "Beautiful fragrant flowers known as Ironwood."
-  ],
-  "preparationMethods": [
-    "Powder mixed with butter and sugar."
-  ],
-  "dosages": {
-    "Adults": "1-3g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

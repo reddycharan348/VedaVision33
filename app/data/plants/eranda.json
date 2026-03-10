@@ -1,19 +1,46 @@
 {
-  "name": "Eranda",
-  "scientificName": "Ricinus communis L.",
-  "botanicalFamily": "Euphorbiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Kapha doshas. Due to its Madhura (sweet), Tikta (bitter) and Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Bhedana' (purgation) and 'Vata-hara' (Vata-pacifying) therapies, clearing the cold and heavy qualities of Kapha and nourising the dry Vata. Ripe seed oil (castor oil) is the king of Vata-pacifiers.",
-    "Rasa (Taste): Madhura (sweet), Tikta (bitter), Kashaya (astringent).",
-    "Guna (Qualities): Snigdha (unctuous/oily), Tikshna (sharp), Guru (heavy), Sukshma (micro-penetrating).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Bhedana (purgative), Vata-hara (Vata-pacifying), Amavata-hara (rheumatoid arthritis-reliever), Shothahara (anti-inflammatory), Deepana (appetizer), Pachana (digestive), and Vrusya (aphrodisiac).",
-    "API/AFI Adherence: The dried root, leaves, and seed oil are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the primary ingredient in iconic classical formulations like Eranda Paka, Gandharva-hastadi Taila, and Sinhanad Guggulu.",
-    "Specific Indications: Used in Amavata (rheumatoid arthritis), Vibandha (constipation), Gridhrasi (sciatica), Katishoola (low back pain), and Udara-shoola (abdominal pain)."
-  ],
-  "usageForm": "Castor oil (Eranda Taila), Root powder (Churna), Root decoction (Kwatha), Leaf paste (Lepa).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Eranda"
+    ],
+    "scientific_name": "Ricinus communis L.",
+    "family": "Euphorbiaceae",
+    "ayurveda_names": [
+      "Eranda"
+    ],
+    "description": "Unique History: Classified under the 'Vidaryadi' and 'Vata-shaman' groups in ancient Ayurvedic treatises like Charaka Samhita. It is spiritually associated with 'Apan-shodhana' (clearing downward energy). It is noted as the 'Palma Christi' (Hand of Christ) in European medicine due to its remarkable healing properties. Physical Characteristics: A perennial evergreen shrub or small tree growing up to 3-5 meters in height, with a spreading crown and smooth, greyish-green stems. It features large, palmate (hand-shaped) leaves with serrated margins and attractive, prickly fruits (capsules) containing mottled seeds. It is found throughout India and tropical/sub-tropical regions worldwide as a cultivated and wild plant. Specific Chemical Compounds: Primarily contains Ricinoleic acid (80-90% in oil), Ricinine (alkaloid), and Flavonoids. The presence of ricinoleic acid is crucial for its pro-kinetic, anti-inflammatory, and neuro-relaxant action on the gastrointestinal and musculoskeletal systems. Strict Standardizations: The root and oil are standardized in API based on macroscopic features (tough bark, thick yellowish oil). Physicochemical benchmarks of oil: total ash (<0.1%), acid value (<2), iodine value (82-90), and ricinoleic acid content. HPTLC is used to monitor specific marker fatty acids."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet), Tikta (bitter), Kashaya (astringent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata and Kapha doshas. Due to its Madhura (sweet), Tikta (bitter) and Kashaya (astringent) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Bhedana' (purgation) and 'Vata-hara' (Vata-pacifying) therapies, clearing the cold and heavy qualities of Kapha and nourising the dry Vata. Ripe seed oil (castor oil) is the king of Vata-pacifiers."
+  },
+  "preparation_methods": {
+    "castor_oil__taila_": {
+      "method": "5ml to 10ml of pure oil taken once at bedtime with warm milk or ginger water (as a digestive Anupana) for constipation and Vata-relief."
+    },
+    "root_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm milk for joint pain and general vitality."
+    },
+    "root_decoction__kwatha_": {
+      "method": "20g of root bark boiled in 160ml water reduced to 40ml for chronic sciatica and low back pain."
+    },
+    "medicated_oil__paka_": {
+      "method": "Roots processed in castor oil; taken (5-10g) to treat chronic inflammatory joint issues through its 'Amavata-hara' quality."
+    },
+    "external_paste": {
+      "method": "Ground fresh leaves or bark applied directly to localized inflammations (Mumps, boils) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe (Oil). 2.5 ml to 5 ml of oil mixed with milk once at bedtime for relieving constipation during childhood infections.",
+    "adults": "Oil: 5-30 ml (depending on purgative need); Decoction: 20-50 ml; Powder: 3-6 grams, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 5ml of oil with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "King of Vata and Laxation: Eranda Taila (Castor Oil) is the premier Ayurvedic remedy for all types of Vata-originated pain and chronic constipation. Its 'Bhedana' (breaking/purgative) action helps in clearing deep-seated 'Ama' (toxins) from the large intestine. WHO-aligned research supports its role in inducing smooth and effective bowel movements.",
     "Rheumatoid Arthritis and Gout: Historically known as the 'Amavata-hara' (remedy for rheumatoid arthritis). It effectively reduces systemic inflammation and pain in the joints by promoting the healthy detoxification of metabolic waste (Ama) from the blood.",
     "Sciatica and Back Pain Relief: Acts as a powerful agent for managing nerve-related pain (Gridhrasi). Its 'Sukshma' (micro-penetrating) nature allows it to penetrate deep into the nerve tissues, providing instant relief from localized pain and stiffness.",
@@ -22,28 +49,26 @@
     "Skin Health and Wound Healing: Its antimicrobial and unctuous (Snigdha) properties help in treating chronic dry skin conditions, cracked heels, and localized inflammation. The leaf paste applied topically promotes rapid suppuration of boils.",
     "Phytochemical Profile: Rich in Ricinoleic acid (a key fatty acid in oil), Ricinine, and various sterols that provide its multifaceted medicinal benefits, particularly its potent anti-inflammatory and pro-kinetic properties. Note: Raw seeds contain toxic 'Ricin', which is absent in processed oil."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Vidaryadi' and 'Vata-shaman' groups in ancient Ayurvedic treatises like Charaka Samhita. It is spiritually associated with 'Apan-shodhana' (clearing downward energy). It is noted as the 'Palma Christi' (Hand of Christ) in European medicine due to its remarkable healing properties.",
-    "Physical Characteristics: A perennial evergreen shrub or small tree growing up to 3-5 meters in height, with a spreading crown and smooth, greyish-green stems. It features large, palmate (hand-shaped) leaves with serrated margins and attractive, prickly fruits (capsules) containing mottled seeds. It is found throughout India and tropical/sub-tropical regions worldwide as a cultivated and wild plant.",
-    "Specific Chemical Compounds: Primarily contains Ricinoleic acid (80-90% in oil), Ricinine (alkaloid), and Flavonoids. The presence of ricinoleic acid is crucial for its pro-kinetic, anti-inflammatory, and neuro-relaxant action on the gastrointestinal and musculoskeletal systems.",
-    "Strict Standardizations: The root and oil are standardized in API based on macroscopic features (tough bark, thick yellowish oil). Physicochemical benchmarks of oil: total ash (<0.1%), acid value (<2), iodine value (82-90), and ricinoleic acid content. HPTLC is used to monitor specific marker fatty acids."
-  ],
-  "preparationMethods": [
-    "Castor Oil (Taila): 5ml to 10ml of pure oil taken once at bedtime with warm milk or ginger water (as a digestive Anupana) for constipation and Vata-relief.",
-    "Root Powder (Churna): 3-6g of fine powder taken twice daily with warm milk for joint pain and general vitality.",
-    "Root Decoction (Kwatha): 20g of root bark boiled in 160ml water reduced to 40ml for chronic sciatica and low back pain.",
-    "Medicated Oil (Paka): Roots processed in castor oil; taken (5-10g) to treat chronic inflammatory joint issues through its 'Amavata-hara' quality.",
-    "External Paste: Ground fresh leaves or bark applied directly to localized inflammations (Mumps, boils) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe (Oil). 2.5 ml to 5 ml of oil mixed with milk once at bedtime for relieving constipation during childhood infections.",
-    "Adults": "Oil: 5-30 ml (depending on purgative need); Decoction: 20-50 ml; Powder: 3-6 grams, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related Vata issues and maintaining joint health. Dosage: 5ml of oil with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal oil and herb with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and TCM) without documented toxicity in oil form.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Strictly contraindicated in individuals with active high-Pitta (burning sensation, hyperacidity), and during menstruation as it increases flow. Avoid in extreme skin sensitivity. Do NOT consume raw seeds due to toxic Ricin."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overdose of oil results in excessive diarrhea, abdominal cramping, vomiting, and dehydration. Discontinue if cramping occurs."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diuretic or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Strictly contraindicated in individuals with active high-Pitta (burning sensation, hyperacidity), and during menstruation as it increases flow. Avoid in extreme skin sensitivity. Do NOT consume raw seeds due to toxic Ricin.",
-    "GRAS Status: Classified as a safe medicinal oil and herb with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and TCM) without documented toxicity in oil form.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diuretic or anticoagulant medications as it may potentiate their effects. No severe adverse interactions reported in WHO monographs.",
-    "Adverse Effects: Overdose of oil results in excessive diarrhea, abdominal cramping, vomiting, and dehydration. Discontinue if cramping occurs."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

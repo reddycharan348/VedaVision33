@@ -1,47 +1,70 @@
 {
-    "name": "Rajika",
-    "scientificName": "Brassica juncea (L.) Czern. (Brown Mustard)",
-    "botanicalFamily": "Brassicaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Powerful pacifier of Vata and Kapha doshas. Due to its Katu (pungent) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious warming seed for 'Shothahara' (anti-swelling) and 'Krimighna' (anthelminthic) therapies. While it is heating, its 'Tikshna' (sharp) quality helps in clearing Kapha while balancing the cold qualities of Vata. It may significantly aggravate Pitta if used in excess.",
-        "Rasa (Taste): Katu (pungent), Tikta (bitter).",
-        "Guna (Qualities): Tikshna (sharp), Ruksha (dry), Laghu (light).",
-        "Virya (Potency): Ushna (hot).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Krimighna (anthelminthic), Shothahara (anti-swelling), Kandughna (anti-itching), Vishaghna (anti-toxic), and Kusthaghna (skin-disease-destroyer).",
-        "API/AFI Adherence: Known as 'Rajika' in the Ayurvedic Pharmacopoeia of India (API). It is a central ingredient in several iconic 'Vatavyadhi' (Vata-balancing) and 'Shothahara' (anti-inflammatory) formulations like Rajikadi-Taila and Siddharatha-Taila.",
-        "Specific Indications: Used in Kushtha (Skin diseases), Shotha (Edema), Krimi (Worms), Kandu (Itching), and Amavata (Rheumatoid arthritis)."
+  "plant": {
+    "common_names": [
+      "Rajika"
     ],
-    "usageForm": "Medicated oil (Taila), Seed paste (Lepa), Whole seeds (Bija), Seed powder (Churna).",
-    "mainMedicinalUses": [
-        "Expert Warming and Anti-Inflammatory Specialist (Shothahara): Rajika is the premier Ayurvedic pulse/seed for managing cold-related pain and localized swelling. Its 'Ushna' (heating) and 'Tikshna' (sharp) nature provided by allyl isothiocyanates helps in provides systemic relief from 'Vata-avarana' (Vata-obstruction) in the joints and muscles. WHO-aligned research confirms its potent antimicrobial and circulatory-stimulant properties.",
-        "Skin Disease and Parasite Care Specialist (Kusthaghna): Historically known as 'Kusthaghna' (skin-disease-destroyer). It effectively reduces the intensity and frequency of parasitic skin infections and chronic itching by providing systemic 'Deepana' (digestive) action and clearing toxic Kapha from the skin layers through its systemic 'Tikshna' (sharp) action.",
-        "Digestive Catalyst and Metabolism Specialist: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Ajirna' (indigestion) and 'Krimi' (worms) through its systemic carminative action.",
-        "Respiratory and Sinus Management Specialist: Its 'Ushna' (heating) and 'Tikshna' (sharp) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage productive coughs and chronic sinusitis through its systemic 'Kapha-hara' effects.",
-        "Innocuous and Anti-Toxic support: Recognized as 'Vishaghna' (anti-toxic). It helps in protecting the body's 'Ojas' (vital essence) and promoting healthy cell regeneration by cleared metabolic toxins through its potent antioxidant profile (Glucosinolates).",
-        "Phytochemical Profile: Rich in Glycosides (Sinigrin), Essential Oils (Allyl isothiocyanate), Saponins, and diversos Proteins. Glucosinolates (approx. 0.5-1.0% in seeds) are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+    "scientific_name": "Brassica juncea (L.) Czern. (Brown Mustard)",
+    "family": "Brassicaceae",
+    "ayurveda_names": [
+      "Rajika"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Kapha-pacifying' seeds. Historically used as a primary oil source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Warmth'.",
-        "Physical Characteristics: A small, erect, annual herb reaching up to 0.5-1.5 meters in height, with quadrangular stems and opposite, pinnate (leaflets) leaves with small, white-to-yellowish flowers. The fruit consists of small follicles (siliques) containing numerous small, globose, black seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Sinigrin, Isothiocyanates, and diversos Protease inhibitors. The presence of sinigrin (approx. 0.5-1.0% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells.",
-        "Strict Standardizations: The seed is standardized in API based on its greyish-white-to-black color and characteristic biting-pungent taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+    "description": "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Kapha-pacifying' seeds. Historically used as a primary oil source for scholars and high-performance individuals due to its 'Ojas' enhancing quality. Regarded as 'Mother of Warmth'. Physical Characteristics: A small, erect, annual herb reaching up to 0.5-1.5 meters in height, with quadrangular stems and opposite, pinnate (leaflets) leaves with small, white-to-yellowish flowers. The fruit consists of small follicles (siliques) containing numerous small, globose, black seeds. Found throughout India and tropical regions worldwide, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Sinigrin, Isothiocyanates, and diversos Protease inhibitors. The presence of sinigrin (approx. 0.5-1.0% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and skin cells. Strict Standardizations: The seed is standardized in API based on its greyish-white-to-black color and characteristic biting-pungent taste. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>15%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Katu (pungent), Tikta (bitter)."
     ],
-    "preparationMethods": [
-        "Rajikadi-Taila (Brown Mustard Oil): Used for local massage (Abhyanga) in joint pain and to treat hair issues (Keshya).",
-        "Seed Powder (Churna): 1-3g of fine powder taken with warm water once daily for managing worms and digestion.",
-        "Roasted seeds (Bhrista): 30g of roasted seeds powder taken daily for Managing weight-gain and strength.",
-        "External Paste (Lepa): Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once twice for respiratory support during childhood infections.",
-        "Adults": "1-3 grams of powder or 5-10 ml of oil divided throughout the day before meals.",
-        "Elderly": "Highly recommended to prevent age-related cold issues and maintain circulatory health. Dosage: 1g of powder daily."
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful pacifier of Vata and Kapha doshas. Due to its Katu (pungent) and Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious warming seed for 'Shothahara' (anti-swelling) and 'Krimighna' (anthelminthic) therapies. While it is heating, its 'Tikshna' (sharp) quality helps in clearing Kapha while balancing the cold qualities of Vata. It may significantly aggravate Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "rajikadi_taila__brown_mustard_oil_": {
+      "method": "Used for local massage (Abhyanga) in joint pain and to treat hair issues (Keshya)."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Toxicity is extreme; non-purified use or overdose is lethal. Strictly avoid in pregnancy in very large therapeutic doses except under professional guidance.",
-        "GRAS Status: Classified as a safe medicinal herb and oil source with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants.",
-        "Adverse Effects: Overconsumption leads to excessive heat and skin burning if applied too long as a paste."
+    "seed_powder__churna_": {
+      "method": "1-3g of fine powder taken with warm water once daily for managing worms and digestion."
+    },
+    "roasted_seeds__bhrista_": {
+      "method": "30g of roasted seeds powder taken daily for Managing weight-gain and strength."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh seeds or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once twice for respiratory support during childhood infections.",
+    "adults": "1-3 grams of powder or 5-10 ml of oil divided throughout the day before meals.",
+    "elderly": "Highly recommended to prevent age-related cold issues and maintain circulatory health. Dosage: 1g of powder daily."
+  },
+  "medicinal_uses": [
+    "Expert Warming and Anti-Inflammatory Specialist (Shothahara): Rajika is the premier Ayurvedic pulse/seed for managing cold-related pain and localized swelling. Its 'Ushna' (heating) and 'Tikshna' (sharp) nature provided by allyl isothiocyanates helps in provides systemic relief from 'Vata-avarana' (Vata-obstruction) in the joints and muscles. WHO-aligned research confirms its potent antimicrobial and circulatory-stimulant properties.",
+    "Skin Disease and Parasite Care Specialist (Kusthaghna): Historically known as 'Kusthaghna' (skin-disease-destroyer). It effectively reduces the intensity and frequency of parasitic skin infections and chronic itching by providing systemic 'Deepana' (digestive) action and clearing toxic Kapha from the skin layers through its systemic 'Tikshna' (sharp) action.",
+    "Digestive Catalyst and Metabolism Specialist: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Ajirna' (indigestion) and 'Krimi' (worms) through its systemic carminative action.",
+    "Respiratory and Sinus Management Specialist: Its 'Ushna' (heating) and 'Tikshna' (sharp) qualities help in liquefying and expelling thick, cold Kapha from the throat and sinuses. It is traditionally used to manage productive coughs and chronic sinusitis through its systemic 'Kapha-hara' effects.",
+    "Innocuous and Anti-Toxic support: Recognized as 'Vishaghna' (anti-toxic). It helps in protecting the body's 'Ojas' (vital essence) and promoting healthy cell regeneration by cleared metabolic toxins through its potent antioxidant profile (Glucosinolates).",
+    "Phytochemical Profile: Rich in Glycosides (Sinigrin), Essential Oils (Allyl isothiocyanate), Saponins, and diversos Proteins. Glucosinolates (approx. 0.5-1.0% in seeds) are the primary bioactives responsible for its potent anti-inflammatory and cardio-protective properties."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and oil source with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta (burning sensation, hyperacidity) should use it in moderation as it is Ushna (heating). Toxicity is extreme; non-purified use or overdose is lethal. Strictly avoid in pregnancy in very large therapeutic doses except under professional guidance."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption leads to excessive heat and skin burning if applied too long as a paste."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

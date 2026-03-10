@@ -171,33 +171,49 @@ function ResultsContent() {
         </div>
     );
 
-    // Resolve both schemas
-    const plantName = r(data, 'name') || "Unknown Plant";
-    const scientificName = r(data, 'scientific_name', 'scientificName') || "";
-    const family = r(data, 'family', 'botanicalFamily') || "";
-    const plantProfile = r(data, 'plant_profile', 'plantProfile') || "";
-    const prepMethods = r(data, 'preparation_methods', 'preparationMethods') || "";
-    const usageForm = r(data, 'usage_form', 'usageForm') || "";
-    const mainUses = r(data, 'main_medicinal_uses', 'mainMedicinalUses') || "";
-    const threeUses = r(data, 'three_main_uses', 'usesInAyurveda') || [];
-    const dosages = r(data, 'dosages') || {};
-    const safetyProfile = r(data, 'safety_profile', 'safetyProfile') || "";
+    // Graceful resolvers for nested "plant" format and the legacy flat format
+    const plantData = data.plant || {};
+    const plantName = plantData.common_names?.[0] || plantData.ayurveda_names?.[0] || r(data, 'name') || "Unknown Plant";
+    const scientificName = plantData.scientific_name || r(data, 'scientific_name', 'scientificName') || "";
+    const family = plantData.family || r(data, 'family', 'botanicalFamily') || "";
+    const description = plantData.description || r(data, 'description') || "";
+    const usageForm = plantData.usage_form || r(data, 'usage_form', 'usageForm') || "";
+
+    const plantProfileArr = r(data, 'plant_profile', 'plantProfile');
+    const plantProfile = typeof plantProfileArr === 'object' ? Object.values(plantProfileArr).join(' ') : plantProfileArr || "";
+
+    const prepMethodsRaw = r(data, 'preparation_methods', 'preparationMethods') || "";
+    const prepMethods = typeof prepMethodsRaw === 'object' && !Array.isArray(prepMethodsRaw) 
+        ? Object.values(prepMethodsRaw).map(v => v.method || v).filter(Boolean) 
+        : prepMethodsRaw;
+
+    const mainUses = r(data, 'medicinal_uses', 'main_medicinal_uses', 'mainMedicinalUses') || "";
+    
+    const ayurvedicPropsRaw = r(data, 'ayurvedic_properties') || null;
+    const ayurvedicProps = ayurvedicPropsRaw ? Object.entries(ayurvedicPropsRaw).map(([k, v]) => `${k.replace('_', ' ')}: ${Array.isArray(v) ? v.join(', ') : v}`) : null;
+
+    // Use dosha_karma from the new format as threeUses if `usesInAyurveda` doesn't exist.
+    const threeUses = r(data, 'three_main_uses', 'usesInAyurveda') || (ayurvedicPropsRaw?.dosha_karma ? [ayurvedicPropsRaw.dosha_karma] : []);
+
+    const dosages = r(data, 'dosage', 'dosages') || {};
+    const safetyProfileRaw = r(data, 'safety_profile', 'safetyProfile') || "";
     const aiExplanation = r(data, 'ai_recommendation_explanation');
 
-    // Normalize dosage keys (children/Children etc.)
     const doseChildren = dosages.children || dosages.Children || "Consult physician";
     const doseAdults = dosages.adults || dosages.Adults || "Consult physician";
     const doseElderly = dosages.elderly || dosages.Elderly || "Consult physician";
 
-    // Additional fields from rich schema
-    const description = r(data, 'description') || "";
-    const habitat = r(data, 'habitat') || "";
-    const partsUsed = r(data, 'parts_used') || "";
+    const contraindications = safetyProfileRaw?.intraindications || safetyProfileRaw?.contraindications || r(data, 'contraindications') || [];
+    const drugInteractions = safetyProfileRaw?.drug_interactions || r(data, 'drug_interactions') || [];
+    const sideEffects = safetyProfileRaw?.possible_side_effects || [];
+    
+    // Combine warnings and side effects if it's the new object format
+    const safetyProfile = typeof safetyProfileRaw === 'object' && !Array.isArray(safetyProfileRaw)
+        ? [safetyProfileRaw.warning, safetyProfileRaw.medical_supervision, ...sideEffects].filter(Boolean)
+        : safetyProfileRaw;
+
     const activeCompounds = r(data, 'active_compounds') || [];
     const medicinalUses = r(data, 'medicinal_uses') || null;
-    const ayurvedicProps = r(data, 'ayurvedic_properties') || null;
-    const contraindications = r(data, 'contraindications') || [];
-    const drugInteractions = r(data, 'drug_interactions') || [];
     const references = r(data, 'references') || null;
 
     const fadeUp = {

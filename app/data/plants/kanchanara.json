@@ -1,49 +1,74 @@
 {
-    "name": "Kanchanara",
-    "scientificName": "Bauhinia variegata L.",
-    "botanicalFamily": "Fabaceae (formerly Caesalpiniaceae)",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Granthi-hara' (cyst-relieving) and 'Gandamala-hara' (lymphatic-congestion-relieving) therapies, clearing the heavy, cold, and sticky qualities of Kapha through its systemic scraping (Lekhana) and astringent property.",
-        "Rasa (Taste): Kashaya (astringent).",
-        "Guna (Qualities): Laghu (light), Ruksha (dry).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Katu (pungent).",
-        "Karma (Actions): Gandamalahara (lymphatic-tonic), Granthihara (anti-cyst), Raktaprasadana (blood-soothing), Grahi (absorbent), Deepana (appetizer), and Lekhana (scraping).",
-        "API/AFI Adherence: The dried stem bark and flower are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is the central ingredient in iconic classical formulations like Kanchanar Guggulu, Kanchanaradyarishta, and various cystic-health tonics.",
-        "Specific Indications: Used in Apachi (lymphadenitis), Gandamala (cervical lymphadenopathy), Granthi (cysts/tumors), Arbuda (benign tumors), Raktapitta (bleeding disorders), and Pradara (menstrual disorders)."
+  "plant": {
+    "common_names": [
+      "Kanchanara"
     ],
-    "usageForm": "Stem bark powder (Churna), Flower decoction (Kwatha), Medicated ghee (Ghrita), Fermented extract (Arishta).",
-    "mainMedicinalUses": [
-        "Expert Lymphatic and Cyst Specialist: Kanchanara is the premier Ayurvedic remedy for all conditions of lymphatic congestion and glandular swellings. Its 'Gandamalahara' (lymphatic-tonic) nature provided by tannins helps in reducing the size of cervical lymphadenopathy and systemic cysts (Granthi). WHO-aligned research confirms its role in managing lymphatic-related inflammatory load.",
-        "Cyst and Tumor Management: Its 'Lekhana' (scraping) and 'Kashaya' (astringent) properties make it incomparable for managing stubborn cysts, localized swellings, and benign tumors (Arbuda) by clearing stagnant Kapha and Meda (fat) from the affected site through its systemic cooling action.",
-        "Thyroid and Endocrine Support: Frequently used for its ability to regulate systemic hormonal balance. It is traditionally used in 'Kanchanar Guggulu' to manage thyroid enlargement (Goiter/Galaganda) by reducing inflammatory load and stimulating healthy glandular circulation.",
-        "Skin health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The bark decoction applied topically promotes rapid relief from acne and sun-burns.",
-        "Female Reproductive Health: Traditionally used to manage excessive menstrual flow (Raktapradara) and internal bleeding (Raktapitta). Its cooling and astringent (Grahi) properties help in providing systemic hormonal and hemostatic balance.",
-        "Digestive and Diarrhea care: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining.",
-        "Phytochemical Profile: Rich in Tannins, Flavonoids (Quercitroside, Kaempferol), Sterols, and diversos Amino Acids. Tannins are the primary bioactives responsible for its potent anti-inflammatory and tissue-contracting effects."
+    "scientific_name": "Bauhinia variegata L.",
+    "family": "Fabaceae (formerly Caesalpiniaceae)",
+    "ayurveda_names": [
+      "Kanchanara"
     ],
-    "plantProfile": [
-        "Unique History: Classified under the 'Vamanopaga' (emetic-assisting) and 'Gandamalahara' (lymphatic-tonic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kanchanara' signifies its association with 'Kanchan' (gold) and 'Nara' (perpetuity). It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Orchid Tree' due to its beautiful-flowers.",
-        "Physical Characteristics: A medium-to-large-sized deciduous tree reaching up to 10-15 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are alternate, bilobed (heart-shaped), and leathery. The flowers are large, showy, and usually white, pink, or purple (orchidic appearance). The stem bark is thick, greyish-brown with a characteristic astringent-bitter-slimy taste. It is found throughout India and Southeast Asia and is widely cultivated globally for ornamental and medicinal use.",
-        "Specific Chemical Compounds: Primarily contains Tannins (approx. 10-15% in bark), Flavonoids (Quercetin, Kaempferol), and Saponins. The presence of tannins is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the lymphatic system.",
-        "Strict Standardizations: The stem bark is standardized in API based on its greyish-brown color and characteristic astringent-slimy-bitter taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPLC is used to monitor 5% to 10% tannins in commercial extracts."
+    "description": "Unique History: Classified under the 'Vamanopaga' (emetic-assisting) and 'Gandamalahara' (lymphatic-tonic) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Kanchanara' signifies its association with 'Kanchan' (gold) and 'Nara' (perpetuity). It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in classical Sanskrit literature as the 'Orchid Tree' due to its beautiful-flowers. Physical Characteristics: A medium-to-large-sized deciduous tree reaching up to 10-15 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are alternate, bilobed (heart-shaped), and leathery. The flowers are large, showy, and usually white, pink, or purple (orchidic appearance). The stem bark is thick, greyish-brown with a characteristic astringent-bitter-slimy taste. It is found throughout India and Southeast Asia and is widely cultivated globally for ornamental and medicinal use. Specific Chemical Compounds: Primarily contains Tannins (approx. 10-15% in bark), Flavonoids (Quercetin, Kaempferol), and Saponins. The presence of tannins is crucial for its anti-viral, anti-carcinogenic, and anti-inflammatory action on the lymphatic system. Strict Standardizations: The stem bark is standardized in API based on its greyish-brown color and characteristic astringent-slimy-bitter taste. Physicochemical benchmarks: total ash (<10%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%). HPLC is used to monitor 5% to 10% tannins in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Kashaya (astringent)."
     ],
-    "preparationMethods": [
-        "Stem Bark Powder (Churna): 3-6g of fine powder taken twice daily with warm water at bedtime for lymphatic regulation.",
-        "Kanchanar Guggulu: Classical tablet form used for cystic conditions and goiter; taken (500-1000mg) after meals with warm water or Triphala-decoction.",
-        "Bark Decoction (Kwatha): 20g of bark boiled in 160ml water reduced to 40ml for chronic cystic conditions and fevers. Take twice daily before meals.",
-        "Kanchanaradyarishta: 15-30ml of fermented extract taken twice daily after meals for managing chronic lymphatic congestion and menstrual issues.",
-        "External Paste (Lepa): Ground fresh bark or powder applied directly to localized inflammations (Goiter, mumps, boils, cystic swellings) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Generally safe. 1-2 grams of powder mixed with honey once at bedtime to support healthy glandular growth and regularize digestive flow.",
-        "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml; Tablet: 500-1000 mg, divided throughout the day before meals.",
-        "Elderly": "Ideal for age-related immunity support and preventing bone loss. Dosage: 3g of powder daily with warm water at bedtime."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Prominently pacifies Kapha and Pitta doshas. Due to its Kashaya (astringent) Rasa and Sheeta (cooling) Virya, it is the most prestigious herb for 'Granthi-hara' (cyst-relieving) and 'Gandamala-hara' (lymphatic-congestion-relieving) therapies, clearing the heavy, cold, and sticky qualities of Kapha through its systemic scraping (Lekhana) and astringent property."
+  },
+  "preparation_methods": {
+    "stem_bark_powder__churna_": {
+      "method": "3-6g of fine powder taken twice daily with warm water at bedtime for lymphatic regulation."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with extreme exhaustion or low digestive fire should use it in moderation as it is Kashaya (astringent). Avoid during active extreme constipation due to its 'Grahi' (absorbent) nature.",
-        "GRAS Status: Classified as a safe medicinal herb and ornamental tree with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
-        "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-diuretic or thyroid medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
-        "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    "kanchanar_guggulu": {
+      "method": "Classical tablet form used for cystic conditions and goiter; taken (500-1000mg) after meals with warm water or Triphala-decoction."
+    },
+    "bark_decoction__kwatha_": {
+      "method": "20g of bark boiled in 160ml water reduced to 40ml for chronic cystic conditions and fevers. Take twice daily before meals."
+    },
+    "kanchanaradyarishta": {
+      "method": "15-30ml of fermented extract taken twice daily after meals for managing chronic lymphatic congestion and menstrual issues."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh bark or powder applied directly to localized inflammations (Goiter, mumps, boils, cystic swellings) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 grams of powder mixed with honey once at bedtime to support healthy glandular growth and regularize digestive flow.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Arishta: 15-30 ml; Tablet: 500-1000 mg, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related immunity support and preventing bone loss. Dosage: 3g of powder daily with warm water at bedtime."
+  },
+  "medicinal_uses": [
+    "Expert Lymphatic and Cyst Specialist: Kanchanara is the premier Ayurvedic remedy for all conditions of lymphatic congestion and glandular swellings. Its 'Gandamalahara' (lymphatic-tonic) nature provided by tannins helps in reducing the size of cervical lymphadenopathy and systemic cysts (Granthi). WHO-aligned research confirms its role in managing lymphatic-related inflammatory load.",
+    "Cyst and Tumor Management: Its 'Lekhana' (scraping) and 'Kashaya' (astringent) properties make it incomparable for managing stubborn cysts, localized swellings, and benign tumors (Arbuda) by clearing stagnant Kapha and Meda (fat) from the affected site through its systemic cooling action.",
+    "Thyroid and Endocrine Support: Frequently used for its ability to regulate systemic hormonal balance. It is traditionally used in 'Kanchanar Guggulu' to manage thyroid enlargement (Goiter/Galaganda) by reducing inflammatory load and stimulating healthy glandular circulation.",
+    "Skin health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The bark decoction applied topically promotes rapid relief from acne and sun-burns.",
+    "Female Reproductive Health: Traditionally used to manage excessive menstrual flow (Raktapradara) and internal bleeding (Raktapitta). Its cooling and astringent (Grahi) properties help in providing systemic hormonal and hemostatic balance.",
+    "Digestive and Diarrhea care: Its 'Grahi' (absorbent) and 'Kashaya' (astringent) actions make it highly effective for managing burning hemorrhoids, chronic diarrhea, and inflammatory bowel conditions by strengthening the gut lining.",
+    "Phytochemical Profile: Rich in Tannins, Flavonoids (Quercitroside, Kaempferol), Sterols, and diversos Amino Acids. Tannins are the primary bioactives responsible for its potent anti-inflammatory and tissue-contracting effects."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and ornamental tree with a history of use spanning millennia across various global traditional systems (Ayurveda, Unani, and TCM) without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with extreme exhaustion or low digestive fire should use it in moderation as it is Kashaya (astringent). Avoid during active extreme constipation due to its 'Grahi' (absorbent) nature."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin cooling or stomach dryness."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-diuretic or thyroid medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

@@ -1,28 +1,50 @@
 {
-  "id": "pitasara",
-  "name": "Pitasara (Indian Kino Tree)",
-  "scientificName": "Pterocarpus marsupium Roxb.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
-    "Karma: Pramehaghna (Anti-diabetic)."
-  ],
-  "usageForm": "Heartwood powder, Wood cup.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Pitasara (Indian Kino Tree)"
+    ],
+    "scientific_name": "Pterocarpus marsupium Roxb.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Pitasara (Indian Kino Tree)"
+    ],
+    "description": "Wood contains Pterostilbene, a potent antioxidant."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Soak wood in water overnight and drink."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-6g powder",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Classic treatment for Type 2 Diabetes.",
     "Helps in weight reduction and metabolism enhancement.",
     "Used for skin ailments and internal bleeding."
   ],
-  "plantProfile": [
-    "Wood contains Pterostilbene, a potent antioxidant."
-  ],
-  "preparationMethods": [
-    "Soak wood in water overnight and drink."
-  ],
-  "dosages": {
-    "Adults": "3-6g powder"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

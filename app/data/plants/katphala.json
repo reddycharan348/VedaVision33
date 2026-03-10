@@ -1,27 +1,50 @@
 {
-  "id": "katphala",
-  "name": "Katphala (Box Myrtle)",
-  "scientificName": "Myrica esculenta Buch.-Ham. ex D. Don",
-  "botanicalFamily": "Myricaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Vata."
-  ],
-  "usageForm": "Bark powder.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Katphala (Box Myrtle)"
+    ],
+    "scientific_name": "Myrica esculenta Buch.-Ham. ex D. Don",
+    "family": "Myricaceae",
+    "ayurveda_names": [
+      "Katphala (Box Myrtle)"
+    ],
+    "description": "Himalayan berry with medicinal bark."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Bark powder with honey."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "3-5g",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Used for chronic coughs and sore throat.",
     "Assists in controlling chronic diarrhea.",
     "Aromatic bark used for oral hygiene."
   ],
-  "plantProfile": [
-    "Himalayan berry with medicinal bark."
-  ],
-  "preparationMethods": [
-    "Bark powder with honey."
-  ],
-  "dosages": {
-    "Adults": "3-5g"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

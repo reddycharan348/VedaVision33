@@ -1,48 +1,73 @@
 {
-    "name": "Shatavari",
-    "scientificName": "Asparagus racemosus Willd.",
-    "botanicalFamily": "Asparagaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Primarily pacifies Vata and Pitta doshas. Its Madhura (sweet) Rasa, Guru (heavy) and Snigdha (unctuous) Gunas, and Sheeta (cooling) Virya make it the supreme nourishing and cooling herb. It may slightly increase Kapha in excess due to its heavy and unctuous nature.",
-        "Rasa (Taste): Madhura (Sweet), Tikta (Bitter).",
-        "Guna (Qualities): Guru (Heavy), Snigdha (Unctuous).",
-        "Virya (Potency): Sheeta (Cooling).",
-        "Vipaka (Post-digestive taste): Madhura (Sweet).",
-        "Karma (Actions): Balya (strength-promoting), Vrishya (aphrodisiac), Stanyajanana (galactagogue), Garbhasthapana (supports pregnancy), Shukrala (increases sperm), Rasayana (rejuvenative), Medhya (brain tonic), Mutral (diuretic), Chakshushya (benefits eyes), Hridya (cardiotonic), Shothaghna (anti-inflammatory).",
-        "API/AFI Adherence: Tuberous roots are the official part used, as specified in the Ayurvedic Pharmacopoeia of India (API). It is a key ingredient in classical formulations including Shatavari Ghrita, Shatavari Kalpa, Phala Ghrita, Narayana Taila, and as part of Chyawanprash.",
-        "Specific Indications: Stanya Kshaya (galactorrhea/low breast milk), Vandhyatva (infertility, both male and female), Raktapitta (bleeding disorders), Amlapitta (hyperacidity), Garbhini Paricharya (antenatal care), Kshaya (emaciation), Shukra Daurbalya (semen debility)."
+  "plant": {
+    "common_names": [
+      "Shatavari"
     ],
-    "usageForm": "Tuberous root powder (Churna), Medicated ghee (Shatavari Ghrita), Medicated milk (Ksheerapaka), Fresh root juice (Svarasa), Granules (Shatavari Kalpa), Decoction (Kwatha).",
-    "mainMedicinalUses": [
-        "Female Reproductive Health: Shatavari (literally 'she who possesses a hundred husbands') is the undisputed queen of female reproductive tonics in Ayurveda. It supports all phases of a woman's reproductive life—from menstruation and fertility, through pregnancy and lactation, to menopause. It regulates menstrual cycles, supports ovulation, nourishes the uterus (Garbhashaya Pushti), and is a powerful galactagogue (Stanyajanana).",
-        "Galactagogue: One of its most well-documented uses. Shatavari significantly increases breast milk production and quality. This has been validated in clinical studies and is one of the primary traditional uses documented in API and classical texts.",
-        "Digestive and Anti-Ulcer: Due to its Sheeta Virya and Madhura Rasa, it is extremely effective in Amlapitta (hyperacidity) and peptic ulcers. It acts as a mucilaginous demulcent, coating and soothing the gastric mucosa. WHO-aligned pharmacological studies confirm significant anti-ulcerogenic and antacid activity of its root extracts.",
-        "Adaptogenic and Immunomodulatory: Acts as a potent adaptogen, helping the body cope with physical and emotional stress. Its steroidal saponins (Shatavarin I-IV) are primary immunomodulatory agents, enhancing macrophage activity and T-cell proliferation.",
-        "Male Reproductive Health (Vajikarana): Though primarily known for female health, Shatavari is also a potent Vajikarana (aphrodisiac) for men, improving sperm count, motility, and morphology (Shukrala), and supporting sexual vitality.",
-        "Chemical Constituents: Contains steroidal saponins (Shatavarins I-IV, the primary bioactive compounds, which are furostanol and spirostanol glycosides), isoflavones (racemosol, racemofuran), asparagamine (a polycyclic alkaloid), mucilage, sterols (β-sitosterol, stigmasterol), flavonoids, and essential minerals."
+    "scientific_name": "Asparagus racemosus Willd.",
+    "family": "Asparagaceae",
+    "ayurveda_names": [
+      "Shatavari"
     ],
-    "plantProfile": [
-        "Unique History: Shatavari is one of the most important Rasayana herbs in Ayurveda, with its use spanning over thousands of years. Its name, meaning 'she who possesses a hundred husbands,' signifies its profound rejuvenative effect on the female reproductive system. Charaka classified it as Balya (strength-providing), Vayasthapana (anti-aging), and Shukrala (spermatogenic). Sushruta classified it under the Vidarigandhadi group.",
-        "Physical Characteristics: A spinous climbing undershrub or woody climber, growing up to 1-2 meters (can extend further). It features fascicled tuberous roots that are the primary medicinal part—these are elongated, tapering, 15-30 cm long, and silvery white or brown externally. The stems are woody, climbing, with thorny recurved spines (which are modified stipules). Leaves are reduced to small, spine-like cladodes (modified stems resembling pine needles). Flowers are small, white, fragrant, and arranged in racemes. Found throughout tropical and sub-tropical India, from sea level to 1500 meters altitude, in gravelly and rocky soils.",
-        "Specific Chemical Compounds: The most significant bioactive compounds are the steroidal saponins known as Shatavarins (I, II, III, IV, V), with Shatavarin IV identified as a glycoside of sarsasapogenin. Other key constituents include asparagamine A (a polycyclic alkaloid), racemofuran and racemosol (isoflavones), mucilage, sterols (β-sitosterol, stigmasterol, diosgenin), flavonoids (quercetin, rutin, kaempferol), and polysaccharides. The saponins are the primary drivers of its galactagogue and immunomodulatory actions.",
-        "Strict Standardizations: As per API, the tuberous roots of Asparagus racemosus Willd. are standardized. Key quality parameters include total ash (not more than 9%), acid-insoluble ash (not more than 3%), alcohol-soluble extractive (not less than 15%), and water-soluble extractive (not less than 62%). Heavy metal limits and microbial contamination are tested as per WHO/AYUSH guidelines. HPTLC/HPLC methods are used for fingerprinting and quantification of Shatavarin IV as a marker compound."
+    "description": "Unique History: Shatavari is one of the most important Rasayana herbs in Ayurveda, with its use spanning over thousands of years. Its name, meaning 'she who possesses a hundred husbands,' signifies its profound rejuvenative effect on the female reproductive system. Charaka classified it as Balya (strength-providing), Vayasthapana (anti-aging), and Shukrala (spermatogenic). Sushruta classified it under the Vidarigandhadi group. Physical Characteristics: A spinous climbing undershrub or woody climber, growing up to 1-2 meters (can extend further). It features fascicled tuberous roots that are the primary medicinal part—these are elongated, tapering, 15-30 cm long, and silvery white or brown externally. The stems are woody, climbing, with thorny recurved spines (which are modified stipules). Leaves are reduced to small, spine-like cladodes (modified stems resembling pine needles). Flowers are small, white, fragrant, and arranged in racemes. Found throughout tropical and sub-tropical India, from sea level to 1500 meters altitude, in gravelly and rocky soils. Specific Chemical Compounds: The most significant bioactive compounds are the steroidal saponins known as Shatavarins (I, II, III, IV, V), with Shatavarin IV identified as a glycoside of sarsasapogenin. Other key constituents include asparagamine A (a polycyclic alkaloid), racemofuran and racemosol (isoflavones), mucilage, sterols (β-sitosterol, stigmasterol, diosgenin), flavonoids (quercetin, rutin, kaempferol), and polysaccharides. The saponins are the primary drivers of its galactagogue and immunomodulatory actions. Strict Standardizations: As per API, the tuberous roots of Asparagus racemosus Willd. are standardized. Key quality parameters include total ash (not more than 9%), acid-insoluble ash (not more than 3%), alcohol-soluble extractive (not less than 15%), and water-soluble extractive (not less than 62%). Heavy metal limits and microbial contamination are tested as per WHO/AYUSH guidelines. HPTLC/HPLC methods are used for fingerprinting and quantification of Shatavarin IV as a marker compound."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (Sweet), Tikta (Bitter)."
     ],
-    "preparationMethods": [
-        "Powder (Churna): The tuberous roots are thoroughly washed, peeled, shade-dried, and then finely powdered. Consumed with warm milk and ghee, or honey. Milk is the preferred Anupana for its Rasayana and Stanyajanana effects.",
-        "Medicated Ghee (Shatavari Ghrita): Fresh root juice or root paste is cooked with cow's ghee and other herbs following classical Sneha Kalpana (medicated fat preparation) methods. This is the supreme preparation for female reproductive disorders and emaciation.",
-        "Shatavari Kalpa: A traditional sweet granule preparation made from Shatavari root powder cooked with sugar, milk, and ghee. Popular as a palatable tonic for lactating mothers and general rejuvenation.",
-        "Ksheerapaka (Medicated Milk): 3-5 grams of Shatavari root powder is boiled with one part milk and four parts water. The mixture is slowly reduced until only the milk portion remains. This is consumed warm, often with sugar or honey.",
-        "Decoction (Kwatha): 10-20g of dried root is boiled in 200ml water and reduced to 50ml. Used for urinary disorders, hyperacidity, and as a general tonic."
-    ],
-    "dosages": {
-        "Children": "Generally safe for children in smaller doses. Powder: 1-3 grams with warm milk, for general debility and immune support. Shatavari Kalpa: As per product label. Must be under medical supervision for specific conditions.",
-        "Adults": "Powder (Churna): 3-6 grams per day, typically with warm milk and ghee or honey, in divided doses. Fresh Root Juice: 10-20 ml daily. Shatavari Ghrita: 5-10 grams once or twice daily before meals. Ksheerapaka: One cup daily.",
-        "Elderly": "Standard adult dosages are applicable and highly recommended. Shatavari is an excellent geriatric tonic (Vayasthapana) for age-related tissue depletion, dryness, and debility. Start with moderate doses and monitor for any Kapha-related heaviness."
+    "virya_potency": "Sheeta (Cooling).",
+    "vipaka_effect": "Madhura (Sweet).",
+    "dosha_karma": "Primarily pacifies Vata and Pitta doshas. Its Madhura (sweet) Rasa, Guru (heavy) and Snigdha (unctuous) Gunas, and Sheeta (cooling) Virya make it the supreme nourishing and cooling herb. It may slightly increase Kapha in excess due to its heavy and unctuous nature."
+  },
+  "preparation_methods": {
+    "powder__churna_": {
+      "method": "The tuberous roots are thoroughly washed, peeled, shade-dried, and then finely powdered. Consumed with warm milk and ghee, or honey. Milk is the preferred Anupana for its Rasayana and Stanyajanana effects."
     },
-    "safetyProfile": [
-        "Contraindications: Due to its Guru (heavy) and Snigdha (unctuous) Gunas, it is contraindicated or should be used with extreme caution in conditions of severe Kapha aggravation, Ama (metabolic toxins), and Mandagni (severe low digestive fire), which may lead to further congestion and heaviness. It should also be used cautiously by individuals with estrogen-receptor-positive tumors due to the presence of phytoestrogenic steroidal saponins.",
-        "GRAS Status: Shatavari has an exceptionally long and robust history of safe use in Ayurveda, including during pregnancy and lactation (where it is traditionally considered Garbhasthapana—supporting pregnancy). It is listed in the API and recognized by the Ministry of AYUSH. No significant adverse effects have been reported in traditional or modern clinical use at therapeutic doses.",
-        "Herb-Drug Interactions: May potentiate the effects of diuretic drugs due to its own mild Mutral (diuretic) action. Caution is advised with estrogen-based therapies or oral contraceptives due to its phytoestrogenic activity. May theoretically interact with antidiabetic drugs by lowering blood sugar, though this effect is mild.",
-        "Adverse Effects: Generally extremely well-tolerated. In rare cases, individuals with very low Agni (digestive fire) may experience heaviness, bloating, or mild nausea due to its heavy and oily qualities. Allergic reactions are possible, particularly in individuals allergic to asparagus species."
+    "medicated_ghee__shatavari_ghrita_": {
+      "method": "Fresh root juice or root paste is cooked with cow's ghee and other herbs following classical Sneha Kalpana (medicated fat preparation) methods. This is the supreme preparation for female reproductive disorders and emaciation."
+    },
+    "shatavari_kalpa": {
+      "method": "A traditional sweet granule preparation made from Shatavari root powder cooked with sugar, milk, and ghee. Popular as a palatable tonic for lactating mothers and general rejuvenation."
+    },
+    "ksheerapaka__medicated_milk_": {
+      "method": "3-5 grams of Shatavari root powder is boiled with one part milk and four parts water. The mixture is slowly reduced until only the milk portion remains. This is consumed warm, often with sugar or honey."
+    },
+    "decoction__kwatha_": {
+      "method": "10-20g of dried root is boiled in 200ml water and reduced to 50ml. Used for urinary disorders, hyperacidity, and as a general tonic."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe for children in smaller doses. Powder: 1-3 grams with warm milk, for general debility and immune support. Shatavari Kalpa: As per product label. Must be under medical supervision for specific conditions.",
+    "adults": "Powder (Churna): 3-6 grams per day, typically with warm milk and ghee or honey, in divided doses. Fresh Root Juice: 10-20 ml daily. Shatavari Ghrita: 5-10 grams once or twice daily before meals. Ksheerapaka: One cup daily.",
+    "elderly": "Standard adult dosages are applicable and highly recommended. Shatavari is an excellent geriatric tonic (Vayasthapana) for age-related tissue depletion, dryness, and debility. Start with moderate doses and monitor for any Kapha-related heaviness."
+  },
+  "medicinal_uses": [
+    "Female Reproductive Health: Shatavari (literally 'she who possesses a hundred husbands') is the undisputed queen of female reproductive tonics in Ayurveda. It supports all phases of a woman's reproductive life—from menstruation and fertility, through pregnancy and lactation, to menopause. It regulates menstrual cycles, supports ovulation, nourishes the uterus (Garbhashaya Pushti), and is a powerful galactagogue (Stanyajanana).",
+    "Galactagogue: One of its most well-documented uses. Shatavari significantly increases breast milk production and quality. This has been validated in clinical studies and is one of the primary traditional uses documented in API and classical texts.",
+    "Digestive and Anti-Ulcer: Due to its Sheeta Virya and Madhura Rasa, it is extremely effective in Amlapitta (hyperacidity) and peptic ulcers. It acts as a mucilaginous demulcent, coating and soothing the gastric mucosa. WHO-aligned pharmacological studies confirm significant anti-ulcerogenic and antacid activity of its root extracts.",
+    "Adaptogenic and Immunomodulatory: Acts as a potent adaptogen, helping the body cope with physical and emotional stress. Its steroidal saponins (Shatavarin I-IV) are primary immunomodulatory agents, enhancing macrophage activity and T-cell proliferation.",
+    "Male Reproductive Health (Vajikarana): Though primarily known for female health, Shatavari is also a potent Vajikarana (aphrodisiac) for men, improving sperm count, motility, and morphology (Shukrala), and supporting sexual vitality.",
+    "Chemical Constituents: Contains steroidal saponins (Shatavarins I-IV, the primary bioactive compounds, which are furostanol and spirostanol glycosides), isoflavones (racemosol, racemofuran), asparagamine (a polycyclic alkaloid), mucilage, sterols (β-sitosterol, stigmasterol), flavonoids, and essential minerals."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Shatavari has an exceptionally long and robust history of safe use in Ayurveda, including during pregnancy and lactation (where it is traditionally considered Garbhasthapana—supporting pregnancy). It is listed in the API and recognized by the Ministry of AYUSH. No significant adverse effects have been reported in traditional or modern clinical use at therapeutic doses.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Due to its Guru (heavy) and Snigdha (unctuous) Gunas, it is contraindicated or should be used with extreme caution in conditions of severe Kapha aggravation, Ama (metabolic toxins), and Mandagni (severe low digestive fire), which may lead to further congestion and heaviness. It should also be used cautiously by individuals with estrogen-receptor-positive tumors due to the presence of phytoestrogenic steroidal saponins."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Generally extremely well-tolerated. In rare cases, individuals with very low Agni (digestive fire) may experience heaviness, bloating, or mild nausea due to its heavy and oily qualities. Allergic reactions are possible, particularly in individuals allergic to asparagus species."
+    ],
+    "drug_interactions": [
+      "May potentiate the effects of diuretic drugs due to its own mild Mutral (diuretic) action. Caution is advised with estrogen-based therapies or oral contraceptives due to its phytoestrogenic activity. May theoretically interact with antidiabetic drugs by lowering blood sugar, though this effect is mild."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

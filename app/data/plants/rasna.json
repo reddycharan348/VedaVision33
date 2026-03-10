@@ -1,29 +1,50 @@
 {
-  "id": "rasna",
-  "name": "Rasna",
-  "scientificName": "Pluchea lanceolata (DC.) Oliv. & Hiern",
-  "botanicalFamily": "Asteraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Vata.",
-    "Virya: Ushna (Hot).",
-    "Karma: Amavatahara (Rheumatoid arthritis reliever)."
-  ],
-  "usageForm": "Leaf decoction.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Rasna"
+    ],
+    "scientific_name": "Pluchea lanceolata (DC.) Oliv. & Hiern",
+    "family": "Asteraceae",
+    "ayurveda_names": [
+      "Rasna"
+    ],
+    "description": "Highly recommended in standard Ayurvedic texts for Vata diseases."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "Ushna (Hot).",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Vata."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Strong decoction taken with castor oil (Eranda)."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "10-20ml decoction",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Used specifically for Vata-dominant joint pain and stiffness.",
     "Relieves cough and bronchitis symptoms.",
     "Assists in treating diseases of the nervous system."
   ],
-  "plantProfile": [
-    "Highly recommended in standard Ayurvedic texts for Vata diseases."
-  ],
-  "preparationMethods": [
-    "Strong decoction taken with castor oil (Eranda)."
-  ],
-  "dosages": {
-    "Adults": "10-20ml decoction"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

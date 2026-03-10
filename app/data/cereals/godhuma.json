@@ -1,47 +1,70 @@
 {
-    "name": "Godhuma",
-    "scientificName": "Triticum aestivum L.",
-    "botanicalFamily": "Poaceae",
-    "usesInAyurveda": [
-        "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is a premier choice for 'Balya' (strength-promoting) and 'Jivaniya' (life-promoting) therapies. While it is cooling, it is 'Guru' (heavy) and 'Snigdha' (unctuous), making it a Kapha-increasing grain if over-consumed.",
-        "Rasa (Taste): Madhura (sweet).",
-        "Guna (Qualities): Guru (heavy), Snigdha (unctuous/oily), Sara (flowing).",
-        "Virya (Potency): Sheeta (cooling).",
-        "Vipaka (Post-digestive taste): Madhura (sweet).",
-        "Karma (Actions): Vatahara (Vata-pacifying), Brimhana (nourishing), Balya (strength-promoter), Jivaniya (life-sustaining), Vrishya (aphrodisiac), and Sandhaniya (healing/union-promoting).",
-        "API/AFI Adherence: Known as 'Godhuma' in the Ayurvedic Pharmacopoeia of India (API). It is the base for several 'Pathya' (healing diets) like Godhuma-Saktu and various nourishing confections.",
-        "Specific Indications: Used in Karshya (emaciation), Daurbalya (weakness), Vata-vyadhi (neuromuscular disorders), Fracture healing (Asthibhanga), and Shosha (wasting)."
+  "plant": {
+    "common_names": [
+      "Godhuma"
     ],
-    "usageForm": "Whole grain flour (Churna/Atta), Cooked flatbread (Roti), Broken wheat (Daliya), Roasted powder (Saktu).",
-    "mainMedicinalUses": [
-        "Expert Nourishment and Growth Specialist (Brimhana): Godhuma is the premier Ayurvedic cereal for physical strength and recovery. Its 'Guru' (heavy) and 'Snigdha' (oily) nature provided by complex proteins (gluten) and essential fats helps in providing systemic stabilization of the 'Dhatus' (tissues). WHO research into wheat confirms its high nutritional density and systemic antioxidant profile.",
-        "Bone and Fracture Healing (Sandhaniya): Historically known as 'Sandhaniya' (union-promoting). It effectively promotes the healing of bones and joints by providing essential calcium and tissue-building proteins. It is traditionally used in 'Godhumadi-Taila' for local application in fractures.",
-        "Reproductive Health and Aphrodisiac (Vrishya): Associated with 'Vajikarana' (aphrodisiac). It improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya).",
-        "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helped in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress. It is traditionally used in 'Godhumasava'.",
-        "Lactation and Maternal Health: Known as 'Stanya-janana' (lactation-promoter). It improves the quantity and quality of breast milk in nursing mothers through its systemic nourishing properties.",
-        "Phytochemical Profile: Rich in Proteins (Glutenins, Gliadins), Complex Carbohydrates, B-complex Vitamins, and Essential Minerals (Phosphorus, Selenium)."
+    "scientific_name": "Triticum aestivum L.",
+    "family": "Poaceae",
+    "ayurveda_names": [
+      "Godhuma"
     ],
-    "plantProfile": [
-        "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Shuka Dhanyas' (bearded grains) for Vata-Pitta types. Historically regarded as the 'Grain of the Earth'. It was a primary food for the warrior class (Kshatriyas) due to its strength-giving property.",
-        "Physical Characteristics: A tall, erect, annual grass reaching up to 1-1.5 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) with a characteristic sweet-nutty taste. Found throughout Northern and Central India, cultivated extensively for its seeds.",
-        "Specific Chemical Compounds: Contains Glutenin, Gliadin, and Ferulic acid. The presence of these proteins is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and intestinal walls.",
-        "Strict Standardizations: The grain is standardized in API based on its yellowish-brown-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>12%)."
+    "description": "Unique History: Mentioned in the Vedas and Charaka Samhita as the best among 'Shuka Dhanyas' (bearded grains) for Vata-Pitta types. Historically regarded as the 'Grain of the Earth'. It was a primary food for the warrior class (Kshatriyas) due to its strength-giving property. Physical Characteristics: A tall, erect, annual grass reaching up to 1-1.5 meters in height, with linear leaves and terminal spikes (ears) of flowers. The fruit is a small, elongated caryopsis (grain) with a characteristic sweet-nutty taste. Found throughout Northern and Central India, cultivated extensively for its seeds. Specific Chemical Compounds: Contains Glutenin, Gliadin, and Ferulic acid. The presence of these proteins is crucial for its neuro-relaxant, anti-tumor, and anti-inflammatory action on the heart and intestinal walls. Strict Standardizations: The grain is standardized in API based on its yellowish-brown-to-white color and characteristic sweet-mild-nutty taste. Physicochemical benchmarks: moisture content (<12%), protein content (>12%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet)."
     ],
-    "preparationMethods": [
-        "Atta (Whole-Wheat Flour): Ground seeds used as a base for flatbreads (Roti) for daily nourishment.",
-        "Godhuma-Saktu (Roasted): 30g of roasted seeds powder taken daily with milk for Managing weight-gain and strength.",
-        "Daliya (Broken Wheat): Whole seeds broken into small pieces and cooked as porridge for managing weak digestion and fevers.",
-        "External Paste (Lepa): Ground fresh wheat or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes, hyperpigmentation) to reduce heat and swelling."
-    ],
-    "dosages": {
-        "Children": "Safe from 6 months. 20 - 50 grams of cooked wheat (Daliya) mixed with milk once twice daily for muscle development in childhood.",
-        "Adults": "Daily staple food (100-250g of cooked wheat per meal).",
-        "Elderly": "Highly recommended to prevent age-related muscle wasting. Dosage: 100g of cooked wheat daily."
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) Rasa, Sheeta (cooling) Virya, and Madhura Vipaka, it is a premier choice for 'Balya' (strength-promoting) and 'Jivaniya' (life-promoting) therapies. While it is cooling, it is 'Guru' (heavy) and 'Snigdha' (unctuous), making it a Kapha-increasing grain if over-consumed."
+  },
+  "preparation_methods": {
+    "atta__whole_wheat_flour_": {
+      "method": "Ground seeds used as a base for flatbreads (Roti) for daily nourishment."
     },
-    "safetyProfile": [
-        "Contraindications: Generally very safe. However, individuals with Wheat Allergy (Celiac disease), extreme high Kapha (severe obesity, chronic congestion), and very weak digestion should avoid refined wheat (Maida). Whole wheat is better for managing constipation.",
-        "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
-        "Herb-Drug Interactions: None documented. It acts as a neutral carrier for many medicines.",
-        "Adverse Effects: Overconsumption leads to excessive weight gain and digestive heaviness if not toasted before cooking."
+    "godhuma_saktu__roasted_": {
+      "method": "30g of roasted seeds powder taken daily with milk for Managing weight-gain and strength."
+    },
+    "daliya__broken_wheat_": {
+      "method": "Whole seeds broken into small pieces and cooked as porridge for managing weak digestion and fevers."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh wheat or powder applied directly to localized inflammations (Mumps, boils, joint pain, skin rashes, hyperpigmentation) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Safe from 6 months. 20 - 50 grams of cooked wheat (Daliya) mixed with milk once twice daily for muscle development in childhood.",
+    "adults": "Daily staple food (100-250g of cooked wheat per meal).",
+    "elderly": "Highly recommended to prevent age-related muscle wasting. Dosage: 100g of cooked wheat daily."
+  },
+  "medicinal_uses": [
+    "Expert Nourishment and Growth Specialist (Brimhana): Godhuma is the premier Ayurvedic cereal for physical strength and recovery. Its 'Guru' (heavy) and 'Snigdha' (oily) nature provided by complex proteins (gluten) and essential fats helps in providing systemic stabilization of the 'Dhatus' (tissues). WHO research into wheat confirms its high nutritional density and systemic antioxidant profile.",
+    "Bone and Fracture Healing (Sandhaniya): Historically known as 'Sandhaniya' (union-promoting). It effectively promotes the healing of bones and joints by providing essential calcium and tissue-building proteins. It is traditionally used in 'Godhumadi-Taila' for local application in fractures.",
+    "Reproductive Health and Aphrodisiac (Vrishya): Associated with 'Vajikarana' (aphrodisiac). It improves sperm count, libido, and sexual stamina (Klaibya-hara) by promoting the healthy production of 'Shukra-dhatu' (reproductive tissue) and providing systemic energy (Balya).",
+    "Heart and Emotional Wellbeing: Acts as a powerful Hridya (heart-tonic). Its aromatic presence and cooling nature helped in regulating heart rate, improving systemic circulation, and protecting the heart muscles from oxidative stress. It is traditionally used in 'Godhumasava'.",
+    "Lactation and Maternal Health: Known as 'Stanya-janana' (lactation-promoter). It improves the quantity and quality of breast milk in nursing mothers through its systemic nourishing properties.",
+    "Phytochemical Profile: Rich in Proteins (Glutenins, Gliadins), Complex Carbohydrates, B-complex Vitamins, and Essential Minerals (Phosphorus, Selenium)."
+  ],
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe staple food with a history of documented safety for thousands of years.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with Wheat Allergy (Celiac disease), extreme high Kapha (severe obesity, chronic congestion), and very weak digestion should avoid refined wheat (Maida). Whole wheat is better for managing constipation."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overconsumption leads to excessive weight gain and digestive heaviness if not toasted before cooking."
+    ],
+    "drug_interactions": [
+      "None documented. It acts as a neutral carrier for many medicines."
     ]
+  },
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

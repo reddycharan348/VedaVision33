@@ -1,19 +1,46 @@
 {
-  "name": "Jyotishmati",
-  "scientificName": "Celastrus paniculatus Willd.",
-  "botanicalFamily": "Celastraceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) and Tikta (bitter) Rasa and Atyanta-Ushna (extremely hot) Virya, it is the most prestigious herb for 'Medhya' (intellect-promoting) and 'Smriti-prada' (memory-enhancing) therapies, clearing the cold, heavy, and sticky qualities of Kapha while balancing the dry and rough qualities of Vata through its systemic warming and penetrating property. It may significantly aggravate Pitta if used in excess.",
-    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
-    "Guna (Qualities): Tikshna (sharp), Laghu (light), Sara (flowing), Snigdha (unctuous/oily) - specifically for seed oil.",
-    "Virya (Potency): Ushna (extremely hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Medhya (intellect-promoting), Smriti-prada (memory-enhancing), Shulaprashamana (analgesic), Vatahara (Vata-pacifying), Dipana (appetizer), and Pachana (digestive).",
-    "API/AFI Adherence: The dried seed and seed oil are the official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is a primary ingredient in iconic classical formulations like Jyotishmati-taila, Smritisagar Rasa, and various mental-health tonics.",
-    "Specific Indications: Used in Smriti-kshaya (Memory loss/ADHD), Sandhigatavata (Osteoarthritis), Udara-roga (Ascites/Abdominal enlargement), Mutra-kricchra (Dysuria), and Kustha (Skin diseases)."
-  ],
-  "usageForm": "Seed oil (Taila), Seed powder (Churna), Seed decoction (Kwatha), Medicated ghee (Ghrita).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Jyotishmati"
+    ],
+    "scientific_name": "Celastrus paniculatus Willd.",
+    "family": "Celastraceae",
+    "ayurveda_names": [
+      "Jyotishmati"
+    ],
+    "description": "Unique History: Classified under the 'Deepaniya' (appetizer) and 'Shulaprashamana' (pain-relieving) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Jyotishmati' literally translates to 'one that shines with light' (referring to mental clarity). It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in the Vedas and Puranas for its unmatched 'Medhya' properties. Physical Characteristics: A large, woody, deciduous climbing shrub growing up to 10-15 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are alternate, ovate-lanceolate, and green. The flowers are small, greenish-white, in terminal panicles. The fruit is a globose, bright-yellow-to-orange capsule containing seeds with a characteristic brownish-red oily aril. It is found throughout India and Southeast Asia. Specific Chemical Compounds: Primarily contains Essential Oil (2-5% in seeds), Sesquiterpenes (Celastrine), and Fatty Acids. The presence of sesquiterpenoids is crucial for its neuro-protective, anti-convulsant, and nootropic effects on the brain cells. Strict Standardizations: The seed is standardized in API based on its brownish-red oily color and characteristic strong-aromatic-pungent taste. Physicochemical benchmarks of oil: total ash (<1%), acid value (<10%), and saponification value (190-210). GC-MS is used to monitor 1% to 2% volatile oil in commercial extracts."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Katu (pungent)."
+    ],
+    "virya_potency": "Ushna (extremely hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Katu (pungent) and Tikta (bitter) Rasa and Atyanta-Ushna (extremely hot) Virya, it is the most prestigious herb for 'Medhya' (intellect-promoting) and 'Smriti-prada' (memory-enhancing) therapies, clearing the cold, heavy, and sticky qualities of Kapha while balancing the dry and rough qualities of Vata through its systemic warming and penetrating property. It may significantly aggravate Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "seed_oil__taila_": {
+      "method": "5-10 drops of pure seed oil taken twice daily with warm milk or on a piece of bread (to mask pungent taste) for enhancing memory and intellect."
+    },
+    "seed_powder__churna_": {
+      "method": "1-3g of fine powder taken twice daily with honey or warm milk (as an Anupana) for managing mental stress and cognition."
+    },
+    "seed_decoction__kwatha_": {
+      "method": "5g of dried seeds boiled in 100ml water reduced to 25ml for chronic joint pain and edema. Take twice daily before meals."
+    },
+    "medicated_ghee__ghrita_": {
+      "method": "5-10g of ghee processed with Jyotishmati; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality."
+    },
+    "external_paste__lepa_": {
+      "method": "Ground fresh seeds or oil applied directly to the forehead for fever and headache or to localized inflammations (Mumps, boils, joint pain) to reduce heat and swelling."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 drops of oil (under expert guidance) mixed with milk once daily for enhancing concentration and learning in students.",
+    "adults": "Oil: 5-10 drops; Powder: 1-3 grams; Decoction: 10-20 ml; Ghee: 5-10 g, divided throughout the day before or during meals.",
+    "elderly": "Ideal for age-related cognitive support and preventing memory loss. Dosage: 5 drops of oil daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "World-Class Mind and Memory Specialist (Medhya): Jyotishmati is the premier Ayurvedic mind tonic, often called 'The Elixir of Intellect'. Its 'Tikshna' (sharp) and 'Ushna' (extremely hot) nature provided by sesquiterpene esters helps in enhancing cognitive function, improving memory retention, and providing systemic warming to the nervous system. WHO-aligned research supports its role in neuro-protection and anti-stress effects.",
     "ADHD and Cognitive Management: Traditionally used to improve concentration and focus in children and adults. It helps in stabilizing the electrical activity of the brain and reducing 'Vata-unmada' (mental agitation) by clearing 'Ama' (toxins) and balancing Vata. Clinical studies confirm its nootropic influence.",
     "Joint Pain and Anti-Arthritic: Its ability to clear 'Ama' (toxins) and balance Vata-Kapha makes it a supreme choice for rheumatoid arthritis (Amavata) and osteoarthritis. It reduces joint inflammation and improves mobility through its systemic 'Shothahara' (anti-swelling) effect. Oil is traditionally massaged for relief.",
@@ -22,28 +49,26 @@
     "Skin Health and Wound Healing: Its antimicrobial and unctuous (Snigdha) properties help in treating chronic dry skin conditions and localized inflammation. The seed oil applied topically promotes rapid relief from eczema and psoriasis.",
     "Phytochemical Profile: Rich in Essential Fatty Acids (Oleic, Linoleic), Sesquiterpenoids (Malkanguniol, Celastrol), and various Alkaloids. Celastrol is the primary bioactive responsible for its potent anti-inflammatory and neuro-regenerative action."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Deepaniya' (appetizer) and 'Shulaprashamana' (pain-relieving) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Jyotishmati' literally translates to 'one that shines with light' (referring to mental clarity). It is spiritually associated with 'Sattva' (purity and clarity). Mentioned in the Vedas and Puranas for its unmatched 'Medhya' properties.",
-    "Physical Characteristics: A large, woody, deciduous climbing shrub growing up to 10-15 meters in height, with a majestic crown and dark-grey, rough bark. The leaves are alternate, ovate-lanceolate, and green. The flowers are small, greenish-white, in terminal panicles. The fruit is a globose, bright-yellow-to-orange capsule containing seeds with a characteristic brownish-red oily aril. It is found throughout India and Southeast Asia.",
-    "Specific Chemical Compounds: Primarily contains Essential Oil (2-5% in seeds), Sesquiterpenes (Celastrine), and Fatty Acids. The presence of sesquiterpenoids is crucial for its neuro-protective, anti-convulsant, and nootropic effects on the brain cells.",
-    "Strict Standardizations: The seed is standardized in API based on its brownish-red oily color and characteristic strong-aromatic-pungent taste. Physicochemical benchmarks of oil: total ash (<1%), acid value (<10%), and saponification value (190-210). GC-MS is used to monitor 1% to 2% volatile oil in commercial extracts."
-  ],
-  "preparationMethods": [
-    "Seed Oil (Taila): 5-10 drops of pure seed oil taken twice daily with warm milk or on a piece of bread (to mask pungent taste) for enhancing memory and intellect.",
-    "Seed Powder (Churna): 1-3g of fine powder taken twice daily with honey or warm milk (as an Anupana) for managing mental stress and cognition.",
-    "Seed Decoction (Kwatha): 5g of dried seeds boiled in 100ml water reduced to 25ml for chronic joint pain and edema. Take twice daily before meals.",
-    "Medicated Ghee (Ghrita): 5-10g of ghee processed with Jyotishmati; taken to treat chronic mental stress and physical weakness through its 'Rasayana' quality.",
-    "External Paste (Lepa): Ground fresh seeds or oil applied directly to the forehead for fever and headache or to localized inflammations (Mumps, boils, joint pain) to reduce heat and swelling."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 drops of oil (under expert guidance) mixed with milk once daily for enhancing concentration and learning in students.",
-    "Adults": "Oil: 5-10 drops; Powder: 1-3 grams; Decoction: 10-20 ml; Ghee: 5-10 g, divided throughout the day before or during meals.",
-    "Elderly": "Ideal for age-related cognitive support and preventing memory loss. Dosage: 5 drops of oil daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and oil ONLY when taken in recommended therapeutic dosages without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Strictly contraindicated in individuals with active high-Pitta (burning sensation, hyperacidity, bleeding disorders) and during pregnancy in large doses. Avoid in extreme skin sensitivity. Toxicity is high in non-purified oil if used in massive quantities."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "Overdose or use in high Pitta individuals can cause stomach burning, vomiting, diarrhea, skin rashes, and excessive heartbeat. Discontinue if dry mouth occurs."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside synthetic anti-epileptic or sedative medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Strictly contraindicated in individuals with active high-Pitta (burning sensation, hyperacidity, bleeding disorders) and during pregnancy in large doses. Avoid in extreme skin sensitivity. Toxicity is high in non-purified oil if used in massive quantities.",
-    "GRAS Status: Classified as a safe medicinal herb and oil ONLY when taken in recommended therapeutic dosages without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside synthetic anti-epileptic or sedative medications as it may potentiate their effects. No severe adverse interactions reported in clinical literature.",
-    "Adverse Effects: Overdose or use in high Pitta individuals can cause stomach burning, vomiting, diarrhea, skin rashes, and excessive heartbeat. Discontinue if dry mouth occurs."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

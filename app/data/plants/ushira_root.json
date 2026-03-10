@@ -1,27 +1,50 @@
 {
-  "id": "ushira_root",
-  "name": "Ushira Root",
-  "scientificName": "Vetiveria zizanioides Root",
-  "botanicalFamily": "Poaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pitta-Vata Hara."
-  ],
-  "usageForm": "Aromatic Root.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Ushira Root"
+    ],
+    "scientific_name": "Vetiveria zizanioides Root",
+    "family": "Poaceae",
+    "ayurveda_names": [
+      "Ushira Root"
+    ],
+    "description": "The root of Vetiver grass."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Pitta-Vata Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Infusion."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "30ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Extreme heat relief",
     "Sweat management",
     "Thirst."
   ],
-  "plantProfile": [
-    "The root of Vetiver grass."
-  ],
-  "preparationMethods": [
-    "Infusion."
-  ],
-  "dosages": {
-    "Adults": "30ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

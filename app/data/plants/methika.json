@@ -1,19 +1,46 @@
 {
-  "name": "Methika",
-  "scientificName": "Trigonella foenum-graecum L.",
-  "botanicalFamily": "Fabaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Deepana-Pachana' (digestive) and 'Vatavyadhi' (neurological disorders) therapies. While it is heating, its 'Sara' (flowing) quality helps in clearing Kapha while balancing the dry and rough qualities of Vata. It may significantly aggravate Pitta if used in excess.",
-    "Rasa (Taste): Tikta (bitter), Katu (pungent).",
-    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily).",
-    "Virya (Potency): Ushna (hot).",
-    "Vipaka (Post-digestive taste): Katu (pungent).",
-    "Karma (Actions): Deepana (appetizer), Pachana (digestive), Vatahara (Vata-pacifying), Grahi (absorbent), and Jwarahara (antipyretic).",
-    "API/AFI Adherence: The dried seed is the official medicinal part as per the Ayurvedic Pharmacopoeia of India (API). Primary ingredient in iconic classical formulations like Methika-Paka, Methika Churna, and various diabetic and digestive tonics.",
-    "Specific Indications: Used in Madhumeha (Diabetes mellitus), Amavata (rheumatoid arthritis), Agnimandya (weak digestion), Atisara (diarrhea), and Stri-roga (female reproductive health issues like leucorrhea)."
-  ],
-  "usageForm": "Seed powder (Churna), Seed decoction (Kwatha), Medicated jam (Paka), Medicated oil (Taila).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Methika"
+    ],
+    "scientific_name": "Trigonella foenum-graecum L.",
+    "family": "Fabaceae",
+    "ayurveda_names": [
+      "Methika"
+    ],
+    "description": "Unique History: Classified under the 'Deepaniya' (appetizer) and 'Shothahara' (anti-inflammatory) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Methika' literally translates to 'one with a pungent odor'. Historically used as a bio-enhancer for various digestive tonics. Mentioned in classical Sanskrit literature as the 'Fenugreek'. Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of two long, slender pods containing numerous yellowish-brown angular seeds. Found throughout India and tropical/sub-tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India. Specific Chemical Compounds: Contains Galactomannan, Diosgenin, and Trigonelline. The presence of galactomannan (approx. 20-50% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the intestinal walls. Strict Standardizations: The seed is standardized in API based on its yellowish-brown color and characteristic strong-sweet-musky-aromatic-bitter taste. Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>5%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (bitter), Katu (pungent)."
+    ],
+    "virya_potency": "Ushna (hot).",
+    "vipaka_effect": "Katu (pungent).",
+    "dosha_karma": "Powerful Vata and Kapha Hara (pacifies Vata and Kapha doshas). Due to its Tikta (bitter) Rasa and Ushna (heating) Virya, it is the most prestigious herb for 'Deepana-Pachana' (digestive) and 'Vatavyadhi' (neurological disorders) therapies. While it is heating, its 'Sara' (flowing) quality helps in clearing Kapha while balancing the dry and rough qualities of Vata. It may significantly aggravate Pitta if used in excess."
+  },
+  "preparation_methods": {
+    "seed_powder__churna_": {
+      "method": "3-6g of fine powder taken with warm water once or twice daily for blood sugar management."
+    },
+    "seed_decoction__kwatha_": {
+      "method": "20g of seeds boiled in 160ml water reduced to 40ml for chronic asthma and fever. Take twice daily before meals."
+    },
+    "methika_paka": {
+      "method": "Medicated jam-like preparation taken (10-20g) twice daily for systemic rejuvenation and fertility."
+    },
+    "medicated_oil__taila_": {
+      "method": "Seeds processed in sesame oil; used for local scalp massage (hair growth) and joint pain (Shothahara)."
+    },
+    "external_paste": {
+      "method": "Ground fresh seeds or seeds soaked overnight and ground into paste applied directly over localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and digestive protection during childhood infections.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Paka: 10-20 g, divided throughout the day before meals.",
+    "elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  },
+  "medicinal_uses": [
     "World-Famous Diabetes and Blood Sugar Specialist: Methika is the premier Ayurvedic remedy for all conditions of high blood sugar (Madhumeha). Its 'Tikta' (bitter) and 'Brimhaniya' (nourishing) nature provided by 4-hydroxyisoleucine helps in improving insulin sensitivity and slowing down glucose absorption in the gut. WHO-aligned research supports its role in nutrition and metabolic support.",
     "Digestive Catalyst and Metabolism: Historically known as 'Deepaniya' (appetizer). It effectively ignites the 'Jatharagni' (digestive fire) and cleared stagnant food from the gut. It is traditionally used to manage 'Ajirna' (indigestion) and 'Anaha' (bloating) through its systemic carminative action.",
     "Female Lactation and Hormone Balance: Known as 'Stanya-janana' (lactation-promoter). Its phytoestrogen-rich profile (diosgenin) helps in improving breast milk production and providing systemic hormonal balance in nursing mothers. It is often combined with Shatavari.",
@@ -21,28 +48,26 @@
     "Skin Health and Wound Healing: Its antimicrobial and blood-purifying properties help in treating chronic skin conditions and localized inflammation. The seed paste applied topically promotes radiance while providing systemic 'Vranaropana' (wound-healing) effects.",
     "Phytochemical Profile: Rich in Flavonoids (Vitexoside), Saponins (Diosgenin), 4-Hydroxyisoleucine, Polysaccharides (Galactomannan), and diversos Amino Acids. 4-Hydroxyisoleucine is the primary bioactive responsible for its potent anti-diabetic and anti-inflammatory action on the heart and brain cells."
   ],
-  "plantProfile": [
-    "Unique History: Classified under the 'Deepaniya' (appetizer) and 'Shothahara' (anti-inflammatory) groups in ancient Ayurvedic treatises like Charaka Samhita. The name 'Methika' literally translates to 'one with a pungent odor'. Historically used as a bio-enhancer for various digestive tonics. Mentioned in classical Sanskrit literature as the 'Fenugreek'.",
-    "Physical Characteristics: A small, erect, annual herb reaching up to 0.3-0.6 meters in height, with trifoliate leaves and small, white-to-yellowish flowers. The fruit consists of two long, slender pods containing numerous yellowish-brown angular seeds. Found throughout India and tropical/sub-tropical regions worldwide in gardens and wastelands of the sub-Himalayan tract and South India.",
-    "Specific Chemical Compounds: Contains Galactomannan, Diosgenin, and Trigonelline. The presence of galactomannan (approx. 20-50% in seeds) is crucial for its neuro-relaxant, anti-tumor, and anti-tubercular action on the intestinal walls.",
-    "Strict Standardizations: The seed is standardized in API based on its yellowish-brown color and characteristic strong-sweet-musky-aromatic-bitter taste. Physicochemical benchmarks: total ash (<5%), alcohol-soluble extractive (>5%)."
-  ],
-  "preparationMethods": [
-    "Seed Powder (Churna): 3-6g of fine powder taken with warm water once or twice daily for blood sugar management.",
-    "Seed Decoction (Kwatha): 20g of seeds boiled in 160ml water reduced to 40ml for chronic asthma and fever. Take twice daily before meals.",
-    "Methika-Paka: Medicated jam-like preparation taken (10-20g) twice daily for systemic rejuvenation and fertility.",
-    "Medicated Oil (Taila): Seeds processed in sesame oil; used for local scalp massage (hair growth) and joint pain (Shothahara).",
-    "External Paste: Ground fresh seeds or seeds soaked overnight and ground into paste applied directly over localized inflammations (Mumps, boils, skin rashes, hyperpigmentation) or onto the face for cooling and radiance."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 125 mg to 250 mg of powder mixed with honey once or twice daily for respiratory support and digestive protection during childhood infections.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Paka: 10-20 g, divided throughout the day before meals.",
-    "Elderly": "Ideal for age-related Vata issues and maintaining cardiac health. Dosage: 3g of powder daily with warm milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe medicinal herb and spice with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses except under professional guidance (as it may stimulate contractions)."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin warmth or stomach gas."
+    ],
+    "drug_interactions": [
+      "Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants and anti-diabetics."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Pitta should use it in moderation as it is Ushna (heating). Avoid during pregnancy in very large therapeutic doses except under professional guidance (as it may stimulate contractions).",
-    "GRAS Status: Classified as a safe medicinal herb and spice with a history of use spanning millennia across various global cultures and traditional systems without documented toxicity.",
-    "Herb-Drug Interactions: Monitor if taken alongside medications as it significantly increases the bioavailability of many drugs. Can potentiate synthetic anticoagulants and anti-diabetics.",
-    "Adverse Effects: None documented at traditional therapeutic levels. Excessive use in very sensitive individuals may rarely cause mild skin warmth or stomach gas."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

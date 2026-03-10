@@ -1,27 +1,50 @@
 {
-  "id": "marubaka",
-  "name": "Marubaka",
-  "scientificName": "Origanum majorana (Honed)",
-  "botanicalFamily": "Lamiaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Kapha-Vata Hara."
-  ],
-  "usageForm": "Aromatic leaves.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Marubaka"
+    ],
+    "scientific_name": "Origanum majorana (Honed)",
+    "family": "Lamiaceae",
+    "ayurveda_names": [
+      "Marubaka"
+    ],
+    "description": "Sweet Marjoram."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [],
+    "virya_potency": "",
+    "vipaka_effect": "",
+    "dosha_karma": "Kapha-Vata Hara."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Leaf juice Nasal drops."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "5ml",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Headache",
     "Cold",
     "Stomach gas."
   ],
-  "plantProfile": [
-    "Sweet Marjoram."
-  ],
-  "preparationMethods": [
-    "Leaf juice Nasal drops."
-  ],
-  "dosages": {
-    "Adults": "5ml"
+  "safety_profile": {
+    "warning": "Safe.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Safe."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

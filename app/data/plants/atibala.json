@@ -1,19 +1,46 @@
 {
-  "name": "Atibala",
-  "scientificName": "Abutilon indicum (L.) Sweet",
-  "botanicalFamily": "Malvaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is considered one of the 'Balya' (strengthening) herbs that build 'Ojas' (vital energy) and nourish shaky Vata dosha. It may slightly increase Kapha when used in very large quantities.",
-    "Rasa (Taste): Madhura (sweet).",
-    "Guna (Qualities): Laghu (light), Snigdha (unctuous/oily), Picchila (slimy/mucilaginous).",
-    "Virya (Potency): Sheeta (cooling).",
-    "Vipaka (Post-digestive taste): Madhura (sweet).",
-    "Karma (Actions): Balya (strength-promoting), Brimhana (nourishing), Vata-hara (Vata-pacifying), Pitta-hara (Pitta-pacifying), Mutra-janana (diuretic), Grahi (absorbent), and Vajikarana (aphrodisiac).",
-    "API/AFI Adherence: The whole plant, specifically the root and seeds, are official medicinal parts as per the Ayurvedic Pharmacopoeia of India (API). It is used in classical formulations like Balarishta, Atibala Taila, and various Rasayanas.",
-    "Specific Indications: Used in Shosha (wasting/decline), Pandu (anemia), Mutra-kricchra (difficulty in urination), Vata-rakta (gout), and chronic muscle weakness (Mamsa-shosha)."
-  ],
-  "usageForm": "Root powder (Churna), Seed powder, Leaf decoction (Kwatha), Medicated ghee (Ghrita), Medicated oil (Taila).",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Atibala"
+    ],
+    "scientific_name": "Abutilon indicum (L.) Sweet",
+    "family": "Malvaceae",
+    "ayurveda_names": [
+      "Atibala"
+    ],
+    "description": "Unique History: Mentioned in the 'Balya' and 'Brimhaniya' mahakashayas (great groups) of Charaka Samhita. It is spiritually associated with 'Bala' (strength) and is a primary herb in the group of four 'Balas' (Bala, Atibala, Nagabala, Mahabala) noted for their life-supporting properties. Physical Characteristics: A perennial, erect, woody shrub growing up to 1-2 meters. It features heart-shaped leaves with toothed margins and distinctive yellow flowers that bloom in the evening. The fruit is a circular, multi-seeded capsule (mericarps). It is found throughout the hotter parts of India as a common weed. Specific Chemical Compounds: Key constituents include abutilin, alkaloids (abutilonine), flavonoids, saponins, and various amino acids like leucine, histidine, and threonine. The seeds are particularly rich in fats and mucilaginous compounds. Strict Standardizations: The root is standardized in API based on its greyish-brown appearance and characteristic odor. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%)."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Madhura (sweet)."
+    ],
+    "virya_potency": "Sheeta (cooling).",
+    "vipaka_effect": "Madhura (sweet).",
+    "dosha_karma": "Prominently pacifies Vata and Pitta doshas. Due to its Madhura (sweet) Rasa and Sheeta (cooling) Virya, it is considered one of the 'Balya' (strengthening) herbs that build 'Ojas' (vital energy) and nourish shaky Vata dosha. It may slightly increase Kapha when used in very large quantities."
+  },
+  "preparation_methods": {
+    "root_powder": {
+      "method": "3-6g of dried root powder taken twice daily with warm milk (acting as a nourishing Anupana)."
+    },
+    "seed_powder__vajikarana_": {
+      "method": "Seeds are micronized and taken (1-3g) with ghee and sugar for improving sexual vitality."
+    },
+    "leaf_decoction": {
+      "method": "50ml of decoction made from 20g leaves for urinary infections and burning sensation."
+    },
+    "external_paste": {
+      "method": "Fresh leaves ground with water into a thick paste and applied directly to boils and localized swellings."
+    },
+    "medicated_oil__taila_": {
+      "method": "The whole plant decoction is cooked in sesame oil; used for traditional Ayurvedic massage in nerve and muscle pain."
+    }
+  },
+  "dosage": {
+    "children": "Generally safe. 1-2 grams of root powder with milk, once daily, to improve general immunity and strength.",
+    "adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Seed powder: 1-3 grams, divided throughout the day.",
+    "elderly": "Ideal for geriatric care to manage age-related muscle wasting (sarcopenia) and urinary issues. Dosage: 3g with milk at bedtime."
+  },
+  "medicinal_uses": [
     "Muscle Strength and Vitality: Recognized as an excellent 'Balya' herb. It helps in recovering from extreme muscle weakness, chronic fatigue, and tissue wasting. WHO botanical research acknowledges its traditional use for physical debility and its potential to improve muscle tone.",
     "Urinary Health: Acts as a mild diuretic and demulcent. It is highly effective in relieving burning micturition, dysuria, and urinary tract infections by cooling the Pitta dosha in the bladder and kidneys.",
     "Nervous System Support: Its Snaigdha (oily) and Madhura (sweet) properties help in nourishing the nervous system, providing relief in neurological conditions like tremors, sciatica, and Vata-originated nerve pains.",
@@ -22,28 +49,26 @@
     "Skin and Wound Healing: The crushed leaves applied topically act as a mucilaginous dressing for boils, ulcers, and inflammatory skin conditions, promoting quick healing through its Sheeta (cooling) property.",
     "Phytochemical Profile: Contains significant concentrations of alkaloids (abutiline), asparagine, mucilage, fatty acids, flavonoids (luteolin, apigenin), and s-sitosterol, which contribute to its immunomodulatory and anti-inflammatory effects."
   ],
-  "plantProfile": [
-    "Unique History: Mentioned in the 'Balya' and 'Brimhaniya' mahakashayas (great groups) of Charaka Samhita. It is spiritually associated with 'Bala' (strength) and is a primary herb in the group of four 'Balas' (Bala, Atibala, Nagabala, Mahabala) noted for their life-supporting properties.",
-    "Physical Characteristics: A perennial, erect, woody shrub growing up to 1-2 meters. It features heart-shaped leaves with toothed margins and distinctive yellow flowers that bloom in the evening. The fruit is a circular, multi-seeded capsule (mericarps). It is found throughout the hotter parts of India as a common weed.",
-    "Specific Chemical Compounds: Key constituents include abutilin, alkaloids (abutilonine), flavonoids, saponins, and various amino acids like leucine, histidine, and threonine. The seeds are particularly rich in fats and mucilaginous compounds.",
-    "Strict Standardizations: The root is standardized in API based on its greyish-brown appearance and characteristic odor. Physicochemical benchmarks: total ash (<8%), alcohol-soluble extractive (>5%), and water-soluble extractive (>15%)."
-  ],
-  "preparationMethods": [
-    "Root Powder: 3-6g of dried root powder taken twice daily with warm milk (acting as a nourishing Anupana).",
-    "Seed Powder (Vajikarana): Seeds are micronized and taken (1-3g) with ghee and sugar for improving sexual vitality.",
-    "Leaf Decoction: 50ml of decoction made from 20g leaves for urinary infections and burning sensation.",
-    "External Paste: Fresh leaves ground with water into a thick paste and applied directly to boils and localized swellings.",
-    "Medicated Oil (Taila): The whole plant decoction is cooked in sesame oil; used for traditional Ayurvedic massage in nerve and muscle pain."
-  ],
-  "dosages": {
-    "Children": "Generally safe. 1-2 grams of root powder with milk, once daily, to improve general immunity and strength.",
-    "Adults": "Powder: 3-6 grams; Decoction: 20-50 ml; Seed powder: 1-3 grams, divided throughout the day.",
-    "Elderly": "Ideal for geriatric care to manage age-related muscle wasting (sarcopenia) and urinary issues. Dosage: 3g with milk at bedtime."
+  "safety_profile": {
+    "warning": "GRAS Status: Classified as a safe herbal drug with a history of use spanning millennia without documented toxicity. It is occasionally used as a famine food (leaves) in some cultures.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [
+      "Generally very safe. However, individuals with high Kapha and slow metabolism (Mandagni) should use it in moderation as it is heavy and sweet."
+    ],
+    "not_recommended_for": [],
+    "possible_side_effects": [
+      "None documented at therapeutic levels. Excessive use may rarely cause a feeling of heaviness in the stomach."
+    ],
+    "drug_interactions": [
+      "No significant interactions known with modern medications. Monitor if taken with diuretics as it may have a synergistic effect."
+    ]
   },
-  "safetyProfile": [
-    "Contraindications: Generally very safe. However, individuals with high Kapha and slow metabolism (Mandagni) should use it in moderation as it is heavy and sweet.",
-    "GRAS Status: Classified as a safe herbal drug with a history of use spanning millennia without documented toxicity. It is occasionally used as a famine food (leaves) in some cultures.",
-    "Herb-Drug Interactions: No significant interactions known with modern medications. Monitor if taken with diuretics as it may have a synergistic effect.",
-    "Adverse Effects: None documented at therapeutic levels. Excessive use may rarely cause a feeling of heaviness in the stomach."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }

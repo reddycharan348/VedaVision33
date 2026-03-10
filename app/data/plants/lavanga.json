@@ -1,30 +1,52 @@
 {
-  "id": "lavanga",
-  "name": "Lavanga (Clove)",
-  "scientificName": "Syzygium aromaticum L.",
-  "botanicalFamily": "Myrtaceae",
-  "usesInAyurveda": [
-    "Tridoshic Modulation: Pacifies Kapha and Pitta.",
-    "Rasa: Tikta (Bitter), Katu (Pungent).",
-    "Virya: Sheeta (Cooling) - Note: Cloves are uniquely cooling despite being pungent.",
-    "Karma: Shulaghna (Pain reliever), Dipana (Appetizer)."
-  ],
-  "usageForm": "Flower bud powder, Oil.",
-  "mainMedicinalUses": [
+  "plant": {
+    "common_names": [
+      "Lavanga (Clove)"
+    ],
+    "scientific_name": "Syzygium aromaticum L.",
+    "family": "Myrtaceae",
+    "ayurveda_names": [
+      "Lavanga (Clove)"
+    ],
+    "description": "Dried flower buds of an aromatic tree."
+  },
+  "ayurvedic_properties": {
+    "rasa_taste": [
+      "Tikta (Bitter), Katu (Pungent)."
+    ],
+    "virya_potency": "Sheeta (Cooling) - Note: Cloves are uniquely cooling despite being pungent.",
+    "vipaka_effect": "",
+    "dosha_karma": "Pacifies Kapha and Pitta."
+  },
+  "preparation_methods": {
+    "method_1": {
+      "method": "Clove tea or direct application of oil to gums."
+    }
+  },
+  "dosage": {
+    "children": "Not recommended without expert supervision.",
+    "adults": "500mg of powder",
+    "elderly": "Consult an Ayurvedic practitioner."
+  },
+  "medicinal_uses": [
     "Instant relief for toothaches.",
     "Assists in clearing lung congestion.",
     "Prevents indigestion and bloating."
   ],
-  "plantProfile": [
-    "Dried flower buds of an aromatic tree."
-  ],
-  "preparationMethods": [
-    "Clove tea or direct application of oil to gums."
-  ],
-  "dosages": {
-    "Adults": "500mg of powder"
+  "safety_profile": {
+    "warning": "Clove oil is very strong; dilute before skin contact.",
+    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+    "contraindications": [],
+    "not_recommended_for": [],
+    "possible_side_effects": [],
+    "drug_interactions": []
   },
-  "safetyProfile": [
-    "Clove oil is very strong; dilute before skin contact."
-  ]
+  "plant_profile": {
+    "safety": "Moderate",
+    "confidence": "High",
+    "availability": "High",
+    "research": "Moderate",
+    "tradition": "High",
+    "note": "AI estimated profile based on known properties"
+  }
 }
