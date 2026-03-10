@@ -1,0 +1,21 @@
+{
+  "name": "VedaVision - Ayurvedic AI",
+  "short_name": "VedaVision",
+  "description": "High-Fidelity Ayurvedic Intelligence for medicinal plant identification and holistic wellness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1310",
+  "theme_color": "#2dd4a8",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

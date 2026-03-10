@@ -56,6 +56,25 @@ export default function Home() {
         }
     }, [isCameraOpen, cameraStream]);
 
+    useEffect(() => {
+        const handleKeyDown = (e) => {
+            if (e.key === 'Escape' && isCameraOpen) stopCamera();
+        };
+        window.addEventListener('keydown', handleKeyDown);
+        return () => window.removeEventListener('keydown', handleKeyDown);
+    }, [isCameraOpen]);
+
+    useEffect(() => {
+        const handleBeforeInstallPrompt = (e) => {
+            e.preventDefault();
+            window.deferredPrompt = e;
+            const installBtn = document.getElementById('install-pwa-btn');
+            if (installBtn) installBtn.style.display = 'flex';
+        };
+        window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
+        return () => window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
+    }, []);
+
     const startCamera = async () => {
         try {
             const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: { ideal: 'environment' } } });
@@ -113,23 +132,6 @@ export default function Home() {
             changeLanguage(saved);
             setOnboardingDone(true);
         }
-
-        const handleScroll = () => {
-            const sections = ["verify", "chatbot", "library", "contact"];
-            let current = "verify";
-            for (const section of sections) {
-                const el = document.getElementById(section);
-                if (el) {
-                    const rect = el.getBoundingClientRect();
-                    if (rect.top <= 250) {
-                        current = section;
-                    }
-                }
-            }
-            setActiveSection(current);
-        };
-        window.addEventListener("scroll", handleScroll);
-        return () => window.removeEventListener("scroll", handleScroll);
     }, [changeLanguage]);
 
     const handleLangPick = (code) => {
@@ -340,38 +342,7 @@ export default function Home() {
 
             <nav className="fixed-nav">
                 <div className="nav-brand" onClick={() => scrollTo("verify")}>
-                    <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" className="brand-logo-svg">
-                        {/* Outer glowing circle */}
-                        <circle cx="18" cy="18" r="17" stroke="url(#logoGrad)" strokeWidth="1.5" fill="rgba(45,212,168,0.06)"/>
-                        {/* Large leaf */}
-                        <path d="M18 6 C12 6 7 12 8 20 C10 26 14 29 18 30 C22 29 26 26 28 20 C29 12 24 6 18 6Z" fill="url(#leafGrad)" opacity="0.9"/>
-                        {/* Leaf vein */}
-                        <line x1="18" y1="8" x2="18" y2="28" stroke="rgba(255,255,255,0.3)" strokeWidth="0.8"/>
-                        <line x1="18" y1="14" x2="13" y2="18" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6"/>
-                        <line x1="18" y1="18" x2="23" y2="22" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6"/>
-                        <line x1="18" y1="22" x2="13" y2="25" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6"/>
-                        {/* Grain dots representing cereals/pulses */}
-                        <circle cx="11" cy="10" r="2.5" fill="url(#grainGrad)" opacity="0.85"/>
-                        <circle cx="25" cy="10" r="2.5" fill="url(#grainGrad)" opacity="0.85"/>
-                        <circle cx="8" cy="17" r="1.8" fill="rgba(212,168,83,0.7)"/>
-                        <circle cx="28" cy="17" r="1.8" fill="rgba(212,168,83,0.7)"/>
-                        {/* Sparkle */}
-                        <circle cx="18" cy="5" r="1.2" fill="#fbbf24" opacity="0.9"/>
-                        <defs>
-                            <linearGradient id="logoGrad" x1="0" y1="0" x2="36" y2="36">
-                                <stop offset="0%" stopColor="#2dd4a8"/>
-                                <stop offset="100%" stopColor="#d4a853"/>
-                            </linearGradient>
-                            <linearGradient id="leafGrad" x1="18" y1="6" x2="18" y2="30" gradientUnits="userSpaceOnUse">
-                                <stop offset="0%" stopColor="#34d399"/>
-                                <stop offset="100%" stopColor="#059669"/>
-                            </linearGradient>
-                            <linearGradient id="grainGrad" x1="0" y1="0" x2="5" y2="5">
-                                <stop offset="0%" stopColor="#fbbf24"/>
-                                <stop offset="100%" stopColor="#d97706"/>
-                            </linearGradient>
-                        </defs>
-                    </svg>
+                    <img src="/icons/icon-512x512.png" alt="VedaVision Logo" className="brand-logo-img" style={{ width: '36px', height: '36px', borderRadius: '8px', objectFit: 'contain' }} />
                     <span className="brand-text">VedaVision</span>
                 </div>
                 <div className="nav-links">
@@ -385,10 +356,12 @@ export default function Home() {
                 </div>
             </nav>
 
-            <main className="snap-container">
-                {/* 1. VERIFY SECTION */}
+            {/* CONTENT SECTIONS - CONDITIONAL RENDERING (TABBED NAVIGATION) */}
+            <main className="content-container">
+                {/* 1. SCAN / VERIFY SECTION */}
+                {activeSection === "verify" && (
                 <section id="verify" className="snap-section hero-section section-divider">
-                    <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.8 }} className="section-content split-layout">
+                    <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }} className="section-content split-layout">
                         <div className="hero-text">
                             <div className="hero-badge">
                                 <Shield size={16} /> {t('whoBadge')}
@@ -455,10 +428,12 @@ export default function Home() {
                         </div>
                     </motion.div>
                 </section>
+                )}
 
                 {/* 2. CHATBOT DIAGNOSIS SECTION */}
+                {activeSection === "chatbot" && (
                 <section id="chatbot" className="snap-section dark-section section-divider">
-                    <motion.div initial={{ opacity: 0, scale: 0.95 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true }} transition={{ duration: 0.8 }} className="section-content text-center">
+                    <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.6 }} className="section-content text-center">
                         <div className="flex-center justify-center mb-6">
                             <Stethoscope size={48} className="text-emerald header-icon glow-emerald" />
                         </div>
@@ -515,10 +490,12 @@ export default function Home() {
                         </div>
                     </motion.div>
                 </section>
+                )}
 
                 {/* 3. LIBRARY SECTION */}
+                {activeSection === "library" && (
                 <section id="library" className="snap-section relative-section section-divider">
-                    <motion.div initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.8 }} className="section-content max-w-6xl w-full">
+                    <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="section-content max-w-6xl w-full">
                         <div className="flex-center justify-between mb-10 w-full">
                             <div>
                                 <h2 className="section-title text-left mb-2">{t('titleLibrary')}</h2>
@@ -540,8 +517,7 @@ export default function Home() {
                                 }
                             }}
                             initial="hidden"
-                            whileInView="show"
-                            viewport={{ once: true, margin: "-100px" }}
+                            animate="show"
                         >
                             {filteredPlants.map((plant, idx) => {
                                 const colors = PLANT_COLORS[idx % PLANT_COLORS.length];
@@ -590,10 +566,12 @@ export default function Home() {
                         </motion.div>
                     </motion.div>
                 </section>
+                )}
 
                 {/* 4. CONTACT SECTION */}
+                {activeSection === "contact" && (
                 <section id="contact" className="snap-section footer-section section-divider">
-                    <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} className="section-content split-layout items-center">
+                    <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="section-content split-layout items-center">
                         <div className="contact-info">
                             <h2 className="section-title mb-6">{t("titleContact")}</h2>
                             <p className="section-subtitle max-w-md mb-8">{t('subtitleContact')}</p>
@@ -603,24 +581,44 @@ export default function Home() {
                                     <div className="contact-icon"><Mail size={20} className="text-gold" /></div>
                                     <div>
                                         <h4>{t("emailUs")}</h4>
-                                        <p>support@vedavision.ai</p>
-                                    </div>
-                                </div>
-                                <div className="contact-item">
-                                    <div className="contact-icon"><MapPin size={20} className="text-gold" /></div>
-                                    <div>
-                                        <h4>{t("headquarters")}</h4>
-                                        <p>108 Ayush Innovation Park,<br />Hyderabad, TG 500081</p>
+                                        <p><a href="mailto:reddycharan348@gmail.com" style={{ textDecoration: 'none', color: 'inherit' }}>reddycharan348@gmail.com</a></p>
                                     </div>
                                 </div>
                                 <div className="contact-item">
                                     <div className="contact-icon"><Phone size={20} className="text-gold" /></div>
                                     <div>
                                         <h4>{t("callUs")}</h4>
-                                        <p>+91 (800) 123-VEDA</p>
+                                        <p><a href="tel:9032517427" style={{ textDecoration: 'none', color: 'inherit' }}>9032517427</a></p>
+                                    </div>
+                                </div>
+                                <div className="contact-item">
+                                    <div className="contact-icon"><MapPin size={20} className="text-gold" /></div>
+                                    <div>
+                                        <h4>Portfolio</h4>
+                                        <p><a href="https://reddycharan.me" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline', color: 'var(--green)' }}>reddycharan.me</a></p>
                                     </div>
                                 </div>
                             </div>
+                            
+                            {/* PWA Install Prompt Button - only shows on devices that support it */}
+                            <button 
+                                id="install-pwa-btn"
+                                className="hero-btn primary mb-4 mt-8"
+                                style={{ display: 'none', width: 'fit-content' }}
+                                onClick={() => {
+                                    if (window.deferredPrompt) {
+                                        window.deferredPrompt.prompt();
+                                        window.deferredPrompt.userChoice.then((choiceResult) => {
+                                            if (choiceResult.outcome === 'accepted') {
+                                                console.log('User accepted the A2HS prompt');
+                                            }
+                                            window.deferredPrompt = null;
+                                        });
+                                    }
+                                }}
+                            >
+                                <Shield size={18} /> Install App
+                            </button>
                         </div>
                         <div className="contact-form glass-card">
                             <h3 className="form-title mb-6 text-xl font-semibold">{t("sendMessage")}</h3>
@@ -631,6 +629,7 @@ export default function Home() {
                         </div>
                     </motion.div>
                 </section>
+                )}
             </main>
 
             {/* Fullscreen Camera Overlay */}
