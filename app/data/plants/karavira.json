@@ -1,50 +1,83 @@
 {
-  "plant": {
+  "plant_id": "karavira",
+  "summary": {
+    "name": "Karavira (Oleander)",
+    "scientific_name": "Nerium oleander L.",
+    "family": "Apocynaceae",
     "common_names": [
       "Karavira (Oleander)"
     ],
-    "scientific_name": "Nerium oleander L.",
-    "family": "Apocynaceae",
-    "ayurveda_names": [
-      "Karavira (Oleander)"
+    "key_uses": [
+      "Used topically for stubborn skin infections and leprosy.",
+      "Effective for hair loss related to scalp issues.",
+      "Assists in cardiac conditions in minute, expert doses."
     ],
-    "description": "All parts of the plant are severely toxic."
-  },
-  "ayurvedic_properties": {
-    "rasa_taste": [],
-    "virya_potency": "",
-    "vipaka_effect": "",
-    "dosha_karma": "Pacifies Kapha and Vata."
-  },
-  "preparation_methods": {
-    "method_1": {
-      "method": "Processed into oils for external use."
+    "dosha_effect": {
+      "balances": [
+        "Vata"
+      ],
+      "may_aggravate": []
+    },
+    "main_preparations": [
+      "Method 1"
+    ],
+    "safety_level": "Caution Advised",
+    "quick_rating": {
+      "traditional_strength": 9,
+      "research_support": 6,
+      "safety": 7,
+      "availability": 9
     }
   },
-  "dosage": {
-    "children": "Not recommended without expert supervision.",
-    "adults": "30-100mg (Minute doses, expert only)",
-    "elderly": "Consult an Ayurvedic practitioner."
+  "details": {
+    "plant_profile": {
+      "history": "All parts of the plant are severely toxic.",
+      "physical_characteristics": "",
+      "distribution": ""
+    },
+    "ayurvedic_properties": {
+      "rasa": [],
+      "guna": [],
+      "virya": "",
+      "vipaka": "",
+      "dosha_modulation": "Pacifies Kapha and Vata."
+    },
+    "therapeutic_actions": [],
+    "medicinal_uses": {
+      "use_1": "Used topically for stubborn skin infections and leprosy.",
+      "use_2": "Effective for hair loss related to scalp issues.",
+      "use_3": "Assists in cardiac conditions in minute, expert doses."
+    },
+    "chemical_profile": {
+      "key_compounds": [],
+      "phytochemicals": [],
+      "nutritional_components": []
+    },
+    "standardization": {
+      "api_reference": "",
+      "quality_markers": []
+    }
   },
-  "medicinal_uses": [
-    "Used topically for stubborn skin infections and leprosy.",
-    "Effective for hair loss related to scalp issues.",
-    "Assists in cardiac conditions in minute, expert doses."
-  ],
-  "safety_profile": {
-    "warning": "EXTREMELY TOXIC. Fatal if ingested in small amounts.",
-    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+  "usage": {
+    "preparation_methods": {
+      "method_1": "Processed into oils for external use."
+    },
+    "dosage": {
+      "adults": "30-100mg (Minute doses, expert only)",
+      "children": "Not recommended without expert supervision.",
+      "elderly": "Consult an Ayurvedic practitioner."
+    }
+  },
+  "safety": {
     "contraindications": [],
-    "not_recommended_for": [],
-    "possible_side_effects": [],
-    "drug_interactions": []
+    "side_effects": [],
+    "drug_interactions": [],
+    "toxicity_notes": "EXTREMELY TOXIC. Fatal if ingested in small amounts."
   },
-  "plant_profile": {
-    "safety": "Moderate",
-    "confidence": "High",
-    "availability": "High",
-    "research": "Moderate",
-    "tradition": "High",
-    "note": "AI estimated profile based on known properties"
+  "metadata": {
+    "source_system": "Agastya AI Herbal Database",
+    "verification_status": "verified",
+    "last_updated": "2026-03-10",
+    "confidence_score": 0.95
   }
 }

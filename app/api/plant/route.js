@@ -101,6 +101,7 @@ export async function GET(req) {
 
             // Fields to translate (all user-visible content)
             const fieldsToTranslate = [
+                'summary', 'details', 'usage', 'safety',
                 'plant', 'dosage',
                 'name', 'description', 'habitat', 'parts_used', 'usage_form',
                 'botanicalFamily', 'family',

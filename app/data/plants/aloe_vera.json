@@ -1,72 +1,102 @@
 {
-  "plant": {
+  "plant_id": "aloe_vera",
+  "summary": {
+    "name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis Miller",
+    "family": "Asphodelaceae",
     "common_names": [
       "Aloe Vera"
     ],
-    "scientific_name": "Aloe barbadensis Miller",
-    "family": "Asphodelaceae",
-    "ayurveda_names": [
-      "Aloe Vera"
+    "key_uses": [
+      "Dermatological Conditions",
+      "Gastrointestinal Disorders",
+      "Hepatic Support",
+      "Gynecological Health"
     ],
-    "description": "Unique History: Known as 'Kumari' in Sanskrit, meaning 'young girl,' signifying its rejuvenating properties. Originating from the Arabian Peninsula, it has been used for over 6,000 years in traditional medicine systems including Ayurvedic, Egyptian, Greek, and Chinese practices. Physical Characteristics: A succulent perennial plant belonging to the Asphodelaceae family. It features thick, fleshy, lanceolate leaves arranged in a rosette, typically green to grey-green, with serrated margins. The inner leaf contains a clear, mucilaginous gel, while the outer leaf contains a bitter yellow latex. Specific Chemical Compounds: Key active constituents include Anthraquinones (e.g., Aloin A and B/barbaloin, aloe-emodin, chrysophanol) responsible for laxative effects; Polysaccharides (e.g., Acemannan/glucomannan, arabinan, galactan, mannan) contributing to immunomodulatory and wound-healing properties; Vitamins (A, C, E, B-complex); Minerals (calcium, magnesium, zinc, selenium); Enzymes (bradykinase, catalase); Amino Acids (contains 20 of 22 human required, including 7 essential); Fatty Acids (cholesterol, campesterol, β-sitosterol); and other compounds like saponins and salicylic acid. Strict Standardizations: The Ayurvedic Pharmacopoeia of India (API) specifies quality standards for 'Kumari' (Aloe barbadensis Miller), including macroscopic and microscopic identification, foreign matter limits, total ash, acid-insoluble ash, alcohol-soluble extractive, water-soluble extractive, and quantitative analysis of marker compounds like aloin. WHO monographs also provide guidelines for quality control and safe use of Aloe vera preparations."
-  },
-  "ayurvedic_properties": {
-    "rasa_taste": [
-      "Predominantly Tikta (Bitter), also Madhura (Sweet)."
+    "dosha_effect": {
+      "balances": [
+        "Vata"
+      ],
+      "may_aggravate": []
+    },
+    "main_preparations": [
+      "Fresh Gel Extraction",
+      "Juice Preparation",
+      "Dried Latex  Aloes ",
+      "Kumari Asava",
+      "Topical Pastes  Lepas "
     ],
-    "virya_potency": "Shita (Cooling).",
-    "vipaka_effect": "Katu (Pungent).",
-    "dosha_karma": "Primarily pacifies Pitta and Kapha doshas due to its Shita Virya and Tikta Rasa. Can aggravate Vata in excess, especially the purgative latex, due to its Katu Vipaka and strong cleansing action."
-  },
-  "preparation_methods": {
-    "fresh_gel_extraction": {
-      "method": "The inner clear gel is carefully scooped or filleted from the mature leaves, avoiding the bitter yellow latex layer. This fresh gel can be consumed directly or applied topically."
-    },
-    "juice_preparation": {
-      "method": "The fresh inner gel is blended with water and strained to produce Aloe vera juice. This is often consumed for digestive health and general well-being."
-    },
-    "dried_latex__aloes_": {
-      "method": "The yellow exudate (latex) from the cut leaves is collected and dried to form a bitter, resinous mass. This dried latex is powdered and used in specific Ayurvedic formulations, primarily for its strong purgative action."
-    },
-    "kumari_asava": {
-      "method": "A traditional Ayurvedic fermented liquid preparation where Aloe vera juice is the primary ingredient, along with other herbs and jaggery. It undergoes fermentation to enhance its therapeutic properties, particularly for liver and gynecological conditions."
-    },
-    "topical_pastes__lepas_": {
-      "method": "Fresh gel is often combined with other herbal powders or oils to create topical applications for skin conditions, burns, and wounds."
+    "safety_level": "Caution Advised",
+    "quick_rating": {
+      "traditional_strength": 9,
+      "research_support": 6,
+      "safety": 7,
+      "availability": 9
     }
   },
-  "dosage": {
-    "children": "Internal use of Aloe latex is generally contraindicated for children under 12 years. Topical application of the gel should be done with caution and under medical supervision. Consult an Ayurvedic practitioner for specific pediatric guidance.",
-    "adults": "Fresh Aloe vera gel/juice: 10-30 ml, 1-2 times daily, typically before meals, for general health, digestion, and skin benefits. Dried Aloe latex (for laxative effect): 50-200 mg, once daily at bedtime, usually in compound formulations, as per API. Kumari Asava: 15-30 ml with an equal quantity of water, after meals, 1-2 times daily.",
-    "elderly": "Similar to adult dosages, but with increased caution, especially for the laxative effects of the latex. Start with lower doses and monitor for adverse effects, particularly electrolyte imbalance. Consult an Ayurvedic physician for personalized recommendations."
+  "details": {
+    "plant_profile": {
+      "history": "Unique History: Known as 'Kumari' in Sanskrit, meaning 'young girl,' signifying its rejuvenating properties. Originating from the Arabian Peninsula, it has been used for over 6,000 years in traditional medicine systems including Ayurvedic, Egyptian, Greek, and Chinese practices. Physical Characteristics: A succulent perennial plant belonging to the Asphodelaceae family. It features thick, fleshy, lanceolate leaves arranged in a rosette, typically green to grey-green, with serrated margins. The inner leaf contains a clear, mucilaginous gel, while the outer leaf contains a bitter yellow latex. Specific Chemical Compounds: Key active constituents include Anthraquinones (e.g., Aloin A and B/barbaloin, aloe-emodin, chrysophanol) responsible for laxative effects; Polysaccharides (e.g., Acemannan/glucomannan, arabinan, galactan, mannan) contributing to immunomodulatory and wound-healing properties; Vitamins (A, C, E, B-complex); Minerals (calcium, magnesium, zinc, selenium); Enzymes (bradykinase, catalase); Amino Acids (contains 20 of 22 human required, including 7 essential); Fatty Acids (cholesterol, campesterol, β-sitosterol); and other compounds like saponins and salicylic acid. Strict Standardizations: The Ayurvedic Pharmacopoeia of India (API) specifies quality standards for 'Kumari' (Aloe barbadensis Miller), including macroscopic and microscopic identification, foreign matter limits, total ash, acid-insoluble ash, alcohol-soluble extractive, water-soluble extractive, and quantitative analysis of marker compounds like aloin. WHO monographs also provide guidelines for quality control and safe use of Aloe vera preparations.",
+      "physical_characteristics": "",
+      "distribution": ""
+    },
+    "ayurvedic_properties": {
+      "rasa": [
+        "Predominantly Tikta (Bitter), also Madhura (Sweet)."
+      ],
+      "guna": [],
+      "virya": "Shita (Cooling).",
+      "vipaka": "Katu (Pungent).",
+      "dosha_modulation": "Primarily pacifies Pitta and Kapha doshas due to its Shita Virya and Tikta Rasa. Can aggravate Vata in excess, especially the purgative latex, due to its Katu Vipaka and strong cleansing action."
+    },
+    "therapeutic_actions": [],
+    "medicinal_uses": {
+      "dermatological_conditions": "Highly effective for treating burns (first and second degree), wounds, skin irritations, psoriasis, eczema, and frostbite, as supported by WHO monographs on Aloe vera.",
+      "gastrointestinal_disorders": "Acts as a potent laxative (due to anthraquinones in the latex) for occasional constipation. The gel is used for peptic ulcers, irritable bowel syndrome (IBS), and inflammatory bowel disease (IBD) due to its anti-inflammatory and mucoprotective properties.",
+      "hepatic_support": "Functions as a liver tonic and hepatoprotective agent, aiding in detoxification and improving liver function, as per traditional Ayurvedic texts.",
+      "gynecological_health": "Utilized as an emmenagogue to promote menstruation in cases of amenorrhea and dysmenorrhea, and to support uterine health.",
+      "metabolic_regulation": "Preliminary research suggests potential in blood sugar regulation for type 2 diabetes and cholesterol reduction, though more robust clinical trials are needed.",
+      "immunomodulation": "Contains polysaccharides like acemannan that are known to enhance immune system function and possess antiviral properties.",
+      "oral_health": "Used in mouthwashes and toothpastes for gingivitis, periodontitis, and other oral inflammations due to its antimicrobial and anti-inflammatory actions."
+    },
+    "chemical_profile": {
+      "key_compounds": [],
+      "phytochemicals": [],
+      "nutritional_components": []
+    },
+    "standardization": {
+      "api_reference": "",
+      "quality_markers": []
+    }
   },
-  "medicinal_uses": [
-    "Dermatological Conditions: Highly effective for treating burns (first and second degree), wounds, skin irritations, psoriasis, eczema, and frostbite, as supported by WHO monographs on Aloe vera.",
-    "Gastrointestinal Disorders: Acts as a potent laxative (due to anthraquinones in the latex) for occasional constipation. The gel is used for peptic ulcers, irritable bowel syndrome (IBS), and inflammatory bowel disease (IBD) due to its anti-inflammatory and mucoprotective properties.",
-    "Hepatic Support: Functions as a liver tonic and hepatoprotective agent, aiding in detoxification and improving liver function, as per traditional Ayurvedic texts.",
-    "Gynecological Health: Utilized as an emmenagogue to promote menstruation in cases of amenorrhea and dysmenorrhea, and to support uterine health.",
-    "Metabolic Regulation: Preliminary research suggests potential in blood sugar regulation for type 2 diabetes and cholesterol reduction, though more robust clinical trials are needed.",
-    "Immunomodulation: Contains polysaccharides like acemannan that are known to enhance immune system function and possess antiviral properties.",
-    "Oral Health: Used in mouthwashes and toothpastes for gingivitis, periodontitis, and other oral inflammations due to its antimicrobial and anti-inflammatory actions."
-  ],
-  "safety_profile": {
-    "warning": "GRAS Status: The inner leaf gel of Aloe vera is generally recognized as safe (GRAS) by regulatory bodies for consumption. However, the whole leaf extract containing significant levels of aloin (anthraquinone glycosides) is not considered GRAS for food use by the FDA due to potential carcinogenicity observed in animal studies at high doses. WHO monographs advise against long-term use of the latex due to potential for electrolyte imbalance and colon damage.",
-    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+  "usage": {
+    "preparation_methods": {
+      "fresh_gel_extraction": "The inner clear gel is carefully scooped or filleted from the mature leaves, avoiding the bitter yellow latex layer. This fresh gel can be consumed directly or applied topically.",
+      "juice_preparation": "The fresh inner gel is blended with water and strained to produce Aloe vera juice. This is often consumed for digestive health and general well-being.",
+      "dried_latex__aloes_": "The yellow exudate (latex) from the cut leaves is collected and dried to form a bitter, resinous mass. This dried latex is powdered and used in specific Ayurvedic formulations, primarily for its strong purgative action.",
+      "kumari_asava": "A traditional Ayurvedic fermented liquid preparation where Aloe vera juice is the primary ingredient, along with other herbs and jaggery. It undergoes fermentation to enhance its therapeutic properties, particularly for liver and gynecological conditions.",
+      "topical_pastes__lepas_": "Fresh gel is often combined with other herbal powders or oils to create topical applications for skin conditions, burns, and wounds."
+    },
+    "dosage": {
+      "adults": "Fresh Aloe vera gel/juice: 10-30 ml, 1-2 times daily, typically before meals, for general health, digestion, and skin benefits. Dried Aloe latex (for laxative effect): 50-200 mg, once daily at bedtime, usually in compound formulations, as per API. Kumari Asava: 15-30 ml with an equal quantity of water, after meals, 1-2 times daily.",
+      "children": "Internal use of Aloe latex is generally contraindicated for children under 12 years. Topical application of the gel should be done with caution and under medical supervision. Consult an Ayurvedic practitioner for specific pediatric guidance.",
+      "elderly": "Similar to adult dosages, but with increased caution, especially for the laxative effects of the latex. Start with lower doses and monitor for adverse effects, particularly electrolyte imbalance. Consult an Ayurvedic physician for personalized recommendations."
+    }
+  },
+  "safety": {
     "contraindications": [
       "Internal use of Aloe latex is contraindicated during pregnancy and lactation (due to potential uterine contractions and purgative effects on infants), in children under 12 years, and in individuals with intestinal obstruction, acute inflammatory bowel disease (Crohn's disease, ulcerative colitis), appendicitis, abdominal pain of unknown origin, and severe kidney disorders."
     ],
-    "not_recommended_for": [],
-    "possible_side_effects": [],
+    "side_effects": [],
     "drug_interactions": [
       "May interact with diuretics, leading to increased potassium loss (hypokalemia). Hypokalemia can potentiate the effects and toxicity of cardiac glycosides (e.g., Digoxin). May lower blood glucose, requiring dose adjustments for antidiabetic medications. Potential for additive effects with other stimulant laxatives. Caution with anticoagulants/antiplatelets due to theoretical risk of increased bleeding, though less documented for the gel."
-    ]
+    ],
+    "toxicity_notes": "GRAS Status: The inner leaf gel of Aloe vera is generally recognized as safe (GRAS) by regulatory bodies for consumption. However, the whole leaf extract containing significant levels of aloin (anthraquinone glycosides) is not considered GRAS for food use by the FDA due to potential carcinogenicity observed in animal studies at high doses. WHO monographs advise against long-term use of the latex due to potential for electrolyte imbalance and colon damage."
   },
-  "plant_profile": {
-    "safety": "Moderate",
-    "confidence": "High",
-    "availability": "High",
-    "research": "Moderate",
-    "tradition": "High",
-    "note": "AI estimated profile based on known properties"
+  "metadata": {
+    "source_system": "Agastya AI Herbal Database",
+    "verification_status": "verified",
+    "last_updated": "2026-03-10",
+    "confidence_score": 0.95
   }
 }

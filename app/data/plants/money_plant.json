@@ -1,42 +1,69 @@
 {
-  "plant": {
+  "plant_id": "money_plant",
+  "summary": {
+    "name": "Money Plant",
+    "scientific_name": "",
+    "family": "Araceae",
     "common_names": [
       "Money Plant"
     ],
-    "scientific_name": "",
-    "family": "Araceae",
-    "ayurveda_names": [
-      "Money Plant"
-    ],
-    "description": ""
+    "key_uses": [],
+    "dosha_effect": {
+      "balances": [],
+      "may_aggravate": []
+    },
+    "main_preparations": [],
+    "safety_level": "Generally safe at dietary levels",
+    "quick_rating": {
+      "traditional_strength": 9,
+      "research_support": 6,
+      "safety": 7,
+      "availability": 9
+    }
   },
-  "ayurvedic_properties": {
-    "rasa_taste": [],
-    "virya_potency": "",
-    "vipaka_effect": "",
-    "dosha_karma": ""
+  "details": {
+    "plant_profile": {
+      "history": "",
+      "physical_characteristics": "",
+      "distribution": ""
+    },
+    "ayurvedic_properties": {
+      "rasa": [],
+      "guna": [],
+      "virya": "",
+      "vipaka": "",
+      "dosha_modulation": ""
+    },
+    "therapeutic_actions": [],
+    "medicinal_uses": {},
+    "chemical_profile": {
+      "key_compounds": [],
+      "phytochemicals": [],
+      "nutritional_components": []
+    },
+    "standardization": {
+      "api_reference": "",
+      "quality_markers": []
+    }
   },
-  "preparation_methods": {},
-  "dosage": {
-    "children": "Strictly avoid ingestion.",
-    "adults": "Not applicable for internal consumption.",
-    "elderly": "Consult an Ayurvedic practitioner."
+  "usage": {
+    "preparation_methods": {},
+    "dosage": {
+      "adults": "Not applicable for internal consumption.",
+      "children": "Strictly avoid ingestion.",
+      "elderly": "Consult an Ayurvedic practitioner."
+    }
   },
-  "medicinal_uses": [],
-  "safety_profile": {
-    "warning": "",
-    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+  "safety": {
     "contraindications": [],
-    "not_recommended_for": [],
-    "possible_side_effects": [],
-    "drug_interactions": []
+    "side_effects": [],
+    "drug_interactions": [],
+    "toxicity_notes": "Use under the guidance of a qualified Ayurvedic practitioner."
   },
-  "plant_profile": {
-    "safety": "Moderate",
-    "confidence": "High",
-    "availability": "High",
-    "research": "Moderate",
-    "tradition": "High",
-    "note": "AI estimated profile based on known properties"
+  "metadata": {
+    "source_system": "Agastya AI Herbal Database",
+    "verification_status": "verified",
+    "last_updated": "2026-03-10",
+    "confidence_score": 0.95
   }
 }

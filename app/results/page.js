@@ -171,31 +171,53 @@ function ResultsContent() {
         </div>
     );
 
-    // Graceful resolvers for nested "plant" format and the legacy flat format
-    const plantData = data.plant || {};
-    const plantName = plantData.common_names?.[0] || plantData.ayurveda_names?.[0] || r(data, 'name') || "Unknown Plant";
-    const scientificName = plantData.scientific_name || r(data, 'scientific_name', 'scientificName') || "";
-    const family = plantData.family || r(data, 'family', 'botanicalFamily') || "";
-    const description = plantData.description || r(data, 'description') || "";
-    const usageForm = plantData.usage_form || r(data, 'usage_form', 'usageForm') || "";
+    // Graceful resolvers to support legacy format, our first nested format, and the NEW "Agastya" nested format
+    const summary = data.summary || {};
+    const details = data.details || {};
+    const usage = data.usage || {};
+    const safety = data.safety || {};
 
+    const plantData = data.plant || {};
+    
+    // Plant Name
+    const plantName = summary.name || plantData.common_names?.[0] || plantData.ayurveda_names?.[0] || r(data, 'name') || "Unknown Plant";
+    const scientificName = summary.scientific_name || plantData.scientific_name || r(data, 'scientific_name', 'scientificName') || "";
+    const family = summary.family || plantData.family || r(data, 'family', 'botanicalFamily') || "";
+    const description = details.plant_profile?.history || plantData.description || r(data, 'description') || "";
+    const usageForm = summary.main_preparations?.join(', ') || plantData.usage_form || r(data, 'usage_form', 'usageForm') || "";
+
+    // Plant Profile Raw string
     const plantProfileArr = r(data, 'plant_profile', 'plantProfile');
     const plantProfile = typeof plantProfileArr === 'object' ? Object.values(plantProfileArr).join(' ') : plantProfileArr || "";
 
-    const prepMethodsRaw = r(data, 'preparation_methods', 'preparationMethods') || "";
-    const prepMethods = typeof prepMethodsRaw === 'object' && !Array.isArray(prepMethodsRaw) 
-        ? Object.values(prepMethodsRaw).map(v => v.method || v).filter(Boolean) 
-        : prepMethodsRaw;
+    // Preparation Methods
+    let prepMethods = "";
+    if (usage.preparation_methods) {
+        prepMethods = Object.entries(usage.preparation_methods).map(([k,v]) => `${k.replace(/_/g,' ')}: ${v}`);
+    } else {
+        const prepMethodsRaw = r(data, 'preparation_methods', 'preparationMethods') || "";
+        prepMethods = typeof prepMethodsRaw === 'object' && !Array.isArray(prepMethodsRaw) 
+            ? Object.values(prepMethodsRaw).map(v => v.method || v).filter(Boolean) 
+            : prepMethodsRaw;
+    }
 
-    const mainUses = r(data, 'medicinal_uses', 'main_medicinal_uses', 'mainMedicinalUses') || "";
+    // Main Uses
+    let mainUses = "";
+    if (details.medicinal_uses && typeof details.medicinal_uses === "object") {
+        mainUses = Object.entries(details.medicinal_uses).map(([k,v]) => `${k.replace(/_/g,' ')}: ${v}`);
+    } else {
+        mainUses = r(data, 'medicinal_uses', 'main_medicinal_uses', 'mainMedicinalUses') || "";
+    }
     
-    const ayurvedicPropsRaw = r(data, 'ayurvedic_properties') || null;
+    // Ayurvedic properties
+    const ayurvedicPropsRaw = details.ayurvedic_properties || r(data, 'ayurvedic_properties') || null;
     const ayurvedicProps = ayurvedicPropsRaw ? Object.entries(ayurvedicPropsRaw).map(([k, v]) => `${k.replace('_', ' ')}: ${Array.isArray(v) ? v.join(', ') : v}`) : null;
 
-    // Use dosha_karma from the new format as threeUses if `usesInAyurveda` doesn't exist.
-    const threeUses = r(data, 'three_main_uses', 'usesInAyurveda') || (ayurvedicPropsRaw?.dosha_karma ? [ayurvedicPropsRaw.dosha_karma] : []);
+    // Three / Key uses
+    const threeUses = summary.key_uses || r(data, 'three_main_uses', 'usesInAyurveda') || (ayurvedicPropsRaw?.dosha_modulation ? [ayurvedicPropsRaw.dosha_modulation] : ayurvedicPropsRaw?.dosha_karma ? [ayurvedicPropsRaw.dosha_karma] : []);
 
-    const dosages = r(data, 'dosage', 'dosages') || {};
+    // Dosages
+    const dosages = usage.dosage || r(data, 'dosage', 'dosages') || {};
     const safetyProfileRaw = r(data, 'safety_profile', 'safetyProfile') || "";
     const aiExplanation = r(data, 'ai_recommendation_explanation');
 
@@ -203,18 +225,24 @@ function ResultsContent() {
     const doseAdults = dosages.adults || dosages.Adults || "Consult physician";
     const doseElderly = dosages.elderly || dosages.Elderly || "Consult physician";
 
-    const contraindications = safetyProfileRaw?.intraindications || safetyProfileRaw?.contraindications || r(data, 'contraindications') || [];
-    const drugInteractions = safetyProfileRaw?.drug_interactions || r(data, 'drug_interactions') || [];
-    const sideEffects = safetyProfileRaw?.possible_side_effects || [];
+    // Safety and Warnings
+    const contraindications = safety.contraindications || safetyProfileRaw?.intraindications || safetyProfileRaw?.contraindications || r(data, 'contraindications') || [];
+    const drugInteractions = safety.drug_interactions || safetyProfileRaw?.drug_interactions || r(data, 'drug_interactions') || [];
+    const sideEffects = safety.side_effects || safetyProfileRaw?.possible_side_effects || [];
     
-    // Combine warnings and side effects if it's the new object format
-    const safetyProfile = typeof safetyProfileRaw === 'object' && !Array.isArray(safetyProfileRaw)
-        ? [safetyProfileRaw.warning, safetyProfileRaw.medical_supervision, ...sideEffects].filter(Boolean)
-        : safetyProfileRaw;
+    let safetyProfile = "";
+    if (safety.toxicity_notes) {
+        // Agastya format fallback
+        safetyProfile = [safety.toxicity_notes, ...sideEffects].filter(Boolean);
+    } else if (typeof safetyProfileRaw === 'object' && !Array.isArray(safetyProfileRaw)) {
+        safetyProfile = [safetyProfileRaw.warning, safetyProfileRaw.medical_supervision, ...sideEffects].filter(Boolean);
+    } else {
+        safetyProfile = safetyProfileRaw;
+    }
 
-    const activeCompounds = r(data, 'active_compounds') || [];
+    const activeCompounds = details.chemical_profile?.key_compounds || details.chemical_profile?.phytochemicals || r(data, 'active_compounds') || [];
     const medicinalUses = r(data, 'medicinal_uses') || null;
-    const references = r(data, 'references') || null;
+    const references = details.standardization?.api_reference ? { ayush_ref: details.standardization.api_reference } : r(data, 'references') || null;
 
     const fadeUp = {
         initial: { opacity: 0, y: 20 },

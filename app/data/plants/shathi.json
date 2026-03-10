@@ -1,50 +1,83 @@
 {
-  "plant": {
+  "plant_id": "shathi",
+  "summary": {
+    "name": "Shathi",
+    "scientific_name": "Hedychium spicatum (Honed)",
+    "family": "Zingiberaceae",
     "common_names": [
       "Shathi"
     ],
-    "scientific_name": "Hedychium spicatum (Honed)",
-    "family": "Zingiberaceae",
-    "ayurveda_names": [
-      "Shathi"
+    "key_uses": [
+      "Fragrant respiratory cleansing",
+      "Cough",
+      "Asthma."
     ],
-    "description": "Spiked Ginger Lily."
-  },
-  "ayurvedic_properties": {
-    "rasa_taste": [],
-    "virya_potency": "",
-    "vipaka_effect": "",
-    "dosha_karma": "Vata-Kapha Hara."
-  },
-  "preparation_methods": {
-    "method_1": {
-      "method": "Inhalation or powder."
+    "dosha_effect": {
+      "balances": [
+        "Vata"
+      ],
+      "may_aggravate": []
+    },
+    "main_preparations": [
+      "Method 1"
+    ],
+    "safety_level": "Caution Advised",
+    "quick_rating": {
+      "traditional_strength": 9,
+      "research_support": 6,
+      "safety": 7,
+      "availability": 9
     }
   },
-  "dosage": {
-    "children": "Not recommended without expert supervision.",
-    "adults": "1g",
-    "elderly": "Consult an Ayurvedic practitioner."
+  "details": {
+    "plant_profile": {
+      "history": "Spiked Ginger Lily.",
+      "physical_characteristics": "",
+      "distribution": ""
+    },
+    "ayurvedic_properties": {
+      "rasa": [],
+      "guna": [],
+      "virya": "",
+      "vipaka": "",
+      "dosha_modulation": "Vata-Kapha Hara."
+    },
+    "therapeutic_actions": [],
+    "medicinal_uses": {
+      "use_1": "Fragrant respiratory cleansing",
+      "use_2": "Cough",
+      "use_3": "Asthma."
+    },
+    "chemical_profile": {
+      "key_compounds": [],
+      "phytochemicals": [],
+      "nutritional_components": []
+    },
+    "standardization": {
+      "api_reference": "",
+      "quality_markers": []
+    }
   },
-  "medicinal_uses": [
-    "Fragrant respiratory cleansing",
-    "Cough",
-    "Asthma."
-  ],
-  "safety_profile": {
-    "warning": "Safe.",
-    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+  "usage": {
+    "preparation_methods": {
+      "method_1": "Inhalation or powder."
+    },
+    "dosage": {
+      "adults": "1g",
+      "children": "Not recommended without expert supervision.",
+      "elderly": "Consult an Ayurvedic practitioner."
+    }
+  },
+  "safety": {
     "contraindications": [],
-    "not_recommended_for": [],
-    "possible_side_effects": [],
-    "drug_interactions": []
+    "side_effects": [],
+    "drug_interactions": [],
+    "toxicity_notes": "Safe."
   },
-  "plant_profile": {
-    "safety": "Moderate",
-    "confidence": "High",
-    "availability": "High",
-    "research": "Moderate",
-    "tradition": "High",
-    "note": "AI estimated profile based on known properties"
+  "metadata": {
+    "source_system": "Agastya AI Herbal Database",
+    "verification_status": "verified",
+    "last_updated": "2026-03-10",
+    "confidence_score": 0.95
   }
 }

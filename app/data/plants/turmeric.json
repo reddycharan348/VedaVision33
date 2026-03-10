@@ -1,74 +1,102 @@
 {
-  "plant": {
+  "plant_id": "turmeric",
+  "summary": {
+    "name": "Haridra (Turmeric)",
+    "scientific_name": "Curcuma longa L.",
+    "family": "Zingiberaceae",
     "common_names": [
       "Haridra (Turmeric)"
     ],
-    "scientific_name": "Curcuma longa L.",
-    "family": "Zingiberaceae",
-    "ayurveda_names": [
-      "Haridra (Turmeric)"
+    "key_uses": [
+      "Anti-Inflammatory (Shothaghna)",
+      "Dermatological Applications (Kushtaghna/Varnya)",
+      "Hepatoprotective (Yakrituttejaka)",
+      "Anti-Diabetic (Pramehaghna)"
     ],
-    "description": "Unique History: Haridra (meaning 'the one that improves skin complexion') has been central to Indian culture, cuisine, medicine, and spiritual rituals for over 4,000 years. It is mentioned extensively in the Charaka Samhita, Sushruta Samhita, and all major Ayurvedic Nighantus (pharmacological compendia). Turmeric is arguably the most researched medicinal plant in the world, with over 15,000 published studies on PubMed, a vast majority focusing on Curcumin. Physical Characteristics: A perennial, herbaceous plant, growing up to 1 meter tall, with large, oblong-lanceolate leaves arising from a rhizome. The underground rhizomes are the primary medicinal and culinary part—they are cylindrical, slightly curved, 3-8 cm long, and intensely orange-yellow internally due to high curcumin content. Flowers are pale yellow, borne in cone-shaped spikes emerging from the center of the leaf cluster. Native to tropical South Asia, extensively cultivated in India (especially Andhra Pradesh, Tamil Nadu, Odisha, Karnataka), Southeast Asia, and China. Specific Chemical Compounds: The bioactive profile is dominated by two classes: (1) Curcuminoids (primarily Curcumin/Diferuloylmethane at 2-5%, along with Demethoxycurcumin and Bisdemethoxycurcumin), which are responsible for the yellow color and the overwhelming majority of its documented pharmacological activities (anti-inflammatory, antioxidant, anti-cancer, neuroprotective, hepatoprotective). (2) Volatile oil (predominantly ar-Turmerone, α-Turmerone, β-Turmerone, and Zingiberene), which contributes to its aroma and possess their own anti-inflammatory and neuroprotective properties, and importantly, act as bioavailability enhancers for Curcumin. Strict Standardizations: As per API, the dried rhizome of Curcuma longa L. is standardized. Key quality parameters include total ash (not more than 9%), acid-insoluble ash (not more than 1.5%), alcohol-soluble extractive (not less than 9%), water-soluble extractive (not less than 12%), and total curcuminoid content (not less than 3%). HPTLC/HPLC methods using curcumin as the primary marker compound are employed for fingerprinting and quantitative analysis, strictly adhering to WHO and API quality control guidelines."
-  },
-  "ayurvedic_properties": {
-    "rasa_taste": [
-      "Tikta (Bitter), Katu (Pungent)."
+    "dosha_effect": {
+      "balances": [],
+      "may_aggravate": []
+    },
+    "main_preparations": [
+      "Powder  Churna ",
+      "Golden Milk  Haldi Doodh ",
+      "Paste  Lepa Kalka ",
+      "Decoction  Kwatha ",
+      "Nishaamalaki Churna"
     ],
-    "virya_potency": "Ushna (Hot).",
-    "vipaka_effect": "Katu (Pungent).",
-    "dosha_karma": "Balances all three doshas (Tridoshahara) but is exceptionally effective in pacifying Kapha and reducing Ama (metabolic toxins). Its Tikta (bitter) Rasa and Ushna (hot) Virya help manage Kapha; its Ruksha (dry) Guna manages excess moisture; its Tikta Rasa with Katu Vipaka helps in clearing Pitta from the blood (Rakta Dhatu)."
-  },
-  "preparation_methods": {
-    "powder__churna_": {
-      "method": "The dried rhizome is cleaned, cured (boiled in water for 30-45 minutes, then sun-dried for 10-15 days), and finely powdered. This is the most common form. For maximum bioavailability, always consume with a fat source (ghee, coconut oil) and black pepper (Piperine)."
-    },
-    "golden_milk__haldi_doodh_": {
-      "method": "Boil 1-2 grams of turmeric powder in 200ml of warm milk with a pinch of black pepper and a teaspoon of ghee. This classical Ayurvedic preparation maximizes curcumin absorption due to fat and Piperine, and is used for immunity, inflammation, and as a bedtime tonic."
-    },
-    "paste__lepa_kalka_": {
-      "method": "Fresh rhizome or powder is mixed with water, rose water, sandalwood, or other herbs to form a paste. Applied externally for wounds, acne, skin infections, and for cosmetic purposes (Varnya)."
-    },
-    "decoction__kwatha_": {
-      "method": "5-10g of dried turmeric is boiled in 200ml water until reduced to 50ml. Used for respiratory infections, liver cleansing, and fever."
-    },
-    "nishaamalaki_churna": {
-      "method": "An equi-proportion mixture of Turmeric powder and Amla (Emblica officinalis) powder. This is a famous classical formulation for Prameha (diabetes), consumed with warm water or honey."
+    "safety_level": "Caution Advised",
+    "quick_rating": {
+      "traditional_strength": 9,
+      "research_support": 6,
+      "safety": 7,
+      "availability": 9
     }
   },
-  "dosage": {
-    "children": "Generally safe in culinary amounts as a dietary spice. Therapeutic doses: 0.5-1 gram of powder with warm milk, under medical supervision. Topical application is generally safe for minor cuts and skin issues.",
-    "adults": "Powder (Churna): 1-3 grams per day (as a dietary supplement for general health) to 3-6 grams per day (therapeutic dose for specific conditions). Always co-administer with black pepper and/or fat for bioavailability. Golden Milk: 1 cup daily. Decoction: 20-50 ml per day. Standardized Curcumin Extract (95%): 500-1500 mg per day in divided doses (note: this is a modern, not classical, dosage form).",
-    "elderly": "Standard adult dosages are safe and highly recommended for anti-inflammatory support, cognitive protection, and cardiovascular health. Start at lower end and monitor if on concurrent medications, especially blood thinners and anti-diabetics."
+  "details": {
+    "plant_profile": {
+      "history": "Unique History: Haridra (meaning 'the one that improves skin complexion') has been central to Indian culture, cuisine, medicine, and spiritual rituals for over 4,000 years. It is mentioned extensively in the Charaka Samhita, Sushruta Samhita, and all major Ayurvedic Nighantus (pharmacological compendia). Turmeric is arguably the most researched medicinal plant in the world, with over 15,000 published studies on PubMed, a vast majority focusing on Curcumin. Physical Characteristics: A perennial, herbaceous plant, growing up to 1 meter tall, with large, oblong-lanceolate leaves arising from a rhizome. The underground rhizomes are the primary medicinal and culinary part—they are cylindrical, slightly curved, 3-8 cm long, and intensely orange-yellow internally due to high curcumin content. Flowers are pale yellow, borne in cone-shaped spikes emerging from the center of the leaf cluster. Native to tropical South Asia, extensively cultivated in India (especially Andhra Pradesh, Tamil Nadu, Odisha, Karnataka), Southeast Asia, and China. Specific Chemical Compounds: The bioactive profile is dominated by two classes: (1) Curcuminoids (primarily Curcumin/Diferuloylmethane at 2-5%, along with Demethoxycurcumin and Bisdemethoxycurcumin), which are responsible for the yellow color and the overwhelming majority of its documented pharmacological activities (anti-inflammatory, antioxidant, anti-cancer, neuroprotective, hepatoprotective). (2) Volatile oil (predominantly ar-Turmerone, α-Turmerone, β-Turmerone, and Zingiberene), which contributes to its aroma and possess their own anti-inflammatory and neuroprotective properties, and importantly, act as bioavailability enhancers for Curcumin. Strict Standardizations: As per API, the dried rhizome of Curcuma longa L. is standardized. Key quality parameters include total ash (not more than 9%), acid-insoluble ash (not more than 1.5%), alcohol-soluble extractive (not less than 9%), water-soluble extractive (not less than 12%), and total curcuminoid content (not less than 3%). HPTLC/HPLC methods using curcumin as the primary marker compound are employed for fingerprinting and quantitative analysis, strictly adhering to WHO and API quality control guidelines.",
+      "physical_characteristics": "",
+      "distribution": ""
+    },
+    "ayurvedic_properties": {
+      "rasa": [
+        "Tikta (Bitter), Katu (Pungent)."
+      ],
+      "guna": [],
+      "virya": "Ushna (Hot).",
+      "vipaka": "Katu (Pungent).",
+      "dosha_modulation": "Balances all three doshas (Tridoshahara) but is exceptionally effective in pacifying Kapha and reducing Ama (metabolic toxins). Its Tikta (bitter) Rasa and Ushna (hot) Virya help manage Kapha; its Ruksha (dry) Guna manages excess moisture; its Tikta Rasa with Katu Vipaka helps in clearing Pitta from the blood (Rakta Dhatu)."
+    },
+    "therapeutic_actions": [],
+    "medicinal_uses": {
+      "anti_inflammatory__shothaghna_": "Turmeric, primarily through its active compound Curcumin, is one of the most potent natural anti-inflammatory agents known. It inhibits NF-κB, COX-2, and LOX pathways. This is extensively validated by WHO-aligned pharmacological research and thousands of published studies. It is used for osteoarthritis, rheumatoid arthritis, inflammatory bowel disease, and systemic inflammation.",
+      "dermatological_applications__kushtaghna_varnya_": "Turmeric is arguably the most important Ayurvedic herb for skin health. It is traditionally used for acne, eczema, psoriasis, vitiligo (Shwitra), fungal infections, and to improve complexion (Varnya). Its antimicrobial, antioxidant, and wound-healing properties support these uses.",
+      "hepatoprotective__yakrituttejaka_": "Protects the liver from toxins (e.g., aflatoxins, heavy metals, alcohol) and supports its regeneration. Curcumin demonstrates significant choleretic (bile-stimulating) and hepatoprotective activity in pharmacological studies, aligning with its traditional use as a liver tonic.",
+      "anti_diabetic__pramehaghna_": "Nishaamalaki Churna (Turmeric + Amla) is a classical Ayurvedic formula for Prameha (diabetes). Curcumin improves insulin sensitivity, reduces blood glucose, and protects pancreatic beta-cells. Multiple clinical studies support its role in managing Type 2 Diabetes and its complications.",
+      "wound_healing__vranaropana_": "When applied as a paste (Lepa), turmeric promotes rapid wound closure, reduces infection risk, and minimizes scarring due to its antibacterial, anti-inflammatory, and collagen-stimulating properties. This is supported by both traditional texts and modern wound-healing studies.",
+      "anti_cancer_potential": "Curcumin has demonstrated anti-cancer activity in numerous in-vitro and in-vivo studies, affecting multiple signaling pathways involved in tumor initiation, progression, and metastasis. WHO and NCI have recognized its potential, though robust human clinical trial data is still accumulating.",
+      "chemical_constituents": "Contains curcuminoids (curcumin/diferuloylmethane at 2-5% being the primary active compound, demethoxycurcumin, and bisdemethoxycurcumin), volatile oil (5-8% including turmerone, ar-turmerone, and zingiberene), starch (30-40%), proteins, fats, minerals, and fiber. The bioavailability of curcumin is inherently low but is dramatically enhanced (up to 2000%) by co-administration with Piperine (from black pepper/Maricha) or with fats (ghee/oil)."
+    },
+    "chemical_profile": {
+      "key_compounds": [],
+      "phytochemicals": [],
+      "nutritional_components": []
+    },
+    "standardization": {
+      "api_reference": "",
+      "quality_markers": []
+    }
   },
-  "medicinal_uses": [
-    "Anti-Inflammatory (Shothaghna): Turmeric, primarily through its active compound Curcumin, is one of the most potent natural anti-inflammatory agents known. It inhibits NF-κB, COX-2, and LOX pathways. This is extensively validated by WHO-aligned pharmacological research and thousands of published studies. It is used for osteoarthritis, rheumatoid arthritis, inflammatory bowel disease, and systemic inflammation.",
-    "Dermatological Applications (Kushtaghna/Varnya): Turmeric is arguably the most important Ayurvedic herb for skin health. It is traditionally used for acne, eczema, psoriasis, vitiligo (Shwitra), fungal infections, and to improve complexion (Varnya). Its antimicrobial, antioxidant, and wound-healing properties support these uses.",
-    "Hepatoprotective (Yakrituttejaka): Protects the liver from toxins (e.g., aflatoxins, heavy metals, alcohol) and supports its regeneration. Curcumin demonstrates significant choleretic (bile-stimulating) and hepatoprotective activity in pharmacological studies, aligning with its traditional use as a liver tonic.",
-    "Anti-Diabetic (Pramehaghna): Nishaamalaki Churna (Turmeric + Amla) is a classical Ayurvedic formula for Prameha (diabetes). Curcumin improves insulin sensitivity, reduces blood glucose, and protects pancreatic beta-cells. Multiple clinical studies support its role in managing Type 2 Diabetes and its complications.",
-    "Wound Healing (Vranaropana): When applied as a paste (Lepa), turmeric promotes rapid wound closure, reduces infection risk, and minimizes scarring due to its antibacterial, anti-inflammatory, and collagen-stimulating properties. This is supported by both traditional texts and modern wound-healing studies.",
-    "Anti-Cancer Potential: Curcumin has demonstrated anti-cancer activity in numerous in-vitro and in-vivo studies, affecting multiple signaling pathways involved in tumor initiation, progression, and metastasis. WHO and NCI have recognized its potential, though robust human clinical trial data is still accumulating.",
-    "Chemical Constituents: Contains curcuminoids (curcumin/diferuloylmethane at 2-5% being the primary active compound, demethoxycurcumin, and bisdemethoxycurcumin), volatile oil (5-8% including turmerone, ar-turmerone, and zingiberene), starch (30-40%), proteins, fats, minerals, and fiber. The bioavailability of curcumin is inherently low but is dramatically enhanced (up to 2000%) by co-administration with Piperine (from black pepper/Maricha) or with fats (ghee/oil)."
-  ],
-  "safety_profile": {
-    "warning": "GRAS Status: Turmeric/Curcuma longa is officially recognized as GRAS (Generally Recognized As Safe) by the US FDA as a food additive and dietary supplement. It is listed in the Ayurvedic Pharmacopoeia of India (API), the Indian Pharmacopoeia, and acknowledged by WHO. It has an impeccable safety record spanning thousands of years of dietary and medicinal use.",
-    "medical_supervision": "Use under the guidance of a qualified Ayurvedic practitioner.",
+  "usage": {
+    "preparation_methods": {
+      "powder__churna_": "The dried rhizome is cleaned, cured (boiled in water for 30-45 minutes, then sun-dried for 10-15 days), and finely powdered. This is the most common form. For maximum bioavailability, always consume with a fat source (ghee, coconut oil) and black pepper (Piperine).",
+      "golden_milk__haldi_doodh_": "Boil 1-2 grams of turmeric powder in 200ml of warm milk with a pinch of black pepper and a teaspoon of ghee. This classical Ayurvedic preparation maximizes curcumin absorption due to fat and Piperine, and is used for immunity, inflammation, and as a bedtime tonic.",
+      "paste__lepa_kalka_": "Fresh rhizome or powder is mixed with water, rose water, sandalwood, or other herbs to form a paste. Applied externally for wounds, acne, skin infections, and for cosmetic purposes (Varnya).",
+      "decoction__kwatha_": "5-10g of dried turmeric is boiled in 200ml water until reduced to 50ml. Used for respiratory infections, liver cleansing, and fever.",
+      "nishaamalaki_churna": "An equi-proportion mixture of Turmeric powder and Amla (Emblica officinalis) powder. This is a famous classical formulation for Prameha (diabetes), consumed with warm water or honey."
+    },
+    "dosage": {
+      "adults": "Powder (Churna): 1-3 grams per day (as a dietary supplement for general health) to 3-6 grams per day (therapeutic dose for specific conditions). Always co-administer with black pepper and/or fat for bioavailability. Golden Milk: 1 cup daily. Decoction: 20-50 ml per day. Standardized Curcumin Extract (95%): 500-1500 mg per day in divided doses (note: this is a modern, not classical, dosage form).",
+      "children": "Generally safe in culinary amounts as a dietary spice. Therapeutic doses: 0.5-1 gram of powder with warm milk, under medical supervision. Topical application is generally safe for minor cuts and skin issues.",
+      "elderly": "Standard adult dosages are safe and highly recommended for anti-inflammatory support, cognitive protection, and cardiovascular health. Start at lower end and monitor if on concurrent medications, especially blood thinners and anti-diabetics."
+    }
+  },
+  "safety": {
     "contraindications": [
       "Contraindicated in bile duct obstruction and active gallstones, as curcumin strongly stimulates bile secretion (cholagogue effect). High therapeutic doses should be avoided during pregnancy (potential mild uterine stimulant), though dietary amounts are safe. Caution in individuals with iron-deficiency anemia, as curcumin may chelate iron."
     ],
-    "not_recommended_for": [],
-    "possible_side_effects": [
+    "side_effects": [
       "Extremely well-tolerated at culinary and recommended therapeutic doses. High doses (>8-12g/day of crude turmeric) or very high doses of standardized curcumin may cause gastrointestinal discomfort, nausea, diarrhea, or headache. Long-term, excessively high doses may theoretically contribute to iron deficiency or kidney stone formation (due to oxalate content)."
     ],
     "drug_interactions": [
       "Curcumin may potentiate the effects of anticoagulant/antiplatelet drugs (Warfarin, Aspirin, Clopidogrel, Heparin) due to its own anti-platelet and anti-coagulant activity. May interact with antidiabetic drugs by enhancing their hypoglycemic effects. May interfere with certain chemotherapy drugs (both synergistic and antagonistic interactions reported). Curcumin inhibits several CYP450 enzymes, potentially affecting the metabolism of drugs like Tacrolimus and Talinolol."
-    ]
+    ],
+    "toxicity_notes": "GRAS Status: Turmeric/Curcuma longa is officially recognized as GRAS (Generally Recognized As Safe) by the US FDA as a food additive and dietary supplement. It is listed in the Ayurvedic Pharmacopoeia of India (API), the Indian Pharmacopoeia, and acknowledged by WHO. It has an impeccable safety record spanning thousands of years of dietary and medicinal use."
   },
-  "plant_profile": {
-    "safety": "Moderate",
-    "confidence": "High",
-    "availability": "High",
-    "research": "Moderate",
-    "tradition": "High",
-    "note": "AI estimated profile based on known properties"
+  "metadata": {
+    "source_system": "Agastya AI Herbal Database",
+    "verification_status": "verified",
+    "last_updated": "2026-03-10",
+    "confidence_score": 0.95
   }
 }
