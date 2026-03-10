@@ -205,7 +205,7 @@ export default function Home() {
     );
 
     const scrollTo = (id) => {
-        document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
+        setActiveSection(id);
     };
 
     if (!mounted) return null;
