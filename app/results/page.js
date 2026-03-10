@@ -185,6 +185,8 @@ function ResultsContent() {
     const family = summary.family || plantData.family || r(data, 'family', 'botanicalFamily') || "";
     const description = details.plant_profile?.history || plantData.description || r(data, 'description') || "";
     const usageForm = summary.main_preparations?.join(', ') || plantData.usage_form || r(data, 'usage_form', 'usageForm') || "";
+    const habitat = details.plant_profile?.distribution || plantData.habitat || r(data, 'habitat') || "";
+    const partsUsed = (summary.main_preparations ? "Various based on preparation" : null) || plantData.parts_used || r(data, 'parts_used', 'partsUsed') || "";
 
     // Plant Profile Raw string
     const plantProfileArr = r(data, 'plant_profile', 'plantProfile');
