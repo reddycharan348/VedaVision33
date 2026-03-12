@@ -80,7 +80,10 @@ export const translations = {
     audioAiAnalysis: "AI Analysis",
     audioMainUses: "Main Medicinal Uses",
     audioBenefits: "Key Benefits include",
-    audioPreparation: "General preparation"
+    audioPreparation: "General preparation",
+    resConfidence: "Confidence",
+    resNotVerified: "UNVERIFIED ANALYSIS",
+    resDisclaimer: "This specimen was identified by AI but is not yet in our traditional Ayurvedic manuscripts. Use with caution."
   },
   Telugu: {
     titleVerify: "తక్షణమే నిర్ధారించండి",
@@ -157,7 +160,10 @@ export const translations = {
     audioAiAnalysis: "ఏఐ విశ్లేషణ",
     audioMainUses: "ప్రధాన ఔషధ ఉపయోగాలు",
     audioBenefits: "ముఖ్య ప్రయోజనాలు",
-    audioPreparation: "సాధారణ తయారీ"
+    audioPreparation: "సాధారణ తయారీ",
+    resConfidence: "విశ్వసనీయత",
+    resNotVerified: "ధృవీకరించబడని విశ్లేషణ",
+    resDisclaimer: "ఈ నమూనా AI ద్వారా గుర్తించబడింది కానీ మా ప్రాచీన ఆయుర్వేద గ్రంథాలలో ఇంకా లేదు. జాగ్రత్తగా ఉండండి."
   },
   Hindi: {
     titleVerify: "तुरंत सत्यापित करें",
@@ -234,7 +240,10 @@ export const translations = {
     audioAiAnalysis: "एआई विश्लेषण",
     audioMainUses: "मुख्य औषधीय उपयोग",
     audioBenefits: "मुख्य लाभ",
-    audioPreparation: "सामान्य तैयारी"
+    audioPreparation: "सामान्य तैयारी",
+    resConfidence: "आत्मविश्वास",
+    resNotVerified: "असत्यापित विश्लेषण",
+    resDisclaimer: "यह नमूना एआई द्वारा पहचाना गया है लेकिन अभी तक हमारे पारंपरिक आयुर्वेदिक पांडुलिपियों में नहीं है। सावधानी बरतें।"
   },
   Tamil: {
     titleVerify: "உடனடியாக சரிபார்க்கவும்",
@@ -311,7 +320,10 @@ export const translations = {
     audioAiAnalysis: "எய் விசாரணை",
     audioMainUses: "முதன்மை மருத்துவ பயன்பாடுகள்",
     audioBenefits: "முக்கிய நன்மைகள்",
-    audioPreparation: "பொதுவான தயாரிப்பு"
+    audioPreparation: "பொதுவான தயாரிப்பு",
+    resConfidence: "நம்பகத்தன்மை",
+    resNotVerified: "சரிபார்க்கப்படாத பகுப்பாய்வு",
+    resDisclaimer: "இந்த மாதிரி AI ஆல் அடையாளம் காணப்பட்டது, ஆனால் இன்னும் எங்கள் பாரம்பரிய ஆயுர்வேத கையெழுத்துப் பிரதிகளில் இல்லை. எச்சரிக்கையுடன் பயன்படுத்தவும்."
   },
   Malayalam: {
     titleVerify: "തൽക്ഷണം പരിശോധിക്കുക",
@@ -388,7 +400,10 @@ export const translations = {
     audioAiAnalysis: "എഐ വിശകലനം",
     audioMainUses: "പ്രധാന ഔഷധ ഉപയോഗങ്ങൾ",
     audioBenefits: "പ്രധാന ഗുണങ്ങൾ",
-    audioPreparation: "സാധാരണ തയ്യാറാക്കൽ"
+    audioPreparation: "സാധാരണ തയ്യാറാക്കൽ",
+    resConfidence: "വിശ്വാസ്യത",
+    resNotVerified: "പരിശോധിക്കാത്ത വിശകലനം",
+    resDisclaimer: "ഈ മാതൃക AI തിരിച്ചറിഞ്ഞതാണ്, എന്നാൽ ഞങ്ങളുടെ പരമ്പരാഗത ആയുർവേദ രേഖകളിൽ ഇതുവരെ ഉൾപ്പെടുത്തിയിട്ടില്ല. ജാഗ്രത പാലിക്കുക."
   },
   Kannada: {
     titleVerify: "ತಕ್ಷಣ ದೃಢೀಕರಿಸಿ",
@@ -465,7 +480,10 @@ export const translations = {
     audioAiAnalysis: "ಎಐ ವಿಶ್ಲೇಷಣೆ",
     audioMainUses: "ಪ್ರಧಾನ ಔಷಧೀಯ ಉಪಯೋಗಗಳು",
     audioBenefits: "ಪ್ರಮುಖ ಪ್ರಯೋಜನಗಳು",
-    audioPreparation: "ಸಾಮಾನ್ಯ ತಯಾರಿಕೆ"
+    audioPreparation: "ಸಾಮಾನ್ಯ ತಯಾರಿಕೆ",
+    resConfidence: "ವಿಶ್ವಾಸಾರ್ಹತೆ",
+    resNotVerified: "ದೃಢೀಕರಿಸದ ವಿಲೇಷಣೆ",
+    resDisclaimer: "ಈ ಮಾದರಿಯನ್ನು AI ಗುರುತಿಸಿದೆ ಆದರೆ ಇನ್ನೂ ನಮ್ಮ ಸಾಂಪ್ರದಾಯಿಕ ಆಯುರ್ವೇದ ಹಸ್ತಪ್ರತಿಗಳಲ್ಲಿ ಇಲ್ಲ. ಎಚ್ಚರಿಕೆಯಿಂದ ಬಳಸಿ."
   },
   Sanskrit: {
     titleVerify: "तत्क्षणम् प्रमाणीकुरु",
@@ -542,6 +560,9 @@ export const translations = {
     audioAiAnalysis: "एआई-विश्लेषणम्",
     audioMainUses: "मुख्यऔषधोपयोगाः",
     audioBenefits: "मुख्यलाभाः",
-    audioPreparation: "सामान्यप्रस्तुतिः"
+    audioPreparation: "सामान्यप्रस्तुतिः",
+    resConfidence: "विश्वासः",
+    resNotVerified: "अप्रमाणित-विश्लेषणम्",
+    resDisclaimer: "एतत् नमूना एआई द्वारा ज्ञातम् अस्ति किन्तु अस्माकं पारम्परिक आयुर्वेदिक पाण्डुलिपिषु नास्ति। सावधानतया उपयुज्यताम्।"
   }
 };

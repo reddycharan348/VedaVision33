@@ -49,8 +49,9 @@ export async function POST(req) {
         }
 
         let plantIdentifier = query;
+        let confidenceScore = 100; // Default for text query
 
-        // Step 1: If an image is provided, use Gemini Vision to identify the plant name ONLY
+        // Step 1: If an image is provided, use Gemini Vision to identify the plant
         if (image) {
             const apiKeys = [
                 process.env.GEMINI_API_KEY,
@@ -59,15 +60,19 @@ export async function POST(req) {
                 process.env.GEMINI_API_KEY_4,
                 process.env.GEMINI_API_KEY_5,
                 process.env.GEMINI_API_KEY_6
-            ].filter(Boolean); // Only use keys that are actually present
+            ].filter(Boolean);
 
-            const prompt = `Identify the name of this medicinal plant in the image. STRICTLY return ONLY the common name or scientific name as plain text. Do not return any other text, markdown, or explanation.`;
-            const imagePart = { inlineData: { data: image.split(',')[1], mimeType: image.split(';')[0].split(':')[1] || "image/jpeg" } };
+            const prompt = `Identify the medicinal plant in this image. 
+            Return the result in JSON format:
+            {
+              "name": "Common Name or Scientific Name",
+              "confidence": number between 0 and 100
+            }
+            STRICTLY return ONLY the JSON object. Do not return markdown, code blocks, or explanations.`;
 
             let success = false;
             let lastError = null;
 
-            // Try each API key in sequence until one works
             for (let i = 0; i < apiKeys.length; i++) {
                 try {
                     const ai = new GoogleGenAI({ apiKey: apiKeys[i] });
@@ -79,9 +84,20 @@ export async function POST(req) {
                         ]
                     });
                     
-                    plantIdentifier = response.text.trim();
+                    const textContent = response.text.trim();
+                    console.log("Gemini Raw Response:", textContent);
+
+                    try {
+                        const cleanJson = textContent.replace(/```json|```/g, "").trim();
+                        const result = JSON.parse(cleanJson);
+                        plantIdentifier = result.name;
+                        confidenceScore = result.confidence || 90;
+                    } catch (e) {
+                        plantIdentifier = textContent;
+                        confidenceScore = 85; 
+                    }
+
                     success = true;
-                    console.log(`Successfully used API Key index ${i}`);
                     break;
                 } catch (e) {
                     console.warn(`API Key index ${i} failed:`, e.message);
@@ -90,13 +106,12 @@ export async function POST(req) {
             }
 
             if (!success) {
-                console.error("All Gemini API keys failed:", lastError?.message);
-                return new Response(JSON.stringify({ error: "API Quota exceeded for all keys. Please try searching by text instead or add new keys." }), { status: 429 });
+                return new Response(JSON.stringify({ error: "API Quota exceeded. Please add more keys or use text search." }), { status: 429 });
             }
         }
 
         if (!plantIdentifier) {
-            return new Response(JSON.stringify({ error: "Could not identify plant." }), { status: 400 });
+            return new Response(JSON.stringify({ error: "Could not identify specimen." }), { status: 400 });
         }
 
         // Step 2: Search the local app/data/{plants,cereals,pulses}/ folders for a matching JSON file
@@ -145,15 +160,58 @@ export async function POST(req) {
             }
             if (matchedFile) break;
         }
+        if (!matchedFile) {
+            // FALLBACK: Use the keyword index for discovery
+            try {
+                const INDEX_PATH = path.join(process.cwd(), 'app', 'data', 'keywordIndex.json');
+                const indexData = await fs.readFile(INDEX_PATH, 'utf8');
+                const index = JSON.parse(indexData);
+                
+                const queryTokens = plantIdentifier.toLowerCase().match(/[a-z]{3,}/g) || [];
+                const plantScores = {};
+
+                queryTokens.forEach(token => {
+                    const matches = index[token];
+                    if (matches) {
+                        matches.forEach(match => {
+                            plantScores[match.id] = (plantScores[match.id] || 0) + match.score;
+                        });
+                    }
+                });
+
+                const bestMatchId = Object.entries(plantScores)
+                    .sort((a, b) => b[1] - a[1])[0]?.[0];
+
+                if (bestMatchId) {
+                    for (const dir of directories) {
+                        const potentialPath = path.join(process.cwd(), 'app', 'data', dir, `${bestMatchId}.json`);
+                        try {
+                            await fs.access(potentialPath);
+                            matchedFile = potentialPath;
+                            break;
+                        } catch (e) {}
+                    }
+                }
+            } catch (e) {
+                console.warn("Keyword index fallback failed:", e.message);
+            }
+        }
 
         // Step 3: If found, return the verified local JSON data
         if (matchedFile) {
             const fileData = await fs.readFile(matchedFile, 'utf8');
+            const parsed = JSON.parse(fileData);
+            
+            // Add identification metadata
+            parsed.identification = {
+                name: plantIdentifier,
+                confidence: confidenceScore,
+                isVerified: true
+            };
 
             // Step 4: Translate to the requested language if needed
             if (language && language !== 'English') {
                 try {
-                    const parsed = JSON.parse(fileData);
                     const langCode = LANG_CODES[language] || 'en';
 
                     const fieldsToTranslate = [
@@ -184,20 +242,26 @@ export async function POST(req) {
                     });
                 } catch (e) {
                     console.error("Translation error:", e);
-                    return new Response(fileData, {
+                    return new Response(JSON.stringify(parsed), {
                         status: 200,
                         headers: { "Content-Type": "application/json" }
                     });
                 }
             } else {
-                return new Response(fileData, {
+                return new Response(JSON.stringify(parsed), {
                     status: 200,
                     headers: { "Content-Type": "application/json" }
                 });
             }
         } else {
+            // If not in database, return identification with confidence but mark as not verified
             return new Response(JSON.stringify({
-                error: `Plant identified as '${plantIdentifier}', but it is not in our verified WHO/AYUSH database.`
+                identification: {
+                    name: plantIdentifier,
+                    confidence: confidenceScore,
+                    isVerified: false
+                },
+                error: `Identified as '${plantIdentifier}' with ${confidenceScore}% confidence, but it is not in our verified Ayurvedic manuscripts.`
             }), { status: 404 });
         }
 

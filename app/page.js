@@ -3,9 +3,11 @@
 import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Camera, ArrowRight, Loader2, Sparkles, Upload, Search, Leaf, Shield, FlaskConical, Stethoscope, Mail, MapPin, Phone, X, Menu, BookOpen, MessageSquare, Download } from "lucide-react";
+import { Camera, ArrowRight, Loader2, Sparkles, Upload, Search, Leaf, Shield, FlaskConical, Stethoscope, Mail, MapPin, Phone, X, Menu, BookOpen, MessageSquare, Download, Database, Layers } from "lucide-react";
 import { useLanguage } from "./LanguageContext";
 import { featuredPlants } from "./data/plantsList";
+import { featuredCereals } from "./data/cerealsList";
+import { featuredPulses } from "./data/pulsesList";
 import { translations } from "./i18n";
 
 // Color palette for plant card gradients
@@ -29,6 +31,7 @@ export default function Home() {
     const [mounted, setMounted] = useState(false);
     const [onboardingDone, setOnboardingDone] = useState(false);
     const [selectedLang, setSelectedLang] = useState(null);
+    const [diagnosisResults, setDiagnosisResults] = useState(null);
     const [activeSection, setActiveSection] = useState("verify");
 
     // PWA Install State
@@ -194,8 +197,16 @@ export default function Home() {
         }
     };
 
-    const triggerChat = async () => {
-        if (!chatQuery.trim()) { setChatError("Please enter your symptoms."); return; }
+    const autoTriggerChat = (manualQuery) => {
+        performChatSearch(manualQuery);
+    };
+
+    const triggerChat = () => {
+        performChatSearch(chatQuery);
+    };
+
+    const performChatSearch = async (query) => {
+        if (!query || !query.trim()) { setChatError("Please enter your symptoms."); return; }
 
         setIsChatLoading(true);
         setChatError("");
@@ -203,17 +214,26 @@ export default function Home() {
             const res = await fetch("/api/chat", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ query: chatQuery, language }),
+                body: JSON.stringify({ query: query.trim(), language }),
             });
             const data = await res.json();
             if (!res.ok) throw new Error(data.error || "Chat failed.");
 
-            // Wrap in array if single object returned
-            localStorage.setItem("veda_plant_data", JSON.stringify(data));
-            localStorage.removeItem("veda_image");
-            router.push("/results");
+            if (data.type === 'diagnosis_results') {
+                setDiagnosisResults(data);
+                // Scroll slightly to see results
+                setTimeout(() => {
+                    const el = document.querySelector('.diagnosis-container');
+                    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }, 100);
+            } else {
+                // Wrap in array if single object returned
+                localStorage.setItem("veda_plant_data", JSON.stringify(data));
+                localStorage.removeItem("veda_image");
+                router.push("/results");
+            }
         } catch (err) {
-            setChatError(t('chatLoading'));
+            setChatError("Diagnosis Engine is currently analyzing manuscripts. Please try again.");
         } finally {
             setIsChatLoading(false);
         }
@@ -222,6 +242,97 @@ export default function Home() {
     const filteredPlants = featuredPlants.filter(p =>
         p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
         p.scientific.toLowerCase().includes(searchQuery.toLowerCase())
+    );
+
+    const filteredCereals = featuredCereals.filter(p =>
+        p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        p.scientific.toLowerCase().includes(searchQuery.toLowerCase())
+    );
+
+    const filteredPulses = featuredPulses.filter(p =>
+        p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        p.scientific.toLowerCase().includes(searchQuery.toLowerCase())
+    );
+
+    const [showAllPlants, setShowAllPlants] = useState(false);
+    const [showAllCereals, setShowAllCereals] = useState(false);
+    const [showAllPulses, setShowAllPulses] = useState(false);
+
+    const LibraryCategory = ({ title, items, initialLimit, showAll, setShowAll, typeIcon: Icon }) => (
+        <div className="library-category-section mb-16">
+            <div className="flex items-center gap-3 mb-6">
+                <div className="category-icon-bg">
+                    <Icon size={20} className="text-gold" />
+                </div>
+                <h3 className="category-title text-2xl font-bold">{title}</h3>
+            </div>
+            
+            <motion.div
+                className="plant-grid-modern"
+                variants={{
+                    hidden: { opacity: 0 },
+                    show: {
+                        opacity: 1,
+                        transition: { staggerChildren: 0.1 }
+                    }
+                }}
+                initial="hidden"
+                animate="show"
+            >
+                {(showAll ? items : items.slice(0, initialLimit)).map((item, idx) => {
+                    const colors = PLANT_COLORS[idx % PLANT_COLORS.length];
+                    return (
+                        <motion.div
+                            key={item.id}
+                            variants={{
+                                hidden: { opacity: 0, y: 20 },
+                                show: { opacity: 1, y: 0, transition: { type: "spring", stiffness: 100 } }
+                            }}
+                            whileHover={{ y: -8, scale: 1.02 }}
+                            onClick={() => {
+                                router.push(`/results?id=${item.id}`);
+                            }}
+                            className="plant-card-modern"
+                        >
+                            <div className="card-top" style={{ background: `linear-gradient(135deg, ${colors[0]}, ${colors[1]})` }}>
+                                <img
+                                    src={item.image}
+                                    alt={item.name}
+                                    style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', zIndex: 1 }}
+                                    onError={(e) => {
+                                        e.target.style.display = 'none';
+                                    }}
+                                />
+                                <Leaf size={32} style={{ color: 'rgba(255,255,255,0.4)', position: 'relative', zIndex: 0 }} />
+                                <div className="card-overlay" style={{ zIndex: 2 }}></div>
+                            </div>
+                            <div className="card-bottom">
+                                <h3 className="card-bottom-title">{item.name}</h3>
+                                <p className="card-bottom-sci">{item.scientific}</p>
+                                <div className="card-action">{t('viewProfile')} <ArrowRight size={14} /></div>
+                            </div>
+                        </motion.div>
+                    );
+                })}
+            </motion.div>
+
+            {items.length > initialLimit && !showAll && !searchQuery && (
+                <div className="flex justify-center mt-10">
+                    <button 
+                        onClick={() => setShowAll(true)}
+                        className="btn-see-more"
+                    >
+                        See More {title} <ArrowRight size={16} />
+                    </button>
+                </div>
+            )}
+
+            {items.length === 0 && searchQuery && (
+                <div className="empty-library">
+                    <p style={{ opacity: 0.6 }}>No {title.toLowerCase()} found.</p>
+                </div>
+            )}
+        </div>
     );
 
     const scrollTo = (id) => {
@@ -498,7 +609,16 @@ export default function Home() {
                             {/* Keyword suggestion chips */}
                             <div className="keyword-chips">
                                 {['fever', 'cough', 'joint pain', 'stress', 'digestion', 'skin', 'diabetes', 'hair fall', 'immunity', 'sleep'].map(kw => (
-                                    <button key={kw} className="keyword-chip" onClick={() => { setChatQuery(kw); setChatError(''); }}>
+                                    <button 
+                                        key={kw} 
+                                        className="keyword-chip" 
+                                        onClick={() => { 
+                                            setChatQuery(kw); 
+                                            setChatError('');
+                                            // Trigger search with the keyword directly to avoid waiting for state update
+                                            autoTriggerChat(kw);
+                                        }}
+                                    >
                                         {kw}
                                     </button>
                                 ))}
@@ -525,6 +645,50 @@ export default function Home() {
                                     </motion.div>
                                 )}
                             </AnimatePresence>
+
+                            {diagnosisResults && (
+                                <motion.div 
+                                    initial={{ opacity: 0, y: 20 }} 
+                                    animate={{ opacity: 1, y: 0 }} 
+                                    className="diagnosis-container mt-12 text-left"
+                                >
+                                    <div className="flex items-center gap-2 mb-4 text-emerald">
+                                        <Sparkles size={18} />
+                                        <h3 className="text-xl font-bold uppercase tracking-wider">Diagnosis Discoveries</h3>
+                                    </div>
+                                    <p className="description mb-8 opacity-70 leading-relaxed max-w-2xl text-sm">
+                                        {diagnosisResults.explanation}
+                                    </p>
+                                    
+                                    <div className="diagnosis-results-grid">
+                                        {diagnosisResults.results.map((item) => (
+                                            <div 
+                                                key={item.id} 
+                                                className="diagnosis-card group"
+                                                onClick={() => router.push(`/results?id=${item.id}`)}
+                                            >
+                                                <div className="flex justify-between items-start mb-3">
+                                                    <div className="diagnosis-card-name group-hover:text-emerald transition-colors">{item.name}</div>
+                                                    <div className="diagnosis-card-score">Match: {item.finalScore.toFixed(0)}</div>
+                                                </div>
+                                                <div className="diagnosis-card-keywords">
+                                                    Best for: {item.matchedKeywords.slice(0, 3).join(', ')}
+                                                </div>
+                                                <div className="mt-4 flex items-center gap-1 text-xs text-emerald font-bold uppercase tracking-tighter opacity-0 group-hover:opacity-100 transition-all transform translate-x-[-10px] group-hover:translate-x-0">
+                                                    Explore Herb <ArrowRight size={12} />
+                                                </div>
+                                            </div>
+                                        ))}
+                                    </div>
+                                    
+                                    <button 
+                                        className="mt-10 opacity-50 hover:opacity-100 transition-opacity flex items-center gap-2 text-sm mx-auto"
+                                        onClick={() => setDiagnosisResults(null)}
+                                    >
+                                        <X size={14} /> Reset Search
+                                    </button>
+                                </motion.div>
+                            )}
                         </div>
                     </motion.div>
                 </section>
@@ -545,63 +709,44 @@ export default function Home() {
                             </div>
                         </div>
 
-                        <motion.div
-                            className="plant-grid-modern"
-                            variants={{
-                                hidden: { opacity: 0 },
-                                show: {
-                                    opacity: 1,
-                                    transition: { staggerChildren: 0.1 }
-                                }
-                            }}
-                            initial="hidden"
-                            animate="show"
-                        >
-                            {filteredPlants.map((plant, idx) => {
-                                const colors = PLANT_COLORS[idx % PLANT_COLORS.length];
-                                return (
-                                    <motion.div
-                                        key={plant.id}
-                                        variants={{
-                                            hidden: { opacity: 0, y: 20 },
-                                            show: { opacity: 1, y: 0, transition: { type: "spring", stiffness: 100 } }
-                                        }}
-                                        whileHover={{ y: -8, scale: 1.02 }}
-                                        onClick={() => {
-                                            router.push(`/results?id=${plant.id}`);
-                                        }}
-                                        className="plant-card-modern"
-                                    >
-                                        <div className="card-top" style={{ background: `linear-gradient(135deg, ${colors[0]}, ${colors[1]})` }}>
-                                            <img
-                                                src={plant.image}
-                                                alt={plant.name}
-                                                style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', zIndex: 1 }}
-                                                onError={(e) => {
-                                                    e.target.style.display = 'none';
-                                                }}
-                                            />
-                                            <Leaf size={32} style={{ color: 'rgba(255,255,255,0.4)', position: 'relative', zIndex: 0 }} />
-                                            <div className="card-overlay" style={{ zIndex: 2 }}></div>
-                                        </div>
-                                        <div className="card-bottom">
-                                            <h3 className="card-bottom-title">{plant.name}</h3>
-                                            <p className="card-bottom-sci">{plant.scientific}</p>
-                                            <div className="card-action">{t('viewProfile')} <ArrowRight size={14} /></div>
-                                        </div>
-                                    </motion.div>
-                                )
-                            })}
-                            {filteredPlants.length === 0 && (
-                                <div className="empty-library">
-                                    <div className="empty-library-icon">
-                                        <Leaf size={24} style={{ color: 'rgba(255,255,255,0.2)' }} />
-                                    </div>
-                                    <p style={{ fontSize: '1.1rem' }}>{t('noResults')}</p>
-                                    <p style={{ fontSize: '0.9rem', opacity: 0.6, marginTop: '8px' }}>{t('tryDifferent')}</p>
+                        <div className="library-sections-container">
+                            <LibraryCategory 
+                                title="Medicinal Plants" 
+                                items={filteredPlants} 
+                                initialLimit={6} 
+                                showAll={showAllPlants} 
+                                setShowAll={setShowAllPlants}
+                                typeIcon={Leaf}
+                            />
+                            
+                            <LibraryCategory 
+                                title="Nutritious Cereals" 
+                                items={filteredCereals} 
+                                initialLimit={5} 
+                                showAll={showAllCereals} 
+                                setShowAll={setShowAllCereals}
+                                typeIcon={Database}
+                            />
+                            
+                            <LibraryCategory 
+                                title="Healthy Pulses" 
+                                items={filteredPulses} 
+                                initialLimit={5} 
+                                showAll={showAllPulses} 
+                                setShowAll={setShowAllPulses}
+                                typeIcon={Layers}
+                            />
+                        </div>
+
+                        {filteredPlants.length === 0 && filteredCereals.length === 0 && filteredPulses.length === 0 && searchQuery && (
+                            <div className="empty-library">
+                                <div className="empty-library-icon">
+                                    <Leaf size={24} style={{ color: 'rgba(255,255,255,0.2)' }} />
                                 </div>
-                            )}
-                        </motion.div>
+                                <p style={{ fontSize: '1.1rem' }}>{t('noResults')}</p>
+                                <p style={{ fontSize: '0.9rem', opacity: 0.6, marginTop: '8px' }}>{t('tryDifferent')}</p>
+                            </div>
+                        )}
                     </motion.div>
                 </section>
                 )}

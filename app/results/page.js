@@ -6,6 +6,8 @@ import { useLanguage } from "../LanguageContext";
 import { X, Leaf, Shield, FlaskConical, AlertTriangle, Pill, BookOpen, Beaker, Heart, ArrowLeft, Volume2, Globe } from "lucide-react";
 import { motion } from "framer-motion";
 import { featuredPlants } from "../data/plantsList";
+import { featuredCereals } from "../data/cerealsList";
+import { featuredPulses } from "../data/pulsesList";
 import { translations } from "../i18n";
 
 // Helper to resolve both camelCase and snake_case keys
@@ -122,10 +124,11 @@ function ResultsContent() {
                 const fetchedData = await res.json();
                 setData(fetchedData);
                 
-                // See if we have it in our static list for the high-res image
-                const staticPlant = featuredPlants.find(p => p.id === id);
-                if (staticPlant) {
-                    setImgSrc(staticPlant.image);
+                // See if we have it in our static lists for the high-res image
+                const allItems = [...featuredPlants, ...featuredCereals, ...featuredPulses];
+                const staticItem = allItems.find(p => p.id === id);
+                if (staticItem) {
+                    setImgSrc(staticItem.image);
                 }
             } catch (e) {
                 router.push("/");
@@ -172,6 +175,7 @@ function ResultsContent() {
     );
 
     // Graceful resolvers to support legacy format, our first nested format, and the NEW "Agastya" nested format
+    const identification = data.identification || { name: "", confidence: 100, isVerified: true };
     const summary = data.summary || {};
     const details = data.details || {};
     const usage = data.usage || {};
@@ -354,12 +358,21 @@ function ResultsContent() {
                         <motion.div {...fadeUp} className="hero-fallback">
                             <Leaf size={64} style={{ color: 'rgba(45,212,168,0.3)' }} />
                         </motion.div>
-                    )}
-
-                    <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.2 }} className="hero-text">
-                        <div className="hero-badge">
-                            <Shield size={14} /> {t('resVerified')}
+                    )}                    <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.2 }} className="hero-text">
+                        <div className="flex gap-3 mb-6 flex-wrap justify-center">
+                            <div className={`hero-badge ${identification.isVerified ? "" : "badge-unverified"}`}>
+                                {identification.isVerified ? <Shield size={14} /> : <AlertTriangle size={14} />}
+                                {identification.isVerified ? t('resVerified') : t('resNotVerified')}
+                            </div>
+                            
+                            {identification.confidence < 100 && (
+                                <div className={`hero-badge ${identification.confidence > 70 ? "badge-confidence-high" : "badge-confidence-low"}`}>
+                                    <FlaskConical size={14} />
+                                    {t('resConfidence')}: {identification.confidence}%
+                                </div>
+                            )}
                         </div>
+
                         <h1 className="hero-plant-name">{plantName}</h1>
                         {scientificName && <p className="hero-sci-name"><em>{scientificName}</em></p>}
                         {family && <p className="hero-family">{t('resFamily')}: {family}</p>}
@@ -368,6 +381,13 @@ function ResultsContent() {
                             <div className="ai-explanation">
                                 <Leaf size={16} />
                                 <p><strong>{t('resAiRecommendation')}:</strong> {aiExplanation}</p>
+                            </div>
+                        )}
+
+                        {!identification.isVerified && (
+                            <div className="unverified-disclaimer mt-8">
+                                <AlertTriangle size={16} />
+                                <p>{t('resDisclaimer')}</p>
                             </div>
                         )}
                     </motion.div>
@@ -702,8 +722,24 @@ function ResultsContent() {
                 .ref-item.studies ul { margin-top: 0.5rem; padding-left: 1rem; }
                 .ref-item.studies li { color: rgba(255,255,255,0.5); margin-bottom: 0.5rem; }
 
-                /* Responsive */
-                @media (max-width: 1024px) {
+                .hero-badge.badge-unverified {
+                    background: rgba(239, 68, 68, 0.08); border-color: rgba(239, 68, 68, 0.3); color: #f87171;
+                    box-shadow: 0 10px 30px rgba(239, 68, 68, 0.1);
+                }
+                .hero-badge.badge-confidence-high {
+                    background: rgba(45, 212, 168, 0.08); border-color: rgba(45, 212, 168, 0.3); color: #2dd4a8;
+                }
+                .hero-badge.badge-confidence-low {
+                    background: rgba(212, 168, 83, 0.08); border-color: rgba(212, 168, 83, 0.3); color: #d4a853;
+                }
+
+                .unverified-disclaimer {
+                    max-width: 600px; padding: 1rem 1.5rem; border-radius: 12px;
+                    background: rgba(239, 68, 68, 0.05); border: 1px solid rgba(239, 68, 68, 0.1);
+                    display: flex; align-items: center; gap: 12px; text-align: left;
+                    color: rgba(239, 68, 68, 0.8); font-size: 0.85rem;
+                }
+                .unverified-disclaimer svg { flex-shrink: 0; }
                     .hero-inner { flex-direction: column; text-align: center; gap: 3rem; }
                     .hero-image-wrap { width: 300px; height: 300px; }
                     .results-grid { grid-template-columns: 1fr; padding: 0 1.5rem; }
