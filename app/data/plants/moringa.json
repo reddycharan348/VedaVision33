@@ -1,0 +1,90 @@
+{
+  "plant_id": "moringa",
+  "summary": {
+    "name": "Moringa",
+    "scientific_name": "Moringa oleifera",
+    "family": "Moringaceae",
+    "common_names": [
+      "Drumstick tree",
+      "Shigru"
+    ],
+    "key_uses": [
+      "Nutrition supplement",
+      "Joint pain",
+      "Immunity boosting"
+    ],
+    "dosha_effect": {
+      "balances": [
+        "Vata",
+        "Kapha"
+      ],
+      "may_aggravate": [
+        "Pitta (if used in excess)"
+      ]
+    },
+    "main_preparations": [
+      "Leaf powder",
+      "Seed oil",
+      "Fresh pods"
+    ],
+    "safety_level": "Safe",
+    "quick_rating": {
+      "traditional_strength": 9,
+      "research_support": 8,
+      "safety": 9,
+      "availability": 10
+    }
+  },
+  "details": {
+    "plant_profile": {
+      "history": "Known as a miracle tree in Ayurveda for its exceptional nutritional profile and medicinal properties.",
+      "physical_characteristics": "Fast-growing, drought-resistant tree with feathery foliage and long seed pods.",
+      "distribution": "Native to the Indian subcontinent, cultivated widely in tropical and subtropical regions."
+    },
+    "ayurvedic_properties": {
+      "rasa": ["Katu", "Tikta"],
+      "guna": ["Laghu", "Ruksha", "Tikshna"],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "dosha_modulation": "Pacifies Vata and Kapha."
+    },
+    "therapeutic_actions": ["Anti-inflammatory", "Antioxidant", "Hepatoprotective", "Nutritive"],
+    "medicinal_uses": {
+      "use_1": "Rich source of essential vitamins and minerals.",
+      "use_2": "Helps manage joint pain and arthritis.",
+      "use_3": "Supports immune system and healthy blood sugar levels."
+    },
+    "chemical_profile": {
+      "key_compounds": ["Quercetin", "Chlorogenic acid", "Moringinine"],
+      "phytochemicals": ["Flavonoids", "Glucosinolates"],
+      "nutritional_components": ["Vitamin C", "Vitamin A", "Calcium", "Potassium"]
+    },
+    "standardization": {
+      "api_reference": "Ayurvedic Pharmacopoeia of India (Shigru)",
+      "quality_markers": ["Leaf moisture content", "Flavonoid concentration"]
+    }
+  },
+  "usage": {
+    "preparation_methods": {
+      "method_1": "Dried leaf powder mixed with warm water or smoothies.",
+      "method_2": "Fresh pods cooked as a vegetable dish."
+    },
+    "dosage": {
+      "adults": "3-5g of leaf powder daily.",
+      "children": "1-2g under supervision.",
+      "elderly": "Standard adult dose."
+    }
+  },
+  "safety": {
+    "contraindications": ["Pregnancy (root bark should be avoided)"],
+    "side_effects": ["Mild laxative effect in large doses"],
+    "drug_interactions": ["May interact with blood thinners"],
+    "toxicity_notes": "Leaves and pods are highly safe for consumption."
+  },
+  "metadata": {
+    "source_system": "Ayurvedic Texts & Modern Nutrition",
+    "verification_status": "verified",
+    "last_updated": "2026-03-27",
+    "confidence_score": 0.98
+  }
+}

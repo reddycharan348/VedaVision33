@@ -28,11 +28,11 @@ export const featuredPlants = [
         "image": "/images/plants/aloe_vera.jpg"
     },
     {
-        "id": "amalaki_ghrita",
-        "name": "Amalaki Ghrita",
-        "scientific": "Emblica officinalis in Ghee",
-        "desc": "Phyllanthaceae",
-        "image": "/images/plants/amalaki_ghrita.jpg"
+        "id": "moringa",
+        "name": "Moringa",
+        "scientific": "Moringa oleifera",
+        "desc": "Moringaceae",
+        "image": "/images/plants/moringa.jpg"
     },
     {
         "id": "amla",
