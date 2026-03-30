@@ -616,44 +616,58 @@ export default function Home() {
                                 <div className="iot-display">
                                     {iotStatus ? (
                                         <div className="iot-content flex flex-col gap-4">
-                                            <div className="iot-preview-large relative">
+                                            <div className="iot-preview-large relative group">
                                                 <img 
                                                     src={iotStatus.imagePath + '?t=' + new Date(iotStatus.lastUpdated).getTime()} 
                                                     alt="IoT Live Feed" 
-                                                    className="iot-live-img w-full h-auto rounded-xl border border-white/5" 
+                                                    className="iot-live-img w-full h-auto rounded-2xl border border-white/5 transition-all duration-700 group-hover:scale-[1.01]" 
                                                 />
-                                                <div className="absolute top-4 left-4 bg-red-600/80 text-white text-[10px] font-bold px-2 py-1 rounded flex items-center gap-1.5 animate-pulse">
-                                                    <div className="w-1.5 h-1.5 bg-white rounded-full"></div> LIVE FEED
+                                                <div className="absolute top-5 left-5 bg-black/40 backdrop-blur-md text-white text-[10px] font-bold px-3 py-1.5 rounded-full flex items-center gap-2 border border-white/10">
+                                                    <div className="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(239,68,68,0.8)]"></div> 
+                                                    <span className="tracking-[0.15em] opacity-80 uppercase leading-none">Live Monitor</span>
                                                 </div>
                                                 
-                                                <div className="iot-overlay-action absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity bg-black/40 rounded-xl">
+                                                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-500 bg-black/20 backdrop-blur-[2px] rounded-2xl">
                                                     <button 
                                                         onClick={captureIotSpecimen}
                                                         disabled={isIotAnalyzing}
-                                                        className="iot-capture-btn bg-gold text-white px-6 py-3 rounded-full font-bold flex items-center gap-2 transform scale-90 hover:scale-100 transition-transform shadow-2xl"
+                                                        className="iot-capture-btn-minimal"
                                                     >
-                                                        {isIotAnalyzing ? <Loader2 className="spin" /> : <Camera size={20} />} 
-                                                        {isIotAnalyzing ? "Analyzing..." : "Capture & Analyze"}
+                                                        {isIotAnalyzing ? (
+                                                            <div className="flex items-center gap-3">
+                                                                <Loader2 className="spin" size={18} />
+                                                                <span>Processing IoT Feed...</span>
+                                                            </div>
+                                                        ) : (
+                                                            <div className="flex items-center gap-3">
+                                                                <Camera size={18} />
+                                                                <span>Capture & Analyze</span>
+                                                            </div>
+                                                        )}
                                                     </button>
                                                 </div>
                                             </div>
 
-                                            <div className="iot-status-info flex justify-between items-center p-4 bg-white/5 rounded-xl border border-white/5">
-                                                <div>
-                                                    <p className="text-[10px] uppercase tracking-widest text-gold mb-1">{t('iotScanning')}</p>
-                                                    <h3 className="text-white font-bold">
-                                                        {iotStatus.result?.identification?.name || "Ready to Scan"}
+                                            <div className="iot-status-info-minimal">
+                                                <div className="flex flex-col gap-1">
+                                                    <p className="text-[10px] uppercase tracking-[0.2em] text-emerald font-semibold opacity-70">
+                                                        {iotStatus.isNew ? "Identification Active" : "Internal Sync"}
+                                                    </p>
+                                                    <h3 className="text-white text-lg font-medium tracking-tight">
+                                                        {iotStatus.result?.identification?.name === "Unidentifiable" 
+                                                            ? "Not identifiable due to extreme darkness" 
+                                                            : (iotStatus.result?.identification?.name || "Ready to Scan")}
                                                     </h3>
                                                 </div>
-                                                {iotStatus.result && (
+                                                {iotStatus.result && iotStatus.result.identification?.name !== "Unidentifiable" && (
                                                     <button 
                                                         onClick={() => {
                                                             localStorage.setItem("veda_plant_data", JSON.stringify(iotStatus.result));
                                                             router.push("/results");
                                                         }}
-                                                        className="text-xs text-white/60 hover:text-white flex items-center gap-1 transition-colors"
+                                                        className="full-profile-minimal"
                                                     >
-                                                        Full Profile <ArrowRight size={14} />
+                                                        Profile <ArrowRight size={14} />
                                                     </button>
                                                 )}
                                             </div>
