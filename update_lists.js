@@ -3,7 +3,13 @@ import path from 'path';
 
 function updateList(folderName, arrayName, outputFile) {
     const dir = path.join(process.cwd(), 'app', 'data', folderName);
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+    const publicImagesDir = path.join(process.cwd(), 'public', 'images', folderName);
+    let imageFiles = [];
+    if (fs.existsSync(publicImagesDir)) {
+        imageFiles = fs.readdirSync(publicImagesDir);
+    }
+
+    const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter(f => f.endsWith('.json')) : [];
     
     const items = [];
     
@@ -16,7 +22,21 @@ function updateList(folderName, arrayName, outputFile) {
             const name = data.summary?.name || id;
             const scientific = data.summary?.scientific_name || '';
             const desc = data.summary?.family || '';
-            const image = data.image || `/images/${folderName}/${id}.jpg`;
+            
+            let image = data.image;
+            if (!image) {
+                const normalizedId = id.toLowerCase().replace(/[^a-z0-9]/g, '');
+                const match = imageFiles.find(f => {
+                    const normalizedF = f.split('.')[0].toLowerCase().replace(/[^a-z0-9]/g, '');
+                    return normalizedF === normalizedId;
+                });
+                
+                if (match) {
+                    image = `/images/${folderName}/${match}`;
+                } else {
+                    image = `/images/${folderName}/${id}.jpg`;
+                }
+            }
             
             items.push({
                 id,

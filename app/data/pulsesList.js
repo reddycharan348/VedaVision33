@@ -11,7 +11,7 @@ export const featuredPulses = [
         "name": "Adyama",
         "scientific": "Glycine max (L.) Merr. (Black variety)",
         "desc": "Fabaceae",
-        "image": "/images/pulses/adyama.jpg"
+        "image": "/images/pulses/adyama.png"
     },
     {
         "id": "adzuki_beans",
@@ -25,7 +25,7 @@ export const featuredPulses = [
         "name": "Atasi",
         "scientific": "Linum usitatissimum L.",
         "desc": "Linaceae",
-        "image": "/images/pulses/atasi.jpg"
+        "image": "/images/pulses/atasi.png"
     },
     {
         "id": "black_eyed_peas",
@@ -81,7 +81,7 @@ export const featuredPulses = [
         "name": "Green Peas (Dry)",
         "scientific": "Green Peas species",
         "desc": "Fabaceae",
-        "image": "/images/pulses/green_peas.jpg"
+        "image": "/images/pulses/green-peas.jpg.jpeg"
     },
     {
         "id": "harenu",

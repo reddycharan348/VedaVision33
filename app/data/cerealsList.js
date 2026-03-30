@@ -4,7 +4,7 @@ export const featuredCereals = [
         "name": "Amaranth Grain",
         "scientific": "Amaranth Grain species",
         "desc": "Poaceae",
-        "image": "/images/cereals/amaranth_grain.jpg"
+        "image": "/images/cereals/Amaranth Grain.jpeg"
     },
     {
         "id": "bajra",
@@ -18,21 +18,21 @@ export const featuredCereals = [
         "name": "Barley",
         "scientific": "Barley species",
         "desc": "Poaceae",
-        "image": "/images/cereals/barley.jpg"
+        "image": "/images/cereals/barley.jpeg"
     },
     {
         "id": "barnyard_millet",
         "name": "Barnyard Millet",
         "scientific": "Barnyard Millet species",
         "desc": "Poaceae",
-        "image": "/images/cereals/barnyard_millet.jpg"
+        "image": "/images/cereals/Barnyard Millet.jpeg"
     },
     {
         "id": "brown_rice",
         "name": "Brown Rice",
         "scientific": "Brown Rice species",
         "desc": "Poaceae",
-        "image": "/images/cereals/brown_rice.jpg"
+        "image": "/images/cereals/brown rice.jpeg"
     },
     {
         "id": "cheenaka",
@@ -46,21 +46,21 @@ export const featuredCereals = [
         "name": "Finger Millet (Ragi)",
         "scientific": "Finger Millet species",
         "desc": "Poaceae",
-        "image": "/images/cereals/finger_millet.jpg"
+        "image": "/images/cereals/Finger_Millet.png"
     },
     {
         "id": "foxtail_millet",
         "name": "Foxtail Millet",
         "scientific": "Foxtail Millet species",
         "desc": "Poaceae",
-        "image": "/images/cereals/foxtail_millet.jpg"
+        "image": "/images/cereals/foxtail-millet.jpg.jpeg"
     },
     {
         "id": "gavedhuka",
         "name": "Gavedhuka",
         "scientific": "Coix lacryma-jobi L.",
         "desc": "Poaceae",
-        "image": "/images/cereals/gavedhuka.jpg"
+        "image": "/images/cereals/gave dhuka.jpeg"
     },
     {
         "id": "godhuma",
@@ -81,42 +81,42 @@ export const featuredCereals = [
         "name": "Kanghu",
         "scientific": "Setaria italica (L.) P.Beauv.",
         "desc": "Poaceae",
-        "image": "/images/cereals/kanghu.jpg"
+        "image": "/images/cereals/kanghu.jpg.jpeg"
     },
     {
         "id": "kodo_millet",
         "name": "Kodo Millet",
         "scientific": "Kodo Millet species",
         "desc": "Poaceae",
-        "image": "/images/cereals/kodo_millet.jpg"
+        "image": "/images/cereals/KodoMillet.jpg.jpeg"
     },
     {
         "id": "kodrava",
         "name": "Kodrava",
         "scientific": "Paspalum scrobiculatum L.",
         "desc": "Poaceae",
-        "image": "/images/cereals/kodrava.jpg"
+        "image": "/images/cereals/kod rava.png"
     },
     {
         "id": "kuttu",
         "name": "Kuttu",
         "scientific": "Fagopyrum esculentum Moench (Buckwheat)",
         "desc": "Polygonaceae",
-        "image": "/images/cereals/kuttu.jpg"
+        "image": "/images/cereals/kuttu.jpeg"
     },
     {
         "id": "little_millet",
         "name": "Little Millet",
         "scientific": "Little Millet species",
         "desc": "Poaceae",
-        "image": "/images/cereals/little_millet.jpg"
+        "image": "/images/cereals/LittleMillet.png"
     },
     {
         "id": "maize",
         "name": "Maize (Corn)",
         "scientific": "Maize species",
         "desc": "Poaceae",
-        "image": "/images/cereals/maize.jpg"
+        "image": "/images/cereals/maize.jpeg"
     },
     {
         "id": "nivara",
@@ -130,14 +130,14 @@ export const featuredCereals = [
         "name": "Oats",
         "scientific": "Oats species",
         "desc": "Poaceae",
-        "image": "/images/cereals/oats.jpg"
+        "image": "/images/cereals/oats.jpg.jpeg"
     },
     {
         "id": "pearl_millet",
         "name": "Pearl Millet",
         "scientific": "Pearl Millet species",
         "desc": "Poaceae",
-        "image": "/images/cereals/pearl_millet.jpg"
+        "image": "/images/cereals/pearl millet.png"
     },
     {
         "id": "proso_millet",
@@ -151,7 +151,7 @@ export const featuredCereals = [
         "name": "Quinoa",
         "scientific": "Quinoa species",
         "desc": "Poaceae",
-        "image": "/images/cereals/quinoa.jpg"
+        "image": "/images/cereals/quinoa.jpeg"
     },
     {
         "id": "ragi",
@@ -186,35 +186,35 @@ export const featuredCereals = [
         "name": "Rye",
         "scientific": "Rye species",
         "desc": "Poaceae",
-        "image": "/images/cereals/rye.jpg"
+        "image": "/images/cereals/rye.png"
     },
     {
         "id": "samak",
         "name": "Samak",
         "scientific": "Echinochloa colona (L.) Link (Jungle Rice/Little Millet variant)",
         "desc": "Poaceae",
-        "image": "/images/cereals/samak.jpg"
+        "image": "/images/cereals/samak.jpg.jpeg"
     },
     {
         "id": "shashtika_shali",
         "name": "Shashtika Shali",
         "scientific": "Oryza sativa L. (60-day variety)",
         "desc": "Poaceae",
-        "image": "/images/cereals/shashtika_shali.jpg"
+        "image": "/images/cereals/shashtika shali.jpeg"
     },
     {
         "id": "shringataka",
         "name": "Shringataka",
         "scientific": "Trapa natans L. var. bispinosa (Water Chestnut)",
         "desc": "Lythraceae",
-        "image": "/images/cereals/shringataka.jpg"
+        "image": "/images/cereals/shringataka.jpeg"
     },
     {
         "id": "shyamaka",
         "name": "Shyamaka",
         "scientific": "Echinochloa frumentacea Link (Syn. Panicum frumentaceum)",
         "desc": "Poaceae",
-        "image": "/images/cereals/shyamaka.jpg"
+        "image": "/images/cereals/shyamaka.jpg.jpeg"
     },
     {
         "id": "sorghum",
@@ -228,28 +228,28 @@ export const featuredCereals = [
         "name": "Spelt",
         "scientific": "Spelt species",
         "desc": "Poaceae",
-        "image": "/images/cereals/spelt.jpg"
+        "image": "/images/cereals/spelt.jpg.jpeg"
     },
     {
         "id": "teff",
         "name": "Teff",
         "scientific": "Teff species",
         "desc": "Poaceae",
-        "image": "/images/cereals/teff.jpg"
+        "image": "/images/cereals/teff.jpg.jpeg"
     },
     {
         "id": "triticale",
         "name": "Triticale",
         "scientific": "Triticale species",
         "desc": "Poaceae",
-        "image": "/images/cereals/triticale.jpg"
+        "image": "/images/cereals/Triticale.jpg.jpeg"
     },
     {
         "id": "uddalaka",
         "name": "Uddalaka",
         "scientific": "Paspalum scrobiculatum L. (Wild Variety)",
         "desc": "Poaceae",
-        "image": "/images/cereals/uddalaka.jpg"
+        "image": "/images/cereals/uddalaka.jpg.jpeg"
     },
     {
         "id": "vanayava",
@@ -263,21 +263,21 @@ export const featuredCereals = [
         "name": "Varuka",
         "scientific": "Triticum dicoccum Schrank (Emmer Wheat/Wild Variety)",
         "desc": "Poaceae",
-        "image": "/images/cereals/varuka.jpg"
+        "image": "/images/cereals/varuka.jpeg"
     },
     {
         "id": "vatya",
         "name": "Vatya",
         "scientific": "Avena sterilis L. / Hordeum vulgare subsp. spontaneum (Wild Oat/Ancient Barley Preparations)",
         "desc": "Poaceae",
-        "image": "/images/cereals/vatya.jpg"
+        "image": "/images/cereals/vatya.jpg.jpeg"
     },
     {
         "id": "wheat",
         "name": "Wheat (Common Wheat)",
         "scientific": "Wheat species",
         "desc": "Poaceae",
-        "image": "/images/cereals/wheat.jpg"
+        "image": "/images/cereals/wheat.jpeg"
     },
     {
         "id": "yava",
@@ -291,6 +291,6 @@ export const featuredCereals = [
         "name": "Yavanala",
         "scientific": "Sorghum bicolor (L.) Moench",
         "desc": "Poaceae",
-        "image": "/images/cereals/yavanala.jpg"
+        "image": "/images/cereals/yavanala.jpeg"
     }
 ];
