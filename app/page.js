@@ -659,7 +659,7 @@ export default function Home() {
                                                             : (iotStatus.result?.identification?.name || "Ready to Scan")}
                                                     </h3>
                                                 </div>
-                                                {iotStatus.result && (
+                                                {iotStatus.result && iotStatus.result.identification?.name !== "Unidentifiable" && (
                                                     <button 
                                                         onClick={() => {
                                                             localStorage.setItem("veda_plant_data", JSON.stringify(iotStatus.result));
