@@ -1,0 +1,110 @@
+{
+  "plant_id": "madagascar_periwinkle",
+  "summary": {
+    "name": "Madagascar Periwinkle",
+    "scientific_name": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "common_names": [
+      "Sadabahar",
+      "Vinca rosea",
+      "Nayantara",
+      "Periwinkle"
+    ],
+    "key_uses": [
+      "Anti-diabetic Property",
+      "Blood Pressure Regulation",
+      "Wound Healing",
+      "Anti-cancer Potential"
+    ],
+    "dosha_effect": {
+      "balances": [
+        "Kapha",
+        "Vata"
+      ],
+      "may_aggravate": [
+        "Pitta"
+      ]
+    },
+    "main_preparations": [
+      "Leaf Decoction",
+      "Root Powder",
+      "Fresh Leaf Paste",
+      "Flower Infusion"
+    ],
+    "safety_level": "Caution Advised",
+    "quick_rating": {
+      "traditional_strength": 8,
+      "research_support": 9,
+      "safety": 6,
+      "availability": 10
+    }
+  },
+  "details": {
+    "plant_profile": {
+      "history": "Unique History: Native to Madagascar, but cultivated widely across India and other tropical regions as an ornamental and medicinal plant. It holds a significant place in traditional medicine systems including Ayurveda, where it is known as 'Sadabahar' meaning 'always in bloom'. Physical Characteristics: An evergreen subshrub or herbaceous plant growing to 1 m tall. The leaves are oval to oblong, glossy green, and hairless. The flowers are white to dark pink with a darker red center, with a basal tube 2.5-3 cm long and a corolla about 2-5 cm diameter with five petal-like lobes. Specific Chemical Compounds: Extremely rich in alkaloids (over 130 isolated), most notably vincristine and vinblastine (used in cancer chemotherapy), as well as serpentine, ajmalicine, and vindoline (hypoglycemic and hypotensive). Strict Standardizations: Macroscopic evaluation focuses on leaf size, color, and flower morphology. Chemical markers include total alkaloid content and specific assays for vincristine and vinblastine.",
+      "physical_characteristics": "",
+      "distribution": ""
+    },
+    "ayurvedic_properties": {
+      "rasa": [
+        "Tikta (bitter), Kashaya (astringent)."
+      ],
+      "guna": [],
+      "virya": "Ushna (heating)",
+      "vipaka": "Katu (pungent)",
+      "dosha_modulation": "Pacifies Kapha and Vata doshas due to its Ushna (heating) and Tikta/Kashaya properties. However, its Ushna virya may aggravate Pitta if used in excess or by individuals with strong Pitta constitutions."
+    },
+    "therapeutic_actions": [],
+    "medicinal_uses": {
+      "anti_diabetic_property": "The fresh leaves and flowers are highly regarded in folk and traditional medicine for their blood-sugar-lowering capabilities. The alkaloids vindoline and vindolidine have been shown to stimulate insulin secretion.",
+      "blood_pressure_regulation": "Root extracts contain serpentine and ajmalicine, which are alkaloids known for their hypotensive (blood pressure lowering) and antispasmodic effects.",
+      "anti_cancer_potential": "While direct use of crude extracts for cancer is complex, it is the natural source of vincristine and vinblastine, FDA-approved chemotherapeutic agents used against leukemia and Hodgkin's lymphoma.",
+      "wound_healing": "Fresh leaves are crushed into a paste and applied topically to minor cuts, insect bites, and wounds to prevent infection and speed up healing due to its antimicrobial and astringent properties.",
+      "anti_hemorrhagic": "The astringent properties are used traditionally to stop bleeding, including excessive menstruation or minor external bleeding.",
+      "brain_health": "Alkaloids like vincamine have been noted for their ability to improve cerebral circulation."
+    },
+    "chemical_profile": {
+      "key_compounds": [],
+      "phytochemicals": [],
+      "nutritional_components": []
+    },
+    "standardization": {
+      "api_reference": "",
+      "quality_markers": []
+    }
+  },
+  "usage": {
+    "preparation_methods": {
+      "leaf_decoction": "Boil 3-4 fresh leaves in 2 cups of water until reduced by half. Often used as a traditional remedy for blood sugar management.",
+      "root_powder": "Dried roots powdered and consumed in very small doses (under strict supervision) for blood pressure.",
+      "fresh_leaf_paste": "Fresh leaves ground into a paste for topical application on wounds, insect bites, or skin infections.",
+      "flower_infusion": "A mild tea made from fresh or dried flowers, sometimes consumed for general wellness or mild calming effects."
+    },
+    "dosage": {
+      "adults": "Fresh leaf juice: 2-5 ml. Decoction: 10-20 ml. Root powder: 0.5-1g (under strict medical supervision).",
+      "children": "Generally not recommended for internal use in children due to potent alkaloids.",
+      "elderly": "Used with extreme caution and reduced dosage (half of adult dose) due to potential interactions with heart and blood pressure medications."
+    }
+  },
+  "safety": {
+    "contraindications": [
+      "Avoid during pregnancy and breastfeeding as compounds can be teratogenic and toxic to infants.",
+      "Contraindicated for individuals suffering from severe liver or kidney disorders without medical supervision.",
+      "Do not use if already taking strong anti-diabetic or hypotensive drugs without monitoring, to prevent hypoglycemia or hypotension."
+    ],
+    "side_effects": [
+      "Nausea, vomiting, hair loss, and stomach cramps may occur with high doses. Contains powerful alkaloids that can be toxic in large amounts."
+    ],
+    "drug_interactions": [
+      "Major interactions with anti-hypertensive drugs (blood pressure lowering) and anti-diabetic medications (insulin or oral hypoglycemics).",
+      "May interact with certain neurological drugs."
+    ],
+    "toxicity_notes": "Due to the presence of highly potent vinca alkaloids, self-medication for serious conditions like cancer or severe hypertension is strongly discouraged. Use as a simple dietary supplement should be cautious and supervised."
+  },
+  "metadata": {
+    "source_system": "Traditional Knowledge & Pharmacognosy Data",
+    "verification_status": "verified",
+    "last_updated": "2026-04-10",
+    "confidence_score": 0.92
+  }
+}
