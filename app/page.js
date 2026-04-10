@@ -139,14 +139,18 @@ export default function Home() {
     useEffect(() => {
         const pollIoT = async () => {
             try {
-                const res = await fetch('/iot/status.json?t=' + Date.now());
+                const res = await fetch('/api/esp32/status?t=' + Date.now());
                 if (res.ok) {
-                    const data = await res.ok ? await res.json() : null;
-                    if (data) setIotStatus(data);
+                    const data = await res.json();
+                    if (data) {
+                        // Use API route for image instead of static path
+                        data.imagePath = '/api/esp32/image';
+                        setIotStatus(data);
+                    }
                 }
             } catch (e) {}
         };
-        const interval = setInterval(pollIoT, 1500);
+        const interval = setInterval(pollIoT, 500);
         pollIoT();
         return () => clearInterval(interval);
     }, []);
@@ -274,8 +278,8 @@ export default function Home() {
         setError("");
     };
 
-    const triggerSearch = async (queryParam = null) => {
-        const img = preview || null;
+    const triggerSearch = async (queryParam = null, imageOverride = null) => {
+        const img = imageOverride || preview || null;
         const q = queryParam || null;
         if (!img && !q) { setError("Please upload an image or select a plant."); return; }
 
@@ -603,7 +607,78 @@ export default function Home() {
                                 )}
                             </div>
 
+                            {/* IoT Live Monitor Card - Only visible when ESP32 is connected */}
+                            {iotStatus && (
+                                <div className="glass-card iot-monitor-card mt-6">
+                                    <div className="flex justify-between items-center mb-4">
+                                        <div className="flex items-center gap-2">
+                                            <div className="status-dot active" />
+                                            <h2 className="card-title">{t("iotTitle")}</h2>
+                                        </div>
+                                        <span className="text-xs opacity-40">{t('iotLastSeen')}: {new Date(iotStatus.lastUpdated).toLocaleTimeString()}</span>
+                                    </div>
+                                    
+                                    <div className="iot-display">
+                                        <div className="iot-content flex flex-col gap-4">
+                                            <div className="iot-preview-large relative group">
+                                                <img 
+                                                    src={iotStatus.imagePath + '?t=' + new Date(iotStatus.lastUpdated).getTime()} 
+                                                    alt="IoT Live Feed" 
+                                                    className="iot-live-img w-full h-auto rounded-2xl border border-white/5 transition-all duration-700 group-hover:scale-[1.01]" 
+                                                />
+                                                <div className="absolute top-5 left-5 bg-black/40 backdrop-blur-md text-white text-[10px] font-bold px-3 py-1.5 rounded-full flex items-center gap-2 border border-white/10">
+                                                    <div className="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(239,68,68,0.8)]"></div> 
+                                                    <span className="tracking-[0.15em] opacity-80 uppercase leading-none">Live Monitor</span>
+                                                </div>
+                                                
+                                                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-500 bg-black/20 backdrop-blur-[2px] rounded-2xl">
+                                                    <button 
+                                                        onClick={captureIotSpecimen}
+                                                        disabled={isIotAnalyzing}
+                                                        className="iot-capture-btn-minimal"
+                                                    >
+                                                        {isIotAnalyzing ? (
+                                                            <div className="flex items-center gap-3">
+                                                                <Loader2 className="spin" size={18} />
+                                                                <span>Processing IoT Feed...</span>
+                                                            </div>
+                                                        ) : (
+                                                            <div className="flex items-center gap-3">
+                                                                <Camera size={18} />
+                                                                <span>Capture & Analyze</span>
+                                                            </div>
+                                                        )}
+                                                    </button>
+                                                </div>
+                                            </div>
 
+                                            <div className="iot-status-info-minimal">
+                                                <div className="flex flex-col gap-1">
+                                                    <p className="text-[10px] uppercase tracking-[0.2em] text-emerald font-semibold opacity-70">
+                                                        {iotStatus.isNew ? "Identification Active" : "Internal Sync"}
+                                                    </p>
+                                                    <h3 className="text-white text-lg font-medium tracking-tight">
+                                                        {iotStatus.result?.identification?.name === "Unidentifiable" 
+                                                            ? "Not identifiable due to extreme darkness" 
+                                                            : (iotStatus.result?.identification?.name || "Ready to Scan")}
+                                                    </h3>
+                                                </div>
+                                                {iotStatus.result && (
+                                                    <button 
+                                                        onClick={() => {
+                                                            localStorage.setItem("veda_plant_data", JSON.stringify(iotStatus.result));
+                                                            router.push("/results");
+                                                        }}
+                                                        className="full-profile-minimal"
+                                                    >
+                                                        Profile <ArrowRight size={14} />
+                                                    </button>
+                                                )}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            )}
                         </div>
                     </motion.div>
                 </section>

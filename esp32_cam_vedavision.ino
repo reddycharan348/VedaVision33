@@ -6,7 +6,7 @@
 const char *ssid = "Charan";
 const char *password = "8897499543";
 // URL of your VedaVision app (use your local IP if running locally)
-const char *serverUrl = "http://192.168.43.223:3000/api/esp32/upload";
+const char *serverUrl = "http://10.154.181.8:3050/api/esp32/upload";
 
 // Camera Pins for AI-THINKER ESP32-CAM
 #define PWDN_GPIO_NUM 32
@@ -109,5 +109,5 @@ void loop() {
   esp_camera_fb_return(fb);
 
   // Faster update for "Live Video" feel
-  delay(800);
+  delay(200);
 }
